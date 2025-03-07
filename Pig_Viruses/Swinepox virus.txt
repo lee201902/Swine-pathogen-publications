@@ -1,0 +1,34 @@
+1: Kaiser FK, Wiedemann A, Kühl B, Menke L, Beineke A, Baumgärtner W, Wohlsein
+P, Rigbers K, Becher P, Peters M, Osterhaus ADME, Ludlow M. Swinepox Virus
+Strains Isolated from Domestic Pigs and Wild Boar in Germany Display Altered
+Coding Capacity in the Terminal Genome Region Encoding for Species-Specific
+Genes. Viruses. 2021 Oct 9;13(10):2038. doi: 10.3390/v13102038. PMID: 34696467;
+PMCID: PMC8538704.
+
+2: Lin H, Ma Z, Chen L, Fan H. Recombinant Swinepox Virus Expressing
+Glycoprotein E2 of Classical Swine Fever Virus Confers Complete Protection in
+Pigs upon Viral Challenge. Front Vet Sci. 2017 May 30;4:81. doi:
+10.3389/fvets.2017.00081. PMID: 28612010; PMCID: PMC5447669.
+
+3: Lin H, Ma Z, Hou X, Chen L, Fan H. Construction and immunogenicity of a
+recombinant swinepox virus expressing a multi-epitope peptide for porcine
+reproductive and respiratory syndrome virus. Sci Rep. 2017 Mar 8;7:43990. doi:
+10.1038/srep43990. Erratum in: Sci Rep. 2017 Apr 21;7:46592. doi:
+10.1038/srep46592. PMID: 28272485; PMCID: PMC5341044.
+
+4: Yuan X, Lin H, Li B, He K, Fan H. Efficacy and immunogenicity of recombinant
+swinepox virus expressing the truncated S protein of a novel isolate of porcine
+epidemic diarrhea virus. Arch Virol. 2017 Dec;162(12):3779-3789. doi:
+10.1007/s00705-017-3548-1. Epub 2017 Sep 15. PMID: 28916870; PMCID: PMC7086769.
+
+5: Riyesh T, Barua S, Kumar N, Jindal N, Bera BC, Narang G, Mahajan NK, Arora D,
+Anand T, Vaid RK, Yadav M, Chandel SS, Malik P, Tripathi BN, Singh RK. Isolation
+and genetic characterization of swinepox virus from pigs in India. Comp Immunol
+Microbiol Infect Dis. 2016 Jun;46:60-5. doi: 10.1016/j.cimid.2016.04.001. Epub
+2016 Apr 4. PMID: 27260812.
+
+6: Lin H, Ma Z, Hou X, Chen L, Fan H. Corrigendum: Construction and
+immunogenicity of a recombinant swinepox virus expressing a multi-epitope
+peptide for porcine reproductive and respiratory syndrome virus. Sci Rep. 2017
+Apr 21;7:46592. doi: 10.1038/srep46592. Erratum for: Sci Rep. 2017 Mar
+08;7:43990. doi: 10.1038/srep43990. PMID: 28430207; PMCID: PMC5399790.

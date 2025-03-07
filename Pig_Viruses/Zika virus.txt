@@ -1,0 +1,72 @@
+1: Mazeaud C, Charbonneau F, Chatel-Chaix L. Le virus Zika détourne le complexe
+ribonucléoprotéique cellulaire contenant IGF2BP2 pour la biogenèse des organites
+de réplication virale [The IGF2BP2 ribonucleoprotein complex is co-opted by Zika
+virus to control the biogenesis of viral replication organelles]. Med Sci
+(Paris). 2024 Oct;40(10):711-713. French. doi: 10.1051/medsci/2024113. Epub 2024
+Oct 25. PMID: 39450952.
+
+2: Nunez-Avellaneda D, Cetina-Trejo RC, Zamudio-Moreno E, Baak-Baak C, Cigarroa-
+Toledo N, Reyes-Solis G, Ortega-Pacheco A, Suzán G, Tandugu C, García-Rejón JE,
+Blitvich BJ, Machain-Williams C. Evidence of Zika Virus Infection in Pigs and
+Mosquitoes, Mexico. Emerg Infect Dis. 2021 Feb;27(2):574-577. doi:
+10.3201/eid2702.201452. PMID: 33496242; PMCID: PMC7853551.
+
+3: Horcharoensuk P, Yang-En S, Chakritbudsabong W, Samatiwat P, Pramong R,
+Rungarunlert S, Rungsiwiwut R. Melatonin attenuates dimethyl sulfoxide- and Zika
+virus-induced degeneration of porcine induced neural stem cells. In Vitro Cell
+Dev Biol Anim. 2022 Mar;58(3):232-242. doi: 10.1007/s11626-022-00648-z. Epub
+2022 Mar 2. PMID: 35235152; PMCID: PMC8890020.
+
+4: Saver AE, Crawford SA, Joyce JD, Bertke AS. Route of Infection Influences
+Zika Virus Shedding in a Guinea Pig Model. Cells. 2019 Nov 14;8(11):1437. doi:
+10.3390/cells8111437. PMID: 31739508; PMCID: PMC6912420.
+
+5: Miller MR, Fagre AC, Clarkson TC, Markle ED, Foy BD. Three Immunocompetent
+Small Animal Models That Do Not Support Zika Virus Infection. Pathogens. 2021
+Jul 30;10(8):971. doi: 10.3390/pathogens10080971. PMID: 34451435; PMCID:
+PMC8401401.
+
+6: Udenze D, Trus I, Lipsit S, Napper S, Karniychuk U. Offspring affected with
+<i>in utero</i> Zika virus infection retain molecular footprints in the bone
+marrow and blood cells. Emerg Microbes Infect. 2023 Dec;12(1):2147021. doi:
+10.1080/22221751.2022.2147021. PMID: 36369716; PMCID: PMC9869997.
+
+7: Sabir AJ, Singh PP, Trus I, Le NPK, Karniychuk U. Asian Zika virus can
+acquire generic African-lineage mutations during <i>in utero</i> infection.
+Emerg Microbes Infect. 2023 Dec;12(2):2263592. doi:
+10.1080/22221751.2023.2263592. Epub 2023 Oct 8. PMID: 37747060; PMCID:
+PMC10561574.
+
+8: Trus I, Walker S, Fuchs M, Udenze D, Gerdts V, Karniychuk U. A Porcine Model
+of Zika Virus Infection to Profile the In Utero Interferon Alpha Response.
+Methods Mol Biol. 2020;2142:181-195. doi: 10.1007/978-1-0716-0581-3_15. PMID:
+32367368.
+
+9: Ambagala A, Truong T, Cottam-Birt C, Berhane Y, Gerdts V, Karniychuk U,
+Safronetz D, Babiuk S. Susceptibility of Chicken Embryos, Sheep, Cattle, Pigs,
+and Chickens to Zika Virus Infection. Front Vet Sci. 2020 Feb 5;7:23. doi:
+10.3389/fvets.2020.00023. PMID: 32118055; PMCID: PMC7012786.
+
+10: Udenze D, Trus I, Berube N, Karniychuk U. CpG content in the Zika virus
+genome affects infection phenotypes in the adult brain and fetal lymph nodes.
+Front Immunol. 2022 Aug 2;13:943481. doi: 10.3389/fimmu.2022.943481. PMID:
+35983032; PMCID: PMC9379343.
+
+11: Li F, Zhou JZ, Zhou L, Fu SH, Tian ZZ, Wang Q, Shao N, Li D, He Y, Lei WW,
+Tang GP, Liang GD, Wang DM, Zhang YP, Wang HY. Serological Survey of Zika Virus
+in Humans and Animals in Dejiang Prefecture, Guizhou Province, China. Biomed
+Environ Sci. 2019 Dec;32(12):875-880. doi: 10.3967/bes2019.108. PMID: 31918792.
+
+12: Trus I, Udenze D, Cox B, Berube N, Nordquist RE, van der Staay FJ, Huang Y,
+Kobinger G, Safronetz D, Gerdts V, Karniychuk U. Subclinical in utero Zika virus
+infection is associated with interferon alpha sequelae and sex-specific
+molecular brain pathology in asymptomatic porcine offspring. PLoS Pathog. 2019
+Nov 14;15(11):e1008038. doi: 10.1371/journal.ppat.1008038. PMID: 31725819;
+PMCID: PMC6855438.
+
+13: Pagani I, Ottoboni L, Panina-Bordignon P, Martino G, Poli G, Taylor S,
+Turnbull JE, Yates E, Vicenzi E. Heparin Precursors with Reduced Anticoagulant
+Properties Retain Antiviral and Protective Effects That Potentiate the Efficacy
+of Sofosbuvir against Zika Virus Infection in Human Neural Progenitor Cells.
+Pharmaceuticals (Basel). 2023 Sep 29;16(10):1385. doi: 10.3390/ph16101385. PMID:
+37895856; PMCID: PMC10609960.

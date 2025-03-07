@@ -1,0 +1,50 @@
+1: Taieb L, Ludwig A, Ogden NH, Lindsay RL, Iranpour M, Gagnon CA, Bicout DJ.
+Bird Species Involved in West Nile Virus Epidemiological Cycle in Southern
+Québec. Int J Environ Res Public Health. 2020 Jun 23;17(12):4517. doi:
+10.3390/ijerph17124517. PMID: 32585999; PMCID: PMC7344584.
+
+2: Escribano-Romero E, Lupulović D, Merino-Ramos T, Blázquez AB, Lazić G, Lazić
+S, Saiz JC, Petrović T. West Nile virus serosurveillance in pigs, wild boars,
+and roe deer in Serbia. Vet Microbiol. 2015 Apr 17;176(3-4):365-9. doi:
+10.1016/j.vetmic.2015.02.005. Epub 2015 Feb 14. PMID: 25724332.
+
+3: Merino-Ramos T, Loza-Rubio E, Rojas-Anaya E, Martín-Acebes MA. Antibodies to
+West Nile virus in Mexican pigs. J Vector Borne Dis. 2018 Jan-Mar;55(1):66-67.
+doi: 10.4103/0972-9062.234630. PMID: 29916452.
+
+4: Niczyporuk JS, Jabłoński A. Serologic Survey for West Nile Virus in Wild
+Boars (Sus scrofa) in Poland. J Wildl Dis. 2021 Jan 6;57(1):168-171. doi:
+10.7589/JWD-D-19-00004. PMID: 33635970.
+
+5: Correa-Morales F, González-Acosta C, Ibarra-Ojeda D, Moreno-García M. West
+Nile virus in Mexico: Why vectors matter for explaining the current absence of
+epidemics. Acta Trop. 2024 Jan;249:107065. doi:
+10.1016/j.actatropica.2023.107065. Epub 2023 Nov 4. PMID: 37926384.
+
+6: Tantely LM, Cêtre-Sossah C, Rakotondranaivo T, Cardinale E, Boyer S.
+Population dynamics of mosquito species in a West Nile virus endemic area in
+Madagascar. Parasite. 2017;24:3. doi: 10.1051/parasite/2017005. Epub 2017 Jan
+30. PMID: 28134093; PMCID: PMC5780677.
+
+7: Eyer L, Zouharová D, Širmarová J, Fojtíková M, Štefánik M, Haviernik J,
+Nencka R, de Clercq E, Růžek D. Antiviral activity of the adenosine analogue
+BCX4430 against West Nile virus and tick-borne flaviviruses. Antiviral Res. 2017
+Jun;142:63-67. doi: 10.1016/j.antiviral.2017.03.012. Epub 2017 Mar 21. PMID:
+28336346.
+
+8: Rockstroh A, Moges B, Berneck BS, Sattler T, Revilla-Fernández S, Schmoll F,
+Pacenti M, Sinigaglia A, Barzon L, Schmidt-Chanasit J, Nowotny N, Ulbert S.
+Specific detection and differentiation of tick-borne encephalitis and West Nile
+virus induced IgG antibodies in humans and horses. Transbound Emerg Dis. 2019
+Jul;66(4):1701-1708. doi: 10.1111/tbed.13205. Epub 2019 Apr 29. PMID: 30985075.
+
+9: Eyer L, Fojtíková M, Nencka R, Rudolf I, Hubálek Z, Ruzek D. Viral RNA-
+Dependent RNA Polymerase Inhibitor 7-Deaza-2'-<i>C</i>-Methyladenosine Prevents
+Death in a Mouse Model of West Nile Virus Infection. Antimicrob Agents
+Chemother. 2019 Feb 26;63(3):e02093-18. doi: 10.1128/AAC.02093-18. PMID:
+30642926; PMCID: PMC6395895.
+
+10: Telang A, Skinner J. Effects of host blood meal source on reproductive
+output, nutrient reserves and gut microbiome of West Nile virus vector Culex
+quinquefasciatus. J Insect Physiol. 2019 Apr;114:15-22. doi:
+10.1016/j.jinsphys.2019.02.001. Epub 2019 Feb 5. PMID: 30735684.

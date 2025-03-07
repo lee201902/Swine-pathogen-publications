@@ -1,0 +1,400 @@
+1: Shahhosseini N, Frederick C, Letourneau-Montminy MP, Marie-Odile BB, Kobinger
+GP, Wong G. Computational genomics of Torque teno sus virus and Porcine
+circovirus in swine samples from Canada. Res Vet Sci. 2021 Jan;134:171-180. doi:
+10.1016/j.rvsc.2020.12.010. Epub 2020 Dec 22. PMID: 33387757.
+
+2: Hawko S, Burrai GP, Polinas M, Angioi PP, Dei Giudici S, Oggiano A, Alberti
+A, Hosri C, Antuofermo E. A Review on Pathological and Diagnostic Aspects of
+Emerging Viruses-<i>Senecavirus A</i>, <i>Torque teno sus virus</i> and Linda
+Virus-In Swine. Vet Sci. 2022 Sep 10;9(9):495. doi: 10.3390/vetsci9090495. PMID:
+36136710; PMCID: PMC9502770.
+
+3: Zheng S, Shi J, Wu X, Peng Z, Xin C, Zhang L, Liu Y, Gao M, Xu S, Han H, Yu
+J, Sun W, Cong X, Li J, Wang J. Presence of Torque teno sus virus 1 and 2 in
+porcine circovirus 3-positive pigs. Transbound Emerg Dis. 2018
+Apr;65(2):327-330. doi: 10.1111/tbed.12792. Epub 2017 Dec 28. PMID: 29285888.
+
+4: Righi F, Arnaboldi S, Filipello V, Ianiro G, Di Bartolo I, Calò S, Bellini S,
+Trogu T, Lelli D, Bianchi A, Bonardi S, Pavoni E, Bertasi B, Lavazza A.
+<i>Torque Teno Sus Virus</i> (TTSuV) Prevalence in Wild Fauna of Northern Italy.
+Microorganisms. 2022 Jan 22;10(2):242. doi: 10.3390/microorganisms10020242.
+PMID: 35208696; PMCID: PMC8875128.
+
+5: Kekarainen T, Segalés J. Torque teno sus virus in pigs: an emerging pathogen?
+Transbound Emerg Dis. 2012 Mar;59 Suppl 1:103-8. doi:
+10.1111/j.1865-1682.2011.01289.x. Epub 2012 Jan 17. PMID: 22252126.
+
+6: Li G, Wang R, Cai Y, Zhang J, Zhao W, Gao Q, Franzo G, Su S. Epidemiology and
+evolutionary analysis of Torque teno sus virus. Vet Microbiol. 2020
+May;244:108668. doi: 10.1016/j.vetmic.2020.108668. Epub 2020 Apr 6. PMID:
+32402339.
+
+7: Monini M, Vignolo E, Ianiro G, Ostanello F, Ruggeri FM, Di Bartolo I.
+Detection of Torque Teno Sus Virus in Pork Bile and Liver Sausages. Food Environ
+Virol. 2016 Dec;8(4):283-288. doi: 10.1007/s12560-016-9249-1. Epub 2016 Jun 13.
+PMID: 27294982.
+
+8: Jiménez-Melsió A, Rodriguez F, Darji A, Segalés J, Cornelissen-Keijsers V,
+van den Born E, Kekarainen T. Vaccination of pigs reduces Torque teno sus virus
+viremia during natural infection. Vaccine. 2015 Jul 9;33(30):3497-503. doi:
+10.1016/j.vaccine.2015.05.064. Epub 2015 Jun 4. PMID: 26051513.
+
+9: Li G, Zhang W, Wang R, Xing G, Wang S, Ji X, Wang N, Su S, Zhou J. Genetic
+Analysis and Evolutionary Changes of the Torque teno sus Virus. Int J Mol Sci.
+2019 Jun 13;20(12):2881. doi: 10.3390/ijms20122881. PMID: 31200479; PMCID:
+PMC6628323.
+
+10: Subramanyam V, Hemadri D, Kashyap SP, Hiremath J, Barman NN, Ralte EL, Patil
+SS, Suresh KP, Rahaman H. Detection of torque teno sus virus infection in Indian
+pigs. Vet World. 2019 Sep;12(9):1467-1471. doi:
+10.14202/vetworld.2019.1467-1471. PMID: 31749583; PMCID: PMC6813605.
+
+11: Li X, Parker BM, Boughton RK, Beasley JC, Smyser TJ, Austin JD, Pepin KM,
+Miller RS, Vercauteren KC, Wisely SM. Torque Teno Sus Virus 1: A Potential
+Surrogate Pathogen to Study Pig-Transmitted Transboundary Animal Diseases.
+Viruses. 2024 Aug 31;16(9):1397. doi: 10.3390/v16091397. PMID: 39339873; PMCID:
+PMC11436127.
+
+12: Rogers AJ, Huang YW, Heffron CL, Opriessnig T, Patterson AR, Meng XJ.
+Prevalence of the Novel Torque Teno Sus Virus Species k2b from Pigs in the
+United States and Lack of Association with Post-Weaning Multisystemic Wasting
+Syndrome or Mulberry Heart Disease. Transbound Emerg Dis. 2017
+Dec;64(6):1877-1883. doi: 10.1111/tbed.12586. Epub 2016 Nov 23. PMID: 27878979.
+
+13: de Menezes Cruz AC, Silveira RL, Baez CF, Varella RB, de Castro TX. Clinical
+aspects and weight gain reduction in swine infected with porcine circovirus type
+2 and torque teno sus virus in Brazil. Vet Microbiol. 2016 Nov 15;195:154-157.
+doi: 10.1016/j.vetmic.2016.09.012. Epub 2016 Sep 30. PMID: 27771061.
+
+14: Teixeira TF, Dezen D, Cibulski SP, Varela AP, Holz CL, Franco AC, Roehe PM.
+Torque teno sus virus (TTSuV) in cell cultures and trypsin. PLoS One. 2011 Mar
+2;6(3):e17501. doi: 10.1371/journal.pone.0017501. PMID: 21407810; PMCID:
+PMC3047579.
+
+15: Luka PD, Erume J, Yakubu B, Owolodun OA, Shamaki D, Mwiine FN. Molecular
+Detection of Torque Teno Sus Virus and Coinfection with African Swine Fever
+Virus in Blood Samples of Pigs from Some Slaughterhouses in Nigeria. Adv Virol.
+2016;2016:6341015. doi: 10.1155/2016/6341015. Epub 2016 Oct 19. PMID: 27833640;
+PMCID: PMC5090082.
+
+16: Zhang Z, Wang Y, Dai W, Dai D. Detection and distribution of torque teno sus
+virus 1 in porcine reproductive and respiratory syndrome virus positive/negative
+pigs. Vet Microbiol. 2014 Aug 27;172(3-4):367-70. doi:
+10.1016/j.vetmic.2014.05.008. Epub 2014 May 13. PMID: 24970361.
+
+17: De Maio FA, Winter M, Abate S, Birochio D, Iglesias NG, Barrio DA, Bellusci
+CP. Torque teno sus virus k2a (TTSuVk2a) in wild boars from northeastern
+Patagonia, Argentina. Braz J Microbiol. 2024 Mar;55(1):981-989. doi:
+10.1007/s42770-024-01261-w. Epub 2024 Jan 30. PMID: 38286944; PMCID:
+PMC10920574.
+
+18: Furukawa A, Mitarai S, Takagi M, Yoshida Y, Ozawa M, Taneno A, Deguchi E.
+Nationwide prevalence of Torque teno sus virus 1 and k2a in pig populations in
+Japan. Microbiol Immunol. 2020 May;64(5):387-391. doi: 10.1111/1348-0421.12779.
+Epub 2020 Feb 24. PMID: 32009246.
+
+19: Martínez-Guinó L, Kekarainen T, Maldonado J, Aramouni M, Llorens A, Segalés
+J. Torque teno sus virus (TTV) detection in aborted and slaughterhouse collected
+foetuses. Theriogenology. 2010 Jul 15;74(2):277-81. doi:
+10.1016/j.theriogenology.2010.02.011. Epub 2010 May 10. PMID: 20452011.
+
+20: Nieto D, Kekarainen T, Aramouni M, Segalés J. Torque teno sus virus 1 and 2
+distribution in tissues of porcine circovirus type 2-systemic disease affected
+and age-matched healthy pigs. Vet Microbiol. 2013 May 3;163(3-4):364-7. doi:
+10.1016/j.vetmic.2013.01.005. Epub 2013 Jan 23. PMID: 23395293.
+
+21: Martínez-Guinó L, Ballester M, Segalés J, Kekarainen T. Expression profile
+and subcellular localization of Torque teno sus virus proteins. J Gen Virol.
+2011 Oct;92(Pt 10):2446-2457. doi: 10.1099/vir.0.033134-0. Epub 2011 Jun 29.
+PMID: 21715596.
+
+22: Huang YW, Harrall KK, Dryman BA, Opriessnig T, Vaughn EM, Roof MB, Meng XJ.
+Serological profile of torque teno sus virus species 1 (TTSuV1) in pigs and
+antigenic relationships between two TTSuV1 genotypes (1a and 1b), between two
+species (TTSuV1 and -2), and between porcine and human anelloviruses. J Virol.
+2012 Oct;86(19):10628-39. doi: 10.1128/JVI.00176-12. Epub 2012 Jul 18. PMID:
+22811540; PMCID: PMC3457317.
+
+23: Aramouni M, Segalés J, Cortey M, Kekarainen T. Age-related tissue
+distribution of swine Torque teno sus virus 1 and 2. Vet Microbiol. 2010 Dec
+15;146(3-4):350-3. doi: 10.1016/j.vetmic.2010.05.036. Epub 2010 Jun 1. PMID:
+20646878.
+
+24: De Maio FA, Winter M, Abate S, Cifuentes S, Iglesias NG, Barrio DA, Bellusci
+CP. Detection of porcine circovirus 2, porcine parvovirus 1, and torque teno sus
+virus k2a in wild boars from northeastern Patagonia, Argentina. Arch Virol. 2023
+Jul 18;168(8):208. doi: 10.1007/s00705-023-05831-5. PMID: 37462757.
+
+25: Leng C, Ma Y, Yuan Z, Zhai H, Ding Y, Bao Y, Li H, Ayra-Pardo C, Shi H, Qiu
+R, Zhang H, Chen K, Kan Y, Yao L, Tian Z. Characterization of two newly emerged
+torque teno sus virus isolates from a large-scale pig farm in China, in 2018.
+Res Vet Sci. 2021 May;136:18-24. doi: 10.1016/j.rvsc.2021.01.008. Epub 2021 Jan
+9. PMID: 33578290.
+
+26: Pérez LJ, Perera CL, Frías MT, Núñez JI, Ganges L, de Arce HD. A multiple
+SYBR Green I-based real-time PCR system for the simultaneous detection of
+porcine circovirus type 2, porcine parvovirus, pseudorabies virus and Torque
+teno sus virus 1 and 2 in pigs. J Virol Methods. 2012 Jan;179(1):233-41. doi:
+10.1016/j.jviromet.2011.11.009. Epub 2011 Nov 18. PMID: 22119629.
+
+27: Aramouni M, Segalés J, Sibila M, Martin-Valls GE, Nieto D, Kekarainen T.
+Torque teno sus virus 1 and 2 viral loads in postweaning multisystemic wasting
+syndrome (PMWS) and porcine dermatitis and nephropathy syndrome (PDNS) affected
+pigs. Vet Microbiol. 2011 Dec 15;153(3-4):377-81. doi:
+10.1016/j.vetmic.2011.05.046. Epub 2011 Jun 12. PMID: 21719215.
+
+28: de Arruda Leme R, Alfieri AF, Alfieri AA. Torque teno sus virus infection in
+suckling piglets from Brazilian pig herds. Trop Anim Health Prod. 2012
+Dec;44(8):1885-90. doi: 10.1007/s11250-012-0152-y. Epub 2012 Apr 25. PMID:
+22532076.
+
+29: Lu Y, Yu H, Nie X, Li Y, Zhang L, Lu C. Nonstructural proteins of Torque
+teno sus virus 2 from O2AUG: prediction to experimental validation. Virus Res.
+2013 Dec 26;178(2):272-80. doi: 10.1016/j.virusres.2013.09.031. Epub 2013 Sep
+30. PMID: 24091363.
+
+30: Mei M, Zhu L, Wang Y, Xu Z, Zhao L, Peng X, Wu Y, Li S, Guo W.
+Histopathological investigation in porcine infected with torque teno sus virus
+type 2 by inoculation. Virol J. 2011 Dec 15;8:545. doi: 10.1186/1743-422X-8-545.
+PMID: 22171963; PMCID: PMC3275549.
+
+31: Lee S, Shin J, Kim C, Lyoo YS. Comparison of Torque Teno Sus Virus (TTSuV)
+viral load in Porcine Circovirus Type 2 vaccinated and non-vaccinated pig herds.
+Res Vet Sci. 2012 Oct;93(2):1039-41. doi: 10.1016/j.rvsc.2011.10.021. Epub 2011
+Nov 21. PMID: 22112638.
+
+32: Zhai SL, Long JX, Wei WK, Chen QL, Luo ML, Lv DH, Wu DC, Gao F, Yuan SS,
+Tong GZ, Wei ZZ. High prevalence of torque teno sus virus in China and genetic
+diversity of the 5' non-coding region. Arch Virol. 2013 Jul;158(7):1567-73. doi:
+10.1007/s00705-013-1644-4. Epub 2013 Feb 23. PMID: 23435953.
+
+33: de Castro AM, Favero CM, Baldin CM, Borba M, de Castro FG Jr, Miyashiro S,
+de Moura JC, Dias RA, Brandão PE, Richtzenhain LJ. Preliminary study of Porcine
+circovirus type 2 and Torque teno sus virus coinfection frequencies in Brazilian
+pig herds. Can J Vet Res. 2012 Jul;76(3):174-9. Erratum in: Can J Vet Res. 2013
+Oct;76(4):254. Dias, Ricardo Arruda [corrected to Dias, Ricardo Augusto]. PMID:
+23277695; PMCID: PMC3384279.
+
+34: Liu J, Wei Y, Huang L, Wang Y, Chen D, Wu H, Liu C. Functional
+characterization of a new promoter isolated from torque teno sus virus 1. Arch
+Virol. 2016 Feb;161(2):303-6. doi: 10.1007/s00705-015-2656-z. Epub 2015 Nov 2.
+PMID: 26526149.
+
+35: Blois S, Mallus F, Liciardi M, Pilo C, Camboni T, Macera L, Maggi F, Manzin
+A. High prevalence of co-infection with multiple Torque teno sus virus species
+in Italian pig herds. PLoS One. 2014 Nov 20;9(11):e113720. doi:
+10.1371/journal.pone.0113720. PMID: 25411972; PMCID: PMC4239083.
+
+36: Aramouni M, Kekarainen T, Ganges L, Tarradas J, Segalés J. Increased viral
+load and prevalence of Torque teno sus virus 2 (TTSuV2) in pigs experimentally
+infected with classical swine fever virus (CSFV). Virus Res. 2013
+Mar;172(1-2):81-4. doi: 10.1016/j.virusres.2012.12.010. Epub 2012 Dec 27. PMID:
+23274109.
+
+37: Lee Y, Lin CM, Jeng CR, Pang VF. Detection of torque teno sus virus 1 and 2
+in porcine tissues by in situ hybridization using multi-strained pooled probes.
+Vet Microbiol. 2014 Aug 27;172(3-4):390-9. doi: 10.1016/j.vetmic.2014.06.002.
+Epub 2014 Jun 10. PMID: 24984843.
+
+38: Huang YW, Patterson AR, Opriessnig T, Dryman BA, Gallei A, Harrall KK,
+Vaughn EM, Roof MB, Meng XJ. Rescue of a porcine anellovirus (torque teno sus
+virus 2) from cloned genomic DNA in pigs. J Virol. 2012 Jun;86(11):6042-54. doi:
+10.1128/JVI.00175-12. Epub 2012 Apr 4. PMID: 22491450; PMCID: PMC3372186.
+
+39: Ghosh S, Soto E, Illanes O, Navarro R, Aung MS, Malik YS, Kobayashi N,
+Fuentealba C. High detection rates of Torque teno sus virus in co-infection with
+important viral pathogens in porcine kidneys on St. Kitts Island, Lesser
+Antilles. Transbound Emerg Dis. 2018 Oct;65(5):1175-1181. doi:
+10.1111/tbed.12960. Epub 2018 Jul 17. PMID: 30015412.
+
+40: Novosel D, Cubric-Curik V, Jungic A, Lipej Z. Presence of Torque teno sus
+virus in porcine circovirus type 2-associated disease in Croatia. Vet Rec. 2012
+Nov 24;171(21):529. doi: 10.1136/vr.100887. Epub 2012 Oct 26. PMID: 23104589.
+
+41: Tshering C, Takagi M, Deguchi E. Seroprevalence of Torque teno sus virus
+types 1 and 2 in postweaning multisystemic wasting syndrome-suspected pigs and
+porcine circovirus type 2-vaccinated normal pigs in southern Japan. J Vet Med
+Sci. 2012 Jan;74(1):107-10. doi: 10.1292/jvms.11-0233. Epub 2011 Aug 29. PMID:
+21873809.
+
+42: Cortey M, Macera L, Segalés J, Kekarainen T. Genetic variability and
+phylogeny of Torque teno sus virus 1 (TTSuV1) and 2 (TTSuV2) based on complete
+genomes. Vet Microbiol. 2011 Mar 24;148(2-4):125-31. doi:
+10.1016/j.vetmic.2010.08.013. Epub 2010 Aug 22. PMID: 20833485.
+
+43: Mei M, Zhu L, Xu Z, Zhao L, Zhou Y, Wu Y, Li S, Wei H, Guo W. Molecular
+investigation of Torque teno sus virus in geographically distinct porcine
+breeding herds of Sichuan, China. Virol J. 2013 May 24;10:161. doi:
+10.1186/1743-422X-10-161. PMID: 23705989; PMCID: PMC3679838.
+
+44: McMenamy MJ, McKillen J, McNair I, Duffy C, Blomström AL, Charreyre C, Welsh
+M, Allan G. Detection of a porcine boca-like virus in combination with porcine
+circovirus type 2 genotypes and Torque teno sus virus in pigs from postweaning
+multisystemic wasting syndrome (PMWS)-affected and non-PMWS-affected farms in
+archival samples from Great Britain. Vet Microbiol. 2013 Jun 28;164(3-4):293-8.
+doi: 10.1016/j.vetmic.2013.03.009. Epub 2013 Mar 21. PMID: 23578709.
+
+45: Jarosova V, Pogranichniy R, Celer V. Prevalence and age distribution of
+porcine torque teno sus virus (TTSuV) in the Czech Republic. Folia Microbiol
+(Praha). 2011 Mar;56(2):90-4. doi: 10.1007/s12223-011-0030-4. Epub 2011 Apr 12.
+PMID: 21484079.
+
+46: Zhu CX, Yuan CL, Cui L, Yu Y, Liu RA, Zhao W, Hua XG. Molecular detection of
+Torque teno sus virus from tissues samples of sick pigs in China. Virus Res.
+2012 May;165(2):225-30. doi: 10.1016/j.virusres.2012.02.007. Epub 2012 Feb 15.
+PMID: 22361032.
+
+47: Tshering C, Takagi M, Deguchi E. Infection dynamics of Torque teno sus virus
+types 1 and 2 in serum and peripheral blood mononuclear cells. J Vet Med Sci.
+2012 Apr;74(4):513-7. doi: 10.1292/jvms.11-0382. Epub 2011 Nov 25. PMID:
+22123304.
+
+48: Vargas-Ruiz A, García-Camacho LA, Ramírez-Alvarez H, Rangel-Rodriguez IC,
+Alonso-Morales RA, Sánchez-Betancourt JI. Molecular characterization of the ORF2
+of Torque teno sus virus 1a and Torque teno sus virus 1b detected in cases of
+postweaning multisystemic wasting syndrome in Mexico. Transbound Emerg Dis. 2018
+Dec;65(6):1806-1815. doi: 10.1111/tbed.12956. Epub 2018 Jul 23. PMID: 30035377.
+
+49: Quan F, Geng Y, Wu Y, Jiang F, Li X, Yu C. Development and application of a
+quadruplex real-time PCR method for Torque teno sus virus 1, Porcine circovirus
+type 2, pseudorabies virus, and porcine parvovirus. Front Cell Infect Microbiol.
+2024 Oct 16;14:1461448. doi: 10.3389/fcimb.2024.1461448. PMID: 39479279; PMCID:
+PMC11523562.
+
+50: Li K, Wang LQ, Wu YY, Chao AJ, Lu QW, Wei ZY, Cui BA, Chen HY. Molecular
+detection and genomic characterization of Torque teno sus virus 1 and 2 from
+domestic pigs in central China. Virus Genes. 2013 Jun;46(3):479-86. doi:
+10.1007/s11262-013-0897-z. Epub 2013 Mar 7. PMID: 23468229.
+
+51: Zhang Z, Dai W, Wang Y, Lu C, Fan H. Analysis of synonymous codon usage
+patterns in torque teno sus virus 1 (TTSuV1). Arch Virol. 2013
+Jan;158(1):145-54. doi: 10.1007/s00705-012-1480-y. Epub 2012 Sep 26. PMID:
+23011310; PMCID: PMC7086873.
+
+52: Vargas-Ruiz A, Ramírez-Álvarez H, Sánchez-Betancourt JI, Quintero-Ramírez V,
+Rangel-Rodríguez IC, Vázquez-Perez JA, García-Camacho LA. Retrospective study of
+the relationship of Torque teno sus virus 1a and Torque teno sus virus 1b with
+porcine circovirus associated disease. Can J Vet Res. 2017 Jul;81(3):178-185.
+PMID: 28725107; PMCID: PMC5508382.
+
+53: Lee Y, Lin CM, Jeng CR, Chang HW, Chang CC, Pang VF. The pathogenic role of
+torque teno sus virus 1 and 2 and their correlations with various viral
+pathogens and host immunocytes in wasting pigs. Vet Microbiol. 2015 Nov
+18;180(3-4):186-95. doi: 10.1016/j.vetmic.2015.08.027. Epub 2015 Aug 29. PMID:
+26390821.
+
+54: Teixeira TF, Dezen D, Cibulski SP, Varela AP, Sheffer CM, Holz CL, Dos
+Santos HF, Franco AC, Roehe PM. Torque teno sus virus (TTSuV) in tissues of pigs
+and its relation with the occurrence of postweaning multisystemic wasting
+syndrome. Virus Genes. 2013 Oct;47(2):276-81. doi: 10.1007/s11262-013-0940-0.
+Epub 2013 Jun 20. PMID: 23783757.
+
+55: Cornelissen-Keijsers V, Jiménez-Melsió A, Sonnemans D, Cortey M, Segalés J,
+van den Born E, Kekarainen T. Discovery of a novel Torque teno sus virus
+species: genetic characterization, epidemiological assessment and disease
+association. J Gen Virol. 2012 Dec;93(Pt 12):2682-2691. doi:
+10.1099/vir.0.045518-0. Epub 2012 Sep 5. PMID: 22956737.
+
+56: Giménez-Lirola LG, Gerber PF, Rowland RR, Halbur PG, Huang YW, Meng XJ,
+Opriessnig T. Development and validation of a 4-plex antibody assay for
+simultaneous detection of IgG antibodies against Torque teno sus virus 1
+(TTSuV1), TTSuV2, and porcine reproductive and respiratory syndrome virus types
+1 and 2. Res Vet Sci. 2014 Jun;96(3):543-50. doi: 10.1016/j.rvsc.2014.02.014.
+Epub 2014 Feb 27. PMID: 24650623.
+
+57: Pérez LJ, de Arce HD, Frias MT, Perera CL, Ganges L, Núñez JI. Molecular
+detection of Torque teno sus virus in lymphoid tissues in concomitant infections
+with other porcine viral pathogens. Res Vet Sci. 2011 Dec;91(3):e154-7. doi:
+10.1016/j.rvsc.2011.02.012. Epub 2011 Apr 11. PMID: 21482428.
+
+58: de Arruda Leme R, Ribeiro J, Alfieri AF, Alfieri AA. Simultaneous infection
+with distinct strains of torque teno sus virus (TTSuV) in healthy slaughter-age
+pigs. Vet Res Commun. 2013 Jun;37(2):183-6. doi: 10.1007/s11259-012-9548-4. Epub
+2013 Jan 4. PMID: 23283602.
+
+59: Brink M, Ståhl K, Masembe C, Okurut AR, Berg M, Blomström AL. First time
+molecular detection and phylogenetic relationships of torque teno sus virus 1
+and 2 in domestic pigs in Uganda: further evidence for a global distribution.
+Virol J. 2012 Feb 15;9:39. doi: 10.1186/1743-422X-9-39. PMID: 22336096; PMCID:
+PMC3298808.
+
+60: Nieto D, Aramouni M, Grau-Roma L, Segalés J, Kekarainen T. Dynamics of
+Torque teno sus virus 1 (TTSuV1) and 2 (TTSuV2) DNA loads in serum of healthy
+and postweaning multisystemic wasting syndrome (PMWS) affected pigs. Vet
+Microbiol. 2011 Sep 28;152(3-4):284-90. doi: 10.1016/j.vetmic.2011.05.020. Epub
+2011 May 19. PMID: 21680113.
+
+61: Blomström AL, Ståhl K, Masembe C, Okoth E, Okurut AR, Atmnedi P, Kemp S,
+Bishop R, Belák S, Berg M. Viral metagenomic analysis of bushpigs (Potamochoerus
+larvatus) in Uganda identifies novel variants of Porcine parvovirus 4 and Torque
+teno sus virus 1 and 2. Virol J. 2012 Sep 11;9:192. doi:
+10.1186/1743-422X-9-192. PMID: 22967311; PMCID: PMC3478234.
+
+62: Nieto D, Aramouni M, Sibila M, Fraile L, Kekarainen T, Segalés J. Lack of
+effect of piglet vaccination against Porcine circovirus type 2 (PCV2) on serum
+viral loads of Torque teno sus virus 2 (TTSuV2). Vet Microbiol. 2012 May
+25;157(1-2):8-12. doi: 10.1016/j.vetmic.2011.11.028. Epub 2011 Dec 2. PMID:
+22189433.
+
+63: Teixeira TF, Cibulski SP, dos Santos HF, Wendlant A, de Sales Lima FE,
+Schmidt C, Franco AC, Roehe PM. Torque teno sus virus 1 (TTSuV1) and 2 (TTSuV2)
+viral loads in serum of postweaning multisystemic wasting syndrome
+(PMWS)-affected and healthy pigs in Brazil. Res Vet Sci. 2015 Aug;101:38-41.
+doi: 10.1016/j.rvsc.2015.05.016. Epub 2015 Jun 5. PMID: 26267087.
+
+64: Xiao CT, Giménez-Lirola L, Huang YW, Meng XJ, Halbur PG, Opriessnig T. The
+prevalence of Torque teno sus virus (TTSuV) is common and increases with the age
+of growing pigs in the United States. J Virol Methods. 2012 Jul;183(1):40-4.
+doi: 10.1016/j.jviromet.2012.03.026. Epub 2012 Mar 31. PMID: 22484614.
+
+65: Liu J, Zhang L, Huang L, Wei Y, Wu H, Liu C. Identification of two new
+antigen epitopes on the putative capsid protein encoded by torque teno sus virus
+type 1 ORF1. Vet Microbiol. 2013 Dec 27;167(3-4):372-82. doi:
+10.1016/j.vetmic.2013.09.028. Epub 2013 Oct 1. PMID: 24172766.
+
+66: Jarosova V, Celer V. Preliminary epitope mapping of Torque teno sus virus 1
+and 2 putative capsid protein and serological detection of infection in pigs. J
+Gen Virol. 2013 Jun;94(Pt 6):1351-1356. doi: 10.1099/vir.0.050500-0. Epub 2013
+Feb 13. PMID: 23407420.
+
+67: Huang YW, Harrall KK, Dryman BA, Beach NM, Kenney SP, Opriessnig T, Vaughn
+EM, Roof MB, Meng XJ. Expression of the putative ORF1 capsid protein of Torque
+teno sus virus 2 (TTSuV2) and development of Western blot and ELISA
+serodiagnostic assays: correlation between TTSuV2 viral load and IgG antibody
+level in pigs. Virus Res. 2011 Jun;158(1-2):79-88. doi:
+10.1016/j.virusres.2011.03.013. Epub 2011 Mar 23. PMID: 21439334.
+
+68: Ozawa M, Kawabata T, Okuya K, Nagano K, Kanda T, Kanazawa N, Tsukiyama-
+Kohara K, Taneno A, Deguchi E. Full genome sequences of torque teno sus virus
+strains that coinfected a pig with postweaning multisystemic wasting syndrome in
+Japan: implications for genetic diversity. Arch Virol. 2015 Dec;160(12):3067-74.
+doi: 10.1007/s00705-015-2593-x. Epub 2015 Sep 3. PMID: 26335893.
+
+69: Zhang Z, Wang Y, Fan H, Lu C. Natural infection with torque teno sus virus 1
+(TTSuV1) suppresses the immune response to porcine reproductive and respiratory
+syndrome virus (PRRSV) vaccination. Arch Virol. 2012 May;157(5):927-33. doi:
+10.1007/s00705-012-1249-3. Epub 2012 Feb 11. PMID: 22327391.
+
+70: Cadar D, Kiss T, Ádám D, Cságola A, Novosel D, Tuboly T. Phylogeny, spatio-
+temporal phylodynamics and evolutionary scenario of Torque teno sus virus 1
+(TTSuV1) and 2 (TTSuV2) in wild boars: fast dispersal and high genetic
+diversity. Vet Microbiol. 2013 Sep 27;166(1-2):200-13. doi:
+10.1016/j.vetmic.2013.06.010. Epub 2013 Jun 21. PMID: 23850440.
+
+71: Tshering C, Takagi M, Deguchi E. Detection of Torque teno sus virus 1 and 2
+in tissues from stillborn piglets delivered by sows via natural farrowing. J Vet
+Sci. 2012 Dec;13(4):425-7. doi: 10.4142/jvs.2012.13.4.425. PMID: 23271185;
+PMCID: PMC3539129.
+
+72: Tshering C, Takagi M, Deguchi E. Detection of Torque teno sus virus types 1
+and 2 by nested polymerase chain reaction in sera of sows at parturition and of
+their newborn piglets immediately after birth without suckling colostrum and at
+24 hr after suckling colostrum. J Vet Med Sci. 2012 Mar;74(3):315-9. doi:
+10.1292/jvms.11-0155. Epub 2011 Oct 20. PMID: 22020148.
+
+73: Lang Ch, Griessler A, Pirker E, Söllner H, Segalés J, Kekarainen T, Ritzmann
+M. Nachweis des porzinen Circovirus Typ 2 und des Torque-Teno-Sus-Virus 1 und 2
+in Samenproben von Ebern einer österreichischen Besamungsstation [Detection of
+porcine Circovirus type 2 and Torque-Teno-Sus-virus 1 and 2 in semen samples of
+boars from an Austrian artificial insemination centre]. Tierarztl Prax Ausg G
+Grosstiere Nutztiere. 2011;39(4):201-4. German. PMID: 22138827.

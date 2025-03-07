@@ -1,0 +1,66 @@
+1: Edwards JF, Yedloutschnig RJ, Dardiri AH, Callis JJ. Vesicular exanthema of
+swine virus: isolation and serotyping of field samples. Can J Vet Res. 1987
+Jul;51(3):358-62. PMID: 3651889; PMCID: PMC1255337.
+
+2: Gelberg HB, Lewis RM. The pathogenesis of vesicular exanthema of swine virus
+and San Miguel sea lion virus in swine. Vet Pathol. 1982 Jul;19(4):424-43. doi:
+10.1177/030098588201900408. PMID: 6283714.
+
+3: Neill JD, Meyer RF, Seal BS. The capsid protein of vesicular exanthema of
+swine virus serotype A48: relationship to the capsid protein of other animal
+caliciviruses. Virus Res. 1998 Mar;54(1):39-50. doi:
+10.1016/s0168-1702(98)00013-6. PMID: 9660070.
+
+4: Oglesby AS, Schaffer FL, Madin SH. Biochemical and biophysical properties of
+vesicular exanthema of swine virus. Virology. 1971 May;44(2):329-41. doi:
+10.1016/0042-6822(71)90264-9. PMID: 4105255.
+
+5: Neill JD. The Complete Genome Sequence of the San Miguel Sea Lion Virus-8
+Reveals that It Is Not a Member of the Vesicular Exanthema of Swine Virus/San
+Miguel Sea Lion Virus Species of the Caliciviridae. Genome Announc. 2014 Dec
+11;2(6):e01286-14. doi: 10.1128/genomeA.01286-14. PMID: 25502676; PMCID:
+PMC4263838.
+
+6: Seal BS, House JA, Whetstone CA, Neill JD. Analysis of the serologic
+relationship among San Miguel sea lion virus and vesicular exanthema of swine
+virus isolates. Application of the western blot assay for detection of
+antibodies in swine sera to these virus types. J Vet Diagn Invest. 1995
+Apr;7(2):190-5. doi: 10.1177/104063879500700204. PMID: 7619900.
+
+7: Gelberg HB, Mebus CA, Lewis RM. Experimental vesicular exanthema of swine
+virus and San Miguel sea lion virus infection in phocid seals. Vet Pathol. 1982
+Jul;19(4):406-12. doi: 10.1177/030098588201900406. PMID: 6283712.
+
+8: Smith AW, Akers TG, Madin SH, Vedros NA. San Miguel sea lion virus isolation,
+preliminary characterization and relationship to vesicular exanthema of swine
+virus. Nature. 1973 Jul 13;244(5411):108-10. doi: 10.1038/244108a0. PMID:
+4583480.
+
+9: Blackwell JH. Comparative resistance of San Miguel sea lion virus and
+vesicular exanthema of swine virus to chemical disinfectants. Res Vet Sci. 1978
+Jul;25(1):25-8. PMID: 568301.
+
+10: Zee YC, Hackett AJ. Development of plaque assay for vesicular exanthema of
+swine virus (VESV) under methyl cellulose overlay. Arch Gesamte Virusforsch.
+1967;21(1):53-60. doi: 10.1007/BF01258476. PMID: 5628589.
+
+11: HACKETT AJ. The cellular changes produced by two variants within type E54 of
+vesicular exanthema of swine virus in tissue culture. Virology. 1961
+Oct;15:102-12. doi: 10.1016/0042-6822(61)90227-6. PMID: 13903422.
+
+12: Zee YC, Hackett AJ, Madin SH. A study of the cellular pathogenesis of
+vesicular exanthema of swine virus in pig kidney cells. J Infect Dis. 1967
+Jun;117(3):229-36. doi: 10.1093/infdis/117.3.229. PMID: 4165635.
+
+13: Zee YC, Hackett AJ. The influence of cations on the thermal inactivation of
+vesicular exanthema of swine virus. Arch Gesamte Virusforsch. 1967;20(4):473-6.
+doi: 10.1007/BF01275230. PMID: 4299736.
+
+14: Zee YC, Hackett AJ, Talens LT. Electron microscopic studies on the vesicular
+exanthema of swine virus. II. Morphogenesis of VESV type H54 in pig kidney
+cells. Virology. 1968 Apr;34(4):596-607. doi: 10.1016/0042-6822(68)90081-0.
+PMID: 4870390.
+
+15: Zee YC, Hackett AJ, Madin SH. Electron microscopic studies on vesicular
+exanthema of swine virus: intracytoplasmic viral crystal formation in cultured
+pig kidney cells. Am J Vet Res. 1968 May;29(5):1025-32. PMID: 5646003.

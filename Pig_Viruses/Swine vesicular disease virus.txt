@@ -1,0 +1,55 @@
+1: Wu P, Rodríguez YY, Hershey BJ, Tadassa Y, Dodd KA, Jia W. Validation of a
+binary ethylenimine (BEI) inactivation procedure for biosafety treatment of
+foot-and-mouth disease viruses (FMDV), vesicular stomatitis viruses (VSV), and
+swine vesicular disease virus (SVDV). Vet Microbiol. 2021 Jan;252:108928. doi:
+10.1016/j.vetmic.2020.108928. Epub 2020 Nov 16. PMID: 33248402.
+
+2: Xu W, Goolia M, Salo T, Zhang Z, Yang M. Generation, characterization, and
+application in serodiagnosis of recombinant swine vesicular disease virus-like
+particles. J Vet Sci. 2017 Aug 31;18(S1):361-370. doi:
+10.4142/jvs.2017.18.S1.361. PMID: 28385002; PMCID: PMC5583424.
+
+3: Senthilkumaran C, Bittner H, Ambagala A, Lung O, Babiuk S, Yang M, Zimmerman
+J, Giménez-Lirola LG, Nfon C. Use of Oral Fluids for Detection of Virus and
+Antibodies in Pigs Infected with Swine Vesicular Disease Virus. Transbound Emerg
+Dis. 2017 Dec;64(6):1762-1770. doi: 10.1111/tbed.12563. Epub 2016 Sep 15. PMID:
+27632937.
+
+4: Bruhn CA, Nielsen SC, Samaniego JA, Wadsworth J, Knowles NJ, Gilbert MT.
+Viral meningitis epidemics and a single, recent, recombinant and anthroponotic
+origin of swine vesicular disease virus. Evol Med Public Health. 2015 Oct
+27;2015(1):289-303. doi: 10.1093/emph/eov026. PMID: 26508717; PMCID: PMC4661520.
+
+5: Dibaba AB. The risk of introduction of swine vesicular disease virus into
+Kenya via natural sausage casings imported from Italy. Prev Vet Med. 2019 Aug
+1;169:104703. doi: 10.1016/j.prevetmed.2019.104703. Epub 2019 May 25. PMID:
+31311629.
+
+6: Huang HW, Chu PH, Pan CH, Wang CF, Lin CC, Lu PL, Chen YS, Shi YY, Su HJ,
+Chou LC, Lin YY, Lee HF, Chen BC, Huang TS, Tyan YC, Chuang CH, Yen YC, Chu PY.
+Evolutionary histories of coxsackievirus B5 and swine vesicular disease virus
+reconstructed by phylodynamic and sequence variation analyses. Sci Rep. 2018 Jun
+11;8(1):8821. doi: 10.1038/s41598-018-27254-y. PMID: 29891869; PMCID:
+PMC5995886.
+
+7: Hole K, Ahmadpour F, Krishnan J, Stansfield C, Copps J, Nfon C. Efficacy of
+accelerated hydrogen peroxide<sup>®</sup> disinfectant on foot-and-mouth disease
+virus, swine vesicular disease virus and Senecavirus A. J Appl Microbiol. 2017
+Mar;122(3):634-639. doi: 10.1111/jam.13361. PMID: 27886439.
+
+8: Pezzoni G, Benedetti D, Bregoli A, Barbieri I, Foglia EA, Grazioli S, Brocchi
+E. Diagnostic Performances of Different Genome Amplification Assays for the
+Detection of Swine Vesicular Disease Virus in Relation to Genomic Lineages That
+Circulated in Italy. Viruses. 2020 Nov 20;12(11):1336. doi: 10.3390/v12111336.
+PMID: 33233870; PMCID: PMC7699968.
+
+9: Vázquez-Calvo Á, Saiz JC, Sobrino F, Martín-Acebes MA. First Complete Coding
+Sequence of a Spanish Isolate of Swine Vesicular Disease Virus. Genome Announc.
+2016 Mar 3;4(2):e01742-15. doi: 10.1128/genomeA.01742-15. PMID: 26941157; PMCID:
+PMC4777768.
+
+10: Vázquez-Calvo Á, Caridi F, González-Magaldi M, Saiz JC, Sobrino F, Martín-
+Acebes MA. The Amino Acid Substitution Q65H in the 2C Protein of Swine Vesicular
+Disease Virus Confers Resistance to Golgi Disrupting Drugs. Front Microbiol.
+2016 Apr 27;7:612. doi: 10.3389/fmicb.2016.00612. PMID: 27199941; PMCID:
+PMC4846857.

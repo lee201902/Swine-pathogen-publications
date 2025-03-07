@@ -1,0 +1,252 @@
+1: Chen Y, Jiang RD, Wang Q, Luo Y, Liu MQ, Zhu Y, Liu X, He YT, Zhou P, Yang
+XL, Shi ZL. Lethal Swine Acute Diarrhea Syndrome Coronavirus Infection in
+Suckling Mice. J Virol. 2022 Sep 14;96(17):e0006522. doi: 10.1128/jvi.00065-22.
+Epub 2022 Aug 22. PMID: 35993737; PMCID: PMC9472626.
+
+2: Duan Y, Yuan C, Suo X, Li Y, Shi L, Cao L, Kong X, Zhang Y, Zheng H, Wang Q.
+Bat-Origin Swine Acute Diarrhea Syndrome Coronavirus Is Lethal to Neonatal Mice.
+J Virol. 2023 Mar 30;97(3):e0019023. doi: 10.1128/jvi.00190-23. Epub 2023 Mar 6.
+PMID: 36877051; PMCID: PMC10062167.
+
+3: Zhou X, Zhang M, Zhang H, Ma H, Zhou J, Cao H, Guo G, Ma N, He Q, Yang Y,
+Lang Y, Huang Y, Li W. Generation and Characterization of Monoclonal Antibodies
+against Swine Acute Diarrhea Syndrome Coronavirus Spike Protein. Int J Mol Sci.
+2023 Dec 4;24(23):17102. doi: 10.3390/ijms242317102. PMID: 38069424; PMCID:
+PMC10707209.
+
+4: Yuan C, Suo X, Duan Y, Li X, Shi L, Cao L, Kong X, Zheng H, Wang Q.
+Comprehensive Subcellular Localization of Swine Acute Diarrhea Syndrome
+Coronavirus Proteins. J Virol. 2022 Sep 14;96(17):e0077222. doi:
+10.1128/jvi.00772-22. Epub 2022 Aug 16. PMID: 35972293; PMCID: PMC9472759.
+
+5: Chen Y, Liu X, Zheng J-N, Yang L-J, Luo Y, Yao Y-L, Liu M-Q, Xie T-t, Lin
+H-F, He Y-T, Zhou P, Hu B, Tian R-J, Shi Z-L. N-linked glycoproteins and host
+proteases are involved in swine acute diarrhea syndrome coronavirus entry. J
+Virol. 2023 Oct 31;97(10):e0091623. doi: 10.1128/jvi.00916-23. Epub 2023 Sep 29.
+PMID: 37772826; PMCID: PMC10617469.
+
+6: Chen Y, You Y, Wang S, Jiang L, Tian L, Zhu S, An X, Song L, Tong Y, Fan H.
+Antiviral Drugs Screening for Swine Acute Diarrhea Syndrome Coronavirus. Int J
+Mol Sci. 2022 Sep 24;23(19):11250. doi: 10.3390/ijms231911250. PMID: 36232553;
+PMCID: PMC9569988.
+
+7: Liu C, Huang W, He X, Feng Z, Chen Q. Research Advances on Swine Acute
+Diarrhea Syndrome Coronavirus. Animals (Basel). 2024 Jan 30;14(3):448. doi:
+10.3390/ani14030448. PMID: 38338091; PMCID: PMC10854734.
+
+8: Han Y, Ma Y, Wang Z, Feng F, Zhou L, Feng H, Ma J, Ye R, Zhang R. TMPRSS13
+promotes the cell entry of swine acute diarrhea syndrome coronavirus. J Med
+Virol. 2024 Jun;96(6):e29712. doi: 10.1002/jmv.29712. PMID: 38808555.
+
+9: Zhong C, She G, Zhao Y, Liu Y, Li J, Wei X, Chen Z, Zhao K, Zhao Z, Xu Z,
+Zhang H, Cao Y, Xue C. Swine acute diarrhea syndrome coronavirus Nsp1 suppresses
+IFN-λ1 production by degrading IRF1 via ubiquitin-proteasome pathway. Vet Res.
+2024 Apr 8;55(1):45. doi: 10.1186/s13567-024-01299-6. PMID: 38589958; PMCID:
+PMC11003034.
+
+10: Yu D, Zhao ZY, Yang YL, Qin Y, Pan D, Yuan LX, Huang YW, Wang B. The origin
+and evolution of emerged swine acute diarrhea syndrome coronavirus with zoonotic
+potential. J Med Virol. 2023 Mar;95(3):e28672. doi: 10.1002/jmv.28672. PMID:
+36916779.
+
+11: Zheng S, Wang X, Hu H, Xia Y, Diao X, Qiu W, Xue C, Cao Y, Xu Z. Emodin from
+Aloe inhibits Swine acute diarrhea syndrome coronavirus in cell culture. Front
+Vet Sci. 2022 Aug 18;9:978453. doi: 10.3389/fvets.2022.978453. PMID: 36061121;
+PMCID: PMC9433657.
+
+12: Liu D, Shi D, Shi H, Zhang L, Zhang J, Zeng M, Feng T, Yang X, Zhang X, Chen
+J, Jing Z, Ji Z, Zhang J, Feng L. Cholesterol 25-Hydroxylase Suppresses Swine
+Acute Diarrhea Syndrome Coronavirus Infection by Blocking Spike Protein-Mediated
+Membrane Fusion. Viruses. 2023 Dec 11;15(12):2406. doi: 10.3390/v15122406.
+Erratum in: Viruses. 2024 Jun 18;16(6):976. doi: 10.3390/v16060976. PMID:
+38140647; PMCID: PMC10747074.
+
+13: Yang YL, Yu JQ, Huang YW. Swine enteric alphacoronavirus (swine acute
+diarrhea syndrome coronavirus): An update three years after its discovery. Virus
+Res. 2020 Aug;285:198024. doi: 10.1016/j.virusres.2020.198024. Epub 2020 May 16.
+PMID: 32482591; PMCID: PMC7229464.
+
+14: Edwards CE, Yount BL, Graham RL, Leist SR, Hou YJ, Dinnon KH 3rd, Sims AC,
+Swanstrom J, Gully K, Scobey TD, Cooley MR, Currie CG, Randell SH, Baric RS.
+Swine acute diarrhea syndrome coronavirus replication in primary human cells
+reveals potential susceptibility to infection. Proc Natl Acad Sci U S A. 2020
+Oct 27;117(43):26915-26925. doi: 10.1073/pnas.2001046117. Epub 2020 Oct 12.
+PMID: 33046644; PMCID: PMC7604506.
+
+15: Zhang J, Han Y, Shi H, Chen J, Zhang X, Wang X, Zhou L, Liu J, Zhang J, Ji
+Z, Jing Z, Ma J, Shi D, Feng L. Swine acute diarrhea syndrome coronavirus-
+induced apoptosis is caspase- and cyclophilin D- dependent. Emerg Microbes
+Infect. 2020 Feb 24;9(1):439-456. doi: 10.1080/22221751.2020.1722758. PMID:
+32090691; PMCID: PMC7054944.
+
+16: Qin Y, Feng T, Shi H, Zhang J, Zhang L, Feng S, Chen J, He Y, Zhang X, Chen
+Z, Liu J, Liu D, Shi D, Feng L. Identification and epitope mapping of swine
+acute diarrhea syndrome coronavirus accessory protein NS7a via monoclonal
+antibodies. Virus Res. 2022 May;313:198742. doi: 10.1016/j.virusres.2022.198742.
+Epub 2022 Mar 11. PMID: 35283248; PMCID: PMC8912973.
+
+17: Cao L, Kong X, Li X, Suo X, Duan Y, Yuan C, Zhang Y, Zheng H, Wang Q. A
+Customized Novel Blocking ELISA for Detection of Bat-Origin Swine Acute Diarrhea
+Syndrome Coronavirus Infection. Microbiol Spectr. 2023 Aug 17;11(4):e0393022.
+doi: 10.1128/spectrum.03930-22. Epub 2023 Jun 5. PMID: 37272819; PMCID:
+PMC10434073.
+
+18: Yang QY, Yang YL, Tang YX, Qin P, Wang G, Xie JY, Chen SX, Ding C, Huang YW,
+Zhu SJ. Bile acids promote the caveolae-associated entry of swine acute diarrhea
+syndrome coronavirus in porcine intestinal enteroids. PLoS Pathog. 2022 Jun
+13;18(6):e1010620. doi: 10.1371/journal.ppat.1010620. PMID: 35696443; PMCID:
+PMC9249351.
+
+19: Luo Y, Tan CW, Xie SZ, Chen Y, Yao YL, Zhao K, Zhu Y, Wang Q, Liu MQ, Yang
+XL, Wang LF, Shi ZL. Identification of ZDHHC17 as a Potential Drug Target for
+Swine Acute Diarrhea Syndrome Coronavirus Infection. mBio. 2021 Oct
+26;12(5):e0234221. doi: 10.1128/mBio.02342-21. Epub 2021 Oct 26. PMID: 34700373;
+PMCID: PMC8546599.
+
+20: Zeng S, Peng O, Hu F, Xia Y, Geng R, Zhao Y, He Y, Xu Q, Xue C, Cao Y, Zhang
+H. Metabolomic analysis of porcine intestinal epithelial cells during swine
+acute diarrhea syndrome coronavirus infection. Front Cell Infect Microbiol. 2022
+Dec 1;12:1079297. doi: 10.3389/fcimb.2022.1079297. PMID: 36530441; PMCID:
+PMC9751206.
+
+21: Zhang J, Zhang L, Shi H, Feng S, Feng T, Chen J, Zhang X, Han Y, Liu J, Wang
+Y, Ji Z, Jing Z, Liu D, Shi D, Feng L. Swine acute diarrhea syndrome coronavirus
+replication is reduced by inhibition of the extracellular signal-regulated
+kinase (ERK) signaling pathway. Virology. 2022 Jan 2;565:96-105. doi:
+10.1016/j.virol.2021.10.009. Epub 2021 Oct 30. PMID: 34768113; PMCID:
+PMC8556614.
+
+22: Zeng S, Zhao Y, Peng O, Xia Y, Xu Q, Li H, Xue C, Cao Y, Zhang H. Swine
+acute diarrhea syndrome coronavirus induces autophagy to promote its replication
+via the Akt/mTOR pathway. iScience. 2022 Nov 18;25(11):105394. doi:
+10.1016/j.isci.2022.105394. Epub 2022 Oct 20. PMID: 36281226; PMCID: PMC9581643.
+
+23: Sun Y, Cheng J, Luo Y, Yan XL, Wu ZX, He LL, Tan YR, Zhou ZH, Li QN, Zhou L,
+Wu RT, Lan T, Ma JY. Attenuation of a virulent swine acute diarrhea syndrome
+coronavirus strain via cell culture passage. Virology. 2019 Dec;538:61-70. doi:
+10.1016/j.virol.2019.09.009. Epub 2019 Sep 21. PMID: 31580972; PMCID:
+PMC7112038.
+
+24: Zhou Z, Sun Y, Yan X, Tang X, Li Q, Tan Y, Lan T, Ma J. Swine acute diarrhea
+syndrome coronavirus (SADS-CoV) antagonizes interferon-β production via blocking
+IPS-1 and RIG-I. Virus Res. 2020 Mar;278:197843. doi:
+10.1016/j.virusres.2019.197843. Epub 2019 Dec 26. PMID: 31884203; PMCID:
+PMC7114844.
+
+25: Yang Y-L, Wang B, Li W, Cai H-L, Qian Q-Y, Qin Y, Shi F-S, Bosch B-J, Huang
+Y-W. Functional dissection of the spike glycoprotein S1 subunit and
+identification of cellular cofactors for regulation of swine acute diarrhea
+syndrome coronavirus entry. J Virol. 2024 Apr 16;98(4):e0013924. doi:
+10.1128/jvi.00139-24. Epub 2024 Mar 19. PMID: 38501663; PMCID: PMC11019839.
+
+26: Baek JH, Lee YM, Vu ND, Kim MH, Zhao J, Le VP, Cho JH, Park JE. A multiplex
+real-time RT-qPCR assay for simultaneous detection of porcine epidemic diarrhea
+virus, porcine deltacoronavirus, and swine acute diarrhea syndrome coronavirus.
+Arch Virol. 2024 Mar 23;169(4):82. doi: 10.1007/s00705-024-06003-9. PMID:
+38520595.
+
+27: Wang Q, Luo Y, Shang W, Shi Z, Xiao G, Zhang L. Comprehensive interactome
+analysis of the spike protein of swine acute diarrhea syndrome coronavirus.
+Biosaf Health. 2021 Jun;3(3):156-163. doi: 10.1016/j.bsheal.2021.05.002. Epub
+2021 May 17. PMID: 34027383; PMCID: PMC8127515.
+
+28: Kim J, Yoon J, Park JE. Furin cleavage is required for swine acute diarrhea
+syndrome coronavirus spike protein-mediated cell - cell fusion. Emerg Microbes
+Infect. 2022 Dec;11(1):2176-2183. doi: 10.1080/22221751.2022.2114850. PMID:
+35976165; PMCID: PMC9518401.
+
+29: Liu Z, Zhao Y, Yang J, Liu X, Luo Y, Zhu L, Huang K, Sheng F, Du X, Jin M.
+Seroprevalence of the novel swine acute diarrhea syndrome coronavirus in China
+assessed by enzyme-linked immunosorbent assay. Front Cell Infect Microbiol. 2024
+Apr 26;14:1367975. doi: 10.3389/fcimb.2024.1367975. PMID: 38736750; PMCID:
+PMC11082911.
+
+30: Zhou Z, Sun Y, Xu J, Tang X, Zhou L, Li Q, Lan T, Ma J. Swine Acute Diarrhea
+Syndrome Coronavirus Nucleocapsid Protein Antagonizes Interferon-<i>β</i>
+Production <i>via</i> Blocking the Interaction Between TRAF3 and TBK1. Front
+Immunol. 2021 Feb 22;12:573078. doi: 10.3389/fimmu.2021.573078. PMID: 33692778;
+PMCID: PMC7937869.
+
+31: Xu J, Cao Z, Ji C, Zhou L, Yan X, Sun Y, Ma J. Analysis of Interaction
+Network Between Host Protein and M Protein of Swine Acute Diarrhea Syndrome
+Coronavirus. Front Microbiol. 2022 Apr 8;13:858460. doi:
+10.3389/fmicb.2022.858460. PMID: 35464981; PMCID: PMC9024367.
+
+32: Shi D, Zhou L, Shi H, Zhang J, Zhang J, Zhang L, Liu D, Feng T, Zeng M, Chen
+J, Zhang X, Xue M, Jing Z, Liu J, Ji Z, He H, Guo L, Wu Y, Ma J, Feng L.
+Autophagy is induced by swine acute diarrhea syndrome coronavirus through the
+cellular IRE1-JNK-Beclin 1 signaling pathway after an interaction of viral
+membrane-associated papain-like protease and GRP78. PLoS Pathog. 2023 Mar
+8;19(3):e1011201. doi: 10.1371/journal.ppat.1011201. PMID: 36888569; PMCID:
+PMC9994726.
+
+33: Zeng S, Peng O, Sun R, Xu Q, Hu F, Zhao Y, Xue C, Cao Y, Zhang H.
+Transcriptional Landscape of Vero E6 Cells during Early Swine Acute Diarrhea
+Syndrome Coronavirus Infection. Viruses. 2021 Apr 14;13(4):674. doi:
+10.3390/v13040674. PMID: 33919952; PMCID: PMC8070899.
+
+34: Duan Y, Yuan C, Suo X, Cao L, Kong X, Li X, Zheng H, Wang Q. TET2 is
+required for Type I IFN-mediated inhibition of bat-origin swine acute diarrhea
+syndrome coronavirus. J Med Virol. 2022 Jul;94(7):3251-3256. doi:
+10.1002/jmv.27673. Epub 2022 Mar 7. PMID: 35211991.
+
+35: Cong X, Zhang L, Zhu H, Wu M, Zhu Y, Lian Y, Huang B, Gu Y, Cong F.
+Preparation of a new monoclonal antibody against nucleocapsid protein of swine
+acute diarrhea syndrome coronavirus and identification of its linear antigenic
+epitope. Int J Biol Macromol. 2023 Jun 1;239:124241. doi:
+10.1016/j.ijbiomac.2023.124241. Epub 2023 Mar 29. PMID: 36996959.
+
+36: Zhang J, Shi H, Zhang L, Feng T, Chen J, Zhang X, Ji Z, Jing Z, Zhu X, Liu
+D, Yang X, Zeng M, Shi D, Feng L. Swine acute diarrhea syndrome coronavirus
+nucleocapsid protein antagonizes the IFN response through inhibiting TRIM25
+oligomerization and functional activation of RIG-I/TRIM25. Vet Res. 2024 Apr
+8;55(1):44. doi: 10.1186/s13567-024-01303-z. PMID: 38589930; PMCID: PMC11000385.
+
+37: Cong X, Zhu Y, Liu X, Lian Y, Huang B, Luo Y, Gu Y, Wu M, Shi Y.
+Establishment of a recombinase polymerase amplification (RPA) fluorescence assay
+for the detection of swine acute diarrhea syndrome coronavirus (SADS-CoV). BMC
+Vet Res. 2022 Oct 11;18(1):369. doi: 10.1186/s12917-022-03465-4. PMID: 36221092;
+PMCID: PMC9552127.
+
+38: Guo YY, Wang PH, Pan YQ, Shi RZ, Li YQ, Guo F, Xing L. The Characteristics
+of Spike Glycoprotein Gene of Swine Acute Diarrhea Syndrome Coronavirus Strain
+CH/FJWT/2018 Isolated in China. Front Vet Sci. 2021 Jul 22;8:687079. doi:
+10.3389/fvets.2021.687079. PMID: 34368275; PMCID: PMC8339410.
+
+39: Zhang Z, Wang N, Liu X, Lv J, Jing H, Yuan X, Chen D, Lin X, Wu S. A Novel,
+Reverse Transcription, Droplet Digital PCR Assay for the Combined, Sensitive
+Detection of Severe Acute Respiratory Syndrome Coronavirus 2 with Swine Acute
+Diarrhea Syndrome Coronavirus. J AOAC Int. 2022 Sep 6;105(5):1437-1446. doi:
+10.1093/jaoacint/qsac039. PMID: 35377440.
+
+40: Zhang F, Yuan W, Li Z, Zhang Y, Ye Y, Li K, Ding Z, Chen Y, Cheng T, Wu Q,
+Tang Y, Song D. RNA-Seq-Based Whole Transcriptome Analysis of IPEC-J2 Cells
+During Swine Acute Diarrhea Syndrome Coronavirus Infection. Front Vet Sci. 2020
+Aug 13;7:492. doi: 10.3389/fvets.2020.00492. PMID: 32903570; PMCID: PMC7438718.
+
+41: Zhang L, Yang X, Shi H, Zhang J, Feng T, Liu D, Zhang X, Chen J, Shi D, Feng
+L. Identification of two novel B-cell epitopes located on the spike protein of
+swine acute diarrhea syndrome coronavirus. Int J Biol Macromol. 2024 Oct;278(Pt
+4):135049. doi: 10.1016/j.ijbiomac.2024.135049. Epub 2024 Aug 23. PMID:
+39182883.
+
+42: Guan H, Wang Y, Perčulija V, Saeed AFUH, Liu Y, Li J, Jan SS, Li Y, Zhu P,
+Ouyang S. Cryo-electron Microscopy Structure of the Swine Acute Diarrhea
+Syndrome Coronavirus Spike Glycoprotein Provides Insights into Evolution of
+Unique Coronavirus Spike Proteins. J Virol. 2020 Oct 27;94(22):e01301-20. doi:
+10.1128/JVI.01301-20. PMID: 32817223; PMCID: PMC7592232.
+
+43: Yang YL, Qin P, Wang B, Liu Y, Xu GH, Peng L, Zhou J, Zhu SJ, Huang YW.
+Broad Cross-Species Infection of Cultured Cells by Bat HKU2-Related Swine Acute
+Diarrhea Syndrome Coronavirus and Identification of Its Replication in Murine
+Dendritic Cells <i>In Vivo</i> Highlight Its Potential for Diverse Interspecies
+Transmission. J Virol. 2019 Nov 26;93(24):e01448-19. doi: 10.1128/JVI.01448-19.
+PMID: 31554686; PMCID: PMC6880172.
+
+44: Liu D, Shi D, Shi H, Zhang L, Zhang J, Zeng M, Feng T, Yang X, Zhang X, Chen
+J, Jing Z, Ji Z, Zhang J, Feng L. Correction: Liu et al. Cholesterol
+25-Hydroxylase Suppresses Swine Acute Diarrhea Syndrome Coronavirus Infection by
+Blocking Spike Protein-Mediated Membrane Fusion. <i>Viruses</i> 2023, <i>15</i>,
+2406. Viruses. 2024 Jun 18;16(6):976. doi: 10.3390/v16060976. Erratum for:
+Viruses. 2023 Dec 11;15(12):2406. doi: 10.3390/v15122406. PMID: 38932289; PMCID:
+PMC11209409.

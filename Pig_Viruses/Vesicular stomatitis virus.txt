@@ -1,0 +1,29 @@
+1: Ma Y, Shao J, Liu W, Gao S, Peng D, Miao C, Yang S, Hou Z, Zhou G, Qi X,
+Chang H. A vesicular stomatitis virus-based African swine fever vaccine
+prototype effectively induced robust immune responses in mice following a
+single-dose immunization. Front Microbiol. 2024 Jan 5;14:1310333. doi:
+10.3389/fmicb.2023.1310333. PMID: 38249478; PMCID: PMC10797088.
+
+2: Haynes E, Cleveland CA, Brown VR, Pelzel-McCluskey AM, Tell RM, Stallknecht
+DE. Surveillance of Feral Swine (Sus scrofa) in the Western USA for Antibodies
+to Vesicular Stomatitis Virus, 2013-21. J Wildl Dis. 2024 Oct 1;60(4):1011-1015.
+doi: 10.7589/JWD-D-24-00049. PMID: 39074817.
+
+3: Zhu W, Liu G, Cao W, He S, Leung A, Ströher U, Fairchild MJ, Nichols R,
+Crowell J, Fusco J, Banadyga L. A Cloned Recombinant Vesicular Stomatitis Virus-
+Vectored Marburg Vaccine, PHV01, Protects Guinea Pigs from Lethal Marburg Virus
+Disease. Vaccines (Basel). 2022 Jun 23;10(7):1004. doi:
+10.3390/vaccines10071004. PMID: 35891170; PMCID: PMC9324024.
+
+4: Velazquez-Salinas L, Medina GN, Valdez F, Zarate S, Collinson S, Zhu JJ,
+Rodriguez LL. Exploring the Molecular Basis of Vesicular Stomatitis Virus
+Pathogenesis in Swine: Insights from Expression Profiling of Primary Macrophages
+Infected with M51R Mutant Virus. Pathogens. 2023 Jun 30;12(7):896. doi:
+10.3390/pathogens12070896. PMID: 37513744; PMCID: PMC10384765.
+
+5: Morozov I, Monath TP, Meekins DA, Trujillo JD, Sunwoo SY, Urbaniak K, Kim IJ,
+Narayanan SK, Indran SV, Ma W, Wilson WC, O'Connor C, Dubey S, Troth SP, Coller
+BA, Nichols R, Martin BK, Feldmann H, Richt JA. High dose of vesicular
+stomatitis virus-vectored Ebola virus vaccine causes vesicular disease in swine
+without horizontal transmission. Emerg Microbes Infect. 2021 Dec;10(1):651-663.
+doi: 10.1080/22221751.2021.1903343. PMID: 33719915; PMCID: PMC8023602.

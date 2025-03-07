@@ -1,0 +1,273 @@
+1: Du P, Yan Q, Zhang XA, Zeng W, Xie K, Yuan Z, Liu X, Liu X, Zhang L, Wu K, Li
+X, Fan S, Zhao M, Chen J. Virus-like particle vaccines with epitopes from
+porcine epidemic virus and transmissible gastroenteritis virus incorporated into
+self-assembling ADDomer platform provide clinical immune responses in piglets.
+Front Immunol. 2023 Oct 24;14:1251001. doi: 10.3389/fimmu.2023.1251001. PMID:
+37942329; PMCID: PMC10628522.
+
+2: Yang N, Zhang Y, Fu Y, Li Y, Yang S, Chen J, Liu G. Transmissible
+Gastroenteritis Virus Infection Promotes the Self-Renewal of Porcine Intestinal
+Stem Cells via Wnt/β-Catenin Pathway. J Virol. 2022 Sep 28;96(18):e0096222. doi:
+10.1128/jvi.00962-22. Epub 2022 Sep 8. PMID: 36073923; PMCID: PMC9517692.
+
+3: Antas M, Olech M. First report of transmissible gastroenteritis virus (TGEV)
+and porcine respiratory coronavirus (PRCV) in pigs from Poland. BMC Vet Res.
+2024 Nov 18;20(1):517. doi: 10.1186/s12917-024-04364-6. PMID: 39551750; PMCID:
+PMC11571510.
+
+4: Saleem W, Carpentier N, Hinnekens C, Oh D, Van Vlierberghe S, Braeckmans K,
+Nauwynck H. Porcine ex-vivo intestinal mucus has age-dependent blocking activity
+against transmissible gastroenteritis virus. Vet Res. 2024 Sep 20;55(1):113.
+doi: 10.1186/s13567-024-01374-y. PMID: 39304917; PMCID: PMC11414132.
+
+5: Wang L, Qiao X, Zhang S, Qin Y, Guo T, Hao Z, Sun L, Wang X, Wang Y, Jiang Y,
+Tang L, Xu Y, Li Y. Porcine transmissible gastroenteritis virus nonstructural
+protein 2 contributes to inflammation via NF-κB activation. Virulence.
+2018;9(1):1685-1698. doi: 10.1080/21505594.2018.1536632. PMID: 30322331; PMCID:
+PMC7000202.
+
+6: Yuan R, Ma H, Hong H, Xiao L, Li B, Wang K. Photochromic visual sensing chip
+for isothermal amplification detection of porcine transmissible gastroenteritis
+virus. Biosens Bioelectron. 2024 Feb 15;246:115900. doi:
+10.1016/j.bios.2023.115900. Epub 2023 Dec 1. PMID: 38056342.
+
+7: Zhou J, Wu W, Wang D, Wang W, Chang X, Li Y, Li J, Fan B, Zhou J, Guo R, Zhu
+X, Li B. Development of a colloidal gold immunochromatographic strip for the
+simultaneous detection of porcine epidemic diarrhea virus and transmissible
+gastroenteritis virus. Front Microbiol. 2024 Jun 19;15:1418959. doi:
+10.3389/fmicb.2024.1418959. PMID: 38962124; PMCID: PMC11220158.
+
+8: Luo T, Li K, Li C, Xia C, Gao C. Development of a triplex quantitative
+reverse transcription-polymerase chain reaction for the detection of porcine
+epidemic diarrhea virus, porcine transmissible gastroenteritis virus, and
+porcine rotavirus A. Front Microbiol. 2024 May 10;15:1390328. doi:
+10.3389/fmicb.2024.1390328. PMID: 38800746; PMCID: PMC11117717.
+
+9: Ye H, Wang X, Zhou L, Ge X, Gao P, Han J, Guo X, Wen K, Zhang Y, Yang H.
+Development of a triplex RT-RAA-LFA assay for the rapid differential diagnosis
+of porcine epidemic diarrhea virus, porcine deltacoronavirus and transmissible
+gastroenteritis virus. Microb Pathog. 2024 Oct;195:106885. doi:
+10.1016/j.micpath.2024.106885. Epub 2024 Aug 24. PMID: 39182857.
+
+10: Song L, Chen J, Hao P, Jiang Y, Xu W, Li L, Chen S, Gao Z, Jin N, Ren L, Li
+C. Differential Transcriptomics Analysis of IPEC-J2 Cells Single or Coinfected
+With Porcine Epidemic Diarrhea Virus and Transmissible Gastroenteritis Virus.
+Front Immunol. 2022 Mar 25;13:844657. doi: 10.3389/fimmu.2022.844657. PMID:
+35401515; PMCID: PMC8989846.
+
+11: Pan X, Zhou Y, Duan X, Cui J, Liu J, Song X, Ma W, Zhang W, Liu Y, Fan Y.
+The inhibitory effect Polygonum Cillinerve polysaccharide on transmissible
+gastroenteritis virus of swine. Res Vet Sci. 2021 Nov;140:47-55. doi:
+10.1016/j.rvsc.2021.08.005. Epub 2021 Aug 8. PMID: 34399280.
+
+12: Liu X, Zhu L, Liao S, Xu Z, Zhou Y. The porcine microRNA transcriptome
+response to transmissible gastroenteritis virus infection. PLoS One. 2015 Mar
+17;10(3):e0120377. doi: 10.1371/journal.pone.0120377. PMID: 25781021; PMCID:
+PMC4363316.
+
+13: Yan Q, Wu K, Zeng W, Yu S, Li Y, Sun Y, Liu X, Ruan Y, Huang J, Ding H, Yi
+L, Zhao M, Chen J, Fan S. Historical Evolutionary Dynamics and Phylogeography
+Analysis of Transmissible Gastroenteritis Virus and Porcine Deltacoronavirus:
+Findings from 59 Suspected Swine Viral Samples from China. Int J Mol Sci. 2022
+Aug 29;23(17):9786. doi: 10.3390/ijms23179786. PMID: 36077190; PMCID:
+PMC9456201.
+
+14: Yan K, Feng S, Cheng J, Zheng F, Li Z, Deng Z, Yuan X. IFITM3 is a host
+restriction factor that inhibits porcine transmissible gastroenteritis virus
+infection. Vet Microbiol. 2023 Feb;277:109622. doi:
+10.1016/j.vetmic.2022.109622. Epub 2022 Dec 9. PMID: 36543089.
+
+15: Song Z, Dai X, Ye C, Li Y, Wang L, Hu Y. Morphogenesis and proliferative
+rule of porcine transmissible gastroenteritis virus in porcine intestinal
+epithelial cells. J Virol Methods. 2016 Dec;238:6-12. doi:
+10.1016/j.jviromet.2016.09.018. Epub 2016 Sep 28. PMID: 27693376; PMCID:
+PMC7172245.
+
+16: Gao DM, Yu HY, Zhou W, Xia BB, Li HZ, Wang ML, Zhao J. Inhibitory effects of
+recombinant porcine interferon-α on porcine transmissible gastroenteritis virus
+infections in TGEV-seronegative piglets. Vet Microbiol. 2021 Jan;252:108930.
+doi: 10.1016/j.vetmic.2020.108930. Epub 2020 Nov 17. PMID: 33290999.
+
+17: Li Y, Niu JW, Zhou X, Chu PP, Zhang KL, Gou HC, Yang DX, Zhang JF, Li CL,
+Liao M, Zhai SL. Development of a multiplex qRT-PCR assay for the detection of
+porcine epidemic diarrhea virus, porcine transmissible gastroenteritis virus and
+porcine Deltacoronavirus. Front Vet Sci. 2023 Mar 16;10:1158585. doi:
+10.3389/fvets.2023.1158585. PMID: 37008344; PMCID: PMC10060962.
+
+18: Chen J, Liu R, Liu H, Chen J, Li X, Zhang J, Zhou B. Development of a
+Multiplex Quantitative PCR for Detecting Porcine Epidemic Diarrhea Virus,
+Transmissible Gastroenteritis Virus, and Porcine Deltacoronavirus Simultaneously
+in China. Vet Sci. 2023 Jun 18;10(6):402. doi: 10.3390/vetsci10060402. PMID:
+37368788; PMCID: PMC10301166.
+
+19: Lin CM, Gao X, Oka T, Vlasova AN, Esseili MA, Wang Q, Saif LJ. Antigenic
+relationships among porcine epidemic diarrhea virus and transmissible
+gastroenteritis virus strains. J Virol. 2015 Mar;89(6):3332-42. doi:
+10.1128/JVI.03196-14. Epub 2015 Jan 14. PMID: 25589635; PMCID: PMC4337547.
+
+20: Wang L, Dai X, Song H, Yuan P, Yang Z, Dong W, Song Z. Inhibition of porcine
+transmissible gastroenteritis virus infection in porcine kidney cells using
+short hairpin RNAs targeting the membrane gene. Virus Genes. 2017
+Apr;53(2):226-232. doi: 10.1007/s11262-016-1409-8. Epub 2016 Nov 15. PMID:
+27848068; PMCID: PMC7089173.
+
+21: Piñeyro PE, Lozada MI, Alarcón LV, Sanguinetti R, Cappuccio JA, Pérez EM,
+Vannucci F, Armocida A, Madson DM, Perfumo CJ, Quiroga MA. First retrospective
+studies with etiological confirmation of porcine transmissible gastroenteritis
+virus infection in Argentina. BMC Vet Res. 2018 Sep 24;14(1):292. doi:
+10.1186/s12917-018-1615-9. PMID: 30249258; PMCID: PMC6154422.
+
+22: Wu J, Shi X, Wu L, Wu Z, Wu S, Bao W. Genome-Wide DNA Methylome and
+Transcriptome Analysis of Porcine Testicular Cells Infected With Transmissible
+Gastroenteritis Virus. Front Vet Sci. 2022 Jan 13;8:779323. doi:
+10.3389/fvets.2021.779323. PMID: 35097042; PMCID: PMC8794705.
+
+23: Zhang Q, Huang JL, Liang YB, He YP, Tong DW, Xu XG. Transmissible
+gastroenteritis virus nsp7 protein localized in the cytoplasm down-regulates
+interleukin 8 expression in porcine intestinal epithelial cell. Acta Virol.
+2018;62(1):41-49. doi: 10.4149/av_2018_105. PMID: 29521102.
+
+24: Chen F, Knutson TP, Rossow S, Saif LJ, Marthaler DG. Decline of
+transmissible gastroenteritis virus and its complex evolutionary relationship
+with porcine respiratory coronavirus in the United States. Sci Rep. 2019 Mar
+8;9(1):3953. doi: 10.1038/s41598-019-40564-z. PMID: 30850666; PMCID: PMC6408454.
+
+25: Qian S, Gao Z, Cao R, Yang K, Cui Y, Li S, Meng X, He Q, Li Z. Transmissible
+Gastroenteritis Virus Infection Up-Regulates FcRn Expression via Nucleocapsid
+Protein and Secretion of TGF-β in Porcine Intestinal Epithelial Cells. Front
+Microbiol. 2020 Jan 21;10:3085. doi: 10.3389/fmicb.2019.03085. PMID: 32038538;
+PMCID: PMC6990134.
+
+26: Yu M, Wang L, Ma S, Wang X, Wang Y, Xiao Y, Jiang Y, Qiao X, Tang L, Xu Y,
+Li Y. Immunogenicity of eGFP-Marked Recombinant Lactobacillus casei against
+Transmissible Gastroenteritis Virus and Porcine Epidemic Diarrhea Virus.
+Viruses. 2017 Sep 25;9(10):274. doi: 10.3390/v9100274. PMID: 28946696; PMCID:
+PMC5691626.
+
+27: Pascual-Iglesias A, Sanchez CM, Penzes Z, Sola I, Enjuanes L, Zuñiga S.
+Recombinant Chimeric Transmissible Gastroenteritis Virus (TGEV) - Porcine
+Epidemic Diarrhea Virus (PEDV) Virus Provides Protection against Virulent PEDV.
+Viruses. 2019 Jul 25;11(8):682. doi: 10.3390/v11080682. PMID: 31349683; PMCID:
+PMC6723174.
+
+28: Yang CW, Chang HY, Hsu HY, Lee YZ, Chang HS, Chen IS, Lee SJ. Identification
+of anti-viral activity of the cardenolides, Na<sup>+</sup>/K<sup>+</sup>-ATPase
+inhibitors, against porcine transmissible gastroenteritis virus. Toxicol Appl
+Pharmacol. 2017 Oct 1;332:129-137. doi: 10.1016/j.taap.2017.04.017. Epub 2017
+Apr 23. PMID: 28438630; PMCID: PMC7103123.
+
+29: Wang B, Liu Y, Ji CM, Yang YL, Liang QZ, Zhao P, Xu LD, Lei XM, Luo WT, Qin
+P, Zhou J, Huang YW. Porcine Deltacoronavirus Engages the Transmissible
+Gastroenteritis Virus Functional Receptor Porcine Aminopeptidase N for
+Infectious Cellular Entry. J Virol. 2018 May 29;92(12):e00318-18. doi:
+10.1128/JVI.00318-18. PMID: 29618640; PMCID: PMC5974500.
+
+30: Wang Y, Sun A, Sun Y, Zhang S, Xia T, Guo T, Hao Z, Sun L, Jiang Y, Qiao X,
+Cui W, Tang L, Xu Y, Li Y, Wang L. Porcine transmissible gastroenteritis virus
+inhibits NF-κB activity via nonstructural protein 3 to evade host immune system.
+Virol J. 2019 Aug 5;16(1):97. doi: 10.1186/s12985-019-1206-9. PMID: 31382996;
+PMCID: PMC6683377.
+
+31: Luo L, Wang S, Zhu L, Fan B, Liu T, Wang L, Zhao P, Dang Y, Sun P, Chen J,
+Zhang Y, Chang X, Yu Z, Wang H, Guo R, Li B, Zhang K. Aminopeptidase N-null
+neonatal piglets are protected from transmissible gastroenteritis virus but not
+porcine epidemic diarrhea virus. Sci Rep. 2019 Sep 12;9(1):13186. doi:
+10.1038/s41598-019-49838-y. PMID: 31515498; PMCID: PMC6742759.
+
+32: Zhang F, Chen Y, Yang L, Zhu J. Construction and characterization of porcine
+single-chain fragment variable antibodies that neutralize transmissible
+gastroenteritis virus in vitro. Arch Virol. 2019 Apr;164(4):983-994. doi:
+10.1007/s00705-019-04156-6. Epub 2019 Feb 7. PMID: 30729994; PMCID: PMC7087081.
+
+33: Zhang Q, Xu Y, Chang R, Tong D, Xu X. Transmissible gastroenteritis virus N
+protein causes endoplasmic reticulum stress, up-regulates interleukin-8
+expression and its subcellular localization in the porcine intestinal epithelial
+cell. Res Vet Sci. 2018 Aug;119:109-115. doi: 10.1016/j.rvsc.2018.06.008. Epub
+2018 Jun 12. PMID: 29909129; PMCID: PMC7111826.
+
+34: Chen X, Tu C, Qin T, Zhu L, Yin Y, Yang Q. Retinoic acid facilitates
+inactivated transmissible gastroenteritis virus induction of CD8(+) T-cell
+migration to the porcine gut. Sci Rep. 2016 Apr 15;6:24152. doi:
+10.1038/srep24152. PMID: 27080036; PMCID: PMC4832189.
+
+35: Wei G, Luo S, Wu W, Hu J, Zhou R. Activation of Interleukin-1<i>β</i>
+Release and Pyroptosis by Transmissible Gastroenteritis Virus Is Dependent on
+the NOD-Like Receptor Protein 3 Inflammasome in Porcine Intestinal Epithelial
+Cell Line. Viral Immunol. 2021 Jul-Aug;34(6):401-409. doi:
+10.1089/vim.2020.0227. Epub 2021 May 10. PMID: 33973805.
+
+36: El-Tholoth M, Bai H, Mauk MG, Saif L, Bau HH. A portable, 3D printed,
+microfluidic device for multiplexed, real time, molecular detection of the
+porcine epidemic diarrhea virus, transmissible gastroenteritis virus, and
+porcine deltacoronavirus at the point of need. Lab Chip. 2021 Mar
+21;21(6):1118-1130. doi: 10.1039/d0lc01229g. Epub 2021 Feb 2. PMID: 33527920;
+PMCID: PMC7990716.
+
+37: Zhang S, Hu W, Yuan L, Yang Q. Transferrin receptor 1 is a supplementary
+receptor that assists transmissible gastroenteritis virus entry into porcine
+intestinal epithelium. Cell Commun Signal. 2018 Oct 20;16(1):69. doi:
+10.1186/s12964-018-0283-5. PMID: 30342530; PMCID: PMC6196004.
+
+38: Wang J, Wang J, Zhang R, Liu L, Shi R, Han Q, Yuan W. Rapid detection of
+transmissible gastroenteritis virus in swine small intestine samples using real-
+time reverse transcription recombinase polymerase amplification. J Virol
+Methods. 2018 Jun;256:85-88. doi: 10.1016/j.jviromet.2018.03.005. Epub 2018 Mar
+14. PMID: 29550352; PMCID: PMC7113865.
+
+39: Xia L, Dai L, Zhu L, Hu W, Yang Q. Proteomic Analysis of IPEC-J2 Cells in
+Response to Coinfection by Porcine Transmissible Gastroenteritis Virus and
+Enterotoxigenic Escherichia coli K88. Proteomics Clin Appl. 2017 Dec;11(11-12).
+doi: 10.1002/prca.201600137. PMID: 29090858.
+
+40: Zheng L, Zhao F, Ru J, Liu L, Wang Z, Wang N, Shu X, Wei Z, Guo H.
+Evaluation of the Effect of Inactivated Transmissible Gastroenteritis Virus
+Vaccine with Nano Silicon on the Phenotype and Function of Porcine Dendritic
+Cells. Viruses. 2021 Oct 26;13(11):2158. doi: 10.3390/v13112158. PMID: 34834964;
+PMCID: PMC8620756.
+
+41: Zhang X, Zhu Y, Zhu X, Chen J, Shi H, Shi D, Dong H, Feng L. ORF3a deletion
+in field strains of porcine-transmissible gastroenteritis virus in China: A hint
+of association with porcine respiratory coronavirus. Transbound Emerg Dis. 2017
+Jun;64(3):698-702. doi: 10.1111/tbed.12634. Epub 2017 Mar 15. PMID: 28299912;
+PMCID: PMC7169721.
+
+42: Li X, Li P, Cao L, Bai Y, Chen H, Liu H, Ren X, Li G. Porcine IL-12 plasmid
+as an adjuvant improves the cellular and humoral immune responses of DNA vaccine
+targeting transmissible gastroenteritis virus spike gene in a mouse model. J Vet
+Med Sci. 2019 Oct 18;81(10):1438-1444. doi: 10.1292/jvms.18-0682. Epub 2019 Sep
+2. PMID: 31474664; PMCID: PMC6863717.
+
+43: Zhang Y, Zhang X, Liao X, Huang X, Cao S, Wen X, Wen Y, Wu R, Liu W.
+Construction of a bivalent DNA vaccine co-expressing S genes of transmissible
+gastroenteritis virus and porcine epidemic diarrhea virus delivered by
+attenuated Salmonella typhimurium. Virus Genes. 2016 Jun;52(3):354-64. doi:
+10.1007/s11262-016-1316-z. Epub 2016 Mar 15. PMID: 26980672.
+
+44: Lin J, Tu C, Mou C, Chen X, Yang Q. CpG DNA facilitate the inactivated
+transmissible gastroenteritis virus in enhancing the local and systemic immune
+response of pigs via oral administration. Vet Immunol Immunopathol. 2016
+Apr;172:1-8. doi: 10.1016/j.vetimm.2016.02.013. Epub 2016 Feb 20. PMID:
+27032496; PMCID: PMC7112793.
+
+45: Xie W, Ao C, Yang Y, Liu Y, Liang R, Zeng Z, Ye G, Xiao S, Fu ZF, Dong W,
+Peng G. Two critical N-terminal epitopes of the nucleocapsid protein contribute
+to the cross-reactivity between porcine epidemic diarrhea virus and porcine
+transmissible gastroenteritis virus. J Gen Virol. 2019 Feb;100(2):206-216. doi:
+10.1099/jgv.0.001216. Epub 2019 Jan 17. PMID: 30652967.
+
+46: Zhu Y, Liang L, Luo Y, Wang G, Wang C, Cui Y, Ai X, Cui S. A sensitive
+duplex nanoparticle-assisted PCR assay for identifying porcine epidemic diarrhea
+virus and porcine transmissible gastroenteritis virus from clinical specimens.
+Virus Genes. 2017 Feb;53(1):71-76. doi: 10.1007/s11262-016-1405-z. Epub 2016 Nov
+4. PMID: 27815750; PMCID: PMC7089489.
+
+47: Mou C, Zhu L, Xing X, Lin J, Yang Q. Immune responses induced by recombinant
+Bacillus subtilis expressing the spike protein of transmissible gastroenteritis
+virus in pigs. Antiviral Res. 2016 Jul;131:74-84. doi:
+10.1016/j.antiviral.2016.02.003. Epub 2016 Mar 14. PMID: 26988122.
+
+48: Ma X, Zhao X, Zhang Z, Guo J, Guan L, Li J, Mi M, Huang Y, Tong D.
+Differentially expressed non-coding RNAs induced by transmissible
+gastroenteritis virus potentially regulate inflammation and NF-κB pathway in
+porcine intestinal epithelial cell line. BMC Genomics. 2018 Oct 12;19(1):747.
+doi: 10.1186/s12864-018-5128-5. PMID: 30314467; PMCID: PMC6186045.
