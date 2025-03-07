@@ -1,0 +1,79 @@
+1: Simões Nunes C, Guggenbuhl P. Effects of Aspergillus fumigatus phytase on
+phosphorus digestibility, phosphorus excretion, bone strength and performance in
+pigs. Reprod Nutr Dev. 1998 Jul-Aug;38(4):429-40. doi: 10.1051/rnd:19980407.
+PMID: 9795986.
+
+2: Schmidt S, Ebner F, Rosen K, Kniemeyer O, Brakhage AA, Löffler J, Seif M,
+Springer J, Schlosser J, Scharek-Tedin L, Scheffold A, Bacher P, Kühl AA, Rösler
+U, Hartmann S. The domestic pig as human-relevant large animal model to study
+adaptive antifungal immune responses against airborne Aspergillus fumigatus. Eur
+J Immunol. 2020 Nov;50(11):1712-1728. doi: 10.1002/eji.201948524. Epub 2020 Jul
+13. PMID: 32558930.
+
+3: Rutqvist L, Persson PA. Studies on Aspergillus fumigatus, experimental
+mycotoxicosis in mice, chicks and pigs wth the appearance, in pigs, of perirenal
+edema. Acta Vet Scand. 1966;7(1):21-34. doi: 10.1186/BF03547095. PMID: 5939190;
+PMCID: PMC8823330.
+
+4: Hooper DG, Bolton VE, Sutton JS, Guilford FT, Straus DC, Najvar LK,
+Wiederhold NP, Kirkpatrick WR, Patterson TF. Assessment of Aspergillus fumigatus
+in guinea pig bronchoalveolar lavages and pulmonary tissue by culture and
+realtime polymerase chain reaction studies. Int J Mol Sci. 2012;13(1):726-736.
+doi: 10.3390/ijms13010726. Epub 2012 Jan 11. PMID: 22312282; PMCID: PMC3269716.
+
+5: Martin MV, Yates J, Hitchcock CA. Comparison of voriconazole (UK-109,496) and
+itraconazole in prevention and treatment of Aspergillus fumigatus endocarditis
+in guinea pigs. Antimicrob Agents Chemother. 1997 Jan;41(1):13-6. doi:
+10.1128/AAC.41.1.13. PMID: 8980747; PMCID: PMC163652.
+
+6: Mason RW. Porcine mycotic abortion caused by Aspergillus fumigatus. Aust Vet
+J. 1971 Jan;47(1):18-9. doi: 10.1111/j.1751-0813.1971.tb09196.x. PMID: 5100641.
+
+7: Khoufache K, Cabaret O, Farrugia C, Rivollet D, Alliot A, Allaire E,
+Cordonnier C, Bretagne S, Botterel F. Primary in vitro culture of porcine
+tracheal epithelial cells in an air-liquid interface as a model to study airway
+epithelium and Aspergillus fumigatus interactions. Med Mycol. 2010
+Dec;48(8):1049-55. doi: 10.3109/13693786.2010.496119. Epub 2010 Jul 7. PMID:
+20608777.
+
+8: Overdijk B, Van Steijn GJ, Odds FC. Distribution of chitinase in guinea pig
+tissues and increases in levels of this enzyme after systemic infection with
+Aspergillus fumigatus. Microbiology (Reading). 1999 Jan;145 ( Pt 1):259-269.
+doi: 10.1099/13500872-145-1-259. PMID: 10206706.
+
+9: Vallor AC, Kirkpatrick WR, Najvar LK, Bocanegra R, Kinney MC, Fothergill AW,
+Herrera ML, Wickes BL, Graybill JR, Patterson TF. Assessment of Aspergillus
+fumigatus burden in pulmonary tissue of guinea pigs by quantitative PCR,
+galactomannan enzyme immunoassay, and quantitative culture. Antimicrob Agents
+Chemother. 2008 Jul;52(7):2593-8. doi: 10.1128/AAC.00276-08. Epub 2008 May 12.
+PMID: 18474582; PMCID: PMC2443907.
+
+10: Overdijk B, Van Steijn GJ, Odds FC. Chitinase levels in guinea pig blood are
+increased after systemic infection with Aspergillus fumigatus. Glycobiology.
+1996 Sep;6(6):627-34. doi: 10.1093/glycob/6.6.627. PMID: 8922958.
+
+11: Voisin C, Biguet J, Aerts C, Walbaum S, Tonnel AB, Wattel F. Recherches
+expérimentales sur le poumon du fermier. Etude comparative du pouvoir
+d'épuration pulmonaire du cobaye vis-à-vis d'Aspergillus gumigatus, de Candida
+albicans et de Micropolyspora faeni [An experimental investigation of farmer's
+lung. Comparative study of the pulmonary clearance capacity for Aspergillus
+fumigatus, Candida albicans and Mycropolyspora faeni in guinea pigs]. Rev Fr
+Allergol. 1971 Apr-Jun;11(2):129-36. French. doi: 10.1016/s0035-2845(71)80021-5.
+PMID: 5562477.
+
+12: Venev S. Eksperimentalni aborti pri mishki i morski svincheta, predizvikani
+sus spori na Aspergillus fumigatus [Experimental abortions in mice and guinea
+pigs caused by Aspergillus fumigatus spores]. Vet Med Nauki. 1976;13(1):86-93.
+Bulgarian. PMID: 769306.
+
+13: Suzuki M, Hayashi Y. [Immunological responses to cultural filtrates in
+guinea pigs sensitized to Aspergillus fumigatus and Candida albicans]. Nihon
+Saikingaku Zasshi. 1975 Jul;30(4):583-8. Japanese. PMID: 1104918.
+
+14: Gernez-Rieux C, Voisin C, Aerts C, Wattel F, Gosselin B. Aspergillose
+expérimentale du cobaye. Etude dynamique du rôle des macrophages alvéolaires
+dans la défense des voies respiratoires. après inhalation massive de spores
+d'Aspergillus fumigatus [Experimental aspergillosis in the guinea pig. Dynamic
+study of the role of alveolar macrophages in the defense of the respiratory
+tract, after massive inhalation of Aspergillus fumigatus spores]. Rev Tuberc
+Pneumol (Paris). 1967 Sep-Oct;31(6):705-25. French. PMID: 4914810.

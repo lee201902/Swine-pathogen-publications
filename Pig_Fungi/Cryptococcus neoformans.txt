@@ -1,0 +1,44 @@
+1: Sowa G, Gekker G, Lipovsky MM, Hu S, Chao CC, Molitor TW, Peterson PK.
+Inhibition of swine microglial cell phagocytosis of Cryptococcus neoformans by
+femtomolar concentrations of morphine. Biochem Pharmacol. 1997 Mar
+21;53(6):823-8. doi: 10.1016/s0006-2952(97)00006-3. PMID: 9113103.
+
+2: Murphy JW, Gregory JA, Larsh HW. Skin testing of guinea pigs and footpad
+testing of mice with a new antigen for detecting delayed hypersensitivity to
+Cryptococcus neoformans. Infect Immun. 1974 Feb;9(2):404-9. doi:
+10.1128/iai.9.2.404-409.1974. PMID: 4593343; PMCID: PMC414817.
+
+3: Ikeda R, Shinoda T, Kagaya K, Fukazawa Y. Role of serum factors in the
+phagocytosis of weakly or heavily encapsulated Cryptococcus neoformans strains
+by guinea pig peripheral blood leukocytes. Microbiol Immunol. 1984;28(1):51-61.
+doi: 10.1111/j.1348-0421.1984.tb02946.x. PMID: 6374392.
+
+4: Van Cutsem J, Fransen J, Van Gerven F, Janssen PA. Experimental
+cryptococcosis: dissemination of Cryptococcus neoformans and dermotropism in
+guinea-pigs. Mykosen. 1986 Dec;29(12):561-75. PMID: 3547123.
+
+5: Lipovsky MM, Gekker G, Anderson WR, Molitor TW, Peterson PK, Hoepelman AI.
+Phagocytosis of nonopsonized Cryptococcus neoformans by swine microglia involves
+CD14 receptors. Clin Immunol Immunopathol. 1997 Aug;84(2):208-11. doi:
+10.1006/clin.1997.4381. PMID: 9245554.
+
+6: Conti S, Radicioni G, Ciociola T, Longhi R, Polonelli L, Gatti R, Cabras T,
+Messana I, Castagnola M, Vitali A. Structural and functional studies on a
+proline-rich peptide isolated from swine saliva endowed with antifungal activity
+towards Cryptococcus neoformans. Biochim Biophys Acta. 2013 Mar;1828(3):1066-74.
+doi: 10.1016/j.bbamem.2012.12.013. Epub 2012 Dec 26. PMID: 23274276.
+
+7: Splino M, Kyntera F. Fagocytóza a proliferace Cryptococcus neoformans v
+stimulovaných makrofázích morcat in vitro [Phagocytosis and proliferation of
+Cryptococcus neoformans in stimulated macrophages of guinea pigs in vitro
+(author's transl)]. Bratisl Lek Listy. 1978 Nov;70(5):575-85. Czech. PMID:
+363245.
+
+8: Lima C, Vital JP. Olfactory mucosa response in guinea pigs following
+intranasal instillation with Cryptococcus neoformans. A histological and
+immunocytochemical study. Mycopathologia. 1994 May;126(2):65-73. doi:
+10.1007/BF01146198. PMID: 8065433.
+
+9: Jones AE, Reiss E, Spira TJ. A microsomal fraction of Cryptococcus neoformans
+induces lymphocyte blastogenesis in infected guinea pigs. Mycopathologia. 1981
+Sep 11;75(3):129-38. doi: 10.1007/BF00482807. PMID: 7038506.

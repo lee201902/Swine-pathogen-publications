@@ -1,0 +1,78 @@
+1: GOSS WA, ACTOR P, JAMBOR WP, PAGANO JF. The Trichophyton mentagrophytes and
+Microsporum canis infection of the guinea-pig. J Invest Dermatol. 1963
+Jun;40:299-304. doi: 10.1038/jid.1963.153. PMID: 13949396.
+
+2: Cambier L, Băguţ ET, Heinen MP, Tabart J, Antoine N, Mignon B. Assessment of
+immunogenicity and protective efficacy of Microsporum canis secreted components
+coupled to monophosphoryl lipid-A adjuvant in a vaccine study using guinea pigs.
+Vet Microbiol. 2015 Feb 25;175(2-4):304-11. doi: 10.1016/j.vetmic.2014.11.020.
+Epub 2014 Dec 2. PMID: 25532779.
+
+3: Brouta F, Descamps F, Vermout S, Monod M, Losson B, Mignon B. Humoral and
+cellular immune response to a Microsporum canis recombinant keratinolytic
+metalloprotease (r-MEP3) in experimentally infected guinea pigs. Med Mycol. 2003
+Dec;41(6):495-501. doi: 10.1080/13693780310001615385. PMID: 14725323.
+
+4: Descamps FF, Brouta F, Vermout SM, Willame C, Losson BJ, Mignon BR. A
+recombinant 31.5 kDa keratinase and a crude exo-antigen from Microsporum canis
+fail to protect against a homologous experimental infection in guinea pigs. Vet
+Dermatol. 2003 Dec;14(6):305-12. doi: 10.1111/j.1365-3164.2003.00342.x. PMID:
+14678442.
+
+5: Paulussen C, de Wit K, Boulet G, Cos P, Meerpoel L, Maes L.
+Pyrrolo[1,2-α][1,4]benzodiazepines show potent in vitro antifungal activity and
+significant in vivo efficacy in a Microsporum canis dermatitis model in guinea
+pigs. J Antimicrob Chemother. 2014 Jun;69(6):1608-10. doi: 10.1093/jac/dku034.
+Epub 2014 Feb 16. PMID: 24535279.
+
+6: English MP, Gentles JC, Ball EH. Experimental infection of guinea-pigs with
+atypical and dysgonic strains of microsporum canis. Mycopathologia. 1979 Jul
+16;67(3):179-81. doi: 10.1007/BF00470754. PMID: 481564.
+
+7: Abu-Samra MT, Hago BE. Experimental infection of goats and guinea pigs with
+Microsporum canis and trials on treatment with canesten cream and neguvon
+solution. Mycopathologia. 1980 Oct 31;72(2):79-84. doi: 10.1007/BF00493815.
+PMID: 7464898.
+
+8: Mignon BR, Leclipteux T, Focant C, Nikkels AJ, Piérard GE, Losson BJ. Humoral
+and cellular immune response to a crude exo-antigen and purified keratinase of
+Microsporum canis in experimentally infected guinea pigs. Med Mycol. 1999
+Apr;37(2):123-9. PMID: 10361268.
+
+9: Vermout SM, Brouta FD, Descamps FF, Losson BJ, Mignon BR. Evaluation of
+immunogenicity and protective efficacy of a Microsporum canis metalloprotease
+subunit vaccine in guinea pigs. FEMS Immunol Med Microbiol. 2004 Jan
+15;40(1):75-80. doi: 10.1016/S0928-8244(03)00296-7. PMID: 14734190.
+
+10: Aggarwal N, Goindi S. Preparation and evaluation of antifungal efficacy of
+griseofulvin loaded deformable membrane vesicles in optimized guinea pig model
+of Microsporum canis--dermatophytosis. Int J Pharm. 2012 Nov 1;437(1-2):277-87.
+doi: 10.1016/j.ijpharm.2012.08.015. Epub 2012 Aug 19. PMID: 22939964.
+
+11: González Cabo JF, Bárcena Asensio MC, Gómez Rodriguez F, Amigot Lázaro JA.
+An outbreak of dermatophytosis in pigs caused by Microsporum canis.
+Mycopathologia. 1995;129(2):79-80. doi: 10.1007/BF01103464. PMID: 7544873.
+
+12: Elad D, Segal E. Immunogenicity in guinea-pigs of a crude ribosomal fraction
+from Microsporum canis. Vaccine. 1994 Feb;12(2):134-8. doi:
+10.1016/0264-410x(94)90050-7. PMID: 8147094.
+
+13: Lee KH, Park HW, Lee JB. Detection of keratinolytic proteinase in skin
+tissues from guinea pigs infected with Microsporum canis by an immunoperoxidase
+technique. J Dermatol Sci. 1990 Nov;1(6):447-53. doi:
+10.1016/0923-1811(90)90015-6. Erratum in: J Dermatol Sci 1991 Jan;2(1):74. PMID:
+2288900.
+
+14: Wawrzkiewicz K, Ziółkowska G, Wawrzkiewicz J. An evaluation of the
+resistance to Microsporum canis on the basis of the guinea pig. Arch Vet Pol.
+1994;34(3-4):153-62. PMID: 8891170.
+
+15: Hörmansdorfer S, Heinritzi K, Bauer J. Microsporum canis als Ursache einer
+Bestandsenzootie beim Schwein. Ein Fallbericht [Microsporum canis as the origin
+of an enzootic outbreak in swine. A case report]. Tierarztl Prax. 1995
+Oct;23(5):465-8. German. PMID: 8585059.
+
+16: Lee KH, Lee JB, Lee MG, Song DH. Detection of circulating antibodies to
+purified keratinolytic proteinase in sera from guinea pigs infected with
+Microsporum canis by enzyme-linked immunosorbent assay. Arch Dermatol Res.
+1988;280(1):45-9. doi: 10.1007/BF00412688. PMID: 3281601.
