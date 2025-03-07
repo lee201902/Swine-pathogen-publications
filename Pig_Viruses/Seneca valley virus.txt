@@ -1,0 +1,195 @@
+1: Bai L, Zhang R, Zheng H, Zhang Z, Zhang Z, Li Y. Seneca Valley Virus Degrades
+STING via PERK and ATF6-Mediated Reticulophagy. Viruses. 2023 Nov 3;15(11):2209.
+doi: 10.3390/v15112209. PMID: 38005886; PMCID: PMC10674438.
+
+2: Song J, Guo Y, Wang D, Quan R, Wang J, Liu J. Seneca Valley virus
+3C<sup>pro</sup> antagonizes type I interferon response by targeting
+STAT1-STAT2-IRF9 and KPNA1 signals. J Virol. 2023 Oct 31;97(10):e0072723. doi:
+10.1128/jvi.00727-23. Epub 2023 Oct 11. PMID: 37819133; PMCID: PMC10617416.
+
+3: Zeng W, Yan Q, Du P, Yuan Z, Sun Y, Liu X, Zhang L, Liu X, Ding H, Yi L, Fan
+S, Chen J, Zhao M. Evolutionary dynamics and adaptive analysis of Seneca Valley
+virus. Infect Genet Evol. 2023 Sep;113:105488. doi:
+10.1016/j.meegid.2023.105488. Epub 2023 Aug 7. PMID: 37558190.
+
+4: Dong J, Chen M, Yu L, Rao D, Zhang N, Cong F. Seneca Valley virus induces
+proinflammatory cytokine and chemokine response <i>in vitro</i>. Can J Vet Res.
+2023 Apr;87(2):120-126. PMID: 37020572; PMCID: PMC10069161.
+
+5: Bennett B, Urzúa-Encina C, Pardo-Roa C, Ariyama N, Lecocq C, Rivera C, Badía
+C, Suárez P, Agredo M, Aguayo C, Ávila C, Araya H, Pérez P, Berrios F, Agüero B,
+Mendieta V, Pituco EM, de Almeida IG, Medina R, Brito B, Johow M, Ramirez VN.
+First report and genetic characterization of Seneca Valley virus (SVV) in Chile.
+Transbound Emerg Dis. 2022 Nov;69(6):e3462-e3468. doi: 10.1111/tbed.14747. Epub
+2022 Nov 11. PMID: 36327129.
+
+6: Kim H, Buckley A, Guo B, Kulshreshtha V, Geelen AV, Montiel N, Lager K, Yoon
+KJ. Experimental Seneca Valley virus infection in sows and their offspring. Vet
+Microbiol. 2024 Feb;289:109958. doi: 10.1016/j.vetmic.2023.109958. Epub 2023 Dec
+20. PMID: 38181600.
+
+7: Song J, Guo Y, Wang D, Quan R, Wang J, Liu J. Seneca Valley virus 3C protease
+cleaves OPTN (optineurin) to Impair selective autophagy and type I interferon
+signaling. Autophagy. 2024 Mar;20(3):614-628. doi:
+10.1080/15548627.2023.2277108. Epub 2023 Nov 6. PMID: 37930946; PMCID:
+PMC10936645.
+
+8: Song J, Quan R, Wang D, Liu J. Seneca Valley Virus 3C<sup>pro</sup> Mediates
+Cleavage and Redistribution of Nucleolin To Facilitate Viral Replication.
+Microbiol Spectr. 2022 Apr 27;10(2):e0030422. doi: 10.1128/spectrum.00304-22.
+Epub 2022 Mar 31. PMID: 35357201; PMCID: PMC9045095.
+
+9: Zhang J, Zhang H, Sun W, Jiao C, Xiao P, Han J, Nan F, Xie C, Ha Z, Li Z, Xie
+Y, Meng Y, Lu H, Jin N. Genetic evolution and epidemiological analysis of Seneca
+Valley virus (SVV) in China. Virus Res. 2021 Jan 2;291:198177. doi:
+10.1016/j.virusres.2020.198177. Epub 2020 Oct 8. PMID: 33038460.
+
+10: Wen W, Li X, Wang H, Zhao Q, Yin M, Liu W, Chen H, Qian P. Seneca Valley
+Virus 3C Protease Induces Pyroptosis by Directly Cleaving Porcine Gasdermin D. J
+Immunol. 2021 Jul 1;207(1):189-199. doi: 10.4049/jimmunol.2001030. Epub 2021 Jun
+28. PMID: 34183365.
+
+11: Vieira MV, Yasumitsu CY, Dall Agnol AM, Leme RA, Alfieri AF, Alfieri AA. The
+third wave of Seneca Valley virus outbreaks in pig herds in southern Brazil.
+Braz J Microbiol. 2022 Sep;53(3):1701-1706. doi: 10.1007/s42770-022-00767-5.
+Epub 2022 May 12. PMID: 35554870; PMCID: PMC9433486.
+
+12: Zhang J, Li C, Meng Y, Xie Y, Shi N, Zhang H, Yu C, Nan F, Xie C, Ha Z, Han
+J, Li Z, Li Q, Wang P, Gao X, Jin N, Lu H. Pathogenicity of Seneca Valley virus
+in pigs and detection in Culicoides from an infected pig farm. Virol J. 2021 Oct
+21;18(1):209. doi: 10.1186/s12985-021-01679-w. PMID: 34674719; PMCID:
+PMC8529370.
+
+13: Xu G, Xu S, Shi X, Shen C, Hao J, Yan M, Zhang D, Zhu Z, Zhang K, Zheng H,
+Liu X. Intercellular transmission of Seneca Valley virus mediated by exosomes.
+Vet Res. 2020 Jul 16;51(1):91. doi: 10.1186/s13567-020-00812-x. Erratum in: Vet
+Res. 2020 Aug 18;51(1):103. doi: 10.1186/s13567-020-00827-4. PMID: 32678013;
+PMCID: PMC7367271.
+
+14: Zhou X, Liang WF, Si GB, Li JH, Chen ZF, Cai WY, Lv DH, Wen XH, Zhai Q, Zhai
+SL, Liao M, He DS. Buffalo-Origin Seneca Valley Virus in China: First Report,
+Isolation, Genome Characterization, and Evolution Analysis. Front Vet Sci. 2021
+Oct 25;8:730701. doi: 10.3389/fvets.2021.730701. PMID: 34760955; PMCID:
+PMC8573120.
+
+15: Wang H, Ding X, Sun W, Chen Z, Bai L, Liang H, Liu Y, Zhang W, Wang G, Yang
+G, Mauk MG, Cui Y, Chen L. Recombinase polymerase amplification assay for rapid
+detection of Seneca Valley Virus. Anal Biochem. 2022 Apr 1;642:114564. doi:
+10.1016/j.ab.2022.114564. Epub 2022 Jan 23. PMID: 35081373.
+
+16: Song J, Wang D, Quan R, Liu J. Seneca Valley virus 3C<sup>pro</sup> degrades
+heterogeneous nuclear ribonucleoprotein A1 to facilitate viral replication.
+Virulence. 2021 Dec;12(1):3125-3136. doi: 10.1080/21505594.2021.2014681. PMID:
+34923914; PMCID: PMC8923066.
+
+17: Ma L, Zhu M, Meng Q, Wang Y, Wang X. Real-time detection of Seneca Valley
+virus by one-tube RPA-CRISPR/Cas12a assay. Front Cell Infect Microbiol. 2024 Jan
+8;13:1305222. doi: 10.3389/fcimb.2023.1305222. PMID: 38259970; PMCID:
+PMC10800940.
+
+18: Wen W, Zheng Z, Wang H, Zhao Q, Yin M, Chen H, Li X, Qian P. Seneca Valley
+Virus Induces DHX30 Cleavage to Antagonize Its Antiviral Effects. J Virol. 2022
+Sep 14;96(17):e0112122. doi: 10.1128/jvi.01121-22. Epub 2022 Aug 24. PMID:
+36000840; PMCID: PMC9472649.
+
+19: Dong J, Rao D, Geng X, Chen M, He S, Jiao F, Huang L, Chen B, Zhao P, Cong
+F. Evolutionary analysis of 3 isolates of Seneca Valley virus from a single pig
+farm. Can J Vet Res. 2022 Apr;86(2):102-107. PMID: 35388228; PMCID: PMC8978293.
+
+20: Oliveira TES, Leme RA, Agnol AMD, Gerez JR, Pelaquim IF, Miyabe FM, Alfieri
+AF, Alfieri AA, Headley SA. Seneca Valley virus induces immunodepressionin
+suckling piglets by selective apoptosis of B lymphocytes. Microb Pathog. 2021
+Sep;158:105022. doi: 10.1016/j.micpath.2021.105022. Epub 2021 Jun 12. PMID:
+34129904.
+
+21: Zhang YY, Sun MX, Lian Y, Wang TY, Jia MY, Leng C, Chen M, Bai YZ, Meng F,
+Cai XH, Tang YD. CRISPR-Cas13d Exhibits Robust Antiviral Activity Against Seneca
+Valley Virus. Front Microbiol. 2022 Feb 14;13:835040. doi:
+10.3389/fmicb.2022.835040. PMID: 35237251; PMCID: PMC8882862.
+
+22: Yin H, Zhao Z, Yan Y, Yuan Y, Qu W, Wang H, Zhu C, Li P, Li X. Seneca Valley
+virus circumvents Gasdermin A-mediated inflammation by targeting the pore-
+formation domain for cleavage. mBio. 2024 Oct 16;15(10):e0168024. doi:
+10.1128/mbio.01680-24. Epub 2024 Aug 29. PMID: 39207099; PMCID: PMC11481571.
+
+23: Song J, Quan R, Wang D, Liu J. Seneca Valley Virus 3C <sup>pro</sup> Cleaves
+Heterogeneous Nuclear Ribonucleoprotein K to Facilitate Viral Replication. Front
+Microbiol. 2022 Jul 6;13:945443. doi: 10.3389/fmicb.2022.945443. PMID: 35875542;
+PMCID: PMC9298500.
+
+24: Shi Y, Wu Z, Zeng P, Song J, Guo J, Yang X, Zhou J, Liu J, Hou L. Seneca
+valley virus 3C protease blocks EphA2-Mediated mTOR activation to facilitate
+viral replication. Microb Pathog. 2024 Jun;191:106673. doi:
+10.1016/j.micpath.2024.106673. Epub 2024 May 3. PMID: 38705218.
+
+25: Zhu M, Cai Y, Zhao W, He C, Yang Y, Gao Q, Su S. Long non-coding RNAs are
+associated with Seneca Valley virus infection. Vet Microbiol. 2020
+Jul;246:108728. doi: 10.1016/j.vetmic.2020.108728. Epub 2020 May 24. PMID:
+32605750.
+
+26: Hou L, Tong X, Pan Y, Shi R, Liu C, Guo J, Shi Y, Yang X, Wang Y, Feng X,
+Zhou J, Liu J. Seneca Valley Virus Enters PK-15 Cells via Caveolae-Mediated
+Endocytosis and Macropinocytosis Dependent on Low-pH, Dynamin, Rab5, and Rab7. J
+Virol. 2022 Dec 21;96(24):e0144622. doi: 10.1128/jvi.01446-22. Epub 2022 Dec 6.
+PMID: 36472440; PMCID: PMC9769397.
+
+27: Liu W, Li X, Zhang H, Hao G, Shang X, Wang H, Chen H, Qian P. Evaluation of
+Immunoreactivity and Protection Efficacy of Seneca Valley Virus Inactivated
+Vaccine in Finishing Pigs Based on Screening of Inactivated Agents and
+Adjuvants. Vaccines (Basel). 2022 Apr 18;10(4):631. doi:
+10.3390/vaccines10040631. PMID: 35455380; PMCID: PMC9032702.
+
+28: Wen W, Chen X, Lv Q, Chen H, Qian P, Li X. Identification of a conserved
+neutralizing epitope in Seneca Valley virus VP2 protein: new insight for epitope
+vaccine designment. Virol J. 2022 Apr 11;19(1):65. doi:
+10.1186/s12985-022-01791-5. PMID: 35410270; PMCID: PMC8995699.
+
+29: Wen W, Li X, Yin M, Wang H, Qin L, Li H, Liu W, Zhao Z, Zhao Q, Chen H, Hu
+J, Qian P. Selective autophagy receptor SQSTM1/ p62 inhibits Seneca Valley virus
+replication by targeting viral VP1 and VP3. Autophagy. 2021
+Nov;17(11):3763-3775. doi: 10.1080/15548627.2021.1897223. Epub 2021 Mar 14.
+PMID: 33719859; PMCID: PMC8632295.
+
+30: Wang H, Niu C, Nong Z, Quan D, Chen Y, Kang O, Huang W, Wei Z. Emergence and
+phylogenetic analysis of a novel Seneca Valley virus strain in the Guangxi
+Province of China. Res Vet Sci. 2020 Jun;130:207-211. doi:
+10.1016/j.rvsc.2020.03.020. Epub 2020 Mar 14. PMID: 32200161.
+
+31: Su B, Wang Y, Jian S, Tang H, Deng H, Zhu L, Zhao X, Liu J, Cheng H, Zhang
+L, Hu Y, Xu Z. <i>In vitro</i> and <i>in vivo</i> antiviral activity of
+monolaurin against <i>Seneca Valley virus</i>. Front Vet Sci. 2023 Jan
+27;10:980187. doi: 10.3389/fvets.2023.980187. PMID: 36777661; PMCID: PMC9911909.
+
+32: Huang X, Zhao Z, Zhu C, Chai L, Yan Y, Yuan Y, Wu L, Li M, Jiang X, Wang H,
+Liu Z, Li P, Li X. Species-specific IL-1β is an inflammatory sensor of Seneca
+Valley Virus 3C Protease. PLoS Pathog. 2024 Jul 22;20(7):e1012398. doi:
+10.1371/journal.ppat.1012398. PMID: 39038050; PMCID: PMC11293702.
+
+33: Deng H, Zhu S, Zhu L, Sun J, Ding Y, Li F, Jian Z, Zhao J, Deng L, Deng J,
+Deng Y, Guo H, Sun X, Lai SY, Tang H, Cui H, Ge LP, Xu Z. Mfn2 is responsible
+for inhibition of the RIG-I/IRF7 pathway and activation of NLRP3 inflammasome in
+Seneca Valley virus-infected PK-15 cells to promote viral replication. Front
+Immunol. 2022 Jul 25;13:955671. doi: 10.3389/fimmu.2022.955671. PMID: 35958608;
+PMCID: PMC9359100.
+
+34: Harrison OL, Bai J, Larson M, Pograninchniy RM, Domingues F, Holcombe N,
+Lopez O, Jones CK. Evaluation of formaldehyde when complete feed and soybean
+meal were inoculated with porcine epidemic diarrhea virus, porcine reproductive
+and respiratory syndrome virus, and Seneca Valley virus 1. Transl Anim Sci. 2024
+Aug 23;8:txae121. doi: 10.1093/tas/txae121. PMID: 39219715; PMCID: PMC11362987.
+
+35: Liu J, Zha Y, Li H, Sun Y, Wang F, Lu R, Ning Z. Novel Recombinant Seneca
+Valley Virus Isolated from Slaughtered Pigs in Guangdong Province. Virol Sin.
+2019 Dec;34(6):722-724. doi: 10.1007/s12250-019-00139-8. Epub 2019 Jun 25. PMID:
+31240619; PMCID: PMC6889089.
+
+36: Wang Y, Das A, Zheng W, Porter E, Xu L, Noll L, Liu X, Dodd K, Jia W, Bai J.
+Development and evaluation of multiplex real-time RT-PCR assays for the
+detection and differentiation of foot-and-mouth disease virus and Seneca Valley
+virus 1. Transbound Emerg Dis. 2020 Mar;67(2):604-616. doi: 10.1111/tbed.13373.
+Epub 2019 Oct 22. PMID: 31550077.
+
+37: Dong J, Rao D, He S, Jiao F, Yi B, Chen B, Leng C, Huang L. Emergence of a
+novel recombinant USA/GBI29/2015-like strain of Seneca Valley virus in Guangdong
+Province, 2018. Can J Vet Res. 2021 Jul;85(3):224-228. PMID: 34248268; PMCID:
+PMC8243795.

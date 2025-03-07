@@ -1,0 +1,59 @@
+1: Ito H. Plaque assay of Sendai virus in monolayers of a clonal line of porcine
+kidney cells. J Clin Microbiol. 1976 Feb;3(2):91-5. doi:
+10.1128/jcm.3.2.91-95.1976. PMID: 176175; PMCID: PMC274240.
+
+2: Zhdanov VM, Azadova NB. Vnutriiadernye predshestvenniki ribonukleoproteida
+virusa Sendaĭ [Intranuclear precursors of Sendai virus ribonucleoproteins]. Vopr
+Virusol. 1971 Sep-Oct;16(5):606-8. Russian. PMID: 4331686.
+
+3: Azadova NB, Zhdanov VM. Infektsionnost' ribonukleoproteida virusa sendaĭ [The
+infectivity of Sendai virus ribonucleoprotein]. Vopr Virusol. 1969 Jul-
+Aug;14(4):431-5. Russian. PMID: 4311348.
+
+4: Kobayashi Y, Shigyo M, Platoshyn O, Marsala S, Kato T Jr, Takamura N, Yoshida
+K, Kishino A, Bravo-Hernandez M, Juhas S, Juhasova J, Studenovska H, Proks V,
+Driscoll SP, Glenn TD, Pfaff SL, Ciacci JD, Marsala M. Expandable Sendai-Virus-
+Reprogrammed Human iPSC-Neuronal Precursors: <i>In Vivo</i> Post-Grafting Safety
+Characterization in Rats and Adult Pig. Cell Transplant. 2023 Jan-
+Dec;32:9636897221107009. doi: 10.1177/09636897221107009. PMID: 37088987; PMCID:
+PMC10134149.
+
+5: Charchoglian RA, Berdinskikh MS, Kosiakov PN. Novye antigeny, indutsirovannye
+virusom Sendaĭ v kletkakh razlichnoĭ vidovoĭ prinadlezhnosti [New antigens
+induced by Sendai virus in cells of different species]. Vopr Virusol. 1970 Mar-
+Apr;15(2):208-12. Russian. PMID: 4319416.
+
+6: Azadova NB, Kupradze SA, Zhdanov VM. Vliianie antineĭraminidaznoĭ syvorotki
+na reproduktsiiu virusa Sendaĭ [The effect of antineuraminidase serum on Sendai
+virus reproduction]. Vopr Virusol. 1971 Nov-Dec;16(6):665-70. Russian. PMID:
+4334837.
+
+7: Koseki I, Abuhab TG. Susceptibilidade ao vírus aftoso de células expostas
+previamente ao vírus sendai inativado [Cell susceptibility to FMDV by cell
+monolayers previously exposed to inactivated Sendai virus (author's transl)].
+Arq Inst Biol (Sao Paulo). 1974 Jul-Sep;41(3):105-13. Portuguese. PMID: 4374909.
+
+8: Bliumkin VN, Monastyreva LA, Bukrinskaia AG. Izmenenie mitoza v kul'turakh
+RES (klon 1), zarazhennykh virusom Sendai [Mitotic changes in RES (clone 1)
+cultures infected with Sendai virus]. Biull Eksp Biol Med. 1970 Jan;69(1):85-8.
+Russian. PMID: 4317212.
+
+9: Hikono H, Miyazaki A, Mase M, Inoue M, Hasegawa M, Saito T. Induction of a
+cross-reactive antibody response to influenza virus M2 antigen in pigs by using
+a Sendai virus vector. Vet Immunol Immunopathol. 2012 Mar 15;146(1):92-6. doi:
+10.1016/j.vetimm.2012.01.017. Epub 2012 Jan 26. PMID: 22336036.
+
+10: Kawashita Y, Fujioka H, Ohtsuru A, Kaneda Y, Kamohara Y, Kawazoe Y,
+Yamashita S, Kanematsu T. The efficacy and safety of gene transfer into the
+porcine liver in vivo by HVJ (Sendai virus) liposome. Transplantation. 2005 Dec
+15;80(11):1623-9. doi: 10.1097/01.tp.0000184447.88283.f3. PMID: 16371934.
+
+11: Kawashita Y, Ohtsuru A, Fujioka H, Kamohara Y, Kawazoe Y, Sugiyama N, Eguchi
+S, Kuroda H, Furui J, Yamashita S, Kaneda Y, Kanematsu T. Safe and efficient
+gene transfer into porcine hepatocytes using Sendai virus-cationic liposomes for
+bioartificial liver support. Artif Organs. 2000 Dec;24(12):932-8. doi:
+10.1046/j.1525-1594.2000.06631.x. PMID: 11121972.
+
+12: Pirtle EC. Hog cholera virus yields in swine kidney cells fused with beta-
+propiolactone-inactivated Sendai virus. Am J Vet Res. 1972 Jan;33(1):121-5.
+PMID: 4333634.

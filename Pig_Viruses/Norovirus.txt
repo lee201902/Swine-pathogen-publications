@@ -1,0 +1,120 @@
+1: Masuda A, Man Lee J, Miyata T, Sato S, Masuda A, Taniguchi M, Fujita R,
+Ushijima H, Morimoto K, Ebihara T, Hino M, Kakino K, Mon H, Kusakabe T. High
+yield production of norovirus GII.4 virus-like particles using silkworm pupae
+and evaluation of their protective immunogenicity. Vaccine. 2023 Jan
+16;41(3):766-777. doi: 10.1016/j.vaccine.2022.12.015. Epub 2022 Dec 15. PMID:
+36528444.
+
+2: Okada A, Inoshima Y. Near-Complete Genome Sequence of a Swine Norovirus
+GII.11 Strain Detected in Japan in 2018. Microbiol Resour Announc. 2020 Apr
+23;9(17):e00014-20. doi: 10.1128/MRA.00014-20. PMID: 32327514; PMCID:
+PMC7180268.
+
+3: Cavicchio L, Laconi A, Piccirillo A, Beato MS. Swine Norovirus: Past,
+Present, and Future. Viruses. 2022 Mar 5;14(3):537. doi: 10.3390/v14030537.
+PMID: 35336944; PMCID: PMC8953536.
+
+4: Cavicchio L, Tassoni L, Laconi A, Cunial G, Gagliazzo L, Milani A, Campalto
+M, Di Martino G, Forzan M, Monne I, Beato MS. Author Correction: Unrevealed
+genetic diversity of GII Norovirus in the swine population of North East Italy.
+Sci Rep. 2020 Jul 22;10(1):12522. doi: 10.1038/s41598-020-69599-3. Erratum for:
+Sci Rep. 2020 Jun 8;10(1):9217. doi: 10.1038/s41598-020-66140-4. PMID: 32694528;
+PMCID: PMC7374755.
+
+5: Koo ES, Jeong YS. Comparative study of the geographical spread of genogroup
+II porcine norovirus and human norovirus. J Microbiol. 2021 Jul;59(7):644-650.
+doi: 10.1007/s12275-021-1218-1. Epub 2021 Jul 1. PMID: 34212288.
+
+6: Dong HV, Tran GTH, Rattanasrisomporn A, Rungsuriyawiboon O, Rapichai W,
+Rattanasrisomporn J. Genetic detection and analysis of porcine norovirus in pigs
+farmed in north Vietnam. Heliyon. 2024 May 28;10(11):e31946. doi:
+10.1016/j.heliyon.2024.e31946. PMID: 38882286; PMCID: PMC11176758.
+
+7: Stamelou E, Giantsis IA, Papageorgiou KV, Petridou E, Davidson I,
+Polizopοulou ZS, Papa A, Kritas SK. Epidemiology of Astrovirus, Norovirus and
+Sapovirus in Greek pig farms indicates high prevalence of Mamastrovirus
+suggesting the potential need for systematic surveillance. Porcine Health Manag.
+2022 Jan 9;8(1):5. doi: 10.1186/s40813-021-00245-8. PMID: 35000615; PMCID:
+PMC8744241.
+
+8: Treagus S, Lowther J, Longdon B, Gaze W, Baker-Austin C, Ryder D, Batista FM.
+Metabarcoding of Hepatitis E Virus Genotype 3 and Norovirus GII from Wastewater
+Samples in England Using Nanopore Sequencing. Food Environ Virol. 2023
+Dec;15(4):292-306. doi: 10.1007/s12560-023-09569-w. Epub 2023 Nov 1. PMID:
+37910379; PMCID: PMC7615314.
+
+9: Matamoros DJP, Worsfold CS, Campos RC, Acuña HMB, Chacón EC, Sánchez CFJ.
+Molecular characterization of norovirus and sapovirus detected in animals and
+humans in Costa Rica: Zoo-anthropozoonotic potential of human norovirus GII.4.
+Open Vet J. 2023 Jan;13(1):74-89. doi: 10.5455/OVJ.2023.v13.i1.8. Epub 2023 Jan
+14. PMID: 36777439; PMCID: PMC9897497.
+
+10: Nagarajan V, Chen JS, Hsu BM, Hsu GJ, Wang JL, Hussain B. Prevalence,
+Distribution, and Genotypes of Adenovirus and Norovirus in the Puzi River and
+Its Tributaries and the Surrounding Areas in Taiwan. Geohealth. 2021 Dec
+1;5(12):e2021GH000465. doi: 10.1029/2021GH000465. PMID: 34977444; PMCID:
+PMC8686652.
+
+11: Giri-Rachman EA, Irasonia Tan M, Ramesh A, Fajar PA, Nurul Ilmi A,
+Retnoningrum DS, Hertadi R, Irawan A, Wojciechowska GEP, Yuan L. Development of
+Chimeric Hepatitis B (HBV) - Norovirus (NoV) P particle as candidate vaccine
+against Hepatitis B and norovirus infection. Vaccine X. 2023 Jul 11;14:100354.
+doi: 10.1016/j.jvacx.2023.100354. PMID: 37519778; PMCID: PMC10372314.
+
+12: Nyblade C, Yuan L. Virus Shedding and Diarrhea: A Review of Human Norovirus
+Genogroup II Infection in Gnotobiotic Pigs. Viruses. 2024 Sep 7;16(9):1432. doi:
+10.3390/v16091432. PMID: 39339908; PMCID: PMC11437449.
+
+13: Ludwig-Begall LF, Wielick C, Jolois O, Dams L, Razafimahefa RM, Nauwynck H,
+Demeuldre PF, Napp A, Laperre J, Thiry E, Haubruge E. "Don, doff, discard" to
+"don, doff, decontaminate"-FFR and mask integrity and inactivation of a SARS-
+CoV-2 surrogate and a norovirus following multiple vaporised hydrogen peroxide-,
+ultraviolet germicidal irradiation-, and dry heat decontaminations. PLoS One.
+2021 May 19;16(5):e0251872. doi: 10.1371/journal.pone.0251872. PMID: 34010337;
+PMCID: PMC8133425.
+
+14: Jung K, Wang Q, Chang KO, Saif LJ. Intestinal colonization with Escherichia
+fergusonii enhances infectivity of GII.12 human norovirus in gnotobiotic pigs.
+Virus Res. 2023 Oct 15;336:199219. doi: 10.1016/j.virusres.2023.199219. Epub
+2023 Sep 11. PMID: 37683935; PMCID: PMC10504090.
+
+15: Yasir A, Mahmood Y, Yaqoob MA, Zia UU, Munoz-Zanzi C, Alam MM, Warraich MA,
+Hassan Mushtaq M. Epidemiological investigation of norovirus infections in
+Punjab, Pakistan, through the One Health approach. Front Public Health. 2023 Mar
+14;11:1065105. doi: 10.3389/fpubh.2023.1065105. PMID: 37006581; PMCID:
+PMC10052407.
+
+16: Cavicchio L, Tassoni L, Laconi A, Cunial G, Gagliazzo L, Milani A, Campalto
+M, Di Martino G, Forzan M, Monne I, Beato MS. Unrevealed genetic diversity of
+GII Norovirus in the swine population of North East Italy. Sci Rep. 2020 Jun
+8;10(1):9217. doi: 10.1038/s41598-020-66140-4. Erratum in: Sci Rep. 2020 Jul
+22;10(1):12522. doi: 10.1038/s41598-020-69599-3. PMID: 32513947; PMCID:
+PMC7280493.
+
+17: Kocher J, Castellucci TB, Wen K, Li G, Yang X, Lei S, Jiang X, Yuan L.
+Simvastatin Reduces Protection and Intestinal T Cell Responses Induced by a
+Norovirus P Particle Vaccine in Gnotobiotic Pigs. Pathogens. 2021 Jul
+1;10(7):829. doi: 10.3390/pathogens10070829. PMID: 34357979; PMCID: PMC8308729.
+
+18: Park BJ, Ahn HS, Han SH, Go HJ, Kim DH, Choi C, Jung S, Myoung J, Lee JB,
+Park SY, Song CS, Lee SW, Lee HT, Choi IS. Analysis of the Immune Responses in
+the Ileum of Gnotobiotic Pigs Infected with the Recombinant GII.p12_GII.3 Human
+Norovirus by mRNA Sequencing. Viruses. 2021 Jan 11;13(1):92. doi:
+10.3390/v13010092. PMID: 33440894; PMCID: PMC7826840.
+
+19: Liang Z, Zhang M, Wang Y, Koroma MM, Yu J, Zhou F, Jing D, Li J, Tang S,
+Chen Q, Dai YC. Development and evaluation of a new luciferase immunosorbent
+assay to detect GII.6 norovirus-specific IgG in different domestic and wild
+animals. Front Microbiol. 2023 Jul 20;14:1213007. doi:
+10.3389/fmicb.2023.1213007. PMID: 37547694; PMCID: PMC10399220.
+
+20: Suresh M, Harlow J, Nasheri N. Evaluation of porcine gastric mucin assay for
+detection and quantification of human norovirus in fresh herbs and leafy
+vegetables. Food Microbiol. 2019 Dec;84:103254. doi: 10.1016/j.fm.2019.103254.
+Epub 2019 Jun 28. PMID: 31421755.
+
+21: Ramesh AK, Parreño V, Schmidt PJ, Lei S, Zhong W, Jiang X, Emelko MB, Yuan
+L. Evaluation of the 50% Infectious Dose of Human Norovirus Cin-2 in Gnotobiotic
+Pigs: A Comparison of Classical and Contemporary Methods for Endpoint
+Estimation. Viruses. 2020 Aug 28;12(9):955. doi: 10.3390/v12090955. PMID:
+32872283; PMCID: PMC7552045.

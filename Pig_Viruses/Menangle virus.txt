@@ -1,0 +1,52 @@
+1: Kirkland PD, Love RJ, Philbey AW, Ross AD, Davis RJ, Hart KG. Epidemiology
+and control of Menangle virus in pigs. Aust Vet J. 2001 Mar;79(3):199-206. doi:
+10.1111/j.1751-0813.2001.tb14580.x. PMID: 11301749.
+
+2: Bowden TR, Westenberg M, Wang LF, Eaton BT, Boyle DB. Molecular
+characterization of Menangle virus, a novel paramyxovirus which infects pigs,
+fruit bats, and humans. Virology. 2001 May 10;283(2):358-73. doi:
+10.1006/viro.2001.0893. PMID: 11336561.
+
+3: Love RJ, Philbey AW, Kirkland PD, Ross AD, Davis RJ, Morrissey C, Daniels PW.
+Reproductive disease and congenital malformations caused by Menangle virus in
+pigs. Aust Vet J. 2001 Mar;79(3):192-8. doi: 10.1111/j.1751-0813.2001.tb14578.x.
+PMID: 11301748.
+
+4: Philbey AW, Ross AD, Kirkland PD, Love RJ. Skeletal and neurological
+malformations in pigs congenitally infected with Menangle virus. Aust Vet J.
+2007 Apr;85(4):134-40. doi: 10.1111/j.1751-0813.2007.00131.x. PMID: 17397383.
+
+5: Bowden TR, Bingham J, Harper JA, Boyle DB. Menangle virus, a pteropid bat
+paramyxovirus infectious for pigs and humans, exhibits tropism for secondary
+lymphoid organs and intestinal epithelium in weaned pigs. J Gen Virol. 2012
+May;93(Pt 5):1007-1016. doi: 10.1099/vir.0.038448-0. Epub 2012 Jan 25. PMID:
+22278823.
+
+6: Shiell BJ, Beddome G, Michalski WP. Mass spectrometric identification and
+characterisation of the nucleocapsid protein of Menangle virus. J Virol Methods.
+2002 Apr;102(1-2):27-35. doi: 10.1016/s0166-0934(01)00441-4. PMID: 11879690.
+
+7: Barr JA, Smith C, Marsh GA, Field H, Wang LF. Evidence of bat origin for
+Menangle virus, a zoonotic paramyxovirus first isolated from diseased pigs. J
+Gen Virol. 2012 Dec;93(Pt 12):2590-2594. doi: 10.1099/vir.0.045385-0. Epub 2012
+Aug 22. PMID: 22915696.
+
+8: Hooper PT. Identification and eradication of Menangle virus from pigs. Aust
+Vet J. 2001 Mar;79(3):190-1. doi: 10.1111/j.1751-0813.2001.tb14576.x. PMID:
+11301747.
+
+9: Zvirbliene A, Kucinskaite-Kodze I, Juozapaitis M, Lasickiene R, Gritenaite D,
+Russell G, Bingham J, Michalski WP, Sasnauskas K. Novel monoclonal antibodies
+against Menangle virus nucleocapsid protein. Arch Virol. 2010;155(1):13-8. doi:
+10.1007/s00705-009-0543-1. Epub 2009 Nov 8. PMID: 19898771.
+
+10: Juozapaitis M, Serva A, Kucinskaite I, Zvirbliene A, Slibinskas R, Staniulis
+J, Sasnauskas K, Shiell BJ, Bowden TR, Michalski WP. Generation of menangle
+virus nucleocapsid-like particles in yeast Saccharomyces cerevisiae. J
+Biotechnol. 2007 Jul 15;130(4):441-7. doi: 10.1016/j.jbiotec.2007.05.013. Epub
+2007 May 24. PMID: 17602774.
+
+11: Bowden TR, Boyle DB. Completion of the full-length genome sequence of
+Menangle virus: characterisation of the polymerase gene and genomic 5' trailer
+region. Arch Virol. 2005 Oct;150(10):2125-37. doi: 10.1007/s00705-005-0552-7.
+Epub 2005 May 23. PMID: 15906105.

@@ -1,0 +1,17 @@
+1: Frías M, Fischer K, Castro-Scholten S, Bost C, Cano-Terriza D, Risalde MÁ,
+Acevedo P, Jiménez-Ruiz S, Sadeghi B, Groschup MH, Caballero-Gómez J, García-
+Bocanegra I. Epidemiologic Survey of Crimean-Congo Hemorrhagic Fever Virus in
+Suids, Spain. Emerg Infect Dis. 2024 May;30(5):984-990. doi:
+10.3201/eid3005.240074. PMID: 38666621; PMCID: PMC11060457.
+
+2: Bost C, Castro-Scholten S, Sadeghi B, Cano-Terriza D, Frías M, Jiménez-Ruiz
+S, Groschup MH, García-Bocanegra I, Fischer K. Approaching the complexity of
+Crimean-Congo hemorrhagic fever virus serology: A study in swine. J Virol
+Methods. 2024 May;326:114915. doi: 10.1016/j.jviromet.2024.114915. Epub 2024 Mar
+12. PMID: 38479590.
+
+3: Sas MA, Comtet L, Donnet F, Mertens M, Vatansever Z, Tordo N, Pourquier P,
+Groschup MH. A novel double-antigen sandwich ELISA for the species-independent
+detection of Crimean-Congo hemorrhagic fever virus-specific antibodies.
+Antiviral Res. 2018 Mar;151:24-26. doi: 10.1016/j.antiviral.2018.01.006. Epub
+2018 Jan 9. PMID: 29330092.

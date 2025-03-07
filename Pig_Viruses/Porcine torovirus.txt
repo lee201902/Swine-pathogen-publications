@@ -1,0 +1,35 @@
+1: Hu ZM, Yang YL, Xu LD, Wang B, Qin P, Huang YW. Porcine Torovirus (PToV)-A
+Brief Review of Etiology, Diagnostic Assays and Current Epidemiology. Front Vet
+Sci. 2019 Apr 18;6:120. doi: 10.3389/fvets.2019.00120. PMID: 31058174; PMCID:
+PMC6482245.
+
+2: Xu S, Zhou J, Chen Y, Tong X, Wang Z, Guo J, Chen J, Fang L, Wang D, Xiao S.
+Characterization of Self-Processing Activities and Substrate Specificities of
+Porcine Torovirus 3C-Like Protease. J Virol. 2020 Sep 29;94(20):e01282-20. doi:
+10.1128/JVI.01282-20. PMID: 32727876; PMCID: PMC7527039.
+
+3: Fujii Y, Kashima Y, Sunaga F, Aoki H, Imai R, Sano K, Katayama Y, Omatsu T,
+Oba M, Furuya T, Tsuzuku S, Ouchi Y, Shirai J, Mizutani T, Oka T, Nagai M.
+Complete genome sequencing and genetic analysis of a Japanese porcine torovirus
+strain detected in swine feces. Arch Virol. 2020 Feb;165(2):471-477. doi:
+10.1007/s00705-019-04514-4. Epub 2019 Dec 20. PMID: 31863265.
+
+4: Liu X, Zhou Y, Yang F, Liu P, Cai Y, Huang J, Zhu L, Xu Z. Rapid and
+sensitive detection of porcine torovirus by a reverse transcription loop-
+mediated isothermal amplification assay (RT-LAMP). J Virol Methods. 2016
+Feb;228:103-7. doi: 10.1016/j.jviromet.2015.11.009. Epub 2015 Nov 22. PMID:
+26611229.
+
+5: Qin P, Yang YL, Hu ZM, Zhang YQ, Mei XQ, Liang QZ, Lu Z, Wang B, Chen R,
+Huang YW. A novel spike subunit 1-based enzyme-linked immunosorbent assay
+reveals widespread porcine torovirus infection in eastern China. Transbound
+Emerg Dis. 2022 Mar;69(2):598-608. doi: 10.1111/tbed.14026. Epub 2021 Mar 9.
+PMID: 33555108.
+
+6: Imai R, Nagai M, Oba M, Sakaguchi S, Ujike M, Kimura R, Kida M, Masuda T,
+Kuroda M, Wen R, Li K, Katayama Y, Naoi Y, Tsuchiaka S, Omatsu T, Yamazato H,
+Makino S, Mizutani T. A novel defective recombinant porcine enterovirus G virus
+carrying a porcine torovirus papain-like cysteine protease gene and a putative
+anti-apoptosis gene in place of viral structural protein genes. Infect Genet
+Evol. 2019 Nov;75:103975. doi: 10.1016/j.meegid.2019.103975. Epub 2019 Jul 22.
+PMID: 31344488; PMCID: PMC7105976.

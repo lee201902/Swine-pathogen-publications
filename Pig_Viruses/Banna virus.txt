@@ -1,0 +1,9 @@
+1: Liu H, Li MH, Zhai YG, Meng WS, Sun XH, Cao YX, Fu SH, Wang HY, Xu LH, Tang
+Q, Liang GD. Banna virus, China, 1987-2007. Emerg Infect Dis. 2010
+Mar;16(3):514-7. doi: 10.3201/eid1603.091160. PMID: 20202434; PMCID: PMC3322026.
+
+2: Mia MM, Hasan M, Hasan MM, Khan SS, Rahman MN, Ahmed S, Basak A, Sakib MN,
+Banik S. Multi-epitope based subunit vaccine construction against Banna virus
+targeting on two outer proteins (VP4 and VP9): A computational approach. Infect
+Genet Evol. 2021 Nov;95:105076. doi: 10.1016/j.meegid.2021.105076. Epub 2021 Sep
+6. PMID: 34500093.

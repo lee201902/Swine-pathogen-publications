@@ -1,0 +1,150 @@
+1: Liu R, Sheng Z, Huang C, Wang D, Li F. Influenza D virus. Curr Opin Virol.
+2020 Oct;44:154-161. doi: 10.1016/j.coviro.2020.08.004. Epub 2020 Sep 12. PMID:
+32932215; PMCID: PMC7755673.
+
+2: Yu J, Wen Z, Hu W, Chen M, Zhang Y, Liu S, Wang G, Wang Z, Wang D, Zhai SL,
+Wei WK, Li T, Liao M. Influenza D virus infection in China, 2022-2023. Emerg
+Microbes Infect. 2024 Dec;13(1):2343907. doi: 10.1080/22221751.2024.2343907.
+Epub 2024 May 15. PMID: 38738553; PMCID: PMC11097708.
+
+3: He WT, Lu M, Xing G, Shao Y, Zhang M, Yang Y, Li X, Zhang L, Li G, Cao Z, Su
+S, Veit M, He H. Emergence and adaptive evolution of influenza D virus. Microb
+Pathog. 2021 Nov;160:105193. doi: 10.1016/j.micpath.2021.105193. Epub 2021 Sep
+16. PMID: 34536503.
+
+4: Goecke NB, Liang Y, Otten ND, Hjulsager CK, Larsen LE. Characterization of
+Influenza D Virus in Danish Calves. Viruses. 2022 Feb 18;14(2):423. doi:
+10.3390/v14020423. PMID: 35216016; PMCID: PMC8880214.
+
+5: Lim EH, Lim SI, Kim MJ, Kwon M, Kim MJ, Lee KB, Choe S, An DJ, Hyun BH, Park
+JY, Bae YC, Jeoung HY, Lee KK, Lee YH. First Detection of Influenza D Virus
+Infection in Cattle and Pigs in the Republic of Korea. Microorganisms. 2023 Jul
+5;11(7):1751. doi: 10.3390/microorganisms11071751. PMID: 37512923; PMCID:
+PMC10386134.
+
+6: Umar S, Ma MJ, Gray GC. Influenza D virus was not detected among
+prospectively studied swine farm in multiple provinces of China. Influenza Other
+Respir Viruses. 2023 Nov 12;17(11):e13223. doi: 10.1111/irv.13223. PMID:
+37964987; PMCID: PMC10640961.
+
+7: Trombetta CM, Montomoli E, Di Bartolo I, Ostanello F, Chiapponi C, Marchi S.
+Detection of antibodies against influenza D virus in swine veterinarians in
+Italy in 2004. J Med Virol. 2022 Jun;94(6):2855-2859. doi: 10.1002/jmv.27466.
+Epub 2021 Nov 27. PMID: 34811769; PMCID: PMC9299042.
+
+8: Gaudino M, Chiapponi C, Moreno A, Zohari S, O'Donovan T, Quinless E, Sausy A,
+Oliva J, Salem E, Fusade-Boyer M, Meyer G, Hübschen JM, Saegerman C, Ducatez MF,
+Snoeck CJ. Evolutionary and temporal dynamics of emerging influenza D virus in
+Europe (2009-22). Virus Evol. 2022 Sep 1;8(2):veac081. doi: 10.1093/ve/veac081.
+PMID: 36533151; PMCID: PMC9752663.
+
+9: Yu J, Li F, Wang D. The first decade of research advances in influenza D
+virus. J Gen Virol. 2021 Jan;102(1):jgv001529. doi: 10.1099/jgv.0.001529. PMID:
+33211641; PMCID: PMC8279278.
+
+10: Molini U, Curini V, Jacobs E, Tongo E, Berjaoui S, Hemberger MY, Puglia I,
+Jago M, Khaiseb S, Cattoli G, Dundon WG, Lorusso A, Di Giallonardo F. First
+influenza D virus full-genome sequence retrieved from livestock in Namibia,
+Africa. Acta Trop. 2022 Aug;232:106482. doi: 10.1016/j.actatropica.2022.106482.
+Epub 2022 May 7. PMID: 35537488.
+
+11: Sanogo IN, Kouakou C, Batawui K, Djegui F, Byarugaba DK, Adjin R, Adjabli K,
+Wabwire-Mangen F, Erima B, Atim G, Ukuli QA, Tugume T, Dogno K, Go-Maro W,
+Couacy-Hymann E, Kayali G, McKenzie P, Webby RJ, Ducatez MF. Serological
+Surveillance of Influenza D Virus in Ruminants and Swine in West and East
+Africa, 2017-2020. Viruses. 2021 Sep 2;13(9):1749. doi: 10.3390/v13091749. PMID:
+34578330; PMCID: PMC8473344.
+
+12: Farrell AS, Bui VN, Dao TD, Hoang TD, Gray GC. No influenza D virus detected
+among pigs, northern Vietnam. Influenza Other Respir Viruses. 2021
+Mar;15(2):315-317. doi: 10.1111/irv.12812. Epub 2020 Sep 21. PMID: 32959521;
+PMCID: PMC7902251.
+
+13: Guan M, Jacobson O, Sarafianos G, Baroch J, Deliberto TJ, Wan XF. Exposure
+of white-tailed deer in North America to influenza D virus. Virology. 2022
+Aug;573:111-117. doi: 10.1016/j.virol.2022.06.007. Epub 2022 Jun 17. PMID:
+35751973.
+
+14: Robinson E, Schulein C, Jacobson BT, Jones K, Sago J, Huber V, Jutila M,
+Bimczok D, Rynda-Apple A. Pathophysiology of Influenza D Virus Infection in
+Specific-Pathogen-Free Lambs with or without Prior <i>Mycoplasma
+ovipneumoniae</i> Exposure. Viruses. 2022 Jun 28;14(7):1422. doi:
+10.3390/v14071422. PMID: 35891403; PMCID: PMC9321583.
+
+15: Oliva J, Mettier J, Sedano L, Delverdier M, Bourgès-Abella N, Hause B,
+Loupias J, Pardo I, Bleuart C, Bordignon PJ, Meunier E, Le Goffic R, Meyer G,
+Ducatez MF. Murine Model for the Study of Influenza D Virus. J Virol. 2020 Jan
+31;94(4):e01662-19. doi: 10.1128/JVI.01662-19. PMID: 31776281; PMCID:
+PMC6997775.
+
+16: Kaplan BS, Falkenberg S, Dassanayake R, Neill J, Velayudhan B, Li F, Vincent
+AL. Virus strain influenced the interspecies transmission of influenza D virus
+between calves and pigs. Transbound Emerg Dis. 2021 Nov;68(6):3396-3404. doi:
+10.1111/tbed.13943. Epub 2021 Jan 7. PMID: 33259672.
+
+17: Gaudino M, Moreno A, Snoeck CJ, Zohari S, Saegerman C, O'Donovan T, Ryan E,
+Zanni I, Foni E, Sausy A, Hübschen JM, Meyer G, Chiapponi C, Ducatez MF.
+Emerging Influenza D virus infection in European livestock as determined in
+serology studies: Are we underestimating its spread over the continent?
+Transbound Emerg Dis. 2021 May;68(3):1125-1135. doi: 10.1111/tbed.13812. Epub
+2020 Sep 18. PMID: 32871031.
+
+18: Alvarez IJ, Fort M, Pasucci J, Moreno F, Gimenez H, Näslund K, Hägglund S,
+Zohari S, Valarcher JF. Seroprevalence of influenza D virus in bulls in
+Argentina. J Vet Diagn Invest. 2020 Jul;32(4):585-588. doi:
+10.1177/1040638720934056. Epub 2020 Jun 18. PMID: 32552516; PMCID: PMC7438650.
+
+19: Gorin S, Richard G, Hervé S, Eveno E, Blanchard Y, Jardin A, Rose N, Simon
+G. Characterization of Influenza D Virus Reassortant Strain in Swine from Mixed
+Pig and Beef Farm, France. Emerg Infect Dis. 2024 Aug;30(8):1672-1676. doi:
+10.3201/eid3008.240089. PMID: 39043445; PMCID: PMC11286067.
+
+20: Trombetta CM, Marchi S, Manini I, Kistner O, Li F, Piu P, Manenti A, Biuso
+F, Sreenivasan C, Druce J, Montomoli E. Influenza D Virus: Serological Evidence
+in the Italian Population from 2005 to 2017. Viruses. 2019 Dec 27;12(1):30. doi:
+10.3390/v12010030. PMID: 31892120; PMCID: PMC7019439.
+
+21: Guan M, Blackmon S, Olivier AK, Zhang X, Liu L, Woolums A, Crenshaw MA, Liao
+SF, Webby R, Epperson W, Wan XF. Time-Dependent Proinflammatory Responses Shape
+Virus Interference during Coinfections of Influenza A Virus and Influenza D
+Virus. Viruses. 2022 Jan 24;14(2):224. doi: 10.3390/v14020224. PMID: 35215819;
+PMCID: PMC8878573.
+
+22: Holwerda M, Laloli L, Wider M, Schönecker L, Becker J, Meylan M, Dijkman R.
+Establishment of a Reverse Genetic System from a Bovine Derived Influenza D
+Virus Isolate. Viruses. 2021 Mar 18;13(3):502. doi: 10.3390/v13030502. PMID:
+33803792; PMCID: PMC8003313.
+
+23: Fusade-Boyer M, Pato PS, Komlan M, Dogno K, Batawui K, Go-Maro E, McKenzie
+P, Guinat C, Secula A, Paul M, Webby RJ, Tran A, Waret-Szkuta A, Ducatez MF.
+Risk Mapping of Influenza D Virus Occurrence in Ruminants and Swine in Togo
+Using a Spatial Multicriteria Decision Analysis Approach. Viruses. 2020 Jan
+21;12(2):128. doi: 10.3390/v12020128. PMID: 31973026; PMCID: PMC7077333.
+
+24: Gorin S, Fablet C, Quéguiner S, Barbier N, Paboeuf F, Hervé S, Rose N, Simon
+G. Assessment of Influenza D Virus in Domestic Pigs and Wild Boars in France:
+Apparent Limited Spread within Swine Populations Despite Serological Evidence of
+Breeding Sow Exposure. Viruses. 2019 Dec 24;12(1):25. doi: 10.3390/v12010025.
+PMID: 31878133; PMCID: PMC7019313.
+
+25: Lanave G, Camero M, Coppola C, Marchi S, Cascone G, Salina F, Coltraro M,
+Odigie AE, Montomoli E, Chiapponi C, Cicirelli V, Martella V, Trombetta CM.
+Serological Evidence for Circulation of Influenza D Virus in the Ovine
+Population in Italy. Pathogens. 2024 Feb 11;13(2):162. doi:
+10.3390/pathogens13020162. PMID: 38392900; PMCID: PMC10892703.
+
+26: Yan Z, Wang R, Zhang L, Shen B, Wang N, Xu Q, He W, He W, Li G, Su S.
+Evolutionary changes of the novel Influenza D virus hemagglutinin-esterase
+fusion gene revealed by the codon usage pattern. Virulence. 2019 Dec;10(1):1-9.
+doi: 10.1080/21505594.2018.1551708. PMID: 30475085; PMCID: PMC6298762.
+
+27: Yu J, Huang C, Sheng Z, Wang Z, Li F, Wang D. Identification of One Critical
+Amino Acid Residue of the Nucleoprotein as a Determinant for <i>In Vitro</i>
+Replication Fitness of Influenza D Virus. J Virol. 2021 Aug 25;95(18):e0097121.
+doi: 10.1128/JVI.00971-21. Epub 2021 Aug 25. PMID: 34190601; PMCID: PMC8387045.
+
+28: Huang C, Yu J, Hause BM, Park JY, Sreenivasan C, Uprety T, Sheng Z, Wang D,
+Li F. Emergence of new phylogenetic lineage of Influenza D virus with broad
+antigenicity in California, United States. Emerg Microbes Infect. 2021
+Dec;10(1):739-742. doi: 10.1080/22221751.2021.1910078. PMID: 33771071; PMCID:
+PMC8043534.

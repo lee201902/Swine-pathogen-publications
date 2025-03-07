@@ -1,0 +1,80 @@
+1: Park SL, Huang YS, Vanlandingham DL. Re-Examining the Importance of Pigs in
+the Transmission of Japanese Encephalitis Virus. Pathogens. 2022 May
+13;11(5):575. doi: 10.3390/pathogens11050575. PMID: 35631096; PMCID: PMC9146973.
+
+2: Adeleke R, Olanipekun T, Abiola J, Aluko A, Sule W, Oluwayelu D. Serological
+Investigation of Japanese Encephalitis Virus Infection in Commercially Reared
+Pigs, Southwestern Nigeria. Vet Ital. 2023 Dec 31;59(4). doi:
+10.12834/VetIt.3021.20221.2. PMID: 38756025.
+
+3: Marti A, Nater A, Pego Magalhaes J, Almeida L, Lewandowska M, Liniger M,
+Ruggli N, Grau-Roma L, Brito F, Alnaji FG, Vignuzzi M, García-Nicolás O,
+Summerfield A. Fitness adaptations of Japanese encephalitis virus in pigs
+following vector-free serial passaging. PLoS Pathog. 2024 Aug 26;20(8):e1012059.
+doi: 10.1371/journal.ppat.1012059. PMID: 39186783; PMCID: PMC11379391.
+
+4: Ballav S, Biswas AK, Saha P, Guha U, Pramanik T, Maji AK, Guha SK. Japanese
+Encephalitis Virus Infection among Wild Caught Vectors Mosquitoes and Domestic
+Pigs in Northern West Bengal, India. Indian J Public Health. 2023 Oct
+1;67(4):646-653. doi: 10.4103/ijph.ijph_1734_22. Epub 2023 Dec 29. PMID:
+38934834.
+
+5: Zhang Y, Li Y, Guan Z, Yang Y, Zhang J, Sun Q, Li B, Qiu Y, Liu K, Shao D, Ma
+Z, Wei J, Li P. Rapid Differential Detection of Japanese Encephalitis Virus and
+Getah Virus in Pigs or Mosquitos by a Duplex TaqMan Real-Time RT-PCR Assay.
+Front Vet Sci. 2022 Apr 7;9:839443. doi: 10.3389/fvets.2022.839443. PMID:
+35464361; PMCID: PMC9023051.
+
+6: Tang Q, Deng Z, Tan S, Song G, Zhang H, Ge L. Prevalence and Genetic
+Characteristics of Japanese Encephalitis Virus among Mosquitoes and Pigs in
+Hunan Province, China from 2019 to 2021. J Microbiol Biotechnol. 2022 Sep
+28;32(9):1120-1125. doi: 10.4014/jmb.2207.07068. Epub 2022 Aug 24. PMID:
+36116917; PMCID: PMC9628968.
+
+7: Walsh MG, Pattanaik A, Vyas N, Saxena D, Webb C, Sawleshwarkar S,
+Mukhopadhyay C. High-risk landscapes of Japanese encephalitis virus outbreaks in
+India converge on wetlands, rain-fed agriculture, wild Ardeidae, and domestic
+pigs and chickens. Int J Epidemiol. 2022 Oct 13;51(5):1408-1418. doi:
+10.1093/ije/dyac050. PMID: 35355081; PMCID: PMC9557850.
+
+8: Van den Eynde C, Sohier C, Matthijs S, De Regge N. Belgian <i>Anopheles
+plumbeus</i> Mosquitoes Are Competent for Japanese Encephalitis Virus and
+Readily Feed on Pigs, Suggesting a High Vectorial Capacity. Microorganisms. 2023
+May 25;11(6):1386. doi: 10.3390/microorganisms11061386. PMID: 37374888; PMCID:
+PMC10303158.
+
+9: Kumar HBC, Dhanze H, Bhilegaonkar KN, Chakurkar EB, Kumar A, Yathish HM.
+Serological evidence of Japanese encephalitis virus infection in pigs in a low
+human incidence state, Goa, India. Prev Vet Med. 2020 Feb;175:104882. doi:
+10.1016/j.prevetmed.2020.104882. Epub 2020 Jan 3. PMID: 31945550.
+
+10: Raut AA, Aasdev A, Mishra A, Dutta B, Bharali A, Konwar N, Dubey CK,
+Chingtham S, Pawar SD, Raghuvanshi R, Sakhrie A, Sen A, Patil SS, Singh VP,
+Barman NN. Detection of coinfection of a divergent subgroup of genotype I
+Japanese encephalitis virus in multiple classical swine fever virus outbreaks in
+pigs of Assam, India. Transbound Emerg Dis. 2021 Jul;68(4):2622-2627. doi:
+10.1111/tbed.13903. Epub 2020 Nov 17. PMID: 33124192.
+
+11: Redant V, Favoreel HW, Dallmeier K, Van Campe W, De Regge N. Efficient
+control of Japanese encephalitis virus in the central nervous system of infected
+pigs occurs in the absence of a pronounced inflammatory immune response. J
+Neuroinflammation. 2020 Oct 23;17(1):315. doi: 10.1186/s12974-020-01974-3. PMID:
+33097065; PMCID: PMC7585311.
+
+12: Kikuchi F, Hayashi A, Yamada K, Matsui Y, Shimbashi R, Noguchi Y, Tachibana
+K, Mizutani T, Tokaji A, Yoshikawa A, Ihara M, Oishi K, Kamiya H, Arai S, Suzuki
+M. The Role of Wild Boar as Host of Japanese Encephalitis Virus in the Absence
+of Domestic Pigs. Viruses. 2024 Aug 9;16(8):1273. doi: 10.3390/v16081273. PMID:
+39205248; PMCID: PMC11360753.
+
+13: Zhang R, Liu Y, Li J, Mi L, You L, Wang Y, You L, Yue H, Sui H, Fu L, Zhang
+N, Zhao J. Comment on serological evidence of Japanese encephalitis virus
+infection in pigs in a low human incidence state, Goa, India. Prev Vet Med. 2020
+Jun;179:104944. doi: 10.1016/j.prevetmed.2020.104944. Epub 2020 Feb 29. PMID:
+32173070.
+
+14: Chethan Kumar HB, Dhanze H, Bhilegaonkar KN, Chakurkar EB, Kumar A, Yathish
+HM. Reply to commentary on Serological evidence of Japanese encephalitis virus
+infection in pigs in a low human incidence state, Goa, India. Prev Vet Med. 2020
+Apr;177:104945. doi: 10.1016/j.prevetmed.2020.104945. Epub 2020 Mar 3. PMID:
+32213450.

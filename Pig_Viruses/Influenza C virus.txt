@@ -1,0 +1,79 @@
+1: Wang M, Veit M. Hemagglutinin-esterase-fusion (HEF) protein of influenza C
+virus. Protein Cell. 2016 Jan;7(1):28-45. doi: 10.1007/s13238-015-0193-x. Epub
+2015 Jul 28. PMID: 26215728; PMCID: PMC4707155.
+
+2: Smith DB, Gaunt ER, Digard P, Templeton K, Simmonds P. Detection of influenza
+C virus but not influenza D virus in Scottish respiratory samples. J Clin Virol.
+2016 Jan;74:50-3. doi: 10.1016/j.jcv.2015.11.036. Epub 2015 Nov 28. PMID:
+26655269; PMCID: PMC4710576.
+
+3: Zhang W, Zhang L, He W, Zhang X, Wen B, Wang C, Xu Q, Li G, Zhou J, Veit M,
+Su S. Genetic Evolution and Molecular Selection of the HE Gene of Influenza C
+Virus. Viruses. 2019 Feb 19;11(2):167. doi: 10.3390/v11020167. PMID: 30791465;
+PMCID: PMC6409753.
+
+4: Kimura H, Abiko C, Peng G, Muraki Y, Sugawara K, Hongo S, Kitame F, Mizuta K,
+Numazaki Y, Suzuki H, Nakamura K. Interspecies transmission of influenza C virus
+between humans and pigs. Virus Res. 1997 Apr;48(1):71-9. doi:
+10.1016/s0168-1702(96)01427-x. PMID: 9140195.
+
+5: Qu Y, Guo X, Han J, Zhang Z, Wang X. [Purification of influenza C virus
+polymerase based on huANP32A protein and efficient preparation of monoclonal
+antibody targeting PB2 protein]. Sheng Wu Gong Cheng Xue Bao. 2022 Aug
+25;38(8):3041-3048. Chinese. doi: 10.13345/j.cjb.220201. PMID: 36002430.
+
+6: Yamaoka M, Hotta H, Itoh M, Homma M. Prevalence of antibody to influenza C
+virus among pigs in Hyogo Prefecture, Japan. J Gen Virol. 1991 Mar;72 ( Pt
+3):711-4. doi: 10.1099/0022-1317-72-3-711. PMID: 1848603.
+
+7: Speranskaia AS, Mel'nikova NV, Belenkin MS, Dmitriev AA, Oparina NIu,
+Kudriavtseva AV. [Genetic diversity and evolution of the influenza C virus].
+Genetika. 2012 Jul;48(7):797-805. Russian. PMID: 22988765.
+
+8: Ohwada K, Kitame F, Sugawara K, Nishimura H, Homma M, Nakamura K.
+Distribution of the antibody to influenza C virus in dogs and pigs in Yamagata
+Prefecture, Japan. Microbiol Immunol. 1987;31(12):1173-80. doi:
+10.1111/j.1348-0421.1987.tb01351.x. PMID: 2836710.
+
+9: Zimmer G, Reuter G, Schauer R. Use of influenza C virus for detection of
+9-O-acetylated sialic acids on immobilized glycoconjugates by esterase activity.
+Eur J Biochem. 1992 Feb 15;204(1):209-15. doi:
+10.1111/j.1432-1033.1992.tb16626.x. PMID: 1740131.
+
+10: Buonagurio DA, Nakada S, Desselberger U, Krystal M, Palese P. Noncumulative
+sequence changes in the hemagglutinin genes of influenza C virus isolates.
+Virology. 1985 Oct 30;146(2):221-32. doi: 10.1016/0042-6822(85)90006-6. PMID:
+3855244.
+
+11: Guo YJ, Jin FG, Wang P, Wang M, Zhu JM. Isolation of influenza C virus from
+pigs and experimental infection of pigs with influenza C virus. J Gen Virol.
+1983 Jan;64 (Pt 1):177-82. doi: 10.1099/0022-1317-64-1-177. PMID: 6296296.
+
+12: Muñoz-Barroso I, García-Sastre A, Villar E, Manuguerra JC, Hannoun C,
+Cabezas JA. Increased influenza A virus sialidase activity with
+N-acetyl-9-O-acetylneuraminic acid-containing substrates resulting from
+influenza C virus O-acetylesterase action. Virus Res. 1992 Sep 1;25(1-2):145-53.
+doi: 10.1016/0168-1702(92)90106-j. PMID: 1413991; PMCID: PMC7173336.
+
+13: Schultze B, Gross HJ, Brossmer R, Klenk HD, Herrler G. Hemagglutinating
+encephalomyelitis virus attaches to N-acetyl-9-O-acetylneuraminic acid-
+containing receptors on erythrocytes: comparison with bovine coronavirus and
+influenza C virus. Virus Res. 1990 Jun;16(2):185-94. doi:
+10.1016/0168-1702(90)90022-4. PMID: 2385959; PMCID: PMC7134004.
+
+14: Chakraverty P. The detection and multiplication of influenza C virus in
+tissue culture. J Gen Virol. 1974 Dec;25(3):421-5. doi:
+10.1099/0022-1317-25-3-421. PMID: 4475095.
+
+15: Youzbashi E, Marschall M, Chaloupka I, Meier-Ewert H. Verbreitung der
+Influenza-C-Virus-Infektion bei Hunden und Schweinen in Bayern [Distribution of
+influenza C virus infection in dogs and pigs in Bavaria]. Tierarztl Prax. 1996
+Aug;24(4):337-42. German. PMID: 9012016.
+
+16: Muraki Y, Hongo S. [Evolutionary analysis of the hemagglutinin-esterase (HE)
+gene of influenza C virus]. Nihon Rinsho. 1997 Oct;55(10):2627-32. Japanese.
+PMID: 9360382.
+
+17: Kitame F, Nakamura K, Saito A, Suzuki Y, Sinohara H, Homma M. Effects of
+alpha-macroglobulins and murinoglobulins on the hemagglutination by influenza C
+virus. Biochem Int. 1986 May;12(5):649-52. PMID: 2425807.

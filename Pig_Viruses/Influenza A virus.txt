@@ -1,0 +1,196 @@
+1: Kwon T, Artiaga BL, McDowell CD, Whitworth KM, Wells KD, Prather RS, Delhon
+G, Cigan M, White SN, Retallick J, Gaudreault NN, Morozov I, Richt JA. Gene
+editing of pigs to control influenza A virus infections. Emerg Microbes Infect.
+2024 Dec;13(1):2387449. doi: 10.1080/22221751.2024.2387449. Epub 2024 Aug 24.
+PMID: 39083026; PMCID: PMC11346336.
+
+2: Kwon T, Artiaga BL, McDowell CD, Whitworth KM, Wells KD, Prather RS, Delhon
+G, Cigan M, White SN, Retallick J, Gaudreault NN, Morozov I, Richt JA. Gene
+editing of pigs to control influenza A virus infections. bioRxiv [Preprint].
+2024 Jan 16:2024.01.15.575771. doi: 10.1101/2024.01.15.575771. Update in: Emerg
+Microbes Infect. 2024 Dec;13(1):2387449. doi: 10.1080/22221751.2024.2387449.
+PMID: 38293027; PMCID: PMC10827075.
+
+3: Maya-Badillo BA, Orta-Pineda G, Zavala-Vasco D, Rivera-Rosas KE, Uribe-
+Jacinto A, Segura-Velásquez R, Suzán G, Sánchez-Betancourt JI. Influenza A virus
+antibodies in dogs, hunting dogs, and backyard pigs in Campeche, Mexico.
+Zoonoses Public Health. 2024 May;71(3):294-303. doi: 10.1111/zph.13110. Epub
+2024 Jan 9. PMID: 38196021.
+
+4: Mo JS, Abente EJ, Cardenas Perez M, Sutton TC, Cowan B, Ferreri LM, Geiger G,
+Gauger PC, Perez DR, Vincent Baker AL, Rajao DS. Transmission of Human Influenza
+A Virus in Pigs Selects for Adaptive Mutations on the HA Gene. J Virol. 2022 Nov
+23;96(22):e0148022. doi: 10.1128/jvi.01480-22. Epub 2022 Nov 1. PMID: 36317880;
+PMCID: PMC9682980.
+
+5: Li C, Culhane MR, Schroeder DC, Cheeran MC, Galina Pantoja L, Jansen ML,
+Torremorell M. Vaccination decreases the risk of influenza A virus reassortment
+but not genetic variation in pigs. Elife. 2022 Sep 2;11:e78618. doi:
+10.7554/eLife.78618. PMID: 36052992; PMCID: PMC9439680.
+
+6: Jallow MM, Barry MA, Fall A, Ndiaye NK, Kiori D, Sy S, Goudiaby D, Niang MN,
+Fall G, Fall M, Dia N. Influenza A Virus in Pigs in Senegal and Risk Assessment
+of Avian Influenza Virus (AIV) Emergence and Transmission to Human.
+Microorganisms. 2023 Jul 31;11(8):1961. doi: 10.3390/microorganisms11081961.
+PMID: 37630521; PMCID: PMC10459748.
+
+7: Borey M, Blanc F, Lemonnier G, Leplat JJ, Jardet D, Rossignol MN, Ravon L,
+Billon Y, Bernard M, Estellé J, Rogel-Gaillard C. Links between fecal microbiota
+and the response to vaccination against influenza A virus in pigs. NPJ Vaccines.
+2021 Jul 22;6(1):92. doi: 10.1038/s41541-021-00351-2. PMID: 34294732; PMCID:
+PMC8298503.
+
+8: Garrido-Mantilla J, Sanhueza J, Alvarez J, Culhane MR, Davies P, Allerson MW,
+Torremorell M. Impact of nurse sows on influenza A virus transmission in pigs
+under field conditions. Prev Vet Med. 2021 Mar;188:105257. doi:
+10.1016/j.prevetmed.2021.105257. Epub 2021 Jan 5. PMID: 33472145.
+
+9: Kristensen C, Laybourn HA, Crumpton JC, Martiny K, Webb A, Ryt-Hansen P,
+Trebbien R, Jensen HE, Nissen JN, Skovgaard K, Webby RJ, Larsen LE. Experimental
+infection of pigs and ferrets with "pre-pandemic," human-adapted, and swine-
+adapted variants of the H1N1pdm09 influenza A virus reveals significant
+differences in viral dynamics and pathological manifestations. PLoS Pathog. 2023
+Dec 4;19(12):e1011838. doi: 10.1371/journal.ppat.1011838. PMID: 38048355; PMCID:
+PMC10721187.
+
+10: Tingstedt JL, Stephen C, Risinger C, Blixt O, Gunalan V, Johansen IS,
+Fomsgaard A, Polacek C, Lassaunière R. Differential recognition of influenza A
+virus H1N1 neuraminidase by DNA vaccine-induced antibodies in pigs and ferrets.
+Front Immunol. 2023 May 29;14:1200718. doi: 10.3389/fimmu.2023.1200718. PMID:
+37313410; PMCID: PMC10258320.
+
+11: Kumari S, Chaudhari J, Huang Q, Gauger P, De Almeida MN, Ly H, Liang Y, Vu
+HLX. Assessment of Immune Responses to a Trivalent Pichinde Virus-Vectored
+Vaccine Expressing Hemagglutinin Genes from Three Co-Circulating Influenza A
+Virus Subtypes in Pigs. Vaccines (Basel). 2023 Dec 2;11(12):1806. doi:
+10.3390/vaccines11121806. PMID: 38140210; PMCID: PMC10748346.
+
+12: Patil V, Hernandez-Franco JF, Yadagiri G, Bugybayeva D, Dolatyabi S,
+Feliciano-Ruiz N, Schrock J, Suresh R, Hanson J, Yassine H, HogenEsch H,
+Renukaradhya GJ. Characterization of the Efficacy of a Split Swine Influenza A
+Virus Nasal Vaccine Formulated with a Nanoparticle/STING Agonist Combination
+Adjuvant in Conventional Pigs. Vaccines (Basel). 2023 Nov 10;11(11):1707. doi:
+10.3390/vaccines11111707. PMID: 38006039; PMCID: PMC10675483.
+
+13: Lopez Moreno G, Nirmala J, Goodell C, Culhane M, Torremorell M. Shedding and
+transmission of a live attenuated influenza A virus vaccine in pre-weaned pigs
+under field conditions. PLoS One. 2021 Feb 11;16(2):e0246690. doi:
+10.1371/journal.pone.0246690. PMID: 33571263; PMCID: PMC7877771.
+
+14: Cardenas M, Seibert B, Cowan B, Fraiha ALS, Carnaccini S, Gay LC, Faccin FC,
+Caceres CJ, Anderson TK, Vincent Baker AL, Perez DR, Rajao DS. Amino acid 138 in
+the HA of a H3N2 subtype influenza A virus increases affinity for the lower
+respiratory tract and alveolar macrophages in pigs. PLoS Pathog. 2024 Feb
+20;20(2):e1012026. doi: 10.1371/journal.ppat.1012026. PMID: 38377132; PMCID:
+PMC10906893.
+
+15: Gu G, Liu C, Lee SH, Chun Choi LS, Wilson MT, Pfeiffer DU, Go YY. Detection
+of a reassortant swine H1N2 influenza A virus from pigs in Hong Kong. Virol Sin.
+2024 Apr;39(2):343-346. doi: 10.1016/j.virs.2024.01.009. Epub 2024 Feb 1. PMID:
+38309471; PMCID: PMC11074639.
+
+16: Chamba Pardo FO, W Allerson M, R Culhane M, B Morrison R, R Davies P, Perez
+A, Torremorell M. Effect of influenza A virus sow vaccination on infection in
+pigs at weaning: A prospective longitudinal study. Transbound Emerg Dis. 2021
+Jan;68(1):183-193. doi: 10.1111/tbed.13688. Epub 2020 Jul 11. PMID: 32652870.
+
+17: Salvesen HA, Byrne TJ, Whitelaw CBA, Hely FS. Simulating the Commercial
+Implementation of Gene-Editing for Influenza A Virus Resistance in Pigs: An
+Economic and Genetic Analysis. Genes (Basel). 2022 Aug 12;13(8):1436. doi:
+10.3390/genes13081436. PMID: 36011347; PMCID: PMC9407728.
+
+18: Nirmala J, Perez A, Culhane MR, Allerson MW, Sreevatsan S, Torremorell M.
+Genetic variability of influenza A virus in pigs at weaning in Midwestern United
+States swine farms. Transbound Emerg Dis. 2021 Jan;68(1):62-75. doi:
+10.1111/tbed.13529. Epub 2020 Mar 18. PMID: 32187882.
+
+19: Wymore Brand M, Anderson TK, Kitikoon P, Brian Kimble J, Otis N, Gauger PC,
+Souza CK, Kaplan B, Mogler M, Strait E, Vincent Baker AL. Bivalent hemagglutinin
+and neuraminidase influenza replicon particle vaccines protect pigs against
+influenza a virus without causing vaccine associated enhanced respiratory
+disease. Vaccine. 2022 Sep 9;40(38):5569-5578. doi:
+10.1016/j.vaccine.2022.07.042. Epub 2022 Aug 18. PMID: 35987871.
+
+20: Winther K, Kristensen C, Henriksen BL, Hansen LHB, Ryt-Hansen P, Vestergaard
+G, Skovgaard K, Sandvang D, Boll EJ, Williams AR, Larsen LE. Bacillus
+subtilis-597 induces changes in lung pathology and inflammation during influenza
+A virus infection in pigs. Vet Microbiol. 2024 Apr;291:110032. doi:
+10.1016/j.vetmic.2024.110032. Epub 2024 Feb 24. PMID: 38430715.
+
+21: Dias AS, Baker ALV, Baker RB, Zhang J, Zeller MA, Kitikoon P, Gauger PC.
+Detection and Characterization of Influenza A Virus Endemic Circulation in
+Suckling and Nursery Pigs Originating from Vaccinated Farms in the Same
+Production System. Viruses. 2024 Apr 18;16(4):626. doi: 10.3390/v16040626. PMID:
+38675967; PMCID: PMC11054297.
+
+22: Lopez-Moreno G, Schmitt C, Spronk T, Culhane M, Torremorell M. Evaluation of
+internal farm biosecurity measures combined with sow vaccination to prevent
+influenza A virus infection in groups of due-to-wean pigs. BMC Vet Res. 2022 Nov
+9;18(1):393. doi: 10.1186/s12917-022-03494-z. PMID: 36348373; PMCID: PMC9643894.
+
+23: Ciacci Zanella G, Snyder CA, Arruda BL, Whitworth K, Green E, Poonooru RR,
+Telugu BP, Baker AL. Pigs lacking <i>TMPRSS2</i> displayed fewer lung lesions
+and reduced inflammatory response when infected with influenza A virus. Front
+Genome Ed. 2024 May 31;5:1320180. doi: 10.3389/fgeed.2023.1320180. PMID:
+38883409; PMCID: PMC11176495.
+
+24: Everett HE, van Diemen PM, Aramouni M, Ramsay A, Coward VJ, Pavot V, Canini
+L, Holzer B, Morgan S; Dynamics sLoLa Consortium; Woolhouse MEJ, Tchilian E,
+Brookes SM, Brown IH, Charleston B, Gilbert S. Vaccines That Reduce Viral
+Shedding Do Not Prevent Transmission of H1N1 Pandemic 2009 Swine Influenza A
+Virus Infection to Unvaccinated Pigs. J Virol. 2021 Jan 28;95(4):e01787-20. doi:
+10.1128/JVI.01787-20. PMID: 33268518; PMCID: PMC7851569.
+
+25: Lassnig S, Hennig-Pauka I, Bonilla MC, Mörgelin M, Imker R, von Köckritz-
+Blickwede M, de Buhr N. Impact of bronchoalveolar lavage from influenza A virus
+diseased pigs on neutrophil functions and growth of co-infecting pathogenic
+bacteria. Front Immunol. 2024 Feb 21;15:1325269. doi:
+10.3389/fimmu.2024.1325269. PMID: 38449874; PMCID: PMC10914936.
+
+26: de Lara AC, Garrido-Mantilla J, Lopez-Moreno G, Yang M, Barcellos DESN,
+Torremorell M. Effect of pooling udder skin wipes on the detection of influenza
+A virus in preweaning pigs. J Vet Diagn Invest. 2022 Jan;34(1):133-135. doi:
+10.1177/10406387211039462. Epub 2021 Aug 17. PMID: 34404296; PMCID: PMC8689042.
+
+27: Raaphorst E, Farzan A, Friendship RM, Lillie BN. Antibody responses to
+porcine reproductive and respiratory syndrome virus, influenza A virus, and
+Mycoplasma hyopneumoniae from weaning to the end of the finisher stage in
+fourteen groups of pigs in Ontario, Canada. BMC Vet Res. 2021 Feb 17;17(1):82.
+doi: 10.1186/s12917-021-02756-6. PMID: 33596907; PMCID: PMC7887834.
+
+28: Brogaard L, Heegaard PMH, Larsen LE, Skovgaard K. Pulmonary MicroRNA
+expression after heterologous challenge with swine influenza A virus (H1N2) in
+immunized and non-immunized pigs. Virology. 2024 Aug;596:110117. doi:
+10.1016/j.virol.2024.110117. Epub 2024 May 23. PMID: 38797064.
+
+29: Opriessnig T, Gauger PC, Filippsen Favaro P, Rawal G, Magstadt DR, Digard P,
+Lee HM, Halbur PG. An experimental universal swine influenza a virus (IAV)
+vaccine candidate based on the M2 ectodomain (M2e) peptide does not provide
+protection against H1N1 IAV challenge in pigs. Vaccine. 2024 Jan
+12;42(2):220-228. doi: 10.1016/j.vaccine.2023.12.012. Epub 2023 Dec 11. PMID:
+38087714.
+
+30: Er JC, Lium B, Framstad T. Antibodies of influenza A(H1N1)pdm09 virus in
+pigs' sera cross-react with other influenza A virus subtypes. A retrospective
+epidemiological interpretation of Norway's serosurveillance data from 2009-2017.
+Epidemiol Infect. 2020 Mar 13;148:e73. doi: 10.1017/S0950268820000643. PMID:
+32167441; PMCID: PMC7118717.
+
+31: Pomorska-Mól M, Podgórska K, Czyżewska-Dors E, Turlewicz-Podbielska H,
+Gogulski M, Włodarek J, Łukomska A. Kinetics of single and dual simultaneous
+infection of pigs with swine influenza A virus and porcine reproductive and
+respiratory syndrome virus. J Vet Intern Med. 2020 Sep;34(5):1903-1913. doi:
+10.1111/jvim.15832. Epub 2020 Jul 3. PMID: 32618394; PMCID: PMC7517861.
+
+32: Patil V, Yadagiri G, Bugybayeva D, Schrock J, Suresh R, Hernandez-Franco JF,
+HogenEsch H, Renukaradhya GJ. Characterization of a novel functional porcine
+CD3<sup>+</sup>CD4<sup>low</sup>CD8α<sup>+</sup>CD8β<sup>+</sup> T-helper/memory
+lymphocyte subset in the respiratory tract lymphoid tissues of swine influenza A
+virus vaccinated pigs. Vet Immunol Immunopathol. 2024 Aug;274:110785. doi:
+10.1016/j.vetimm.2024.110785. Epub 2024 Jun 4. PMID: 38861830.
+
+33: Canini L, Everett HE, Aramouni M, Coward V, Ramsay A, Kelly M, Morgan S,
+Tchilian E, Gilbert S, Charleston B, Brown IH, Brookes SM, Woolhouse MEJ.
+Statistical modelling of data showing pandemic H1N1 2009 swine influenza a virus
+infection kinetics in vaccinated pigs. Data Brief. 2019 Sep 28;27:104576. doi:
+10.1016/j.dib.2019.104576. PMID: 31687431; PMCID: PMC6820103.

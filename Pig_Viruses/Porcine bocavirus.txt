@@ -1,0 +1,23 @@
+1: Aryal M, Liu G. Porcine Bocavirus: A 10-Year History since Its Discovery.
+Virol Sin. 2021 Dec;36(6):1261-1272. doi: 10.1007/s12250-021-00365-z. Epub 2021
+Apr 28. PMID: 33909219; PMCID: PMC8080206.
+
+2: Velez M, Mietzsch M, Hsi J, Bell L, Chipman P, Fu X, McKenna R. Structural
+Characterization of Canine Minute Virus, Rat and Porcine Bocavirus. Viruses.
+2023 Aug 24;15(9):1799. doi: 10.3390/v15091799. PMID: 37766206; PMCID:
+PMC10534443.
+
+3: Zheng LL, Cui JT, Qiao H, Li XS, Li XK, Chen HY. Detection and genetic
+characteristics of porcine bocavirus in central China. Arch Virol. 2021
+Feb;166(2):451-460. doi: 10.1007/s00705-020-04879-x. Epub 2021 Jan 4. PMID:
+33392822.
+
+4: Prpić J, Keros T, Božiković M, Kamber M, Jemeršić L. Current Insights into
+Porcine Bocavirus (PBoV) and Its Impact on the Economy and Public Health. Vet
+Sci. 2024 Dec 22;11(12):677. doi: 10.3390/vetsci11120677. PMID: 39729017; PMCID:
+PMC11680377.
+
+5: Aryal M, Huang X, Fu Y, Li Y, Wang B, Chen Q, Yan M, Chen J, Liu G.
+Isolation, pathogenesis, and genetic evolution of a porcine bocavirus
+PBoV/HB/30/2018 strain in China. Virology. 2022 Jul;572:55-63. doi:
+10.1016/j.virol.2022.05.002. Epub 2022 May 9. PMID: 35597200.

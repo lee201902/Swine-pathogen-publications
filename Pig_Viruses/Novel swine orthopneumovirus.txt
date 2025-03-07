@@ -1,0 +1,10 @@
+1: Graaf-Rau A, Hennig C, Lillie-Jaschniski K, Koechling M, Stadler J, Boehmer
+J, Ripp U, Pohlmann A, Schwarz BA, Beer M, Harder T. Emergence of swine
+influenza A virus, porcine respirovirus 1 and swine orthopneumovirus in porcine
+respiratory disease in Germany. Emerg Microbes Infect. 2023 Dec;12(2):2239938.
+doi: 10.1080/22221751.2023.2239938. PMID: 37470510; PMCID: PMC10402848.
+
+2: Park J, Kim HR, Lee EB, Lee SK, Kim WI, Lyoo YS, Park CK, Ku BK, Jeoung HY,
+Lee KK, Park SC. First Detection and Genetic Characterization of Swine
+Orthopneumovirus from Domestic Pig Farms in the Republic of Korea. Viruses. 2023
+Nov 30;15(12):2371. doi: 10.3390/v15122371. PMID: 38140612; PMCID: PMC10747143.

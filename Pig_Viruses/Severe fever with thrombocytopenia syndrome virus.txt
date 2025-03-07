@@ -1,0 +1,49 @@
+1: Yoshikawa R, Kawakami M, Yasuda J. The NSs protein of severe fever with
+thrombocytopenia syndrome virus differentially inhibits the type 1 interferon
+response among animal species. J Biol Chem. 2023 Jun;299(6):104819. doi:
+10.1016/j.jbc.2023.104819. Epub 2023 May 13. PMID: 37187292; PMCID: PMC10276162.
+
+2: Rim JM, Han SW, Cho YK, Kang JG, Choi KS, Jeong H, Son K, Kim J, Choi Y, Kim
+WM, Cho NH, Chae JS. Survey of severe fever with thrombocytopenia syndrome virus
+in wild boar in the Republic of Korea. Ticks Tick Borne Dis. 2021
+Nov;12(6):101813. doi: 10.1016/j.ttbdis.2021.101813. Epub 2021 Aug 12. PMID:
+34411795.
+
+3: Kang JG, Oh SS, Jo YS, Chae JB, Cho YK, Chae JS. Molecular Detection of
+Severe Fever with Thrombocytopenia Syndrome Virus in Korean Domesticated Pigs.
+Vector Borne Zoonotic Dis. 2018 Aug;18(8):450-452. doi: 10.1089/vbz.2018.2310.
+Epub 2018 Jun 12. PMID: 29893622.
+
+4: Huang XY, Du YH, Wang HF, You AG, Li Y, Su J, Nie YF, Ma HX, Xu BL.
+Prevalence of severe fever with thrombocytopenia syndrome virus in animals in
+Henan Province, China. Infect Dis Poverty. 2019 Jun 24;8(1):56. doi:
+10.1186/s40249-019-0569-x. PMID: 31230595; PMCID: PMC6589873.
+
+5: Tatemoto K, Virhuez Mendoza M, Ishijima K, Kuroda Y, Inoue Y, Taira M, Kuwata
+R, Takano A, Morikawa S, Shimoda H. Risk assessment of infection with severe
+fever with thrombocytopenia syndrome virus based on a 10-year serosurveillance
+in Yamaguchi Prefecture. J Vet Med Sci. 2022 Aug 19;84(8):1142-1145. doi:
+10.1292/jvms.22-0255. Epub 2022 Jul 6. PMID: 35793949; PMCID: PMC9412060.
+
+6: Tian H, Yu P, Chowell G, Li S, Wei J, Tian H, Lv W, Han Z, Yang J, Huang S,
+Zhou S, Brownstein JS, Wang J, Xu B. Severe Fever with Thrombocytopenia Syndrome
+Virus in Humans, Domesticated Animals, Ticks, and Mosquitoes, Shaanxi Province,
+China. Am J Trop Med Hyg. 2017 Jun;96(6):1346-1349. doi: 10.4269/ajtmh.16-0333.
+PMID: 28719252; PMCID: PMC5462569.
+
+7: Matsuu A, Hamakubo E, Yabuki M. Seroprevalence of severe fever with
+thrombocytopenia syndrome virus in animals in Kagoshima Prefecture, Japan, and
+development of Gaussia luciferase immunoprecipitation system to detect specific
+IgG antibodies. Ticks Tick Borne Dis. 2021 Sep;12(5):101771. doi:
+10.1016/j.ttbdis.2021.101771. Epub 2021 Jun 24. PMID: 34218054.
+
+8: Kirino Y, Yamamoto S, Nomachi T, Mai TN, Sato Y, Sudaryatma PE, Norimine J,
+Fujii Y, Ando S, Okabayashi T. Serological and molecular survey of tick-borne
+zoonotic pathogens including severe fever with thrombocytopenia syndrome virus
+in wild boars in Miyazaki Prefecture, Japan. Vet Med Sci. 2022 Mar;8(2):877-885.
+doi: 10.1002/vms3.696. Epub 2021 Dec 24. PMID: 34953052; PMCID: PMC8959263.
+
+9: Chen C, Li P, Li KF, Wang HL, Dai YX, Cheng X, Yan JB. Animals as
+amplification hosts in the spread of severe fever with thrombocytopenia syndrome
+virus: A systematic review and meta-analysis. Int J Infect Dis. 2019
+Feb;79:77-84. doi: 10.1016/j.ijid.2018.11.017. Epub 2018 Nov 27. PMID: 30500443.

@@ -1,0 +1,86 @@
+1: Park GN, Song S, Choe S, Shin J, An BH, Kim SY, Hyun BH, An DJ. Spike Gene
+Analysis and Prevalence of Porcine Epidemic Diarrhea Virus from Pigs in South
+Korea: 2013-2022. Viruses. 2023 Oct 28;15(11):2165. doi: 10.3390/v15112165.
+PMID: 38005843; PMCID: PMC10674705.
+
+2: Lee D, Jang G, Min KC, Lee IH, Won H, Yoon IJ, Kang SC, Lee C. Coinfection
+with porcine epidemic diarrhea virus and Clostridium perfringens type A enhances
+disease severity in weaned pigs. Arch Virol. 2023 May 22;168(6):166. doi:
+10.1007/s00705-023-05798-3. PMID: 37217624; PMCID: PMC10202354.
+
+3: Chen YM, Gabler NK, Burrough ER. Porcine epidemic diarrhea virus infection
+induces endoplasmic reticulum stress and unfolded protein response in jejunal
+epithelial cells of weaned pigs. Vet Pathol. 2022 Jan;59(1):82-90. doi:
+10.1177/03009858211048622. Epub 2021 Nov 11. PMID: 34763602.
+
+4: Suda Y, Miyazaki A, Miyazawa K, Shibahara T, Ohashi S. Systemic and
+intestinal porcine epidemic diarrhea virus-specific antibody response and
+distribution of antibody-secreting cells in experimentally infected conventional
+pigs. Vet Res. 2021 Jan 4;52(1):2. doi: 10.1186/s13567-020-00880-z. PMID:
+33397461; PMCID: PMC7780908.
+
+5: Zhou Y, Ren Z, Zhang S, Wang H, Wu S, Bao W. Analysis of Intestinal Mucosa
+Integrity and <i>GLP-2</i> Gene Functions upon Porcine Epidemic Diarrhea Virus
+Infection in Pigs. Animals (Basel). 2021 Mar 1;11(3):644. doi:
+10.3390/ani11030644. PMID: 33804466; PMCID: PMC8000733.
+
+6: Zhang L, Yu R, Zhang Z, Zhou P, Lv J, Wang Y, Pan L, Liu X. Differences in
+the pathogenicity of Chinese virulent genotype GIIa and GIIb porcine epidemic
+diarrhea virus strains and the humoral immune status of one- and two-month-old
+weaned pigs infected with these strains. Arch Virol. 2023 Feb 27;168(3):97. doi:
+10.1007/s00705-023-05725-6. PMID: 36843047.
+
+7: Hsu CW, Chang MH, Chang HW, Wu TY, Chang YC. Parenterally Administered
+Porcine Epidemic Diarrhea Virus-Like Particle-Based Vaccine Formulated with
+CCL25/28 Chemokines Induces Systemic and Mucosal Immune Protectivity in Pigs.
+Viruses. 2020 Oct 2;12(10):1122. doi: 10.3390/v12101122. PMID: 33023277; PMCID:
+PMC7600258.
+
+8: Qin W, Jiang J, Wu J, Xie Y, Wu Z, Sun M, Bao W. Exosomal ssc-miR-1343
+targets FAM131C to regulate porcine epidemic diarrhea virus infection in pigs.
+Vet Res. 2024 Jul 22;55(1):91. doi: 10.1186/s13567-024-01345-3. PMID: 39039559;
+PMCID: PMC11264985.
+
+9: Guo Z, Ruan H, Qiao S, Deng R, Zhang G. Co-infection status of porcine
+circoviruses (PCV2 and PCV3) and porcine epidemic diarrhea virus (PEDV) in pigs
+with watery diarrhea in Henan province, central China. Microb Pathog. 2020 Feb
+6;142:104047. doi: 10.1016/j.micpath.2020.104047. Epub ahead of print. PMID:
+32036077.
+
+10: Park JE, Jang H, Kim JH, Hyun BH, Shin HJ. Immunization with porcine
+epidemic diarrhea virus harbouring Fc domain of IgG enhances antibody production
+in pigs. Vet Q. 2020 Dec;40(1):183-189. doi: 10.1080/01652176.2020.1773006.
+PMID: 32448096; PMCID: PMC7734062.
+
+11: Hsueh FC, Chang YC, Kao CF, Hsu CW, Chang HW. Intramuscular Immunization
+with Chemokine-Adjuvanted Inactive Porcine Epidemic Diarrhea Virus Induces
+Substantial Protection in Pigs. Vaccines (Basel). 2020 Feb 24;8(1):102. doi:
+10.3390/vaccines8010102. PMID: 32102459; PMCID: PMC7157555.
+
+12: Egelkrout E, Hayden C, Fake G, Keener T, Arruda P, Saltzman R, Walker J,
+Howard J. Oral delivery of maize-produced porcine epidemic diarrhea virus spike
+protein elicits neutralizing antibodies in pigs. Plant Cell Tissue Organ Cult.
+2020;142(1):79-86. doi: 10.1007/s11240-020-01835-0. Epub 2020 May 11. PMID:
+32394992; PMCID: PMC7212245.
+
+13: Chen YM, Helm ET, Gabler N, Hostetter JM, Burrough ER. Alterations in
+Intestinal Innate Mucosal Immunity of Weaned Pigs During Porcine Epidemic
+Diarrhea Virus Infection. Vet Pathol. 2020 Sep;57(5):642-652. doi:
+10.1177/0300985820932140. Epub 2020 Jun 17. PMID: 32880235.
+
+14: Ho TT, Trinh VT, Tran HX, Le PTT, Nguyen TT, Hoang HTT, Pham MD, Conrad U,
+Pham NB, Chu HH. The immunogenicity of plant-based COE-GCN4pII protein in pigs
+against the highly virulent porcine epidemic diarrhea virus strain from genotype
+2. Front Vet Sci. 2022 Jul 28;9:940395. doi: 10.3389/fvets.2022.940395. PMID:
+35967993; PMCID: PMC9366249.
+
+15: Chang CY, Hsu WT, Tsai PS, Chen CM, Cheng IC, Chao YC, Chang HW. Oral
+administration of porcine epidemic diarrhea virus spike protein expressing in
+silkworm pupae failed to elicit immune responses in pigs. AMB Express. 2020 Jan
+28;10(1):20. doi: 10.1186/s13568-020-0952-9. PMID: 31993764; PMCID: PMC6987277.
+
+16: Myint O, Yoshida A, Sekiguchi S, Van Diep N, Fuke N, Izzati UZ, Hirai T,
+Yamaguchi R. Development of indirect enzyme-linked immunosorbent assay for
+detection of porcine epidemic diarrhea virus specific antibodies (IgG) in serum
+of naturally infected pigs. BMC Vet Res. 2019 Nov 12;15(1):409. doi:
+10.1186/s12917-019-2123-2. PMID: 31718620; PMCID: PMC6852973.

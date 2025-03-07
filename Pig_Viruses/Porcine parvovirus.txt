@@ -1,0 +1,454 @@
+1: Wang D, He Q, Wang N, Mai J. Epidemiology and Genetic Characterization of
+Porcine Parvovirus 7 Recovered from Swine in Hunan, China. Animals (Basel). 2024
+Jul 31;14(15):2222. doi: 10.3390/ani14152222. PMID: 39123747; PMCID:
+PMC11311032.
+
+2: Deka D, Barman NN, Deka N, Batth BK, Singh G, Singh S, Agrawal RK,
+Mukhopadhyay CS, Ramneek. Sero-epidemiology of porcine parvovirus, circovirus,
+and classical swine fever virus infections in India. Trop Anim Health Prod. 2021
+Feb 24;53(1):180. doi: 10.1007/s11250-021-02587-5. PMID: 33624145.
+
+3: Trinh TTH, Do VT, Do VK, Vu-Khac H. Isolation and characterization of porcine
+parvovirus in Vietnam. Vet World. 2024 Jul;17(7):1530-1537. doi:
+10.14202/vetworld.2024.1530-1537. Epub 2024 Jul 13. PMID: 39185042; PMCID:
+PMC11344110.
+
+4: Molini U, Coetzee LM, Hemberger MY, Khaiseb S, Cattoli G, Dundon WG. Evidence
+indicating transmission of porcine parvovirus 1 between warthogs and domestic
+pigs in Namibia. Vet Res Commun. 2023 Jun;47(2):981-985. doi:
+10.1007/s11259-022-10038-1. Epub 2022 Dec 10. PMID: 36494511.
+
+5: Molini U, Franzo G, Settypalli TBK, Hemberger MY, Khaiseb S, Cattoli G,
+Dundon WG, Lamien CE. Viral Co-Infections of Warthogs in Namibia with African
+Swine Fever Virus and Porcine Parvovirus 1. Animals (Basel). 2022 Jun
+30;12(13):1697. doi: 10.3390/ani12131697. PMID: 35804594; PMCID: PMC9265065.
+
+6: Li Y, Wang Q, Yue W, Li X, Chen Y, Gao Y. Expression and self-assembly of
+virus-like particles from porcine parvovirus and its application in antibody
+detection. Pol J Vet Sci. 2023 Dec 12;26(4):591-609. doi:
+10.24425/pjvs.2023.148280. PMID: 38088304.
+
+7: Gao Y, Wang H, Wang S, Sun M, Fang Z, Liu X, Cai X, Tu Y. Self-Assembly of
+Porcine Parvovirus Virus-like Particles and Their Application in Serological
+Assay. Viruses. 2022 Aug 20;14(8):1828. doi: 10.3390/v14081828. PMID: 36016450;
+PMCID: PMC9413485.
+
+8: Luka PD, Adedeji AJ, Jambol AR, Ifende IV, Luka HG, Choji ND, Weka R,
+Settypalli TBK, Achenbach JE, Cattoli G, Lamien CE, Molini U, Franzo G, Dundon
+WG. Coinfections of African swine fever virus, porcine circovirus 2 and 3, and
+porcine parvovirus 1 in swine in Nigeria. Arch Virol. 2022
+Dec;167(12):2715-2722. doi: 10.1007/s00705-022-05593-6. Epub 2022 Sep 22. PMID:
+36138234.
+
+9: Deng H, Cong G, Wang H, Hu Z, Shi D, Shi H, Xia C, Fu F, Feng L. Isolation,
+characterization, and phylogenetic analysis of two new porcine parvovirus 1
+isolates from Northern China. Virus Res. 2024 Jan 2;339:199247. doi:
+10.1016/j.virusres.2023.199247. Epub 2023 Nov 8. PMID: 37923168; PMCID:
+PMC10751695.
+
+10: Li Q, Ma X, Shen Y, Dai J, Nian X, Shang X, Chen J, Wubshet AK, Zhang J,
+Zheng H. Chimeric Porcine Parvovirus VP2 Virus-like Particles with Epitopes of
+South African Serotype 2 Foot-and-Mouth Disease Virus Elicits Specific Humoral
+and Cellular Responses in Mice. Viruses. 2024 Apr 17;16(4):621. doi:
+10.3390/v16040621. PMID: 38675963; PMCID: PMC11054767.
+
+11: Komina A, Anoyatbekova A, Krasnikov N, Yuzhakov A. Identification and in
+vitro characterization of a novel porcine parvovirus 6 in Russia. Vet Res
+Commun. 2024 Feb;48(1):417-425. doi: 10.1007/s11259-023-10226-7. Epub 2023 Sep
+29. PMID: 37773486.
+
+12: Shen X, Yang YB, Gao Y, Wang S, Wang H, Sun M, Meng F, Tang YD, Tu Y, Kong
+Q, An TQ, Cai XH. Lipid A-modified Escherichia coli can produce porcine
+parvovirus virus-like particles with high immunogenicity and minimal endotoxin
+activity. Microb Cell Fact. 2024 Aug 8;23(1):222. doi:
+10.1186/s12934-024-02497-9. PMID: 39118114; PMCID: PMC11308658.
+
+13: Xu N, Du Q, Cheng Y, Nie L, Ma P, Feng D, Huang Y, Tong D. Porcine
+parvovirus infection induces necroptosis of porcine placental trophoblast cells
+via a ZBP1-mediated pathway. Vet Res. 2024 Nov 29;55(1):156. doi:
+10.1186/s13567-024-01410-x. PMID: 39614405; PMCID: PMC11605877.
+
+14: Guo Y, Yan G, Chen S, Han H, Li J, Zhang H, Luo S, Liu M, Wu Q, Li Q, Tu C,
+Huang L, Gong W. Identification and genomic characterization of a novel porcine
+parvovirus in China. Front Vet Sci. 2022 Sep 20;9:1009103. doi:
+10.3389/fvets.2022.1009103. PMID: 36204286; PMCID: PMC9530791.
+
+15: Lyu Z, Zhang X, Xue S, Yang X, Liu J, Fan K, Dai A. Detection and genetic
+evolution analysis of porcine parvovirus type 7 (PPV7) in Fujian Province.
+Infect Genet Evol. 2023 Nov;115:105515. doi: 10.1016/j.meegid.2023.105515. Epub
+2023 Oct 21. PMID: 37866684.
+
+16: Renzhammer R, Truyen U, Buchebner B, Baumgartner G, Kobialka RM, El Wahed
+AA, Koch M, Ladinig A, Unterweger C. Duration of maternally derived antibodies
+of porcine parvovirus in growing pigs and presence of antibodies in gilts and
+sows vaccinated with three different parvovirus vaccines. Porcine Health Manag.
+2024 Apr 9;10(1):15. doi: 10.1186/s40813-024-00361-1. PMID: 38594736; PMCID:
+PMC11003177.
+
+17: Quan F, Geng Y, Wu Y, Jiang F, Li X, Yu C. Development and application of a
+quadruplex real-time PCR method for Torque teno sus virus 1, Porcine circovirus
+type 2, pseudorabies virus, and porcine parvovirus. Front Cell Infect Microbiol.
+2024 Oct 16;14:1461448. doi: 10.3389/fcimb.2024.1461448. PMID: 39479279; PMCID:
+PMC11523562.
+
+18: Deng H, Wang M, Cong G, Fu F, Feng L. Genetic characteristics and
+pathogenicity of variant porcine parvovirus 1 in northern China. Vet Microbiol.
+2024 Nov;298:110274. doi: 10.1016/j.vetmic.2024.110274. Epub 2024 Oct 9. PMID:
+39405657.
+
+19: Rajkhowa S, Choudhury M, Pegu SR, Sarma DK, Gupta VK. Development of a novel
+one-step triplex PCR assay for the simultaneous detection of porcine circovirus
+type 2, porcine parvovirus and classical swine fever virus in a single tube.
+Lett Appl Microbiol. 2022 Aug;75(2):338-344. doi: 10.1111/lam.13732. Epub 2022
+May 10. PMID: 35491744.
+
+20: Gogone ICVP, Ferreira GH, Gava D, Schaefer R, de Paula-Lopes FF, Rocha RA,
+de Barros FRO. Applicability of Raman spectroscopy on porcine parvovirus and
+porcine circovirus type 2 detection. Spectrochim Acta A Mol Biomol Spectrosc.
+2021 Mar 15;249:119336. doi: 10.1016/j.saa.2020.119336. Epub 2020 Dec 11. PMID:
+33385972.
+
+21: Wang L, Song Y, Xu M, Zhang C, Zhang L, Xia L, Wei Z. Proteomics analysis of
+PK-15 cells infected with porcine parvovirus and the effect of PCBP1 on PPV
+replication. Microbiol Spectr. 2024 Jun 4;12(6):e0391423. doi:
+10.1128/spectrum.03914-23. Epub 2024 May 14. PMID: 38742903; PMCID: PMC11237544.
+
+22: Wen S, Song Y, Lv X, Meng X, Liu K, Yang J, Diao F, He J, Huo X, Chen Z,
+Zhai J. Detection and Molecular Characterization of Porcine Parvovirus 7 in
+Eastern Inner Mongolia Autonomous Region, China. Front Vet Sci. 2022 Jul
+6;9:930123. doi: 10.3389/fvets.2022.930123. PMID: 35873677; PMCID: PMC9298536.
+
+23: Zhang X, Zheng C, Lv Z, Xue S, Chen Y, Liu Y, Huang X, Luo G, Yang X, Dai A.
+Genetic and epidemic characteristics of porcine parvovirus 7 in the Fujian and
+Guangdong regions of southern China. Front Vet Sci. 2022 Aug 17;9:949764. doi:
+10.3389/fvets.2022.949764. PMID: 36061123; PMCID: PMC9428481.
+
+24: Ma X, Guo Z, Li Y, Yang K, Li X, Liu Y, Shen Z, Zhao L, Zhang Z.
+Phytochemical Constituents of Propolis Flavonoid, Immunological Enhancement, and
+Anti-porcine Parvovirus Activities Isolated From Propolis. Front Vet Sci. 2022
+Apr 8;9:857183. doi: 10.3389/fvets.2022.857183. PMID: 35464376; PMCID:
+PMC9024060.
+
+25: Streck AF, Canal CW, Truyen U. Viral Fitness and Antigenic Determinants of
+Porcine Parvovirus at the Amino Acid Level of the Capsid Protein. J Virol. 2022
+Jan 26;96(2):e0119821. doi: 10.1128/JVI.01198-21. Epub 2021 Nov 10. PMID:
+34757840; PMCID: PMC8791265.
+
+26: Zhao W, Sun Y, Guo L, Zhang Y, Huang B, Tian K. Genome Sequence of Chinese
+Porcine Parvovirus Strain BJ2. Microbiol Resour Announc. 2023 Jul
+18;12(7):e0009423. doi: 10.1128/mra.00094-23. Epub 2023 Jun 5. PMID: 37272823;
+PMCID: PMC10353458.
+
+27: Kim SC, Kim JH, Kim JY, Park GS, Jeong CG, Kim WI. Prevalence of porcine
+parvovirus 1 through 7 (PPV1-PPV7) and co-factor association with PCV2 and PRRSV
+in Korea. BMC Vet Res. 2022 Apr 9;18(1):133. doi: 10.1186/s12917-022-03236-1.
+PMID: 35395853; PMCID: PMC8994367.
+
+28: Vargas-Bermudez DS, Jaime J. The first report of porcine parvovirus 8 (PPV8)
+on the American continent is associated with pigs in Colombia with porcine
+respiratory disease. Arch Virol. 2024 Aug 16;169(9):179. doi:
+10.1007/s00705-024-06099-z. PMID: 39150476; PMCID: PMC11329616.
+
+29: Wang D, Mai J, Yang Y, Wang N. Porcine Parvovirus 7: Evolutionary Dynamics
+and Identification of Epitopes toward Vaccine Design. Vaccines (Basel). 2020 Jul
+5;8(3):359. doi: 10.3390/vaccines8030359. PMID: 32635618; PMCID: PMC7565409.
+
+30: Zheng HH, Wang LQ, Fu PF, Zheng LL, Chen HY, Liu F. Characterization of a
+recombinant pseudorabies virus expressing porcine parvovirus VP2 protein and
+porcine IL-6. Virol J. 2020 Feb 3;17(1):19. doi: 10.1186/s12985-020-1292-8.
+PMID: 32014014; PMCID: PMC6998180.
+
+31: Nelsen A, Lin CM, Hause BM. Porcine Parvovirus 2 Is Predominantly Associated
+With Macrophages in Porcine Respiratory Disease Complex. Front Vet Sci. 2021 Aug
+13;8:726884. doi: 10.3389/fvets.2021.726884. PMID: 34485445; PMCID: PMC8414833.
+
+32: Jezdimirović N, Savić B, Milovanović B, Glišić D, Ninković M, Kureljušić J,
+Maletić J, Aleksić Radojković J, Kasagić D, Milićević V. Molecular Detection of
+Porcine Cytomegalovirus, Porcine Parvovirus, Aujeszky Disease Virus and Porcine
+Reproductive and Respiratory Syndrome Virus in Wild Boars Hunted in Serbia
+during 2023. Vet Sci. 2024 Jun 3;11(6):249. doi: 10.3390/vetsci11060249. PMID:
+38921996; PMCID: PMC11209600.
+
+33: Jin X, Yuan Y, Zhang C, Zhou Y, Song Y, Wei Z, Zhang G. Porcine parvovirus
+nonstructural protein NS1 activates NF-κB and it involves TLR2 signaling
+pathway. J Vet Sci. 2020 May;21(3):e50. doi: 10.4142/jvs.2020.21.e50. PMID:
+32476323; PMCID: PMC7263913.
+
+34: Dei Giudici S, Mura L, Bonelli P, Ferretti L, Hawko S, Franzoni G, Angioi
+PP, Ladu A, Puggioni G, Antuofermo E, Sanna ML, Burrai GP, Oggiano A. First
+Molecular Characterisation of Porcine Parvovirus 7 (PPV7) in Italy. Viruses.
+2024 Jun 8;16(6):932. doi: 10.3390/v16060932. PMID: 38932224; PMCID:
+PMC11209580.
+
+35: Xu MS, Zhou ZK, Xiong RY, Zhang LB, Yu CQ, Liu Q. CpG islands: Features and
+distribution in the genomes of porcine parvovirus. Pol J Vet Sci. 2024
+Sep;27(3):407-418. doi: 10.24425/pjvs.2024.151734. PMID: 39736122.
+
+36: Zheng Y, Xu Y, Xu W, Cao S, Yan Q, Huang X, Wen Y, Zhao Q, Du S, Lang Y,
+Zhao S, Wu R. CD38 Enhances TLR9 Expression and Activates NLRP3 Inflammasome
+after Porcine Parvovirus Infection. Viruses. 2022 May 25;14(6):1136. doi:
+10.3390/v14061136. PMID: 35746608; PMCID: PMC9229413.
+
+37: Igriczi B, Dénes L, Schönhardt K, Balka G. First Report of Porcine
+Parvovirus 8 in Europe: Widespread Detection and Genetic Characterization on
+Commercial Pig Farms in Hungary and Slovakia. Animals (Basel). 2024 Jul
+3;14(13):1974. doi: 10.3390/ani14131974. PMID: 38998086; PMCID: PMC11240836.
+
+38: Wei J, Li Y, Cao Y, Liu Q, Yang K, Song X, Shao Y, Qi K, Tu J. Rapid and
+Visual Detection of Porcine Parvovirus Using an ERA-CRISPR/Cas12a System
+Combined With Lateral Flow Dipstick Assay. Front Cell Infect Microbiol. 2022 May
+11;12:879887. doi: 10.3389/fcimb.2022.879887. PMID: 35646725; PMCID: PMC9131491.
+
+39: Opriessnig T, Karuppannan AK, Halbur PG, Calvert JG, Nitzel GP, Matzinger
+SR, Meng XJ. Porcine circovirus type 2a or 2b based experimental vaccines
+provide protection against PCV2d/porcine parvovirus 2 co-challenge. Vaccine.
+2020 Feb 18;38(8):1975-1981. doi: 10.1016/j.vaccine.2020.01.013. Epub 2020 Jan
+20. PMID: 31974016.
+
+40: Lu T, Song X, Zhao L, Ma X. Analysis of differentially expressed genes
+related to cell death in porcine kidney-15 cells at 24 and 48 hours post porcine
+parvovirus infection. Am J Vet Res. 2024 Oct 28;85(12):ajvr.24.06.0164. doi:
+10.2460/ajvr.24.06.0164. PMID: 39467390.
+
+41: Lu Q, Li X, Zhao J, Zhu J, Luo Y, Duan H, Ji P, Wang K, Liu B, Wang X, Fan
+W, Sun Y, Zhou EM, Zhao Q. Nanobody‑horseradish peroxidase and -EGFP fusions as
+reagents to detect porcine parvovirus in the immunoassays. J Nanobiotechnology.
+2020 Jan 7;18(1):7. doi: 10.1186/s12951-019-0568-x. PMID: 31910833; PMCID:
+PMC6945459.
+
+42: Yang B, Wang H, Kaleas K, Butler M, Franklin J, Bill A, Baylis SA, Chen Q,
+Blümel J. Clearance of porcine circovirus and porcine parvovirus from porcine-
+derived pepsin by low pH inactivation and cation exchange chromatography.
+Biotechnol Prog. 2020 Jul;36(4):e2968. doi: 10.1002/btpr.2968. Epub 2020 Feb 13.
+PMID: 31989781.
+
+43: Wen S, She L, Dang S, Liao A, Li X, Zhang S, Song Y, Li X, Zhai J.
+Development of a RPA-CRISPR/Cas12a based rapid visual detection assay for
+Porcine Parvovirus 7. Front Vet Sci. 2024 Sep 9;11:1440769. doi:
+10.3389/fvets.2024.1440769. PMID: 39315085; PMCID: PMC11417039.
+
+44: Vereecke N, Kvisgaard LK, Baele G, Boone C, Kunze M, Larsen LE, Theuns S,
+Nauwynck H. Molecular epidemiology of Porcine Parvovirus Type 1 (PPV1) and the
+reactivity of vaccine-induced antisera against historical and current PPV1
+strains. Virus Evol. 2022 Jun 16;8(1):veac053. doi: 10.1093/ve/veac053. PMID:
+35815310; PMCID: PMC9252332.
+
+45: Franzo G, Zerbo HL, Ouoba BL, Dji-Tombo AD, Kindo MG, Sawadogo R, Chang'a J,
+Bitanyi S, Kamigwe A, Mayenga C, Lo MM, Ndiaye M, Ba A, Diop GL, Anahory IV,
+Mapaco LP, Achá SJ, Kouakou VK, Couacy-Hymann E, Gacheru SG, Lichoti JK,
+Kasivalu JK, Njagi ON, Settypalli TBK, Cattoli G, Lamien CE, Molini U, Dundon
+WG. A Phylogeographic Analysis of Porcine Parvovirus 1 in Africa. Viruses. 2023
+Jan 11;15(1):207. doi: 10.3390/v15010207. PMID: 36680247; PMCID: PMC9864576.
+
+46: De Maio FA, Winter M, Abate S, Cifuentes S, Iglesias NG, Barrio DA, Bellusci
+CP. Detection of porcine circovirus 2, porcine parvovirus 1, and torque teno sus
+virus k2a in wild boars from northeastern Patagonia, Argentina. Arch Virol. 2023
+Jul 18;168(8):208. doi: 10.1007/s00705-023-05831-5. PMID: 37462757.
+
+47: Cao L, Fu F, Chen J, Shi H, Zhang X, Liu J, Shi D, Huang Y, Tong D, Feng L.
+Nucleocytoplasmic Shuttling of Porcine Parvovirus NS1 Protein Mediated by the
+CRM1 Nuclear Export Pathway and the Importin α/β Nuclear Import Pathway. J
+Virol. 2022 Jan 12;96(1):e0148121. doi: 10.1128/JVI.01481-21. Epub 2021 Oct 13.
+PMID: 34643426; PMCID: PMC8754214.
+
+48: Zhang X, Ma P, Shao T, Xiong Y, Du Q, Chen S, Miao B, Zhang X, Wang X, Huang
+Y, Tong D. Porcine parvovirus triggers autophagy through the AMPK/Raptor/mTOR
+pathway to promote viral replication in porcine placental trophoblasts. Vet Res.
+2022 May 3;53(1):33. doi: 10.1186/s13567-022-01048-7. PMID: 35505413; PMCID:
+PMC9066968.
+
+49: Du Q, Zhang X, Xu N, Ma M, Miao B, Huang Y, Tong D. Chaperonin CCT5 binding
+with porcine parvovirus NS1 promotes the interaction of NS1 and COPƐ to
+facilitate viral replication. Vet Microbiol. 2022 Nov;274:109574. doi:
+10.1016/j.vetmic.2022.109574. Epub 2022 Sep 14. PMID: 36126504.
+
+50: Zhao Z, Li J, Feng X, Tang X, Guo X, Meng Q, Rao Z, Zhao X, Feng L, Zhang H.
+Lipid metabolism is a novel and practical source of potential targets for
+antiviral discovery against porcine parvovirus. Vet Microbiol. 2021
+Oct;261:109177. doi: 10.1016/j.vetmic.2021.109177. Epub 2021 Jul 7. PMID:
+34391196.
+
+51: Serena MS, Dibárbora M, Olivera V, Metz GE, Aspitia CG, Pereda A, Echeverría
+MG, Cappuccio J. Evidence of porcine circovirus type 2 and co-infection with
+ungulate protoparvovirus 1 (porcine parvovirus) in mummies and stillborn piglets
+in subclinically infected farm. Infect Genet Evol. 2021 Apr;89:104735. doi:
+10.1016/j.meegid.2021.104735. Epub 2021 Jan 29. PMID: 33516972.
+
+52: Lu T, Ma X, Song X, Zhao L. Identification of signaling pathways induced by
+porcine parvovirus in porcine kidney-15 cells based on weighted correlation
+network analysis. J Vet Med Sci. 2024 Dec 1;86(12):1265-1272. doi:
+10.1292/jvms.24-0082. Epub 2024 Oct 16. PMID: 39414454; PMCID: PMC11612249.
+
+53: Liu G, Qiao X, Chang C, Hua T, Wang J, Tang B, Zhang D. Reduction of
+Postweaning Multisystemic Wasting Syndrome-Associated Clinical Symptoms by
+Virus-Like Particle Vaccine Against Porcine Parvovirus and Porcine Circovirus
+Type 2. Viral Immunol. 2020 Jul/Aug;33(6):444-456. doi: 10.1089/vim.2019.0201.
+Epub 2020 Apr 7. PMID: 32255758.
+
+54: Le Bras F, Carré G, Aguemon Y, Colin M, Gellé MP. Inactivation of Enveloped
+Bovine Viral Diarrhea Virus and Non-Enveloped Porcine Parvovirus Using Low-
+Pressure Non-Thermal Plasma. Life (Basel). 2021 Nov 24;11(12):1292. doi:
+10.3390/life11121292. PMID: 34947823; PMCID: PMC8706422.
+
+55: Sun P, Bai CX, Zhang D, Wang J, Yang KK, Cheng BZ, Li YD, Wang Y. SYBR
+Green-based real-time polymerase chain reaction assay for detection of porcine
+parvovirus 6 in pigs. Pol J Vet Sci. 2020 Jun;23(2):197-202. doi:
+10.24425/pjvs.2020.132766. PMID: 32627977.
+
+56: Bhattacharjee U, Sen A, Sharma I. Development of cost-effective quantitative
+PCR method for parallel detection of porcine circovirus2 and porcine parvovirus
+in perspective of North-eastern India. Trop Anim Health Prod. 2021 Feb
+22;53(1):177. doi: 10.1007/s11250-021-02609-2. PMID: 33616787.
+
+57: Rajkhowa S, Choudhury M, Pegu SR, Sarma DK, Hussain I. Development of a
+rapid loop-mediated isothermal amplification (LAMP) assay for visual detection
+of porcine parvovirus (PPV) and its application. Braz J Microbiol. 2021
+Dec;52(4):1725-1732. doi: 10.1007/s42770-021-00569-1. Epub 2021 Jul 9. PMID:
+34241828; PMCID: PMC8578513.
+
+58: Parthiban S, Sowndhraya RKV, Raja P, Parthiban M, Ramesh A, Raj GD,
+Senthilkumar K, Balasubramanyam D, Hemalatha S, Bharathi R, Ravishankar C,
+Parveen ST. Molecular detection of porcine parvovirus 1-associated reproductive
+failure in southern India. Trop Anim Health Prod. 2022 Jun 2;54(3):195. doi:
+10.1007/s11250-022-03194-8. PMID: 35655031; PMCID: PMC9162486.
+
+59: He Y, Chen W, Fan J, Fan S, Ding H, Chen J, Yi L. Recombinase-Aided
+Amplification Coupled with Lateral Flow Dipstick for Efficient and Accurate
+Detection of Porcine Parvovirus. Life (Basel). 2021 Jul 28;11(8):762. doi:
+10.3390/life11080762. PMID: 34440506; PMCID: PMC8401844.
+
+60: Mai J, Wang D, Zou Y, Zhang S, Meng C, Wang A, Wang N. High Co-infection
+Status of Novel Porcine Parvovirus 7 With Porcine Circovirus 3 in Sows That
+Experienced Reproductive Failure. Front Vet Sci. 2021 Jul 29;8:695553. doi:
+10.3389/fvets.2021.695553. PMID: 34395577; PMCID: PMC8358293.
+
+61: Wang Y, Zhang D, Bai C, Li M, Liu X, Peng M, Sun P, Li Y. Using loop-
+mediated isothermal amplification for visual detection of porcine parvovirus 7.
+3 Biotech. 2021 Feb;11(2):111. doi: 10.1007/s13205-020-02623-5. Epub 2021 Feb 2.
+PMID: 33628706; PMCID: PMC7870734.
+
+62: Hua T, Zhang D, Tang B, Chang C, Liu G, Zhang X. The immunogenicity of the
+virus-like particles derived from the VP2 protein of porcine parvovirus. Vet
+Microbiol. 2020 Sep;248:108795. doi: 10.1016/j.vetmic.2020.108795. Epub 2020 Jul
+10. PMID: 32827923.
+
+63: Noguera M, Vela A, Kraft C, Chevalier M, Goutebroze S, de Paz X, Kunze M,
+Rathkjen P, Schacht E, Garcia-Morante B. Effects of three commercial vaccines
+against porcine parvovirus 1 in pregnant gilts. Vaccine. 2021 Jun
+29;39(29):3997-4005. doi: 10.1016/j.vaccine.2021.05.042. Epub 2021 Jun 5. PMID:
+34099327.
+
+64: Wang J, Liu Y, Chen Y, Zhang T, Wang A, Wei Q, Liu D, Wang F, Zhang G.
+Capsid assembly is regulated by amino acid residues asparagine 47 and 48 in the
+VP2 protein of porcine parvovirus. Vet Microbiol. 2021 Feb;253:108974. doi:
+10.1016/j.vetmic.2020.108974. Epub 2020 Dec 31. PMID: 33433338.
+
+65: Ma X, Guo Z, Zhang Z, Li X, Liu Y, Zhao L, Wang X. Ferulic Acid Protects
+against Porcine Parvovirus Infection-Induced Apoptosis by Suppressing the
+Nuclear Factor-<i>κ</i>B Inflammasome Axis and Toll-Like Receptor 4 via
+Nonstructural Protein 1. Evid Based Complement Alternat Med. 2020 Apr
+25;2020:3943672. doi: 10.1155/2020/3943672. PMID: 32382287; PMCID: PMC7199543.
+
+66: Zhao K, Hu R, Ni J, Liang J, He X, Du Y, Xu Y, Zhao B, Zhang Q, Li C.
+Establishment of a porcine parvovirus (PPV) LAMP visual rapid detection method.
+J Virol Methods. 2020 Oct;284:113924. doi: 10.1016/j.jviromet.2020.113924. Epub
+2020 Jul 1. PMID: 32621958; PMCID: PMC7328634.
+
+67: Zhou M, Qu W, Sun Y, Liang L, Jin Z, Cui S, Zhao K. Water-soluble
+N-2-Hydroxypropyl trimethyl ammonium chloride chitosan enhanced the
+immunogenicity of inactivated porcine parvovirus vaccine vaccination on sows
+against porcine parvovirus infection. Immunol Lett. 2020 Jul;223:26-32. doi:
+10.1016/j.imlet.2020.04.014. Epub 2020 Apr 22. PMID: 32333964.
+
+68: Ling Z, Zhang H, Chen Y, Sun L, Zhao J. A Subunit Vaccine Based on the VP2
+Protein of Porcine Parvovirus 1 Induces a Strong Protective Effect in Pregnant
+Gilts. Vaccines (Basel). 2023 Nov 5;11(11):1692. doi: 10.3390/vaccines11111692.
+PMID: 38006024; PMCID: PMC10675385.
+
+69: Ma X, Guo Z, Zhang Z, Li X, Wang X, Liu Y, Wang X. Ferulic acid isolated
+from propolis inhibits porcine parvovirus replication potentially through Bid-
+mediate apoptosis. Int Immunopharmacol. 2020 Jun;83:106379. doi:
+10.1016/j.intimp.2020.106379. Epub 2020 Apr 30. PMID: 32172206.
+
+70: Liu Y, Wang J, Chen Y, Wang A, Wei Q, Yang S, Feng H, Chai S, Liu D, Zhang
+G. Identification of a dominant linear epitope on the VP2 capsid protein of
+porcine parvovirus and characterization of two monoclonal antibodies with
+neutralizing abilities. Int J Biol Macromol. 2020 Nov 15;163:2013-2022. doi:
+10.1016/j.ijbiomac.2020.09.055. Epub 2020 Sep 12. PMID: 32931829.
+
+71: Cho KN, Ouh IO, Park YM, Park MH, Min KM, Kang HJ, Yun SY, Song JY, Hyun BH,
+Park CK, Choi BH, Lee YH. A Plant-Produced Porcine Parvovirus 1-82 VP2 Subunit
+Vaccine Protects Pregnant Sows against Challenge with a Genetically Heterologous
+PPV1 Strain. Vaccines (Basel). 2022 Dec 26;11(1):54. doi:
+10.3390/vaccines11010054. PMID: 36679898; PMCID: PMC9867127.
+
+72: Chen S, Miao B, Chen N, Chen C, Shao T, Zhang X, Chang L, Zhang X, Du Q,
+Huang Y, Tong D. SYNCRIP facilitates porcine parvovirus viral DNA replication
+through the alternative splicing of NS1 mRNA to promote NS2 mRNA formation. Vet
+Res. 2021 May 25;52(1):73. doi: 10.1186/s13567-021-00938-6. PMID: 34034820;
+PMCID: PMC8152309.
+
+73: Wu Y, Wu X, Hou J, Chen X, Huang X, Zhou B. Two novel protein chips for the
+detection of antibodies against porcine parvovirus. BMC Vet Res. 2020 Feb
+14;16(1):57. doi: 10.1186/s12917-020-02280-z. PMID: 32059673; PMCID: PMC7023685.
+
+74: Wang J, Liu Y, Chen Y, Wang A, Wei Q, Liu D, Zhang G. Large-scale
+manufacture of VP2 VLP vaccine against porcine parvovirus in Escherichia coli
+with high-density fermentation. Appl Microbiol Biotechnol. 2020
+May;104(9):3847-3857. doi: 10.1007/s00253-020-10483-5. Epub 2020 Mar 4. PMID:
+32130468.
+
+75: Bisimwa PN, Wasso DS, Bantuzeko F, Aksanti CB, Tonui R, Birindwa AB, Bisimwa
+EB. First investigation on the presence of porcine parvovirus type 3 in domestic
+pig farms without reproductive failure in the Democratic Republic of Congo. Vet
+Anim Sci. 2021 Jun 29;13:100187. doi: 10.1016/j.vas.2021.100187. PMID: 34278045;
+PMCID: PMC8264215.
+
+76: Garcia-Morante B, Noguera M, Klocke S, Sommer K, Bridger P. Duration of
+immunity against heterologous porcine parvovirus 1 challenge in gilts immunized
+with a novel subunit vaccine based on the viral protein 2. BMC Vet Res. 2020 Jun
+9;16(1):184. doi: 10.1186/s12917-020-02394-4. PMID: 32517691; PMCID: PMC7285602.
+
+77: Yang D, Chen L, Duan J, Yu Y, Zhou J, Lu H. Investigation of Kluyveromyces
+marxianus as a novel host for large-scale production of porcine parvovirus
+virus-like particles. Microb Cell Fact. 2021 Jan 25;20(1):24. doi:
+10.1186/s12934-021-01514-5. PMID: 33494762; PMCID: PMC7836160.
+
+78: Li J, Xiao Y, Qiu M, Li X, Li S, Lin H, Li X, Zhu J, Chen N. A Systematic
+Investigation Unveils High Coinfection Status of Porcine Parvovirus Types 1
+through 7 in China from 2016 to 2020. Microbiol Spectr. 2021 Dec
+22;9(3):e0129421. doi: 10.1128/Spectrum.01294-21. Epub 2021 Dec 1. PMID:
+34851175; PMCID: PMC8635132.
+
+79: van den Born E, van den Elzen PPM, van Kilsdonk E, Hoeijmakers MJH, Segers
+RPAM. An octavalent vaccine provides pregnant gilts protection against a highly
+virulent porcine parvovirus strain. BMC Vet Res. 2020 Feb 12;16(1):55. doi:
+10.1186/s12917-020-2272-3. PMID: 32050969; PMCID: PMC7017606.
+
+80: Zhao K, Gao Y, Hu G, Wang L, Cui S, Jin Z. <i>N</i>-2-Hydroxypropyl
+Trimethyl Ammonium Chloride Chitosan as Adjuvant Enhances the Immunogenicity of
+a VP2 Subunit Vaccine against Porcine <i>Parvovirus</i> Infection in Sows.
+Vaccines (Basel). 2021 Sep 16;9(9):1027. doi: 10.3390/vaccines9091027. PMID:
+34579264; PMCID: PMC8472385.
+
+81: Li YD, Yu ZD, Bai CX, Zhang D, Sun P, Peng ML, Liu H, Wang J, Wang Y.
+Development of a SYBR Green I real-time PCR assay for detection of novel porcine
+parvovirus 7. Pol J Vet Sci. 2021 Mar;24(1):43-49. doi:
+10.24425/pjvs.2021.136791. PMID: 33847096.
+
+82: Vargas-Bermudez DS, Rendon-Marin S, Ruiz-Saenz J, Mogollón D, Jaime J. The
+first report of porcine parvovirus 7 (PPV7) in Colombia demonstrates the
+presence of variants associated with modifications at the level of the
+VP2-capsid protein. PLoS One. 2021 Dec 16;16(12):e0258311. doi:
+10.1371/journal.pone.0258311. PMID: 34914702; PMCID: PMC8675767.
+
+83: Chen S, Chen N, Miao B, Peng J, Zhang X, Chen C, Zhang X, Chang L, Du Q,
+Huang Y, Tong D. Coatomer protein COPƐ, a novel NS1-interacting protein,
+promotes the replication of Porcine Parvovirus via attenuation of the production
+of type I interferon. Vet Microbiol. 2021 Oct;261:109188. doi:
+10.1016/j.vetmic.2021.109188. Epub 2021 Jul 27. PMID: 34365051.
+
+84: Kim SC, Jeong CG, Nazki S, Lee SI, Baek YC, Jung YJ, Kim WI. Evaluation of a
+multiplex PCR method for the detection of porcine parvovirus types 1 through 7
+using various field samples. PLoS One. 2021 Jan 28;16(1):e0245699. doi:
+10.1371/journal.pone.0245699. PMID: 33508002; PMCID: PMC7842984.

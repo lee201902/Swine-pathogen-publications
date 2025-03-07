@@ -1,0 +1,17 @@
+1: Meng J, Wang F, He Y, Li N, Yang Z, Yao J, Wang S, Xiong G, Yuan Z, Xia H,
+Wang J. In vivo and in vitro characterization of a new Oya virus isolate from
+Culicoides spp. and its seroprevalence in domestic animals in Yunnan, China.
+PLoS Negl Trop Dis. 2023 Jun 15;17(6):e0011374. doi:
+10.1371/journal.pntd.0011374. PMID: 37319258; PMCID: PMC10306208.
+
+2: Yadav P, Shete A, Bondre V, Patil D, Kokate P, Chaudhari S, Srivastava S,
+Jadhav S, Mourya D. Isolation and characterization of Oya virus a member of
+Simbu serogroup, family Bunyaviridae, isolated from Karnataka, India. Infect
+Genet Evol. 2016 Oct;44:122-126. doi: 10.1016/j.meegid.2016.06.049. Epub 2016
+Jun 29. PMID: 27374486.
+
+3: Kono Y, Yusnita Y, Mohd Ali AR, Maizan M, Sharifah SH, Fauzia O, Kubo M, Aziz
+AJ. Characterization and identification of Oya virus, a Simbu serogroup virus of
+the genus Bunyavirus, isolated from a pig suspected of Nipah virus infection.
+Arch Virol. 2002 Aug;147(8):1623-30. doi: 10.1007/s00705-002-0838-y. PMID:
+12181680.

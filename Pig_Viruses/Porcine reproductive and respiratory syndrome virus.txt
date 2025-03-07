@@ -1,0 +1,792 @@
+1: Zhao S-s, Qian Q, Chen X-x, Lu Q, Xing G, Qiao S, Li R, Zhang G. Porcine
+reproductive and respiratory syndrome virus triggers Golgi apparatus
+fragmentation-mediated autophagy to facilitate viral self-replication. J Virol.
+2024 Feb 20;98(2):e0184223. doi: 10.1128/jvi.01842-23. Epub 2024 Jan 5. PMID:
+38179942; PMCID: PMC10878038.
+
+2: Li GL, Han YQ, Su BQ, Yu HS, Zhang S, Yang GY, Wang J, Liu F, Ming SL, Chu
+BB. Porcine reproductive and respiratory syndrome virus 2 hijacks CMA-mediated
+lipolysis through upregulation of small GTPase RAB18. PLoS Pathog. 2024 Apr
+12;20(4):e1012123. doi: 10.1371/journal.ppat.1012123. PMID: 38607975; PMCID:
+PMC11014436.
+
+3: Chen X, Yu Z, Li W. Molecular mechanism of autophagy in porcine reproductive
+and respiratory syndrome virus infection. Front Cell Infect Microbiol. 2024 Aug
+19;14:1434775. doi: 10.3389/fcimb.2024.1434775. PMID: 39224702; PMCID:
+PMC11366741.
+
+4: Liu J, Su G, Duan C, Sun Z, Xiao S, Zhou Y, Fang L. Porcine reproductive and
+respiratory syndrome virus infection activates ADAM17 to induce inflammatory
+responses. Vet Microbiol. 2024 May;292:110066. doi:
+10.1016/j.vetmic.2024.110066. Epub 2024 Mar 27. PMID: 38555788.
+
+5: Lugo Mesa V, Quinonez Munoz A, Sobhy NM, Corzo CA, Goyal SM. Survival of
+Porcine Reproductive and Respiratory Syndrome Virus (PRRSV) in the Environment.
+Vet Sci. 2024 Jan 5;11(1):22. doi: 10.3390/vetsci11010022. PMID: 38250928;
+PMCID: PMC10820812.
+
+6: Chang K, Fan K, Zhang H, Wu Q, Zhang Y, Wang L, Chen H, Tong J, Cui D.
+Fuzhengjiedu San inhibits porcine reproductive and respiratory syndrome virus by
+activating the PI3K/AKT pathway. PLoS One. 2024 May 6;19(5):e0283728. doi:
+10.1371/journal.pone.0283728. PMID: 38709810; PMCID: PMC11073700.
+
+7: Zhou L, Han J, Yang H. The evolution and diversity of porcine reproductive
+and respiratory syndrome virus in China. Vet Microbiol. 2024 Nov;298:110252.
+doi: 10.1016/j.vetmic.2024.110252. Epub 2024 Sep 12. PMID: 39299012.
+
+8: Cui XY, Xia DS, Luo LZ, An TQ. Recombination of Porcine Reproductive and
+Respiratory Syndrome Virus: Features, Possible Mechanisms, and Future
+Directions. Viruses. 2024 Jun 7;16(6):929. doi: 10.3390/v16060929. PMID:
+38932221; PMCID: PMC11209122.
+
+9: Qin Z, Liu W, Qin Z, Zhang H, Huang X. Host combats porcine reproductive and
+respiratory syndrome virus infection at non-coding RNAs level. Virulence. 2024
+Dec;15(1):2416551. doi: 10.1080/21505594.2024.2416551. Epub 2024 Oct 18. PMID:
+39403796; PMCID: PMC11492689.
+
+10: Liu X, Meng Y, He J, Jiang X, Zhang S, Wang D, Zhu Y, Zheng Z, Fan Y, Yin Y,
+Xiao S. Natural compound Sanggenon C inhibits porcine reproductive and
+respiratory syndrome virus replication in piglets. Vet Microbiol. 2024
+Mar;290:109991. doi: 10.1016/j.vetmic.2024.109991. Epub 2024 Jan 14. PMID:
+38228078.
+
+11: Zheng Y, Li G, Luo Q, Sha H, Zhang H, Wang R, Kong W, Liao J, Zhao M.
+Research progress on the N protein of porcine reproductive and respiratory
+syndrome virus. Front Microbiol. 2024 Apr 29;15:1391697. doi:
+10.3389/fmicb.2024.1391697. PMID: 38741730; PMCID: PMC11089252.
+
+12: Duan H, Chen X, Zhang Z, Zhang Z, Li Z, Wang X, Zhao J, Nan Y, Liu B, Zhang
+A, Sun Y, Zhao Q. A nanobody inhibiting porcine reproductive and respiratory
+syndrome virus replication via blocking self-interaction of viral nucleocapsid
+protein. J Virol. 2024 Jan 23;98(1):e0131923. doi: 10.1128/jvi.01319-23. Epub
+2023 Dec 12. PMID: 38084961; PMCID: PMC10804987.
+
+13: Rowland RRR, Brandariz-Nuñez A. Role of N-linked glycosylation in porcine
+reproductive and respiratory syndrome virus (PRRSV) infection. J Gen Virol. 2024
+May;105(5):001994. doi: 10.1099/jgv.0.001994. PMID: 38776134; PMCID:
+PMC11165596.
+
+14: Li G, Zheng Y, Luo Q, Liang Y, Zhang H, Sha H, Wang R, Kong W, Zhao M.
+Research Progress on the NSP10 Protein of Porcine Reproductive and Respiratory
+Syndrome Virus. Microorganisms. 2024 Mar 11;12(3):553. doi:
+10.3390/microorganisms12030553. PMID: 38543603; PMCID: PMC10975305.
+
+15: Gao X, Bian T, Gao P, Ge X, Zhang Y, Han J, Guo X, Zhou L, Yang H. Fidelity
+Characterization of Highly Pathogenic Porcine Reproductive and Respiratory
+Syndrome Virus and NADC30-like Strain. Viruses. 2024 May 16;16(5):797. doi:
+10.3390/v16050797. PMID: 38793678; PMCID: PMC11125636.
+
+16: Huang B, Li F, You D, Deng L, Xu T, Lai S, Ai Y, Huang J, Zhou Y, Ge L, Zeng
+X, Xu Z, Zhu L. Porcine reproductive and respiratory syndrome virus infects the
+reproductive system of male piglets and impairs development of the blood-testis
+barrier. Virulence. 2024 Dec;15(1):2384564. doi: 10.1080/21505594.2024.2384564.
+Epub 2024 Jul 29. PMID: 39072452; PMCID: PMC11290757.
+
+17: Burger BT, Beaton BP, Campbell MA, Brett BT, Rohrer MS, Plummer S, Barnes D,
+Jiang K, Naswa S, Lange J, Ott A, Alger E, Rincon G, Rounsley S, Betthauser J,
+Mtango NR, Benne JA, Hammerand J, Durfee CJ, Rotolo ML, Cameron P, Lied AM, Irby
+MJ, Nyer DB, Fuller CK, Gradia S, Kanner SB, Park KE, Waters J, Simpson S,
+Telugu BP, Salgado BC, Brandariz-Nuñez A, Rowland RRR, Culbertson M, Rice E,
+Cigan AM. Generation of a Commercial-Scale Founder Population of Porcine
+Reproductive and Respiratory Syndrome Virus Resistant Pigs Using CRISPR-Cas.
+CRISPR J. 2024 Feb;7(1):12-28. doi: 10.1089/crispr.2023.0061. Erratum in: CRISPR
+J. 2024 Apr;7(2):131. doi: 10.1089/crispr.2023.0061.correx. PMID: 38353617.
+
+18: Rajkhowa S, Sonowal J, Pegu SR, Sanger GS, Deb R, Das PJ, Doley J, Paul S,
+Gupta VK. Natural co-infection of pigs with African swine fever virus and
+porcine reproductive and respiratory syndrome virus in India. Braz J Microbiol.
+2024 Mar;55(1):1017-1022. doi: 10.1007/s42770-023-01203-y. Epub 2023 Dec 2.
+PMID: 38041718; PMCID: PMC10920511.
+
+19: Li C, Fan A, Liu Z, Wang G, Zhou L, Zhang H, Huang L, Zhang J, Zhang Z,
+Zhang Y. Prevalence, Time of Infection, and Diversity of Porcine Reproductive
+and Respiratory Syndrome Virus in China. Viruses. 2024 May 13;16(5):774. doi:
+10.3390/v16050774. PMID: 38793655; PMCID: PMC11125865.
+
+20: Cui Z, Zhang J, Wang J, Liu J, Sun P, Li J, Li G, Sun Y, Ying J, Li K, Zhao
+Z, Yuan H, Bai X, Ma X, Li P, Fu Y, Bao H, Li D, Zhang Q, Liu Z, Cao Y, Lu Z.
+Caffeic acid phenethyl ester: an effective antiviral agent against porcine
+reproductive and Respiratory Syndrome Virus. Antiviral Res. 2024 May;225:105868.
+doi: 10.1016/j.antiviral.2024.105868. Epub 2024 Mar 13. PMID: 38490343.
+
+21: Wei R, Li L, Chen H, Wang X, Chen Y, Liu X. Inhibition of porcine
+reproductive and respiratory syndrome virus replication by rifampicin <i>in
+vitro</i>. Front Vet Sci. 2024 Jul 10;11:1439015. doi:
+10.3389/fvets.2024.1439015. PMID: 39051013; PMCID: PMC11266174.
+
+22: Fiers J, Cay AB, Maes D, Tignon M. A Comprehensive Review on Porcine
+Reproductive and Respiratory Syndrome Virus with Emphasis on Immunity. Vaccines
+(Basel). 2024 Aug 22;12(8):942. doi: 10.3390/vaccines12080942. PMID: 39204065;
+PMCID: PMC11359659.
+
+23: Li J, Zhang J, Sun P, Wang J, Li G, Cui Z, Li D, Yuan H, Wang T, Li K, Bai
+X, Zhao Z, Cao Y, Ma X, Li P, Fu Y, Bao H, Liu Z, Xiao S, Wang X, Lu Z. Porcine
+reproductive and respiratory syndrome virus nonstructural protein 2 promotes the
+autophagic degradation of adaptor protein SH3KBP1 to antagonize host innate
+immune responses by enhancing K63-linked polyubiquitination of RIG-I. PLoS
+Pathog. 2024 Oct 28;20(10):e1012670. doi: 10.1371/journal.ppat.1012670. PMID:
+39466846; PMCID: PMC11560026.
+
+24: He Z, Li F, Yan J, Liu M, Chen Y, Guo C. The dual role of autophagy during
+porcine reproductive and respiratory syndrome virus infection: A review. Int J
+Biol Macromol. 2024 Dec;282(Pt 3):136978. doi: 10.1016/j.ijbiomac.2024.136978.
+Epub 2024 Oct 28. PMID: 39471930.
+
+25: Ma Y, Shi K, Chen Z, Shi Y, Zhou Q, Mo S, Wei H, Hu L, Mo M. Simultaneous
+Detection of Porcine Respiratory Coronavirus, Porcine Reproductive and
+Respiratory Syndrome Virus, Swine Influenza Virus, and Pseudorabies Virus via
+Quadruplex One-Step RT-qPCR. Pathogens. 2024 Apr 19;13(4):341. doi:
+10.3390/pathogens13040341. PMID: 38668296; PMCID: PMC11054806.
+
+26: Zhang H, Li G, Zheng Y, Luo Q, Sha H, Sun W, Zhao M. NSP4 promotes
+replication of porcine reproductive and respiratory syndrome virus-2. Vet
+Microbiol. 2024 Aug;295:110121. doi: 10.1016/j.vetmic.2024.110121. Epub 2024 May
+25. PMID: 38889617.
+
+27: Wu Z, Chang T, Wang D, Zhang H, Liu H, Huang X, Tian Z, Tian X, Liu D, An T,
+Yan Y. Genomic surveillance and evolutionary dynamics of type 2 porcine
+reproductive and respiratory syndrome virus in China spanning the African swine
+fever outbreak. Virus Evol. 2024 Feb 9;10(1):veae016. doi: 10.1093/ve/veae016.
+PMID: 38404965; PMCID: PMC10890815.
+
+28: Su CM, Kim J, Tang J, Hung YF, Zuckermann FA, Husmann R, Roady P, Kim J, Lee
+YM, Yoo D. A clinically attenuated double-mutant of porcine reproductive and
+respiratory syndrome virus-2 that does not prompt overexpression of
+proinflammatory cytokines during co-infection with a secondary pathogen. PLoS
+Pathog. 2024 Mar 28;20(3):e1012128. doi: 10.1371/journal.ppat.1012128. PMID:
+38547254; PMCID: PMC11003694.
+
+29: Prajapati M, Aryal M, Li Y, Zhang Z, Acharya MP, Clive S, Frossard JP.
+Molecular characterization of porcine reproductive and respiratory syndrome
+virus identified in 2021 from Nepal. Front Vet Sci. 2024 Apr 2;11:1267571. doi:
+10.3389/fvets.2024.1267571. PMID: 38628941; PMCID: PMC11018977.
+
+30: Li C, Zhao J, Li W, Xu H, Gong B, Sun Q, Guo Z, Li J, Xiang L, Tang YD, Leng
+C, Wang Q, Peng J, Zhou G, Liu H, An T, Cai X, Tian ZJ, Zhang H. Prevalence and
+genetic evolution of porcine reproductive and respiratory syndrome virus in
+commercial fattening pig farms in China. Porcine Health Manag. 2024 Jan
+22;10(1):5. doi: 10.1186/s40813-024-00356-y. PMID: 38254191; PMCID: PMC10801985.
+
+31: Liu Z, Li C, Hu Y, Fang S, Li X, Zhang C, Huang L, Qian J, Wang G, Fan A,
+Zhang J, Geri L. Protective evaluation of the commercialized porcine
+reproductive and respiratory syndrome virus vaccines in piglets challenged by
+NADC34-like strain. Front Microbiol. 2024 Jun 26;15:1422335. doi:
+10.3389/fmicb.2024.1422335. PMID: 38989029; PMCID: PMC11233820.
+
+32: Sun M, Sun Y, Yang Y, Zhao M, Cao D, Zhang M, Xia D, Wang T, Gao Y, Wang S,
+Wang H, Cai X, An T. Multivalent nanobody-based sandwich enzyme-linked
+immunosorbent assay for sensitive detection of porcine reproductive and
+respiratory syndrome virus. Int J Biol Macromol. 2024 Feb;258(Pt 2):128896. doi:
+10.1016/j.ijbiomac.2023.128896. Epub 2023 Dec 22. PMID: 38143067.
+
+33: Wang BL, Zhang S, Liu Y, Zhao YH, Wang CW, Li Y, Zuo YZ, Fan JH. Enhancing
+immunogenicity and antiviral protection of inactivated porcine reproductive and
+respiratory syndrome virus vaccine in piglets. Am J Vet Res. 2024 Jun
+17;85(8):ajvr.24.02.0025. doi: 10.2460/ajvr.24.02.0025. PMID: 38889741.
+
+34: Ren J, Tan S, Chen X, Wang X, Lin Y, Jin Y, Niu S, Wang Y, Gao X, Liang L,
+Li J, Zhao Y, Tian WX. Characterization of a novel recombinant NADC30‑like
+porcine reproductive and respiratory syndrome virus in Shanxi Province, China.
+Vet Res Commun. 2024 Jun;48(3):1879-1889. doi: 10.1007/s11259-024-10319-x. Epub
+2024 Feb 13. PMID: 38349546.
+
+35: Stepanova K, Toman M, Sinkorova J, Sinkora S, Pfeiferova S, Kupcova
+Skalnikova H, Abuhajiar S, Moutelikova R, Salat J, Stepanova H, Nechvatalova K,
+Leva L, Hermanova P, Kratochvilova M, Dusankova B, Sinkora M Jr, Horak V,
+Hudcovic T, Butler JE, Sinkora M. Modified live vaccine strains of porcine
+reproductive and respiratory syndrome virus cause immune system dysregulation
+similar to wild strains. Front Immunol. 2024 Jan 12;14:1292381. doi:
+10.3389/fimmu.2023.1292381. PMID: 38283357; PMCID: PMC10811158.
+
+36: Zhang Z, Wu W, Li Q, Du F, Wang X, Yang M, Zhang H. The effect of matrine
+and glycyrrhizic acid on porcine reproductive and respiratory syndrome virus in
+Vitro and in vivo. Virol J. 2024 Jul 4;21(1):150. doi:
+10.1186/s12985-024-02415-w. PMID: 38965549; PMCID: PMC11225320.
+
+37: Zhang X, Chen Y, Liu M, Long X, Guo C. Intervention strategies targeting
+virus and host factors against porcine reproductive and respiratory syndrome
+virus: A systematic review. Int J Biol Macromol. 2024 Nov;279(Pt 3):135403. doi:
+10.1016/j.ijbiomac.2024.135403. Epub 2024 Sep 6. PMID: 39245101.
+
+38: Liu T, Shao Q, Cui Z, Qing P, Gao P, Zhang Y, Zhou L, Ge X, Guo X, Han J,
+Yang H. The 5'UTR of porcine reproductive and respiratory syndrome virus strain
+JXwn06 harbors a uORF that regulates cellular inflammation. J Virol. 2024 Sep
+17;98(9):e0113224. doi: 10.1128/jvi.01132-24. Epub 2024 Aug 28. PMID: 39194294;
+PMCID: PMC11406898.
+
+39: Kang L, Wahaab A, Qi P, Qiu Y, Wei J, Li B, Shao D, Li Z, Liu K, Ma Z, Su S.
+Porcine reproductive and respiratory syndrome virus nsp4-mediated β2M
+downregulation contributes to SLA-I decrease and virus infection in vivo and in
+vitro. Virology. 2024 Jul;595:110083. doi: 10.1016/j.virol.2024.110083. Epub
+2024 Apr 26. PMID: 38696887.
+
+40: Ouyang Y, Du Y, Zhang H, Guo J, Sun Z, Luo X, Mei X, Xiao S, Fang L, Zhou Y.
+Genetic Characterization and Pathogenicity of a Recombinant Porcine Reproductive
+and Respiratory Syndrome Virus Strain in China. Viruses. 2024 Jun 20;16(6):993.
+doi: 10.3390/v16060993. PMID: 38932283; PMCID: PMC11209116.
+
+41: Yang H, Sun M, Qiu H, Xu H, Deng Z, Gu H, Wang N, Du L, Shi F, Zhou J, He F.
+Nanobody peptide conjugate: a novel CD163 based broad neutralizing strategy
+against porcine reproductive and respiratory syndrome virus. J
+Nanobiotechnology. 2024 Jul 2;22(1):388. doi: 10.1186/s12951-024-02662-7. PMID:
+38956618; PMCID: PMC11218349.
+
+42: Luo X, Xie S, Xu X, Zhang Y, Huang Y, Tan D, Tan Y. Porcine reproductive and
+respiratory syndrome virus infection induces microRNA novel-216 production to
+facilitate viral-replication by targeting MAVS 3´UTR. Vet Microbiol. 2024
+May;292:110061. doi: 10.1016/j.vetmic.2024.110061. Epub 2024 Mar 19. PMID:
+38547545.
+
+43: Perez-Duran F, Calderon-Rico F, Franco-Correa LE, Zamora-Aviles AG, Ortega-
+Flores R, Durand-Herrera D, Bravo-Patiño A, Cortes-Vieyra R, Hernandez-Morales
+I, Nuñez-Anita RE. Synthetic Peptides Elicit Humoral Response against Porcine
+Reproductive and Respiratory Syndrome Virus in Swine. Vaccines (Basel). 2024 Jun
+11;12(6):652. doi: 10.3390/vaccines12060652. PMID: 38932381; PMCID: PMC11209519.
+
+44: Li L, Wang J, Chen L, Ren Q, Akhtar MF, Liu W, Wang C, Cao S, Liu W, Zhao Q,
+Li Y, Wang T. Diltiazem HCl suppresses porcine reproductive and respiratory
+syndrome virus infection in susceptible cells and in swine. Vet Microbiol. 2024
+May;292:110054. doi: 10.1016/j.vetmic.2024.110054. Epub 2024 Mar 16. PMID:
+38507832.
+
+45: Li Y, Wang Y, Pei X, Chen S, Jing Y, Wu Y, Ma Z, Li Z, Zheng Z, Feng Y, Xu
+L, Liu X, Guo X, Zheng H, Xiao S. A chimeric strain of porcine reproductive and
+respiratory syndrome virus 2 derived from HP-PRRSV and NADC30-like PRRSV confers
+cross-protection against both strains. Vet Res. 2024 Oct 7;55(1):132. doi:
+10.1186/s13567-024-01390-y. PMID: 39375803; PMCID: PMC11460240.
+
+46: Ding G, Li Y, Li D, Dou M, Fu C, Chen T, Cui X, Zhang Q, Yang P, Hou Y, Liu
+S, Xiao Y. SRCAP is involved in porcine reproductive and respiratory syndrome
+virus activated Notch signaling pathway. J Virol. 2024 Dec 17;98(12):e0121624.
+doi: 10.1128/jvi.01216-24. Epub 2024 Nov 12. PMID: 39530666; PMCID: PMC11650989.
+
+47: Li S, Qiu M, Li S, Li C, Lin H, Qiu Y, Qi W, Feng B, Cui M, Yang S, Zheng W,
+Shang S, Tian K, Zhu J, Lu Y, Chen N. A chimeric porcine reproductive and
+respiratory syndrome virus 1 strain containing synthetic ORF2-6 genes can
+trigger T follicular helper cell and heterologous neutralizing antibody
+responses and confer enhanced cross-protection. Vet Res. 2024 Mar 6;55(1):28.
+doi: 10.1186/s13567-024-01280-3. PMID: 38449049; PMCID: PMC10918997.
+
+48: Sun W, Wu W, Fang X, Ge X, Zhang Y, Han J, Guo X, Zhou L, Yang H. Disruption
+of pulmonary microvascular endothelial barrier by dysregulated claudin-8 and
+claudin-4: uncovered mechanisms in porcine reproductive and respiratory syndrome
+virus infection. Cell Mol Life Sci. 2024 May 28;81(1):240. doi:
+10.1007/s00018-024-05282-4. PMID: 38806818; PMCID: PMC11133251.
+
+49: Zhang W, Wang X, Zhang H, Pan Y, Ma W, Xu Y, Tian Z, Xia C, Fu L, Wang Y.
+Comparison of pathogenicity and host responses of emerging porcine reproductive
+and respiratory syndrome virus variants in piglets. J Virol. 2024 Nov
+19;98(11):e0154223. doi: 10.1128/jvi.01542-23. Epub 2024 Oct 24. PMID: 39445829;
+PMCID: PMC11575335.
+
+50: Grevelinger J, Bourry O, Meurens F, Perrin A, Hervet C, Dubreil L, Simon G,
+Bertho N. Impact of swine influenza A virus on porcine reproductive and
+respiratory syndrome virus infection in alveolar macrophages. Front Vet Sci.
+2024 Aug 26;11:1454762. doi: 10.3389/fvets.2024.1454762. PMID: 39253525; PMCID:
+PMC11381391.
+
+51: Ma YX, Han YQ, Wang PZ, Wang MY, Yang GY, Li JL, Wang J, Chu BB. Porcine
+reproductive and respiratory syndrome virus activates lipid synthesis through a
+ROS-dependent AKT/PCK1/INSIG/SREBPs axis. Int J Biol Macromol. 2024 Dec;282(Pt
+1):136720. doi: 10.1016/j.ijbiomac.2024.136720. Epub 2024 Oct 19. PMID:
+39433189.
+
+52: Chen T, Liu B, Liu D, Luo Q, Wang Y, Wang X, He D, Cai R. Virucidal effects
+of eucalyptus essential oil on porcine reproductive and respiratory syndrome
+virus. Front Microbiol. 2024 Aug 20;15:1443295. doi: 10.3389/fmicb.2024.1443295.
+PMID: 39228381; PMCID: PMC11368850.
+
+53: Jiao S, Zhang J, Wang J, Ma X, Li G, Li J, Cui Z, Li D, Li P, Zeng Q, Liu Z,
+Lu Z, Sun P. Whole-genome analysis of the recombination and evolution of newly
+identified NADC30-like porcine reproductive and respiratory syndrome virus
+strains circulated in Gansu province of China in 2023. Front Vet Sci. 2024 Apr
+12;11:1372032. doi: 10.3389/fvets.2024.1372032. PMID: 38681852; PMCID:
+PMC11047440.
+
+54: Yi H, Ye R, Xie E, Lu L, Wang Q, Wang S, Sun Y, Tian T, Qiu Y, Wu Q, Zhang
+G, Wang H. ZNF283, a Krüppel-associated box zinc finger protein, inhibits RNA
+synthesis of porcine reproductive and respiratory syndrome virus by interacting
+with Nsp9 and Nsp10. Vet Res. 2024 Jan 15;55(1):9. doi:
+10.1186/s13567-023-01263-w. PMID: 38225617; PMCID: PMC10790482.
+
+55: Dey S, Bruner J, Brown M, Roof M, Chowdhury R. Identification and
+biophysical characterization of epitope atlas of Porcine Reproductive and
+Respiratory Syndrome Virus. Comput Struct Biotechnol J. 2024 Sep
+10;23:3348-3357. doi: 10.1016/j.csbj.2024.08.029. PMID: 39310279; PMCID:
+PMC11416235.
+
+56: Zhao YY, Ma X, Chen XM, Song YP, Zheng LL, Ma SJ, Chen HY. Molecular
+detection and genetic characteristics of porcine reproductive and respiratory
+syndrome virus in central China. Microb Pathog. 2024 Dec;197:107024. doi:
+10.1016/j.micpath.2024.107024. Epub 2024 Oct 18. PMID: 39426634.
+
+57: Li J, Gong W, Mao L, Pan X, Wu Q, Guo Y, Jiang J, Tang H, Zhao Y, Cheng L,
+Tu C, Yu X, He S, Zhang W. Molecular epizootiology of porcine reproductive and
+respiratory syndrome virus in the Xinjiang Uygur Autonomous Region of China.
+Front Microbiol. 2024 Jun 26;15:1419499. doi: 10.3389/fmicb.2024.1419499. PMID:
+38989028; PMCID: PMC11233727.
+
+58: Liu B, Zheng X, Sun X, Wan B, Dong J, Zhou Z, Nan Y, Wu C. Characterization
+of in vitro viral neutralization targets of highly pathogenic porcine
+reproductive and respiratory syndrome virus (HP-PRRSV) in alveolar macrophage
+and evaluation of protection potential against HP-PRRSV challenged based on
+combination of HP-PRRSV-structure proteins in vitro. Vet Microbiol. 2024
+May;292:110035. doi: 10.1016/j.vetmic.2024.110035. Epub 2024 Mar 5. PMID:
+38484577.
+
+59: Xu Y, Ding L, Zhang Y, Ren S, Li J, Liu F, Sun W, Chen Z, Yu J, Wu J.
+Research progress on the pattern recognition receptors involved in porcine
+reproductive and respiratory syndrome virus infection. Front Cell Infect
+Microbiol. 2024 Aug 15;14:1428447. doi: 10.3389/fcimb.2024.1428447. PMID:
+39211800; PMCID: PMC11358126.
+
+60: Melini CM, Kikuti M, Bruner L, Allerson M, O'Brien K, Stahl C, Roggow B,
+Yeske P, Leuwerke B, Schwartz M, Torremorell M, Corzo CA. Assessment of porcine
+reproductive and respiratory syndrome virus (PRRSV) farm surface contamination
+through environmental sampling. Porcine Health Manag. 2024 Sep 27;10(1):34. doi:
+10.1186/s40813-024-00387-5. PMID: 39334499; PMCID: PMC11430232.
+
+61: Li W, Li Y, Li M, Zhang H, Feng Z, Xu H, Li C, Guo Z, Gong B, Peng J, Zhou
+G, Tian Z, Wang Q. Development and application of a blocking ELISA based on a N
+protein monoclonal antibody for the antibody detection against porcine
+reproductive and respiratory syndrome virus 2. Int J Biol Macromol. 2024
+Jun;269(Pt 2):131842. doi: 10.1016/j.ijbiomac.2024.131842. Epub 2024 Apr 26.
+PMID: 38679249.
+
+62: Ye C, Cao X, Sheng J, Sun Y, Li G, Fang W, Zhang Y. MiR-339-5p inhibits
+replication of porcine reproductive and respiratory syndrome virus by targeting
+viral gene regions. Virus Genes. 2024 Apr;60(2):186-193. doi:
+10.1007/s11262-024-02059-6. Epub 2024 Feb 18. PMID: 38368577.
+
+63: Kikuti M, Melini CM, Yue X, Paploski IAD, Pamornchainavakul N, Baker JP,
+Makau DN, VanderWaal K, Maschhoff A, Henness K, Drebes D, Corzo CA. Porcine
+reproductive and respiratory syndrome virus variant emergence: Example and
+considerations for prospective monitoring. Vet Microbiol. 2024 Nov;298:110293.
+doi: 10.1016/j.vetmic.2024.110293. Epub 2024 Oct 29. PMID: 39504631.
+
+64: Clilverd H, Li Y, Martín-Valls G, Aguirre L, Martín M, Cortey M, Mateu E.
+Selection of viral variants with enhanced transmission and reduced
+neutralization susceptibility alongside lateral introductions may explain the
+persistence of porcine reproductive and respiratory syndrome virus in vaccinated
+breeding herds. Virus Evol. 2024 May 17;10(1):veae041. doi: 10.1093/ve/veae041.
+PMID: 38817667; PMCID: PMC11137674.
+
+65: Tang J, Hung YF, Yoo D. Genomic RNA recombination of porcine reproductive
+and respiratory syndrome virus and other arteriviruses. Virology. 2025
+Jan;601:110284. doi: 10.1016/j.virol.2024.110284. Epub 2024 Nov 4. PMID:
+39531889.
+
+66: Huang X, Liu W. Role of microRNAs in host defense against porcine
+reproductive and respiratory syndrome virus infection: a hidden front line.
+Front Immunol. 2024 Mar 25;15:1376958. doi: 10.3389/fimmu.2024.1376958. PMID:
+38590524; PMCID: PMC10999632.
+
+67: Molini U, Coetzee LM, Hemberger MY, Chiwome B, Khaiseb S, Dundon WG, Franzo
+G. First detection and molecular characterization of porcine reproductive and
+respiratory syndrome virus in Namibia, Africa. Front Vet Sci. 2024 Jan
+15;10:1323974. doi: 10.3389/fvets.2023.1323974. PMID: 38288380; PMCID:
+PMC10822890.
+
+68: Yang K, Dong J, Li J, Zhou R, Jia X, Sun Z, Zhang W, Li Z. The neonatal Fc
+receptor (FcRn) is required for porcine reproductive and respiratory syndrome
+virus uncoating. J Virol. 2024 Dec 9:e0121824. doi: 10.1128/jvi.01218-24. Epub
+ahead of print. PMID: 39651859.
+
+69: Zhao SS, Qian Q, Wang Y, Qiao S, Li R. Porcine reproductive and respiratory
+syndrome virus degrades TANK-binding kinase 1 via chaperon-mediated autophagy to
+suppress type I interferon production and facilitate viral proliferation. Vet
+Res. 2024 Nov 14;55(1):151. doi: 10.1186/s13567-024-01392-w. PMID: 39543624;
+PMCID: PMC11566183.
+
+70: Long F, Su L, Zhang M, Wang S, Sun Q, Liu J, Chen W, Wang H, Chen J.
+Betulonic Acid Inhibits Type-2 Porcine Reproductive and Respiratory Syndrome
+Virus Replication by Downregulating Cellular ATP Production. Int J Mol Sci. 2024
+Sep 26;25(19):10366. doi: 10.3390/ijms251910366. PMID: 39408695; PMCID:
+PMC11477185.
+
+71: Zhang M, Qian B, Veit M. Engineering and characterizing porcine reproductive
+and respiratory syndrome virus with separated and tagged genes encoding the
+minor glycoproteins. Vet Microbiol. 2024 Jul;294:110125. doi:
+10.1016/j.vetmic.2024.110125. Epub 2024 May 21. PMID: 38795404.
+
+72: Cao X, Xue J, Ali A, Zhang M, Sheng J, Sun Y, Zhang Y. Honeysuckle-Derived
+miR2911 Inhibits Replication of Porcine Reproductive and Respiratory Syndrome
+Virus by Targeting Viral Gene Regions. Viruses. 2024 Aug 23;16(9):1350. doi:
+10.3390/v16091350. PMID: 39339827; PMCID: PMC11435848.
+
+73: Yonezawa Y, Taira O, Omori T, Tsutsumi N, Sugiura K. First detection of
+NADC34-like porcine reproductive and respiratory syndrome virus strains in
+Japan. J Vet Med Sci. 2024 Dec 2. doi: 10.1292/jvms.24-0451. Epub ahead of
+print. PMID: 39617438.
+
+74: Wang H, Zheng X, Zheng D, Wang X, Zhao Z, Zhao M, Guo Q, Mu Y. Monoclonal
+Antibody against Porcine LAG3 Inhibits Porcine Reproductive and Respiratory
+Syndrome Virus Infection. Vet Sci. 2024 Oct 7;11(10):483. doi:
+10.3390/vetsci11100483. PMID: 39453075; PMCID: PMC11512405.
+
+75: Chang W, Wang J, Wu F, Zhang H, Yang M. Antiviral activity and underlying
+mechanisms of baicalin against porcine reproductive and respiratory syndrome
+virus in vitro. Microb Pathog. 2024 Aug;193:106712. doi:
+10.1016/j.micpath.2024.106712. Epub 2024 Jun 7. PMID: 38851360.
+
+76: Chang X, Li Z, Wang M, Pei K, Wang J, Hu J, Ding K, Chang Y. USP8 suppresses
+porcine reproductive and respiratory syndrome virus replication by positively
+regulating MAVS mediated Ⅰ-IFN signaling. Vet Microbiol. 2024 Nov;298:110286.
+doi: 10.1016/j.vetmic.2024.110286. Epub 2024 Oct 28. PMID: 39509836.
+
+77: Huang S, Sun Q, Zhu J, Wu X, Liu R, Shen W, Liu X, Yue Y, Gao F, Jiang Y,
+Tong G, Zhou Y. Identification of new antigenic epitopes of porcine reproductive
+and respiratory syndrome virus nsp12 protein using monoclonal antibodies. Int J
+Biol Macromol. 2024 Dec;283(Pt 2):137496. doi: 10.1016/j.ijbiomac.2024.137496.
+Epub 2024 Nov 13. PMID: 39542336.
+
+78: Xie F, Kang L, Chen M, Zhang T, Li Z, Shao D, Li B, Wei J, Qiu Y, Li M, Ma
+Z, Liu K. Heat shock protein 71 restricts mutation of porcine reproductive and
+respiratory syndrome virus nsp2 in vitro. Comp Immunol Microbiol Infect Dis.
+2024 Jun;109:102179. doi: 10.1016/j.cimid.2024.102179. Epub 2024 Apr 15. PMID:
+38636297.
+
+79: da Silva MK, de Aquino JGF, de Oliveira CBS, Rodrigues-Neto JF, Rahman M,
+Akter S, Fulco UL, Bin Jardan YA, Ibenmoussa S, Oliveira JIN. Computational
+antigenic insights into the novel NADC-34-like Porcine Reproductive and
+Respiratory Syndrome Virus (PRRSV) isolate YC-2020. Vet Immunol Immunopathol.
+2024 May;271:110754. doi: 10.1016/j.vetimm.2024.110754. Epub 2024 Apr 4. PMID:
+38613865.
+
+80: Zheng S, An H, Xu F, Meng F, Cai X, Tian Z, Peng J, Deng X, Shang Y, Wang G.
+Tylvalosin tartrate inhibits the replication stage of the porcine reproductive
+and respiratory syndrome virus life cycle. Microb Pathog. 2024 Nov;196:106988.
+doi: 10.1016/j.micpath.2024.106988. Epub 2024 Oct 5. PMID: 39374883.
+
+81: Chen X, Zhang J. Understanding Post-Translational Modifications in Porcine
+Reproductive and Respiratory Syndrome Virus Infection. Vet Sci. 2024 Dec
+16;11(12):654. doi: 10.3390/vetsci11120654. PMID: 39728994; PMCID: PMC11680304.
+
+82: Chang X, Wang M, Li Z, Wang L, Zhang G, Chang Y, Hu J. FADD promotes type I
+interferon production to suppress porcine reproductive and respiratory syndrome
+virus infection. Front Vet Sci. 2024 Apr 8;11:1380144. doi:
+10.3389/fvets.2024.1380144. PMID: 38650851; PMCID: PMC11033513.
+
+83: Zhang R, Li H, Xie H, Wang P, Yu C, Li J, Yang Z, Zeshan B, Cao A, Wang X.
+Transcriptional kinetics of NADC34-like porcine reproductive and respiratory
+syndrome virus during cellular infection. Arch Virol. 2024 Aug 24;169(9):186.
+doi: 10.1007/s00705-024-06113-4. PMID: 39180681.
+
+84: Otake S, Yoshida M, Dee S. A Review of Swine Breeding Herd Biosecurity in
+the United States to Prevent Virus Entry Using Porcine Reproductive and
+Respiratory Syndrome Virus as a Model Pathogen. Animals (Basel). 2024 Sep
+16;14(18):2694. doi: 10.3390/ani14182694. PMID: 39335283; PMCID: PMC11440104.
+
+85: Huang X, Liu G, Chang T, Yang Y, Wang T, Xia D, Qi X, Zhu X, Wei Z, Tian X,
+Wang H, Tian Z, Cai X, An T. Recombinant characterization and pathogenicity of a
+novel L1C RFLP-1-4-4 variant of porcine reproductive and respiratory syndrome
+virus in China. Vet Res. 2024 Nov 6;55(1):142. doi: 10.1186/s13567-024-01401-y.
+PMID: 39506759; PMCID: PMC11539553.
+
+86: Suh J, Ham S, Kim Y, Kim S, Cho A, Moon H, Chae C. In vitro and in vivo
+antiviral effects of CLEVir-X against porcine reproductive and respiratory
+syndrome virus. Virus Res. 2024 Jul;345:199380. doi:
+10.1016/j.virusres.2024.199380. Epub 2024 Apr 27. PMID: 38657837; PMCID:
+PMC11067496.
+
+87: Guo SY, Feng WH. Host microRNAs as regulators of porcine reproductive and
+respiratory syndrome virus infection. Virology. 2024 Dec 21;603:110361. doi:
+10.1016/j.virol.2024.110361. Epub ahead of print. PMID: 39721195.
+
+88: Li Z, Wang J, Wang S, Zhao W, Hou X, Wang J, Dong H, Zhou S, Gao Y, Yao W,
+Li H, Liu X. A dicoumarol-graphene oxide quantum dot polymer inhibits porcine
+reproductive and respiratory syndrome virus through the JAK-STAT signaling
+pathway. Front Microbiol. 2024 Jun 19;15:1417404. doi:
+10.3389/fmicb.2024.1417404. PMID: 38962129; PMCID: PMC11221364.
+
+89: Dee S, Brands L, Nerem J, Schelkopf A, Spronk G, Kikuti M, Corzo C, Havas K.
+Improvements in swine herd biosecurity reduce the incidence risk of porcine
+reproductive and respiratory syndrome virus in breeding herds in the Midwestern
+United States. J Am Vet Med Assoc. 2024 Jan 5;262(4):520-525. doi:
+10.2460/javma.23.08.0437. PMID: 38183764.
+
+90: Zheng Y, Li G, Liu K, Luo Q, Sun W, Zhao M. Genetic variation and
+recombination analysis of the <i>GP5</i> gene of the porcine reproductive and
+respiratory syndrome virus in Thailand. Front Vet Sci. 2024 Aug 8;11:1444040.
+doi: 10.3389/fvets.2024.1444040. PMID: 39176398; PMCID: PMC11340500.
+
+91: Guang Q, Zhang LZ, Tang X, Li JK, Cao C, Chen HB, Qiu LX. Quercetin
+alleviates inflammation induced by porcine reproductive and respiratory syndrome
+virus in MARC-145 cells through the regulation of arachidonic acid and glutamine
+metabolism. Vet Med Sci. 2024 Jul;10(4):e1536. doi: 10.1002/vms3.1536. PMID:
+39016357; PMCID: PMC11253185.
+
+92: Kreutzmann H, Unterweger C, Schwarz L, Dimmel K, Auer A, Rümenapf T, Ladinig
+A. Pluck-pools as diagnostic samples for detecting porcine reproductive and
+respiratory syndrome virus and porcine circovirus type 2 in porcine abortion
+material and stillbirths. Vet J. 2024 Apr;304:106081. doi:
+10.1016/j.tvjl.2024.106081. Epub 2024 Feb 13. PMID: 38360136.
+
+93: Wang T, Xia DS, Tian XX, Yang YB, An TQ. Antigenicity, epitope mapping, and
+intracellular distribution of the NSP7α protein of porcine reproductive and
+respiratory syndrome virus. Int J Biol Macromol. 2024 Apr;265(Pt 1):130944. doi:
+10.1016/j.ijbiomac.2024.130944. Epub 2024 Mar 15. PMID: 38493809.
+
+94: Wang G, Zhu H, Zhan C, Chen P, Wu B, Peng Z, Qian P, Cheng G. Establishment
+and Application of a Quadruplex Real-Time Reverse-Transcription Polymerase Chain
+Reaction Assay for Differentiation of Porcine Reproductive and Respiratory
+Syndrome Virus, Porcine Circovirus Type 2, Porcine Circovirus Type 3, and
+<i>Streptococcus suis</i>. Microorganisms. 2024 Feb 20;12(3):427. doi:
+10.3390/microorganisms12030427. PMID: 38543477; PMCID: PMC10971858.
+
+95: Yang M, Cui L, Liu X. A Seamless Cloning Approach for Porcine Reproductive
+and Respiratory Syndrome Virus Expression Vector Construction. J Vis Exp. 2024
+May 17;(207). doi: 10.3791/66320. PMID: 38829112.
+
+96: Ham S, Suh J, Cho H, Chae C. Importance of sequential infection order of
+porcine circovirus type 2 and porcine reproductive and respiratory syndrome
+virus to divergent clinical outcomes. Vet Microbiol. 2024 Aug;295:110156. doi:
+10.1016/j.vetmic.2024.110156. Epub 2024 Jun 17. PMID: 38906012.
+
+97: Chen Y, Huo Z, Jiang Q, Qiu Z, Shao Z, Ma C, Zhang G, Li Q. The Significance
+of the 98th Amino Acid in GP2a for Porcine Reproductive and Respiratory Syndrome
+Virus Adaptation in Marc-145 Cells. Viruses. 2024 Apr 30;16(5):711. doi:
+10.3390/v16050711. PMID: 38793594; PMCID: PMC11125946.
+
+98: Choi K. The Role of Macrophages in Airway Disease Focusing on Porcine
+Reproductive and Respiratory Syndrome Virus and the Treatment with Antioxidant
+Nanoparticles. Viruses. 2024 Oct 1;16(10):1563. doi: 10.3390/v16101563. PMID:
+39459897; PMCID: PMC11512392.
+
+99: Dee S, Brands L, Edler R, Schelkopf A, Nerem J, Spronk G, Kikuti M, Corzo
+CA. Further Evidence That Science-Based Biosecurity Provides Sustainable
+Prevention of Porcine Reproductive and Respiratory Syndrome Virus Infection and
+Improved Productivity in Swine Breeding Herds. Animals (Basel). 2024 Aug
+30;14(17):2530. doi: 10.3390/ani14172530. PMID: 39272315; PMCID: PMC11394473.
+
+100: Jantafong T, Saenglub W, Chaisilp N, Paungpin W, Tibkwang T, Mutthi P,
+Bouma T, Lekcharoensuk P. Investigation of the distribution and origin of
+porcine reproductive and respiratory syndrome virus 1 in the swine production
+chain: A retrospective study of three farms in Thailand. Vet World. 2024
+Aug;17(8):1722-1732. doi: 10.14202/vetworld.2024.1722-1732. Epub 2024 Aug 4.
+PMID: 39328441; PMCID: PMC11422652.
+
+101: Mil-Homens M, Aljets E, Paiva RC, Machado I, Cezar G, Osemeke O, Moraes D,
+Jayaraman S, Brinning M, Poeta Silva AP, Tidgren L, Durflinger M, Wilhelm M,
+Flores V, Frenier J, Linhares D, Zhang J, Holtkamp D, Silva GS. Assessment of
+temperature and time on the survivability of porcine reproductive and
+respiratory syndrome virus (PRRSV) and porcine epidemic diarrhea virus (PEDV) on
+experimentally contaminated surfaces. PLoS One. 2024 Jan 19;19(1):e0291181. doi:
+10.1371/journal.pone.0291181. PMID: 38241219; PMCID: PMC10798431.
+
+102: Wang J, Yan J, Wang S, Chen R, Xing Y, Liu Q, Gao S, Zhu Y, Li J, Zhou Y,
+Shan T, Tong W, Zheng H, Kong N, Jiang Y, Liu C, Tong G, Yu H. An Expeditious
+Neutralization Assay for Porcine Reproductive and Respiratory Syndrome Virus
+Based on a Recombinant Virus Expressing Green Fluorescent Protein. Curr Issues
+Mol Biol. 2024 Jan 23;46(2):1047-1063. doi: 10.3390/cimb46020066. PMID:
+38392184; PMCID: PMC10887926.
+
+103: Fu C, Shao Q, Zhang L, Cui X, Chen T, Tian C, Qian F, Chu X, Li Y, Yang P,
+Hou Y, Xiao Y. Development of an enzyme-linked immunosorbent assay using a
+monoclonal antibody to a dominant epitope in non-structural protein 4 of porcine
+reproductive and respiratory syndrome virus. J Immunol Methods. 2024
+Jul;530:113697. doi: 10.1016/j.jim.2024.113697. Epub 2024 May 31. PMID:
+38823576.
+
+104: Li G, Li Y, He C, Liu X, Lv C, Liu K, Yu X, Zhao M. Sequence analysis of
+the GP5 protein of porcine reproductive and respiratory syndrome virus in
+Vietnam from 2007 to 2023. Front Microbiol. 2024 Oct 1;15:1475208. doi:
+10.3389/fmicb.2024.1475208. PMID: 39411437; PMCID: PMC11473425.
+
+105: Opriessnig T, Halbur P, Bayne J, Rawal G, Tong H, Mou K, Li G, Zhang D,
+Zhang J, Muwonge A. Exploratory application of a cannulation model in recently
+weaned pigs to monitor longitudinal changes in the enteric microbiome across
+varied porcine reproductive and respiratory syndrome virus (PRRSV) infection
+statuses. Front Vet Sci. 2024 Jul 19;11:1422012. doi:
+10.3389/fvets.2024.1422012. PMID: 39100768; PMCID: PMC11294941.
+
+106: Arjin C, Hongsibsong S, Pringproa K, Ruksiriwanich W, Lumsangkul C,
+Arunorat J, Chuammitri P, Seel-Audom M, Sommano SR, Sringarm K. Immune response
+enhancement by dietary supplementation with Caesalpinia sappan extract in weaned
+pigs challenged with porcine reproductive and respiratory syndrome virus. BMC
+Vet Res. 2024 Mar 22;20(1):111. doi: 10.1186/s12917-024-03911-5. PMID: 38515094;
+PMCID: PMC10958915.
+
+107: Alonso-Cerda MJ, García-Soto MJ, Miranda-López A, Segura-Velázquez R,
+Sánchez-Betancourt JI, González-Ortega O, Rosales-Mendoza S. Layered Double
+Hydroxides (LDH) as Delivery Vehicles of a Chimeric Protein Carrying Epitopes
+from the Porcine Reproductive and Respiratory Syndrome Virus. Pharmaceutics.
+2024 Jun 21;16(7):841. doi: 10.3390/pharmaceutics16070841. PMID: 39065539;
+PMCID: PMC11279870.
+
+108: Houston GE, Jones CK, Evans C, Otott HK, Stark CR, Bai J, Poulsen Porter
+EG, de Almeida MN, Zhang J, Gauger PC, Blomme AK, Woodworth JC, Paulk CB,
+Gebhardt JT. Evaluation of Truck Cab Decontamination Procedures following
+Inoculation with Porcine Epidemic Diarrhea Virus and Porcine Reproductive and
+Respiratory Syndrome Virus. Animals (Basel). 2024 Jan 16;14(2):280. doi:
+10.3390/ani14020280. PMID: 38254449; PMCID: PMC10812598.
+
+109: Zhou L, Zhou H, Wang P, Xu H, Wu J, Zhou Y, Feng J, Zheng W. Construction
+of engineered probiotic that adhere and display nanobody to neutralize porcine
+reproductive and respiratory syndrome virus. Arch Microbiol. 2024 Nov
+14;206(12):466. doi: 10.1007/s00203-024-04198-8. PMID: 39540965.
+
+110: Harrison OL, Bai J, Larson M, Pograninchniy RM, Domingues F, Holcombe N,
+Lopez O, Jones CK. Evaluation of formaldehyde when complete feed and soybean
+meal were inoculated with porcine epidemic diarrhea virus, porcine reproductive
+and respiratory syndrome virus, and Seneca Valley virus 1. Transl Anim Sci. 2024
+Aug 23;8:txae121. doi: 10.1093/tas/txae121. PMID: 39219715; PMCID: PMC11362987.
+
+111: Rowland RRR, Salgado B, Lowe J, Sonstegard TS, Carlson DF, Martins K,
+Bostrom JR, Storms S, Brandariz-Nuñez A. Deletion of maternal CD163 PSTII-
+domain-coding exon 13 protects fetuses from infection with porcine reproductive
+and respiratory syndrome virus (PRRSV). Vet Microbiol. 2024 Nov;298:110255. doi:
+10.1016/j.vetmic.2024.110255. Epub 2024 Sep 23. PMID: 39332164.
+
+112: Hu W, Tang D, Zeng Z, Wang B, Zhou M, Mao Y, Zhou P, He S. Research
+progress on the molecular mechanism of immune escape of porcine reproductive and
+respiratory syndrome virus. Virology. 2025 Jan;602:110298. doi:
+10.1016/j.virol.2024.110298. Epub 2024 Dec 3. PMID: 39631153.
+
+113: Wu Y, Lin L, Gao X, Zheng J, Yin L, Zhao H, Ren B, Wang L, Li Q. Evaluation
+of the cross-protective effect of VR2332 modified live virus vaccine against a
+recombinant NADC34-like porcine reproductive and respiratory syndrome virus.
+Front Vet Sci. 2024 Nov 20;11:1472960. doi: 10.3389/fvets.2024.1472960. PMID:
+39641098; PMCID: PMC11618057.
+
+114: Zhang J, Zhao C, Yao M, Qi J, Tan Y, Shi K, Wang J, Zhou S, Li Z.
+Transcriptome sequencing reveals non-coding RNAs respond to porcine reproductive
+and respiratory syndrome virus and <i>Haemophilus parasuis</i> co-infection in
+Kele piglets. J Anim Sci Technol. 2024 Jul;66(4):663-681. doi:
+10.5187/jast.2023.e46. Epub 2024 Jul 31. PMID: 39165737; PMCID: PMC11331363.
+
+115: Jezdimirović N, Savić B, Milovanović B, Glišić D, Ninković M, Kureljušić J,
+Maletić J, Aleksić Radojković J, Kasagić D, Milićević V. Molecular Detection of
+Porcine Cytomegalovirus, Porcine Parvovirus, Aujeszky Disease Virus and Porcine
+Reproductive and Respiratory Syndrome Virus in Wild Boars Hunted in Serbia
+during 2023. Vet Sci. 2024 Jun 3;11(6):249. doi: 10.3390/vetsci11060249. PMID:
+38921996; PMCID: PMC11209600.
+
+116: Xia Z, Long D, Hong X, Lan Y, Xie L. Tissue expression of porcine transient
+receptor potential mucolipin protein channels and their differential responses
+to porcine reproductive and respiratory syndrome virus infection <i>in
+vitro</i>. J Vet Res. 2024 Mar 23;68(1):45-53. doi: 10.2478/jvetres-2024-0014.
+PMID: 38525220; PMCID: PMC10960329.
+
+117: Laplana M, Ros-Freixedes R, Estany J, Fraile LJ, Pena RN. Whole-genome
+analysis of resilience based on the stability of reproduction performance during
+a porcine reproductive and respiratory syndrome virus outbreak in sows. Animal.
+2024 Sep;18(9):101290. doi: 10.1016/j.animal.2024.101290. Epub 2024 Aug 6. PMID:
+39226776.
+
+118: Lambert MÈ, Arsenault J, Côté JC, D'Allaire S. A descriptive study on
+spatial and temporal distributions of genetic clusters of porcine reproductive
+and respiratory syndrome virus infecting pig sites in Quebec, Canada, between
+2010 and 2019. Porcine Health Manag. 2024 Jan 25;10(1):7. doi:
+10.1186/s40813-024-00357-x. PMID: 38273419; PMCID: PMC10809575.
+
+119: Liu J, Wang X, Ren T, Qin J, Qin Y, Ouyang K, Chen Y, Huang W, Wei Z.
+Identification of B-cell epitope on the N protein of type 1 Porcine Reproductive
+and Respiratory Syndrome Virus (PRRSV) using monoclonal antibody and
+construction of epitope-mutated virus. Virology. 2024 Aug;596:110102. doi:
+10.1016/j.virol.2024.110102. Epub 2024 May 10. PMID: 38749084.
+
+120: Zheng X, Bo X, Jin K, He X, Jia Y, Zhou Z, Xu C, Nan Y, Wu C. Porcine ISG15
+fused IFN-λ3 as a novel antiviral agent for treating porcine reproductive and
+respiratory syndrome virus infection in vivo. Int J Biol Macromol. 2024 Dec
+5;287:138242. doi: 10.1016/j.ijbiomac.2024.138242. Epub ahead of print. PMID:
+39645133.
+
+121: Durazo-Martinez K, Chaudhari J, Kumari S, Vu HLX. Porcine peritoneal
+macrophages are susceptible to porcine reproductive and respiratory syndrome
+virus infection. Front Microbiol. 2024 Dec 11;15:1505900. doi:
+10.3389/fmicb.2024.1505900. PMID: 39723134; PMCID: PMC11668767.
+
+122: Arjin C, Hnokaew P, Tasuksai P, Thongkham M, Pringproa K, Arunorat J, Yano
+T, Seel-Audom M, Rachtanapun P, Sringarm K, Chuammitri P. Transcriptome Analysis
+of Porcine Immune Cells Stimulated by Porcine Reproductive and Respiratory
+Syndrome Virus (PRRSV) and <i>Caesalpinia sappan</i> Extract. Int J Mol Sci.
+2024 Nov 15;25(22):12285. doi: 10.3390/ijms252212285. PMID: 39596350; PMCID:
+PMC11595159.
+
+123: Feng Z, Shi K, Yin Y, Shi Y, Feng S, Long F, Wei Z, Si H. A Quadruplex RT-
+qPCR for the Detection of African Swine Fever Virus, Classical Swine Fever
+Virus, Porcine Reproductive and Respiratory Syndrome Virus, and Porcine
+Pseudorabies Virus. Animals (Basel). 2024 Dec 9;14(23):3551. doi:
+10.3390/ani14233551. PMID: 39682516; PMCID: PMC11640363.
+
+124: Li L, Chen J, Cao Z, Guo Z, Liu J, Zhou Y, Tong G, Gao F. Engineering a
+live-attenuated porcine reproductive and respiratory syndrome virus vaccine to
+prevent RNA recombination by rewiring transcriptional regulatory sequences.
+mBio. 2024 Dec 23:e0235024. doi: 10.1128/mbio.02350-24. Epub ahead of print.
+PMID: 39714179.
+
+125: Zhu J, Lai Y, Cheng M, Dash RC, Guo S, Guo J, Su Y, Wolek A, Issacs B, Liu
+Z, Li Q, Mishra N, Garmendia A, Hadden MK, Tian XC, He X, Tang Y. Discovery of
+small molecules against porcine reproductive and respiratory syndrome virus
+replication by targeting NendoU activity. J Virol. 2024 Dec 31:e0203424. doi:
+10.1128/jvi.02034-24. Epub ahead of print. PMID: 39745451.
+
+126: Pegu SR, Sonowal J, Das PJ, Rajkhowa S, Choudhury M, Deb R, Sanger GS,
+Yadav AK, Deka N, Kumar S, Gupta VK. Molecular genetic characterization of
+porcine reproductive and respiratory syndrome virus outbreak in Assam, India and
+neighbouring regions. Braz J Microbiol. 2024 Dec 17. doi:
+10.1007/s42770-024-01592-8. Epub ahead of print. PMID: 39690325.
+
+127: van Dixhoorn IDE, Te Beest DE, Bolhuis JE, Parmentier HK, Kemp B, van
+Mourik S, Stockhofe-Zurwieden N, van Reenen CG, Rebel JMJ. Corrigendum: Animal-
+based factors prior to infection predict histological disease outcome in porcine
+reproductive and respiratory syndrome virus- and <i>Actinobacillus
+pleuropneumoniae</i>-infected pigs. Front Vet Sci. 2024 Feb 13;11:1350387. doi:
+10.3389/fvets.2024.1350387. Erratum for: Front Vet Sci. 2021 Nov 17;8:742877.
+doi: 10.3389/fvets.2021.742877. PMID: 38414652; PMCID: PMC10897753.
+
+128: Wang D, Cao L, Xu Z, Fang L, Zhong Y, Chen Q, Luo R, Chen H, Li K, Xiao S.
+Correction: MiR-125b Reduces Porcine Reproductive and Respiratory Syndrome Virus
+Replication by Negatively Regulating the NF-κB Pathway. PLoS One. 2024 Nov
+18;19(11):e0314312. doi: 10.1371/journal.pone.0314312. Erratum for: PLoS One.
+2013;8(2):e55838. doi: 10.1371/journal.pone.0055838. PMID: 39556569; PMCID:
+PMC11573157.
+
+129: Duan D, Li Y, Liang Y, Huang S, Liu J, Qiu L, Chen H. [Porcine reproductive
+and respiratory syndrome virus infection induces glycolysis of macrophages to
+facilitate viral replication]. Sheng Wu Gong Cheng Xue Bao. 2024 Dec
+25;40(12):4546-4556. Chinese. doi: 10.13345/j.cjb.240275. PMID: 39722515.
+
+130: Aundrup J, Lüken C, Heenemann K, Vahlenkamp TW, Hennig-Pauka I. An Outbreak
+of Porcine Reproductive and Respiratory Syndrome Virus (PRRSV) in a German Boar
+Stud: A Retrospective Analysis of PRRSV Shedding in Boar Semen. Vet Sci. 2024
+Nov 11;11(11):557. doi: 10.3390/vetsci11110557. PMID: 39591331; PMCID:
+PMC11599107.
+
+131: Correction to: <i>Generation of a Commercial-Scale Founder Population of
+Porcine Reproductive and Respiratory Syndrome Virus Resistant Pigs Using CRISPR-
+Cas</i> by Burger et al. <i>The CRISPR Journal,</i> 2023;7(1):12-28; DOI:
+10.1089/crispr.2023.0061. CRISPR J. 2024 Apr;7(2):131. doi:
+10.1089/crispr.2023.0061.correx. Erratum for: CRISPR J. 2024 Feb;7(1):12-28.
+doi: 10.1089/crispr.2023.0061. PMID: 38635331.
+
+132: Chan YY, Yang CY, Lin CF, Wang SY, Lin WH, Chiou MT, Lin CN. Pathogenicity
+and antigenic characterization of a novel highly virulent lineage 3 porcine
+reproductive and respiratory syndrome virus 2. J Microbiol Immunol Infect. 2024
+Dec 21:S1684-1182(24)00228-7. doi: 10.1016/j.jmii.2024.12.003. Epub ahead of
+print. PMID: 39721904.
+
+133: Yang Y, Gao Y, Zhang L, Liu X, Sun Y, Bai J, Jiang P. Correction:
+Vidofludimus inhibits porcine reproductive and respiratory syndrome virus
+infection by targeting dihydroorotate dehydrogenase. Vet Res. 2024 Dec
+27;55(1):173. doi: 10.1186/s13567-024-01447-y. Erratum for: Vet Res. 2023 Dec
+20;54(1):124. doi: 10.1186/s13567-023-01251-0. PMID: 39731128; PMCID:
+PMC11681666.
+
+134: Tao C, Zhu X, Huang Y, Yuan W, Wang Z, Zhu H, Jia H. Development of a
+Multiplex RT-qPCR Method for the Identification and Lineage Typing of Porcine
+Reproductive and Respiratory Syndrome Virus. Int J Mol Sci. 2024 Dec
+8;25(23):13203. doi: 10.3390/ijms252313203. PMID: 39684913; PMCID: PMC11642648.
+
+135: Lei X, Wu Z, Feng Q, Jia W, Xie J, Zhou Q, Ban J, Zhu S. A Universal Multi-
+Epitope Vaccine Design Against Porcine Reproductive and Respiratory Syndrome
+Virus via Bioinformatics and Immunoinformatics Approaches. Vet Sci. 2024 Dec
+16;11(12):659. doi: 10.3390/vetsci11120659. PMID: 39728999; PMCID: PMC11680090.
+
+136: Zheng XX, Li R, Qiao S, Chen XX, Zhang L, Lu Q, Xing G, Zhou EM, Zhang G.
+Corrigendum to "Vimentin rearrangement by phosphorylation is beneficial for
+porcine reproductive and respiratory syndrome virus replication in vitro" [Vet.
+Microbiol. 259 (2021) 109133]. Vet Microbiol. 2025 Jan;300:110341. doi:
+10.1016/j.vetmic.2024.110341. Epub 2024 Dec 14. Erratum for: Vet Microbiol. 2021
+Aug;259:109133. doi: 10.1016/j.vetmic.2021.109133. PMID: 39674734.

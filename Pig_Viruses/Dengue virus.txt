@@ -1,0 +1,20 @@
+1: Carneiro PH, Mendes-Monteiro L, Mohana-Borges R. Virus Propagation and Plaque
+Assay for Dengue Virus. Methods Mol Biol. 2022;2409:3-9. doi:
+10.1007/978-1-0716-1879-0_1. PMID: 34709631.
+
+2: Yuya W, Yuansong Y, Susu L, Chen L, Yong W, Yining W, YouChun W, Changfa F.
+Progress and challenges in development of animal models for dengue virus
+infection. Emerg Microbes Infect. 2024 Dec;13(1):2404159. doi:
+10.1080/22221751.2024.2404159. Epub 2024 Sep 24. PMID: 39312399; PMCID:
+PMC11423536.
+
+3: Thiemmeca S, Tamdet C, Punyadee N, Prommool T, Songjaeng A, Noisakran S,
+Puttikhunt C, Atkinson JP, Diamond MS, Ponlawat A, Avirutnan P. Secreted NS1
+Protects Dengue Virus from Mannose-Binding Lectin-Mediated Neutralization. J
+Immunol. 2016 Nov 15;197(10):4053-4065. doi: 10.4049/jimmunol.1600323. Epub 2016
+Oct 19. PMID: 27798151; PMCID: PMC5123808.
+
+4: Jansen van Vuren P, Parry RH, Pawęska JT. Detection of Dengue Virus 1 and
+Mammalian Orthoreovirus 3, with Novel Reassortments, in a South African Family
+Returning from Thailand, 2017. Viruses. 2024 Aug 9;16(8):1274. doi:
+10.3390/v16081274. PMID: 39205247; PMCID: PMC11358982.

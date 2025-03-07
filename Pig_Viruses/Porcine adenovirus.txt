@@ -1,0 +1,28 @@
+1: Gainor K, Fortuna YC, Alakkaparambil AS, González W, Malik YS, Ghosh S. High
+Rates of Detection and Molecular Characterization of Porcine Adenovirus Serotype
+5 (<i>Porcine mastadenovirus C</i>) from Diarrheic Pigs. Pathogens. 2022 Oct
+20;11(10):1210. doi: 10.3390/pathogens11101210. PMID: 36297267; PMCID:
+PMC9610507.
+
+2: Oba M, Borjigin S, Kikuchi F, Oi T, Takemae H, Ishida H, Murakami H, Aihara
+N, Shiga T, Kamiie J, Mizutani T, Nagai M. First Isolation and Identification of
+Homologous Recombination Events of Porcine Adenovirus from Wild Boar. Viruses.
+2022 Oct 29;14(11):2400. doi: 10.3390/v14112400. PMID: 36366498; PMCID:
+PMC9694405.
+
+3: Jones TH, Muehlhauser V. F-coliphages, porcine adenovirus and porcine
+teschovirus as potential indicator viruses of fecal contamination for pork
+carcass processing. Int J Food Microbiol. 2017 Jan 16;241:237-243. doi:
+10.1016/j.ijfoodmicro.2016.10.032. Epub 2016 Oct 28. PMID: 27810445.
+
+4: Said A, Woldemariam TA, Tikoo SK. Porcine Adenovirus Type 3 E3 Encodes a
+Structural Protein Essential for Capsid Stability and Production of Infectious
+Progeny Virions. J Virol. 2018 Sep 26;92(20):e00680-18. doi:
+10.1128/JVI.00680-18. PMID: 30068639; PMCID: PMC6158433.
+
+5: Wilkinson-Ryan I, Kim J, Kim S, Ak F, Dodson L, Colonna M, Powell M, Mutch D,
+Spitzer D, Hansen T, Goedegebuure SP, Curiel D, Hawkins W. Incorporation of
+porcine adenovirus 4 fiber protein enhances infectivity of adenovirus vector on
+dendritic cells: implications for immune-mediated cancer therapy. PLoS One. 2015
+May 1;10(5):e0125851. doi: 10.1371/journal.pone.0125851. PMID: 25933160; PMCID:
+PMC4416912.

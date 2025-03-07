@@ -1,0 +1,35 @@
+1: Bhat S, Ansari MI, Kattoor JJ, Sircar S, Dar PS, Deol P, Vinodh Kumar OR,
+Thomas P, Ghosh S, El Zowalaty ME, Malik YS. Emerging porcine Enterovirus G
+infections, epidemiological, complete genome sequencing, evolutionary and risk
+factor analysis in India. Virology. 2024 Feb;590:109906. doi:
+10.1016/j.virol.2023.109906. Epub 2023 Oct 16. PMID: 38096748.
+
+2: Xiao D, Zhang L, Li S, Liang Y, Wu R, Wen Y, Yan Q, Du S, Zhao Q, Han X, Song
+J, Cao S, Huang X. Characterization, phylogenetic analysis, and pathogenicity of
+a novel genotype 2 porcine Enterovirus G. Virus Res. 2023 Oct 2;335:199185. doi:
+10.1016/j.virusres.2023.199185. Epub 2023 Aug 10. PMID: 37532142; PMCID:
+PMC10448215.
+
+3: Mi X, Yang C, Lu Y, Wang H, Qin Q, Chen R, Chen Z, Luo Y, Chen Y, Wei Z,
+Huang W, Ouyang K. Isolation, Identification, and Evaluation of the
+Pathogenicity of a Porcine Enterovirus G Isolated From China. Front Vet Sci.
+2021 Jul 22;8:712679. doi: 10.3389/fvets.2021.712679. PMID: 34368288; PMCID:
+PMC8339413.
+
+4: Imai R, Rongduo W, Kaixin L, Borjigin S, Matsumura H, Masuda T, Ozawa T, Oba
+M, Makino S, Nagai M, Mizutani T. Novel recombinant porcine enterovirus G
+viruses lacking structural proteins are maintained in pig farms in Japan. J Vet
+Med Sci. 2023 Feb 21;85(2):252-265. doi: 10.1292/jvms.22-0505. Epub 2022 Dec 22.
+PMID: 36543238; PMCID: PMC10017297.
+
+5: Huang S, Mi X, Ren T, Hong D, Qin Q, Long M, Qin Y, Chen Y, Wei Z, Huang W,
+Ouyang K. Evaluation of packaging capacity at the genomic 2C/3A junction region
+in Porcine enterovirus G. Virology. 2023 Nov;588:109899. doi:
+10.1016/j.virol.2023.109899. Epub 2023 Oct 13. PMID: 37862828.
+
+6: Hammerschmitt ME, de Almeida PR, de Cecco BS, Lorenzett MP, Schwertz CI, da
+Cruz RAS, Caprioli RA, Schuh DT, Demoliner M, Eisen AKA, Spilki FR, Pavarini SP,
+Driemeier D. Swine polioencephalomyelitis in Brazil: identification of
+Teschovirus A, Sapelovirus A, and Enterovirus G in a farm from Southern Brazil.
+Braz J Microbiol. 2021 Sep;52(3):1617-1622. doi: 10.1007/s42770-021-00509-z.
+Epub 2021 May 22. PMID: 34024036; PMCID: PMC8324751.

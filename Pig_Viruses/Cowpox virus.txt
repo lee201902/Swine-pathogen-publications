@@ -1,0 +1,22 @@
+1: Sehgal CL. Laboratory studies on cowpox virus. J Commun Dis. 1985
+Mar;17(1):51-8. PMID: 4031443.
+
+2: Lorenzo MM, Sanchez-Puig JM, Blasco R. Vaccinia virus and Cowpox virus are
+not susceptible to the interferon-induced antiviral protein MxA. PLoS One. 2017
+Jul 20;12(7):e0181459. doi: 10.1371/journal.pone.0181459. PMID: 28727764; PMCID:
+PMC5519081.
+
+3: Prkno A, Hoffmann D, Goerigk D, Kaiser M, van Maanen ACF, Jeske K, Jenckel M,
+Pfaff F, Vahlenkamp TW, Beer M, Ulrich RG, Starke A, Pfeffer M. Epidemiological
+Investigations of Four Cowpox Virus Outbreaks in Alpaca Herds, Germany. Viruses.
+2017 Nov 18;9(11):344. doi: 10.3390/v9110344. PMID: 29156539; PMCID: PMC5707551.
+
+4: Turner PC, Sancho MC, Thoennes SR, Caputo A, Bleackley RC, Moyer RW. Myxoma
+virus Serp2 is a weak inhibitor of granzyme B and interleukin-1beta-converting
+enzyme in vitro and unlike CrmA cannot block apoptosis in cowpox virus-infected
+cells. J Virol. 1999 Aug;73(8):6394-404. doi: 10.1128/JVI.73.8.6394-6404.1999.
+PMID: 10400732; PMCID: PMC112719.
+
+5: Ray CA, Pickup DJ. The mode of death of pig kidney cells infected with cowpox
+virus is governed by the expression of the crmA gene. Virology. 1996 Mar
+1;217(1):384-91. doi: 10.1006/viro.1996.0128. PMID: 8599227.

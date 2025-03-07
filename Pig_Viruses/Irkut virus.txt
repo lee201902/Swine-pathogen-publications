@@ -1,0 +1,65 @@
+1: Chen T, Miao FM, Liu Y, Zhang SF, Zhang F, Li N, Hu RL. Possible Transmission
+of Irkut Virus from Dogs to Humans. Biomed Environ Sci. 2018 Feb;31(2):146-148.
+doi: 10.3967/bes2018.017. PMID: 29606193.
+
+2: Liu Y, Li N, Zhang S, Zhang F, Lian H, Wang Y, Zhang J, Hu R. Analysis of the
+complete genome of the first Irkut virus isolate from China: comparison across
+the Lyssavirus genus. Mol Phylogenet Evol. 2013 Dec;69(3):687-93. doi:
+10.1016/j.ympev.2013.07.008. Epub 2013 Jul 18. PMID: 23872529.
+
+3: Liu Y, Zhang S, Zhao J, Zhang F, Hu R. Isolation of Irkut virus from a Murina
+leucogaster bat in China. PLoS Negl Trop Dis. 2013;7(3):e2097. doi:
+10.1371/journal.pntd.0002097. Epub 2013 Mar 7. PMID: 23505588; PMCID:
+PMC3591329.
+
+4: Hughes GJ, Kuzmin IV, Schmitz A, Blanton J, Manangan J, Murphy S, Rupprecht
+CE. Experimental infection of big brown bats (Eptesicus fuscus) with Eurasian
+bat lyssaviruses Aravan, Khujand, and Irkut virus. Arch Virol. 2006
+Oct;151(10):2021-35. doi: 10.1007/s00705-005-0785-0. Epub 2006 May 18. PMID:
+16705370.
+
+5: Li N, Liu Y, Hao Z, Zhang S, Hu R, Li J. Early diagnosis of Irkut virus
+infection using magnetic bead-based serum peptide profiling by MALDI-TOF MS in a
+mouse model. Int J Mol Sci. 2014 Mar 25;15(4):5193-8. doi: 10.3390/ijms15045193.
+PMID: 24670473; PMCID: PMC4013557.
+
+6: Ben Hamed S, Myers JF, Chandwani A, Wirblich C, Kurup D, Paran N, Schnell MJ.
+Toward the Development of a Pan-Lyssavirus Vaccine. Viruses. 2024 Jul
+10;16(7):1107. doi: 10.3390/v16071107. PMID: 39066269; PMCID: PMC11281706.
+
+7: Liu Y, Chen Q, Zhang F, Zhang S, Li N, Lian H, Wang Y, Zhang J, Hu R.
+Evaluation of rabies biologics against Irkut virus isolated in China. J Clin
+Microbiol. 2013 Nov;51(11):3499-504. doi: 10.1128/JCM.01565-13. Epub 2013 Aug
+14. PMID: 23946522; PMCID: PMC3889725.
+
+8: Wang L, Tang Q, Liang G. Rabies and rabies virus in wildlife in mainland
+China, 1990-2013. Int J Infect Dis. 2014 Aug;25:122-9. doi:
+10.1016/j.ijid.2014.04.016. Epub 2014 Jun 6. PMID: 24911887.
+
+9: Beranová K, Zendulková D. Vzteklina netopýrů [Rabies in bats]. Klin Mikrobiol
+Infekc Lek. 2016 Jun;22(2):68-74. Czech. PMID: 27450525.
+
+10: Lumlertdacha B, Boongird K, Wanghongsa S, Wacharapluesadee S, Chanhome L,
+Khawplod P, Hemachudha T, Kuzmin I, Rupprecht CE. Survey for bat lyssaviruses,
+Thailand. Emerg Infect Dis. 2005 Feb;11(2):232-6. doi: 10.3201/eid1102.040691.
+PMID: 15752440; PMCID: PMC3320458.
+
+11: Kuzmin IV, Hughes GJ, Botvinkin AD, Orciari LA, Rupprecht CE. Phylogenetic
+relationships of Irkut and West Caucasian bat viruses within the Lyssavirus
+genus and suggested quantitative criteria based on the N gene sequence for
+lyssavirus genotype definition. Virus Res. 2005 Jul;111(1):28-43. doi:
+10.1016/j.virusres.2005.03.008. Epub 2005 Apr 8. PMID: 15896400.
+
+12: Klein A, Eggerbauer E, Potratz M, Zaeck LM, Calvelage S, Finke S, Müller T,
+Freuling CM. Comparative pathogenesis of different phylogroup I bat lyssaviruses
+in a standardized mouse model. PLoS Negl Trop Dis. 2022 Jan 18;16(1):e0009845.
+doi: 10.1371/journal.pntd.0009845. PMID: 35041652; PMCID: PMC8797209.
+
+13: Wang Y, Chen Q, Liu Y, Hu R, Zhang L. [Construction of a Recombinant
+Replication-defective Human Adenovirus Type 5 Expressing G Protein of Irkut
+Virus and the Immune Test in Mouse]. Bing Du Xue Bao. 2015 Nov;31(6):634-40.
+Chinese. PMID: 26951008.
+
+14: Kuzmin IV, Franka R, Rupprecht CE. Experimental infection of big brown bats
+(Eptesicus fuscus) with West Caucasian bat virus (WCBV). Dev Biol (Basel).
+2008;131:327-37. PMID: 18634495.

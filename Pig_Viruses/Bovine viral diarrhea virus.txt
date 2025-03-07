@@ -1,0 +1,59 @@
+1: de Oliveira LG, Mechler-Dreibi ML, Almeida HMS, Gatto IRH. Bovine Viral
+Diarrhea Virus: Recent Findings about Its Occurrence in Pigs. Viruses. 2020 May
+31;12(6):600. doi: 10.3390/v12060600. PMID: 32486360; PMCID: PMC7354608.
+
+2: Kennedy SM, Passler T, Ditchkoff SS, Brown VR, Raithel GW, Chamorro MF, Walz
+PH, Kyriakis CS, Falkenberg SM. Seroprevalence of Bovine Viral Diarrhea Virus in
+Wild Pigs (Sus scrofa) in 17 States in the USA. J Wildl Dis. 2024 Jul
+1;60(3):647-659. doi: 10.7589/JWD-D-23-00066. PMID: 38752344.
+
+3: Le Bras F, Carré G, Aguemon Y, Colin M, Gellé MP. Inactivation of Enveloped
+Bovine Viral Diarrhea Virus and Non-Enveloped Porcine Parvovirus Using Low-
+Pressure Non-Thermal Plasma. Life (Basel). 2021 Nov 24;11(12):1292. doi:
+10.3390/life11121292. PMID: 34947823; PMCID: PMC8706422.
+
+4: Tao J, Li B, Shi Y, Chen J, Zhu G, Shen X, Liu H. Attenuated porcine-derived
+type 2 bovine viral diarrhea virus as vector stably expressing viral gene. J
+Virol Methods. 2020 May;279:113842. doi: 10.1016/j.jviromet.2020.113842. Epub
+2020 Mar 2. PMID: 32135175.
+
+5: Cui H, Ren B, Wang L, Chen J, Li J, Hu W, Yang Y. Enhanced pathogenicity and
+synergistic effects of co-infection with bovine viral diarrhea virus 1 and HoBi-
+like virus in cattle and guinea pigs. Front Vet Sci. 2024 Nov 12;11:1464745.
+doi: 10.3389/fvets.2024.1464745. PMID: 39600877; PMCID: PMC11589818.
+
+6: Choe S, Lim SI, Park GN, Song S, Shin J, Kim KS, Hyun BH, Kim JH, An DJ.
+Prevalence of Bovine Viral Diarrhea Virus Infections in Pigs on Jeju Island,
+South Korea, from 2009-2019 and Experimental Infection of Pigs with BVDV Strains
+Isolated from Cattle. Vet Sci. 2022 Mar 21;9(3):146. doi: 10.3390/vetsci9030146.
+PMID: 35324874; PMCID: PMC8951056.
+
+7: Yi W, Zhu H, Wu Y, Li Q, Lou W, Zhao H, Pan Z. The recombinant
+E<sup>rns</sup> and truncated E2-based indirect enzyme-linked immunosorbent
+assays to distinguishably test specific antibodies against classical swine fever
+virus and bovine viral diarrhea virus. Virol J. 2022 Jul 22;19(1):121. doi:
+10.1186/s12985-022-01851-w. PMID: 35869505; PMCID: PMC9308313.
+
+8: Muasya D, Leeuwen JV, Gitau G, McKenna S, Heider L, Muraya J. Evaluation of
+antibody and antigen cross-reaction in Kenyan dairy cattle naturally infected
+with two pestiviruses: Bovine viral diarrhea virus and classical swine fever
+virus. Vet World. 2022 May;15(5):1290-1296. doi:
+10.14202/vetworld.2022.1290-1296. Epub 2022 May 24. PMID: 35765487; PMCID:
+PMC9210842.
+
+9: Jelsma T, Wijnker JJ, Smid B, Verheij E, van der Poel WHM, Wisselink HJ.
+Determination of Intestinal Viral Loads and Distribution of Bovine Viral
+Diarrhea Virus, Classical Swine Fever Virus, and Peste Des Petits Ruminants
+Virus: A Pilot Study. Pathogens. 2021 Sep 14;10(9):1188. doi:
+10.3390/pathogens10091188. PMID: 34578220; PMCID: PMC8466767.
+
+10: Kuca T, Passler T, Newcomer BW, Neill JD, Galik PK, Riddell KP, Zhang Y,
+Bayles DO, Walz PH. Changes Introduced in the Open Reading Frame of Bovine Viral
+Diarrhea Virus During Serial Infection of Pregnant Swine. Front Microbiol. 2020
+Jun 10;11:1138. doi: 10.3389/fmicb.2020.01138. PMID: 32587582; PMCID:
+PMC7298064.
+
+11: Tan B, Giangaspero M, Sun N, Jin Y, Liu K, Wang Q, Cheng S, Wang Y, Zhang S.
+Antiviral Effect of Ginsenoside Rb2 and Rb3 Against Bovine Viral Diarrhea Virus
+and Classical Swine Fever Virus <i>in vitro</i>. Front Vet Sci. 2021 Dec
+8;8:764909. doi: 10.3389/fvets.2021.764909. PMID: 34957281; PMCID: PMC8692705.

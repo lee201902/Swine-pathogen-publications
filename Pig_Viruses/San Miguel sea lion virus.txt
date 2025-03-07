@@ -1,0 +1,39 @@
+1: Smith AW, Akers TG, Madin SH, Vedros NA. San Miguel sea lion virus isolation,
+preliminary characterization and relationship to vesicular exanthema of swine
+virus. Nature. 1973 Jul 13;244(5411):108-10. doi: 10.1038/244108a0. PMID:
+4583480.
+
+2: Gelberg HB, Mebus CA, Lewis RM. Experimental vesicular exanthema of swine
+virus and San Miguel sea lion virus infection in phocid seals. Vet Pathol. 1982
+Jul;19(4):406-12. doi: 10.1177/030098588201900406. PMID: 6283712.
+
+3: Sawyer JC. Vesicular exanthema of swine and San Miguel sea lion virus. J Am
+Vet Med Assoc. 1976 Oct 1;169(7):707-9. PMID: 786970.
+
+4: Wilder FW, Dardiri AH. San Miguel sea lion virus fed to mink and pigs. Can J
+Comp Med. 1978 Apr;42(2):200-4. PMID: 96925; PMCID: PMC1277616.
+
+5: Gelberg HB, Lewis RM. The pathogenesis of vesicular exanthema of swine virus
+and San Miguel sea lion virus in swine. Vet Pathol. 1982 Jul;19(4):424-43. doi:
+10.1177/030098588201900408. PMID: 6283714.
+
+6: Gelberg HB, Dieterich RA, Lewis RM. Vesicular exanthema of swine and San
+Miguel sea lion virus: experimental and field studies in otarid seals, feeding
+trials in swine. Vet Pathol. 1982 Jul;19(4):413-23. doi:
+10.1177/030098588201900407. PMID: 6283713.
+
+7: Seal BS, House JA, Whetstone CA, Neill JD. Analysis of the serologic
+relationship among San Miguel sea lion virus and vesicular exanthema of swine
+virus isolates. Application of the western blot assay for detection of
+antibodies in swine sera to these virus types. J Vet Diagn Invest. 1995
+Apr;7(2):190-5. doi: 10.1177/104063879500700204. PMID: 7619900.
+
+8: Neill JD. The Complete Genome Sequence of the San Miguel Sea Lion Virus-8
+Reveals that It Is Not a Member of the Vesicular Exanthema of Swine Virus/San
+Miguel Sea Lion Virus Species of the Caliciviridae. Genome Announc. 2014 Dec
+11;2(6):e01286-14. doi: 10.1128/genomeA.01286-14. PMID: 25502676; PMCID:
+PMC4263838.
+
+9: Blackwell JH. Comparative resistance of San Miguel sea lion virus and
+vesicular exanthema of swine virus to chemical disinfectants. Res Vet Sci. 1978
+Jul;25(1):25-8. PMID: 568301.

@@ -1,0 +1,56 @@
+1: Denner J. Porcine Endogenous Retroviruses and Xenotransplantation, 2021.
+Viruses. 2021 Oct 26;13(11):2156. doi: 10.3390/v13112156. PMID: 34834962; PMCID:
+PMC8625113.
+
+2: Denner J. Porcine endogenous retroviruses in xenotransplantation. Nephrol
+Dial Transplant. 2024 Jul 31;39(8):1221-1227. doi: 10.1093/ndt/gfae023. PMID:
+38281060.
+
+3: Denner J. The origin of porcine endogenous retroviruses (PERVs). Arch Virol.
+2021 Apr;166(4):1007-1013. doi: 10.1007/s00705-020-04925-8. Epub 2021 Feb 6.
+PMID: 33547957.
+
+4: Ishihara S, Dang-Nguyen TQ, Kikuchi K, Arakawa A, Mikawa S, Osaki M, Otoi T,
+Luu QM, Nguyen TS, Taniguchi M. Characteristic features of porcine endogenous
+retroviruses in Vietnamese native pigs. Anim Sci J. 2020 Jan-Dec;91(1):e13336.
+doi: 10.1111/asj.13336. PMID: 32219916.
+
+5: Halecker S, Krabben L, Kristiansen Y, Krüger L, Möller L, Becher D, Laue M,
+Kaufer B, Reimer C, Denner J. Rare isolation of human-tropic recombinant porcine
+endogenous retroviruses PERV-A/C from Göttingen minipigs. Virol J. 2022 Feb
+21;19(1):30. doi: 10.1186/s12985-022-01742-0. PMID: 35189916; PMCID: PMC8862210.
+
+6: Denner J, Schuurman HJ. High Prevalence of Recombinant Porcine Endogenous
+Retroviruses (PERV-A/Cs) in Minipigs: A Review on Origin and Presence. Viruses.
+2021 Sep 18;13(9):1869. doi: 10.3390/v13091869. PMID: 34578447; PMCID:
+PMC8473008.
+
+7: Krüger L, Stillfried M, Prinz C, Schröder V, Neubert LK, Denner J. Copy
+Number and Prevalence of Porcine Endogenous Retroviruses (PERVs) in German Wild
+Boars. Viruses. 2020 Apr 8;12(4):419. doi: 10.3390/v12040419. PMID: 32276520;
+PMCID: PMC7232352.
+
+8: Krüger L, Nowak-Imialek M, Kristiansen Y, Herrmann D, Petersen B, Denner J.
+Unexpected low expression of porcine endogenous retroviruses (PERVs) in porcine
+expanded potential stem cells (EPSCs). Virus Res. 2021 Mar;294:198295. doi:
+10.1016/j.virusres.2021.198295. Epub 2021 Jan 7. PMID: 33422555.
+
+9: Cacciamali A, Dotti S, Villa R. In vitro analysis of Porcine Endogenous
+Retroviruses in different pig cell types. New Microbiol. 2024 May;47(1):38-46.
+PMID: 38700882.
+
+10: Lu TF, Sun B, Yu TY, Wu YJ, Zhou J, Wu SG. Porcine Endogenous Retroviruses:
+Quantification of the Viral Copy Number for the Four Miniature Pig Breeds in
+China. Front Microbiol. 2022 Mar 15;13:840347. doi: 10.3389/fmicb.2022.840347.
+PMID: 35369498; PMCID: PMC8965148.
+
+11: Du Z, Chen C, Zheng Y, Wang X, Song C. Retroviral Insertion Polymorphism
+(RIP) of Porcine Endogenous Retroviruses (PERVs) in Pig Genomes. Animals
+(Basel). 2024 Feb 15;14(4):621. doi: 10.3390/ani14040621. PMID: 38396589; PMCID:
+PMC10886097.
+
+12: Fiebig U, Krüger L, Denner J. Determination of the Copy Number of Porcine
+Endogenous Retroviruses (PERV) in Auckland Island Pigs Repeatedly Used for
+Clinical Xenotransplantation and Elimination of PERV-C. Microorganisms. 2024 Jan
+3;12(1):98. doi: 10.3390/microorganisms12010098. PMID: 38257925; PMCID:
+PMC10820294.

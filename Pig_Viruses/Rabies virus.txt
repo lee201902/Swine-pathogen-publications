@@ -1,0 +1,393 @@
+1: Fischman HR, Ward FE 3rd. Oral transmission of rabies virus in experimental
+animals. Am J Epidemiol. 1968 Jul;88(1):132-8. doi:
+10.1093/oxfordjournals.aje.a120861. PMID: 4873635.
+
+2: Turner GS, Kaplan C. Some properties of fixed rabies virus. J Gen Virol. 1967
+Oct;1(4):537-51. doi: 10.1099/0022-1317-1-4-537. PMID: 4966118.
+
+3: Tollis M, Buonavoglia C, di Trani L, Vignolo E. Sensitivity of different cell
+lines for rabies virus isolation. Zentralbl Veterinarmed B. 1988
+Aug;35(7):504-8. doi: 10.1111/j.1439-0450.1988.tb00524.x. PMID: 3188725.
+
+4: Li Q, Yan R, Bai N, Tan Z, Yu Q, Su H, Wei X, Li A, Chen X, Li Z, He Y, Li H,
+Li X, Mao Y. Immunogenicity and Antigenicity of the Ectodomain of Rabies Virus
+Glycoprotein Stably Expressed in HEK293T Cells. Int J Med Sci. 2023 Aug
+15;20(10):1282-1292. doi: 10.7150/ijms.87134. PMID: 37786447; PMCID:
+PMC10542018.
+
+5: Li Z, Zhu Y, Yan F, Jin H, Wang Q, Zhao Y, Feng N, Wang T, Li N, Yang S, Xia
+X, Cong Y. Inactivated Recombinant Rabies Virus Displaying the Nipah Virus
+Envelope Glycoproteins Induces Systemic Immune Responses in Mice. Vaccines
+(Basel). 2023 Nov 26;11(12):1758. doi: 10.3390/vaccines11121758. PMID: 38140162;
+PMCID: PMC10747385.
+
+6: Wiktor TJ, Kuwert E, Koprowski H. Immune lysis of rabies virus-infected
+cells. J Immunol. 1968 Dec;101(6):1271-82. PMID: 5749193.
+
+7: Mifune K, Mannen K, Minamoto N, Arai YT. Further studies on an improved
+haemagglutination inhibition test with higher sensitivity for rabies virus
+antibody. Bull World Health Organ. 1986;64(1):133-7. PMID: 3488135; PMCID:
+PMC2490910.
+
+8: Hronovský V, Benda R. Experimental inhalation infection of laboratory rodents
+with rabies virus. Acta Virol. 1969 May;13(3):193-7. PMID: 4389107.
+
+9: Shi L, Zou J, Li Y, Yu Y. Study on an attenuated rabies virus strain
+CTN181-3. Biologicals. 2022 Jul;78:10-16. doi:
+10.1016/j.biologicals.2022.06.004. Epub 2022 Jun 30. PMID: 35786353.
+
+10: Karakuyumchan MK, Nadaichik LV, Pille ER, Rozina EE. Freeing rabies virus of
+the neuroallergenic factor from brain tissue. Acta Virol. 1981 May;25(3):155-8.
+PMID: 6115564.
+
+11: CRANDELL RA. LABORATORY INVESTIGATION OF ARCTIC STRAINS OF RABIES VIRUS.
+Acta Pathol Microbiol Scand. 1965;63:587-96. doi: 10.1111/apm.1965.63.4.587.
+PMID: 14324666.
+
+12: Rulka J, Majdan S, Nikiel J. Proceedings: Adaptation of rabies virus (Flury
+LEP strain) to hamster kidney cell culture. Preliminary report. Acta Microbiol
+Pol A. 1974;6(1):118-22. PMID: 4828509.
+
+13: Yang DK, Kim HH, Choi SS, Lee SH, Cho IS. A recombinant rabies virus (ERAGS)
+for use in a bait vaccine for swine. Clin Exp Vaccine Res. 2016 Jul;5(2):169-74.
+doi: 10.7774/cevr.2016.5.2.169. Epub 2016 Jul 29. PMID: 27489807; PMCID:
+PMC4969281.
+
+14: Ercegovac D. The time for which rabies virus can survive locally before its
+introduction into the central nervous system. Zentralbl Veterinarmed B. 1969
+Mar;16(2):129-33. doi: 10.1111/j.1439-0450.1969.tb00097.x. PMID: 5770640.
+
+15: Enright JB, Goggin JE, Frye FL, Franti CE, Behymer DE. Effects of
+corticosteroids on rabies virus infections in various animal species. J Am Vet
+Med Assoc. 1970 Mar 15;156(6):765-9. PMID: 5445384.
+
+16: Sekine N, Yoshino K. Inhibitors against rabies virus present in normal
+rabbit sera. Arch Gesamte Virusforsch. 1974;45(1-2):89-98. doi:
+10.1007/BF01240545. PMID: 4370108.
+
+17: Haldar SK, Singh SP, Mallick BB, Kathuria BK. Non-specific resistance
+against rabies virus in mice, rats & guineapigs. Indian J Exp Biol. 1977
+May;15(5):370-2. PMID: 924528.
+
+18: Majdan S, Rulka J, Nikiel J. Proceedings: Adaptation of Flury HEP strain of
+rabies virus to Syrian hamster kidney cell culture. Acta Microbiol Pol A.
+1974;6(1):113-6. PMID: 4828507.
+
+19: Abd-Elghaffar AA, Ali AE, Boseila AA, Amin MA. Inactivation of rabies virus
+by hydrogen peroxide. Vaccine. 2016 Feb 3;34(6):798-802. doi:
+10.1016/j.vaccine.2015.12.041. Epub 2015 Dec 28. PMID: 26731189.
+
+20: Wang W, Ma J, Nie J, Li J, Cao S, Wang L, Yu C, Huang W, Li Y, Yu Y, Liang
+M, Zirkle B, Chen XS, Li X, Kong W, Wang Y. Antigenic variations of recent
+street rabies virus. Emerg Microbes Infect. 2019;8(1):1584-1592. doi:
+10.1080/22221751.2019.1683436. PMID: 31682199; PMCID: PMC6844422.
+
+21: Ugolini G. Use of rabies virus as a transneuronal tracer of neuronal
+connections: implications for the understanding of rabies pathogenesis. Dev Biol
+(Basel). 2008;131:493-506. PMID: 18634512.
+
+22: Shuai L, Ge J, Wen Z, Wang J, Wang X, Bu Z. Immune responses in mice and
+pigs after oral vaccination with rabies virus vectored Nipah disease vaccines.
+Vet Microbiol. 2020 Feb;241:108549. doi: 10.1016/j.vetmic.2019.108549. Epub 2019
+Dec 11. PMID: 31928698.
+
+23: Yuan Z, Zhang S, Liu Y, Zhang F, Fooks AR, Li Q, Hu R. A recombinant
+pseudorabies virus expressing rabies virus glycoprotein: safety and
+immunogenicity in dogs. Vaccine. 2008 Mar 4;26(10):1314-21. doi:
+10.1016/j.vaccine.2007.12.050. Epub 2008 Jan 22. PMID: 18262313.
+
+24: Wang X, Terrie L, Wu G, Van Damme EJM, Thorrez L, Fooks AR, Banyard AC,
+Jochmans D, Neyts J. <i>Urtica dioica</i> Agglutinin Prevents Rabies Virus
+Infection in a Muscle Explant Model. Pharmaceutics. 2023 Apr 28;15(5):1353. doi:
+10.3390/pharmaceutics15051353. PMID: 37242595; PMCID: PMC10221701.
+
+25: Wei XK, He XX, Pan Y, Liu C, Tang HB, Zhong YZ, Li XN, Liang JJ, Luo TR.
+Evolutionary analysis of rabies virus isolates from Guangxi Province of southern
+China. BMC Vet Res. 2018 Jun 18;14(1):188. doi: 10.1186/s12917-018-1514-0. PMID:
+29914504; PMCID: PMC6006964.
+
+26: Teider-Junior PI, Felipetto LG, Kmetiuk LB, Machado FP, Chaves LB, Dos
+Santos Cunha Neto R, Corona TF, Martins CM, van Wilpe Bach R, de Barros-Filho
+IR, Dos Santos AP, Biondo AW. EXPOSURE OF WILD BOAR (SUS SCROFA) TO THE COMMON
+VAMPIRE BAT AND LACK OF IMMUNE PROTECTION TO RABIES VIRUS IN BRAZILIAN HUNTERS.
+J Wildl Dis. 2021 Jul 1;57(3):561-568. doi: 10.7589/JWD-D-20-00044. PMID:
+33857292.
+
+27: Luo Y, Zhang Y, Liu X, Yang Y, Yang X, Zheng Z, Deng X, Wu X, Guo X.
+Characterization of a wild rabies virus isolate of porcine origin in China.
+Infect Genet Evol. 2013 Jul;17:147-52. doi: 10.1016/j.meegid.2013.03.046. Epub
+2013 Apr 6. PMID: 23567821.
+
+28: Barth R, Jaeger O. Untersuchungen mit einigen Tollwutvirusstämmen in
+verschiedenen Gewebekultursystemen [Rabies virus strains in various tissue
+culture systems]. Zentralbl Veterinarmed B. 1970 Mar;17(3):363-80. German. PMID:
+4996841.
+
+29: Soulebot JP, Petermann HG, Branche R, Lange R, Mackowiak C. Réaction de
+fixation du complément. Application au virus rabique [Complement fixation test.
+Application to rabies virus]. Bull Acad Vet Fr. 1969 May;42(5):187-208. French.
+PMID: 5387006.
+
+30: Martins M, Joshi LR, Rodrigues FS, Anziliero D, Frandoloso R, Kutish GF,
+Rock DL, Weiblen R, Flores EF, Diel DG. Immunogenicity of ORFV-based vectors
+expressing the rabies virus glycoprotein in livestock species. Virology. 2017
+Nov;511:229-239. doi: 10.1016/j.virol.2017.08.027. Epub 2017 Sep 9. PMID:
+28898730.
+
+31: Tian Q, Wang Y, Zhang Q, Luo J, Mei M, Luo Y, Guo X. Rescue of a wild-type
+rabies virus from cloned cDNA and assessment of the proliferative capacity of
+recombinant viruses. Virus Genes. 2017 Aug;53(4):573-583. doi:
+10.1007/s11262-017-1458-7. Epub 2017 Apr 26. PMID: 28447192.
+
+32: Eidson M, Matthews SD, Willsey AL, Cherry B, Rudd RJ, Trimarchi CV. Rabies
+virus infection in a pet guinea pig and seven pet rabbits. J Am Vet Med Assoc.
+2005 Sep 15;227(6):932-5, 918. doi: 10.2460/javma.2005.227.932. PMID: 16190592.
+
+33: Sato G, Itou T, Shoji Y, Miura Y, Mikami T, Ito M, Kurane I, Samara SI,
+Carvalho AA, Nociti DP, Ito FH, Sakai T. Genetic and phylogenetic analysis of
+glycoprotein of rabies virus isolated from several species in Brazil. J Vet Med
+Sci. 2004 Jul;66(7):747-53. doi: 10.1292/jvms.66.747. PMID: 15297743.
+
+34: Dzhmukhadze VA, Gribencha SV. Izuchenie ulichnogo virusa beshenstva,
+vydelennogo v prirodnom ochage [Study of street rabies virus isolated in a
+natural focus]. Veterinariia. 1972 Dec;12:49-50. Russian. PMID: 4268420.
+
+35: Qin S, Volokhov D, Rodionova E, Wirblich C, Schnell MJ, Chizhikov V,
+Dabrazhynetskaya A. A new recombinant rabies virus expressing a green
+fluorescent protein: A novel and fast approach to quantify virus neutralizing
+antibodies. Biologicals. 2019 May;59:56-61. doi:
+10.1016/j.biologicals.2019.03.002. Epub 2019 Mar 18. PMID: 30898479.
+
+36: Vos A, Freuling C, Ortmann S, Kretzschmar A, Mayer D, Schliephake A, Müller
+T. An assessment of shedding with the oral rabies virus vaccine strain SPBN
+GASGAS in target and non-target species. Vaccine. 2018 Feb 1;36(6):811-817. doi:
+10.1016/j.vaccine.2017.12.076. Epub 2018 Jan 8. PMID: 29325820.
+
+37: Schnee M, Vogel AB, Voss D, Petsch B, Baumhof P, Kramps T, Stitz L. An mRNA
+Vaccine Encoding Rabies Virus Glycoprotein Induces Protection against Lethal
+Infection in Mice and Correlates of Protection in Adult and Newborn Pigs. PLoS
+Negl Trop Dis. 2016 Jun 23;10(6):e0004746. doi: 10.1371/journal.pntd.0004746.
+PMID: 27336830; PMCID: PMC4918980.
+
+38: Ado AD, Kanthourine AC. A propos de la formation des antigènes
+intermediaires dans le tissu nerveux, infecté par le virus fixe de la rage
+[Apropos of the formation of intermediate antigens in nervous tissue, infected
+by the fixed rabies virus]. Clin Eur. 1966 Jan-Feb;5(1):59-68. French. PMID:
+5944295.
+
+39: Duarte NFH, Alencar CH, Cavalcante KKS, Correia FGS, Romijn PC, Araujo DB,
+Favoretto SR, Heukelbach J. Increased detection of rabies virus in bats in Ceará
+State (Northeast Brazil) after implementation of a passive surveillance
+programme. Zoonoses Public Health. 2020 Mar;67(2):186-192. doi:
+10.1111/zph.12670. Epub 2019 Dec 3. PMID: 31797575.
+
+40: Liu Y, Zhang S, Ma G, Zhang F, Hu R. Efficacy and safety of a live canine
+adenovirus-vectored rabies virus vaccine in swine. Vaccine. 2008 Oct
+3;26(42):5368-72. doi: 10.1016/j.vaccine.2008.08.001. Epub 2008 Aug 20. PMID:
+18721839.
+
+41: Lentz TL, Chester J, Benson RJ, Hawrot E, Tignor GH, Smith AL. Rabies virus
+binding to cellular membranes measured by enzyme immunoassay. Muscle Nerve. 1985
+May;8(4):336-45. doi: 10.1002/mus.880080411. PMID: 16758601.
+
+42: Ito M, Arai YT, Itou T, Sakai T, Ito FH, Takasaki T, Kurane I. Genetic
+characterization and geographic distribution of rabies virus isolates in Brazil:
+identification of two reservoirs, dogs and vampire bats. Virology. 2001 Jun
+5;284(2):214-22. doi: 10.1006/viro.2000.0916. PMID: 11384221.
+
+43: Hirano S, Sato G, Kobayashi Y, Itou T, Rong Luo T, Liu Q, Jin NY, Xuan X,
+Sakai T. Analysis of Chinese rabies virus isolates from 2003-2007 based on P and
+M protein genes. Acta Virol. 2010;54(2):91-8. doi: 10.4149/av_2010_02_91. PMID:
+20545436.
+
+44: Saitou Y, Kobayashi Y, Hirano S, Mochizuki N, Itou T, Ito FH, Sakai T. A
+method for simultaneous detection and identification of Brazilian dog- and
+vampire bat-related rabies virus by reverse transcription loop-mediated
+isothermal amplification assay. J Virol Methods. 2010 Sep;168(1-2):13-7. doi:
+10.1016/j.jviromet.2010.04.008. Epub 2010 Apr 18. PMID: 20403387.
+
+45: Favoretto SR, Carrieri ML, Cunha EM, Aguiar EA, Silva LH, Sodre MM, Souza
+MC, Kotait I. Antigenic typing of Brazilian rabies virus samples isolated from
+animals and humans, 1989-2000. Rev Inst Med Trop Sao Paulo. 2002 Mar-
+Apr;44(2):91-5. doi: 10.1590/s0036-46652002000200007. PMID: 12048546.
+
+46: Goto H, Minamoto N, Ito H, Luo TR, Sugiyama M, Kinjo T, Kawai A. Expression
+of the nucleoprotein of rabies virus in Escherichia coli and mapping of
+antigenic sites. Arch Virol. 1995;140(6):1061-74. doi: 10.1007/BF01315415. PMID:
+7611878.
+
+47: Blenden DC, Bell JF, Tsao AT, Umoh JU. Immunofluorescent examination of the
+skin of rabies-infected animals as a means of early detection of rabies virus
+antigen. J Clin Microbiol. 1983 Sep;18(3):631-6. doi:
+10.1128/jcm.18.3.631-636.1983. PMID: 6355152; PMCID: PMC270866.
+
+48: Wang C, Luo S, Rong W, Liu Y, Li H, Zhu S, Tian H, Zhou W, Guo C. [The
+Infectious and Pathogenic Characteristics of Rabies Virus Strain CTNCEC25]. Bing
+Du Xue Bao. 2015 Sep;31(5):481-7. Chinese. PMID: 26738284.
+
+49: Madhusudana SN, Tripathi KK. Oral infectivity of street and fixed rabies
+virus strains in laboratory animals. Indian J Exp Biol. 1990 May;28(5):497-9.
+PMID: 2401525.
+
+50: Sakamoto S, Ide T, Tokiyoshi S, Nakao J, Hamada F, Yamamoto M, Grosby JA, Ni
+Y, Kawai A. Studies on the structures and antigenic properties of rabies virus
+glycoprotein analogues produced in yeast cells. Vaccine. 1999 Jan
+21;17(3):205-18. doi: 10.1016/s0264-410x(98)00196-0. PMID: 9987156.
+
+51: Ito M, Itou T, Sakai T, Santos MF, Arai YT, Takasaki T, Kurane I, Ito FH.
+Detection of rabies virus RNA isolated from several species of animals in Brazil
+by RT-PCR. J Vet Med Sci. 2001 Dec;63(12):1309-13. doi: 10.1292/jvms.63.1309.
+PMID: 11789609.
+
+52: Tenzin, Wacharapluesadee S, Denduangboripant J, Dhand NK, Dorji R, Tshering
+D, Rinzin K, Raika V, Dahal N, Ward MP. Rabies virus strains circulating in
+Bhutan: implications for control. Epidemiol Infect. 2011 Oct;139(10):1457-62.
+doi: 10.1017/S0950268810002682. Epub 2010 Nov 26. PMID: 21108870.
+
+53: Castro BS, Guedes F, Fernandes ER, Koike G, Katz ISS, Chaves LB, Silva SR.
+Development of biotinylated polyclonal anti-ribonucleoprotein IgG for detection
+of rabies virus antigen by direct rapid immunohistochemical test. Biologicals.
+2020 Nov;68:74-78. doi: 10.1016/j.biologicals.2020.08.004. Epub 2020 Aug 26.
+PMID: 32859463.
+
+54: Okoh AE, Umoh JU, Ezeokoli CD, Addo PB. Vaccination challenge studies with
+variants of street rabies virus isolated in Nigeria. Vaccine. 1988
+Feb;6(1):19-24. doi: 10.1016/0264-410x(88)90008-4. PMID: 3354253.
+
+55: Luo Y, Zhang Y, Liu X, Yang Y, Yang X, Zhang D, Deng X, Wu X, Guo X.
+Complete genome sequence of a highly virulent rabies virus isolated from a rabid
+pig in south China. J Virol. 2012 Nov;86(22):12454-5. doi: 10.1128/JVI.02234-12.
+PMID: 23087116; PMCID: PMC3486488.
+
+56: Larghi OP, Nebel AE. Rabies virus inactivation by binary ethylenimine: new
+method for inactivated vaccine production. J Clin Microbiol. 1980
+Feb;11(2):120-2. doi: 10.1128/jcm.11.2.120-122.1980. PMID: 7358836; PMCID:
+PMC273335.
+
+57: GOLDWASSER RA, KISSLING RE, CARSKI TR, HOSTY TS. Fluorescent antibody
+staining of rabies virus antigens in the salivary glands of rabid animals. Bull
+World Health Organ. 1959;20(4):579-88. PMID: 13850801; PMCID: PMC2537778.
+
+58: Lei YL, Wang XG, Li H, Chen XY, Ye BF, Liu FM, Lan JQ, Ye XL, Mei JH, Tang
+Q. [New animal hosts of rabies virus in mountain areas in Zhejiang province].
+Zhonghua Liu Xing Bing Xue Za Zhi. 2009 Apr;30(4):344-7. Chinese. PMID:
+19731524.
+
+59: SOAVE OA. REACTIVATION OF RABIES VIRUS IN A GUINEA PIG DUE TO THE STRESS OF
+CROWDING. Am J Vet Res. 1964 Jan;25:268-9. PMID: 14103241.
+
+60: Graf W, Gerrits N, Yatim-Dhiba N, Ugolini G. Mapping the oculomotor system:
+the power of transneuronal labelling with rabies virus. Eur J Neurosci. 2002
+May;15(9):1557-62. doi: 10.1046/j.1460-9568.2002.01994.x. PMID: 12028367.
+
+61: Bouillant AM, Tabel H, Greig AS. Titration and neutralization of rabies
+virus (ERA strain) following its replication in a pig fallopian tube cell line.
+Can J Comp Med. 1974 Apr;38(2):118-23. PMID: 4132964; PMCID: PMC1319984.
+
+62: CHEN CJ, ZIA SH. Study of fixed rabies virus propagated in the brain of
+guinea pig fetus. J Immunol. 1948 Sep;60(1):17-21. PMID: 18881068.
+
+63: Masson E, Cliquet F, Aubert M, Barrat J, Aubert A, Artois M, Schumacher CL.
+Safety study of the SAG2 rabies virus mutant in several non-target species with
+a view to its future use for the immunization of foxes in Europe. Vaccine. 1996
+Nov;14(16):1506-10. doi: 10.1016/s0264-410x(96)00114-4. PMID: 9014291.
+
+64: SOAVE OA. Reactivation of rabies virus in a guinea pig with
+adrenocorticotropic hormone. J Infect Dis. 1962 Mar-Apr;110:129-31. doi:
+10.1093/infdis/110.2.129. PMID: 13914666.
+
+65: Morales ME, Rico G, Gómez JL, Alonso R, Cortés R, Silva R, Giménez JA,
+Kretschmer R, Aguilar-Setién A. Could the homologous sequence of anti-
+inflammatory pentapeptide (MLIF) produced by Entamoeba histolytica in the N
+protein of rabies virus affect the inflammatory process? Parasitol Res. 2006
+Feb;98(3):232-6. doi: 10.1007/s00436-005-0027-5. Epub 2005 Dec 10. PMID:
+16341883.
+
+66: BOLIN VS. Survival of a guinea pig following infection with street rabies
+virus; a case report. J Am Vet Med Assoc. 1959 Jan 15;134(2):90-2. PMID:
+13610770.
+
+67: Verlinde JD, Kooij P, Versteeg J. Vampire-bat transmitted rabies virus from
+Surinam. Comparison of properties with European street virus and fixed virus.
+Trop Geogr Med. 1970 Mar;22(1):119-22. PMID: 4908047.
+
+68: Strating A, Mitzel JR, Slater EA. Plaque assay of rabies virus on porcine
+kidney cell monolayers. J Clin Microbiol. 1976 Aug;2(2):126-8. PMID: 972180;
+PMCID: PMC274146.
+
+69: Bektemirova MS, Osidze DF, Pille ER, Nadaichik LV, Matevosyan KS, Nagieva
+FG, Bogomolova NN, Boriskin YS, Yanova NN. Properties of rabies virus (MNIIVP-74
+strain) adapted to Japanese quail embryo cell culture. Arch Virol.
+1979;61(1-2):61-8. doi: 10.1007/BF01320592. PMID: 518300.
+
+70: Toacsen E, Serban O, Moraru S. Rabies vaccine (Babeş strain of fixed rabies
+virus) inactivated with betapropiolactone. Arch Roum Pathol Exp Microbiol. 1981
+Oct-Dec;40(4):333-9. PMID: 7340722.
+
+71: Atanasiu P, Tsiang H, Perrin P, Favre S. Analyse du pouvoir immunogène et
+protecteur de la glycoprotéine extraite du virus rabique: comparison de
+préparations purifiées par des techniques différentes et résultats
+[Immunogenicity and protective activity of glycoprotein extracted from rabies
+virus: results from comparison of preparations obtained by different methods of
+purification (author's transl)]. Ann Microbiol (Paris). 1976 Aug-
+Sep;127B(2):257-67. French. PMID: 999129.
+
+72: HUYGELEN C, MORTELMANS J. Quantitative determination of the dissemination of
+Flury rabies virus in the central nervous system of the guinea-pig after
+intramuscular inoculation in the hind leg. Antonie Van Leeuwenhoek.
+1959;25:265-71. doi: 10.1007/BF02542851. PMID: 14405670.
+
+73: Górski J, Kozicki J, Górska C. Proceedings: Preliminary evaluation of
+pathogenic and immunogenic properties of the Flury LEP and HEP strains of rabies
+virus multiplied in chick embryo fibroblasts. Acta Microbiol Pol A.
+1974;6(1):123-30. PMID: 4828510.
+
+74: DEAN DJ, EVANS WM, THOMPSON WR. STUDIES ON THE LOW EGG PASSAGE FLURY STRAIN
+OF MODIFIED LIVE RABIES VIRUS PRODUCED IN EMBRYONATING CHICKEN EGGS AND TISSUE
+CULTURE. Am J Vet Res. 1964 May;25:756-63. PMID: 14141518.
+
+75: Hronovský V, Benda R. Kinetics of reaction of rabies virus with specific
+antibodies in conditions on in vitro virus neutralization test. Acta Virol. 1970
+May;14(3):209-16. PMID: 4392920.
+
+76: Athanasiu P, Wegmann R, Atanasiu P, Chevallier G, Capponi M. Evidenţierea
+simultană în ţesuturi şi în celule a unor antigene şi enzime (R. connori, virus
+rabic [Simultaneous demonstration of some antigens and enzymes in tissues and
+cells (Rickettsia connori; rabies virus)]. Stud Cercet Inframicrobiol.
+1971;22(3):199-201. Romanian. PMID: 5171539.
+
+77: Toacsen E, Moraru S. Note sur les caractères biologiques et sur la valeur
+immunologique de la souche Babeş du virus rabique fixe [Biological traits and
+immunologic value of the Babeş strain of fixed rabies virus]. Arch Roum Pathol
+Exp Microbiol. 1988 Apr-Jun;47(2):121-4. French. PMID: 3250362.
+
+78: Förster U. Zur Frage der Adaptationsfähigkeit von zewi in Mitteleuropa
+isolierten Tollwutvirusstämmen an eine domestizierte und zwei wildlebende
+Spezies. Ein Beitrag zur Epidemiologie der Tollwut. 4. Mitteilung.
+Ubertragsversuche an Frettchen mit einem Nagerisolat [Adpatibility of 2 rabies
+virus strains isolated in Middle Europe to a domestic and 2 wild species. A
+contribution to the epidemiology of rabies. 4. Transmission studies in ferrets
+with a rodent isolate]. Zentralbl Veterinarmed B. 1979 Feb;26(1):29-38. German.
+PMID: 442882.
+
+79: Il'iasova RSh. Dlitel'nye passazhi ulichnogo virusa beshenstva (shtamm
+Mochalin) v kul'ture tkani i nekotorye ego geneticheskie markery [Long-term
+passages of street rabies virus (Mochalin strain) in tissue culture and its
+genetic markers]. Vopr Virusol. 1972 Mar-Apr;17(2):188-92. Russian. PMID:
+4623860.
+
+80: Riera MC, Zapata MT, Márquez A. Comportamiento biológico e inmunológico de
+una cepa atenuada de virus rábico propagada en cultivo primario de riñón fetal
+bovino [Biological and immunological behavior of an attenuated strain of rabies
+virus propagated in a primary culture of fetal bovine kidney]. Rev Latinoam
+Microbiol. 1984 Oct-Dec;26(4):315-21. Spanish. PMID: 6522875.
+
+81: Shi XS. [Biological characteristics of the adapted rabies virus 3aG-V in
+Vero cell]. Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi. 2004
+Dec;18(4):348-50. Chinese. PMID: 15650786.
+
+82: Zelman I, Serokowa D. Porównawcze badanie zmian morfologiczynych w mózgach
+zwierzat laboratoryjnych zakazonych szczepem ustalonego i atenuowanego wirusa
+wścieklizny [Comparative studies on pathomorphological changes in brains of
+various laboratory animals inoculated with fixed and attenuated strains of
+rabies virus]. Neuropatol Pol. 1976 Jan-Mar;14(1):67-80. Polish. PMID: 1264357.

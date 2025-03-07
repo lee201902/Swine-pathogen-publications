@@ -1,0 +1,40 @@
+1: Markotter W, Monadjem A, Nel LH. Antibodies against Duvenhage virus in
+insectivorous bats in Swaziland. J Wildl Dis. 2013 Oct;49(4):1000-3. doi:
+10.7589/2012-10-257. PMID: 24502729.
+
+2: Koraka P, Martina BE, Roose JM, van Thiel PP, van Amerongen G, Kuiken T,
+Osterhaus AD. In vitro and in vivo isolation and characterization of Duvenhage
+virus. PLoS Pathog. 2012;8(5):e1002682. doi: 10.1371/journal.ppat.1002682. Epub
+2012 May 24. PMID: 22654660; PMCID: PMC3359985.
+
+3: Koraka P, Martina BEE, van den Ham HJ, Zaaraoui-Boutahar F, van IJcken W,
+Roose J, van Amerongen G, Andeweg A, Osterhaus ADME. Analysis of Mouse Brain
+Transcriptome After Experimental Duvenhage Virus Infection Shows Activation of
+Innate Immune Response and Pyroptotic Cell Death Pathway. Front Microbiol. 2018
+Mar 20;9:397. doi: 10.3389/fmicb.2018.00397. PMID: 29615985; PMCID: PMC5869263.
+
+4: Lafon M, Bourhy H, Sureau P. Immunity against the European bat rabies
+(Duvenhage) virus induced by rabies vaccines: an experimental study in mice.
+Vaccine. 1988 Aug;6(4):362-8. doi: 10.1016/0264-410x(88)90184-3. PMID: 2461007.
+
+5: Fekadu M, Shaddock JH, Sanderlin DW, Smith JS. Efficacy of rabies vaccines
+against Duvenhage virus isolated from European house bats (Eptesicus serotinus),
+classic rabies and rabies-related viruses. Vaccine. 1988 Dec;6(6):533-9. doi:
+10.1016/0264-410x(88)90107-7. PMID: 3245296.
+
+6: Paweska JT, Blumberg LH, Liebenberg C, Hewlett RH, Grobbelaar AA, Leman PA,
+Croft JE, Nel LH, Nutt L, Swanepoel R. Fatal human infection with rabies-related
+Duvenhage virus, South Africa. Emerg Infect Dis. 2006 Dec;12(12):1965-7. doi:
+10.3201/eid1212.060764. PMID: 17326954; PMCID: PMC3291369.
+
+7: van Thiel PP, van den Hoek JA, Eftimov F, Tepaske R, Zaaijer HJ, Spanjaard L,
+de Boer HE, van Doornum GJ, Schutten M, Osterhaus A, Kager PA. Fatal case of
+human rabies (Duvenhage virus) from a bat in Kenya: The Netherlands, December
+2007. Euro Surveill. 2008 Jan 10;13(2):8007. PMID: 18445390.
+
+8: van Thiel PP, de Bie RM, Eftimov F, Tepaske R, Zaaijer HL, van Doornum GJ,
+Schutten M, Osterhaus AD, Majoie CB, Aronica E, Fehlner-Gardiner C, Wandeler AI,
+Kager PA. Fatal human rabies due to Duvenhage virus from a bat in Kenya: failure
+of treatment with coma-induction, ketamine, and antiviral drugs. PLoS Negl Trop
+Dis. 2009 Jul 28;3(7):e428. doi: 10.1371/journal.pntd.0000428. PMID: 19636367;
+PMCID: PMC2710506.

@@ -1,0 +1,148 @@
+1: Zhou L, Ren T, Liu M, Min X, Zhang L, Qin Y, Ouyang K, Chen Y, Huang W, Wei
+Z. Development of a monoclonal antibody specifically recognizing a linear
+epitope on the capsid protein of the emerging Group III Getah virus. Virology.
+2024 Mar;591:109990. doi: 10.1016/j.virol.2024.109990. Epub 2024 Jan 11. PMID:
+38224661.
+
+2: Li B, Wang H, Liang G. Getah Virus (Alphavirus): An Emerging, Spreading
+Zoonotic Virus. Pathogens. 2022 Aug 20;11(8):945. doi:
+10.3390/pathogens11080945. PMID: 36015065; PMCID: PMC9416625.
+
+3: Zhao J, Dellicour S, Yan Z, Veit M, Gill MS, He WT, Zhai X, Ji X, Suchard MA,
+Lemey P, Su S. Early Genomic Surveillance and Phylogeographic Analysis of Getah
+Virus, a Reemerging Arbovirus, in Livestock in China. J Virol. 2023 Jan
+31;97(1):e0109122. doi: 10.1128/jvi.01091-22. Epub 2022 Dec 8. PMID: 36475767;
+PMCID: PMC9888209.
+
+4: Pan J, Zhang H, Chen X, Zeng M, Han H, Guo Y, Li J, Luo S, Yan G, Chen S, Mo
+M, Liu M, Huang L. Evolutionary characterization and pathogenicity of Getah
+virus from pigs in Guangdong Province of China. Arch Virol. 2023 Sep
+28;168(10):258. doi: 10.1007/s00705-023-05886-4. PMID: 37770803.
+
+5: Gao X, Li J, Wu T, Dou J, Zhang W, Jia H, Zhang Z, Liu X, Li Y. The Isolation
+and Characterization of a Novel Group III-Classified Getah Virus from a
+Commercial Modified Live Vaccine against PRRSV. Viruses. 2023 Oct
+14;15(10):2090. doi: 10.3390/v15102090. PMID: 37896867; PMCID: PMC10611409.
+
+6: Rattanatumhi K, Prasertsincharoen N, Naimon N, Kuwata R, Shimoda H, Ishijima
+K, Yonemitsu K, Minami S, Supriyono, Tran NTB, Kuroda Y, Tatemoto K, Virhuez
+Mendoza M, Hondo E, Rerkamnuaychoke W, Maeda K, Phichitraslip T. A serological
+survey and characterization of Getah virus in domestic pigs in Thailand,
+2017-2018. Transbound Emerg Dis. 2022 Mar;69(2):913-918. doi:
+10.1111/tbed.14042. Epub 2021 Apr 27. PMID: 33617130.
+
+7: Wang M, Sun Z, Cui C, Wang S, Yang D, Shi Z, Wei X, Wang P, Sun W, Zhu J, Li
+J, Du B, Liu Z, Wei L, Liu C, He X, Wang X, Zhang X, Wang J. Structural Insights
+into Alphavirus Assembly Revealed by the Cryo-EM Structure of Getah Virus.
+Viruses. 2022 Feb 5;14(2):327. doi: 10.3390/v14020327. PMID: 35215918; PMCID:
+PMC8876998.
+
+8: Xing C, Jiang J, Lu Z, Mi S, He B, Tu C, Liu X, Gong W. Isolation and
+characterization of Getah virus from pigs in Guangdong province of China.
+Transbound Emerg Dis. 2020 Sep;67(5):2249-2253. doi: 10.1111/tbed.13567. Epub
+2020 Apr 19. PMID: 32277601.
+
+9: Shi N, Qiu X, Cao X, Mai Z, Zhu X, Li N, Zhang H, Zhang J, Li Z, Shaya N, Lu
+H, Jin N. Molecular and serological surveillance of Getah virus in the Xinjiang
+Uygur Autonomous Region, China, 2017-2020. Virol Sin. 2022 Apr;37(2):229-237.
+doi: 10.1016/j.virs.2022.02.004. Epub 2022 Feb 14. PMID: 35527224; PMCID:
+PMC9170979.
+
+10: You D, Wang YL, Ge LP, Zhou YC, Sun J, Lang LQ, Lai SY, Ai YR, Zhu L, Xu ZW.
+Establishment and application of an indirect ELISA for Getah virus E2 antibody
+detection. J Virol Methods. 2024 Apr;325:114885. doi:
+10.1016/j.jviromet.2024.114885. Epub 2024 Jan 14. PMID: 38228247.
+
+11: Sun Q, Xie Y, Guan Z, Zhang Y, Li Y, Yang Y, Zhang J, Li Z, Qiu Y, Li B, Liu
+K, Shao D, Wang J, Ma Z, Wei J, Li P. Seroprevalence of <i>Getah virus</i> in
+Pigs in Eastern China Determined with a Recombinant E2 Protein-Based Indirect
+ELISA. Viruses. 2022 Sep 30;14(10):2173. doi: 10.3390/v14102173. PMID: 36298726;
+PMCID: PMC9607375.
+
+12: Ren T, Mo Q, Wang Y, Wang H, Nong Z, Wang J, Niu C, Liu C, Chen Y, Ouyang K,
+Huang W, Wei Z. Emergence and Phylogenetic Analysis of a Getah Virus Isolated in
+Southern China. Front Vet Sci. 2020 Dec 3;7:552517. doi:
+10.3389/fvets.2020.552517. PMID: 33344520; PMCID: PMC7744783.
+
+13: Jiang Z, Qin Y, Zhang L, Xing G, Shi Z, Song W, Dobrikov GM, Chen J, Su S.
+Development and application of a colloidal-gold immunochromatographic strip for
+detecting Getah virus antibodies. Appl Microbiol Biotechnol. 2024 Jun
+1;108(1):355. doi: 10.1007/s00253-024-13168-5. PMID: 38822832; PMCID:
+PMC11144135.
+
+14: Chu P-P, Guo H, Zhou X, Chen S-N, Sun X, Tian S, Zou Y-G, Li C-L, Zhang R,
+Zhai S-L. Emergence of a novel GIII Getah virus variant in pigs in Guangdong,
+China, 2023. Microbiol Spectr. 2024 Aug 6;12(8):e0048324. doi:
+10.1128/spectrum.00483-24. Epub 2024 Jun 25. PMID: 38916356; PMCID: PMC11302130.
+
+15: Zhang Y, Li Y, Guan Z, Yang Y, Zhang J, Sun Q, Li B, Qiu Y, Liu K, Shao D,
+Ma Z, Wei J, Li P. Rapid Differential Detection of Japanese Encephalitis Virus
+and Getah Virus in Pigs or Mosquitos by a Duplex TaqMan Real-Time RT-PCR Assay.
+Front Vet Sci. 2022 Apr 7;9:839443. doi: 10.3389/fvets.2022.839443. PMID:
+35464361; PMCID: PMC9023051.
+
+16: Wu Y, Gao X, Kuang Z, Lin L, Zhang H, Yin L, Hong J, Ren B, Li Q, Wang L.
+Isolation and pathogenicity of a highly virulent group III porcine Getah virus
+in China. Front Cell Infect Microbiol. 2024 Oct 17;14:1494654. doi:
+10.3389/fcimb.2024.1494654. PMID: 39483122; PMCID: PMC11524988.
+
+17: Lan J, Fang M, Duan L, Liu Z, Wang G, Wu Q, Fan K, Huang D, Ye Y, Wan G,
+Tang Y, Song D. Novel Porcine Getah Virus from Diarrheal Piglets in Jiangxi
+Province, China: Prevalence, Genome Sequence, and Pathogenicity. Animals
+(Basel). 2024 Oct 16;14(20):2980. doi: 10.3390/ani14202980. PMID: 39457910;
+PMCID: PMC11503733.
+
+18: Ochi A, Bannai H, Aonuma H, Kanuka H, Uchida-Fujii E, Kinoshita Y, Ohta M,
+Kambayashi Y, Tsujimura K, Ueno T, Nemoto M. Surveillance of Getah virus in
+mosquitoes and racehorses from 2016 to 2019 at a training center in Ibaraki
+Prefecture, Japan, a site of several previous Getah virus outbreaks. Arch Virol.
+2023 Jan 7;168(2):35. doi: 10.1007/s00705-022-05631-3. PMID: 36609628.
+
+19: Ren T, Liu M, Zhou L, Zhang L, Qin Y, Ouyang K, Chen Y, Huang W, Wei Z. A
+recombinant Getah Virus expressing a GFP gene for rapid neutralization testing
+and antiviral drug screening assay. Virology. 2024 Oct;598:110174. doi:
+10.1016/j.virol.2024.110174. Epub 2024 Jul 16. PMID: 39029332.
+
+20: Jian Z, Jiang C, Zhu L, Li F, Deng L, Ai Y, Lai S, Xu Z. Infectivity and
+pathogenesis characterization of getah virus (GETV) strain via different
+inoculation routes in mice. Heliyon. 2024 Jun 22;10(13):e33432. doi:
+10.1016/j.heliyon.2024.e33432. PMID: 39040396; PMCID: PMC11260979.
+
+21: Xia YH, Shi ZC, Wang XW, Li YT, Wang Z, Chang HT, Liu HY, Chen L, Wang CQ,
+Yang X. Development and application of SYBR Green Ⅰ real-time quantitative
+reverse transcription PCR assay for detection of swine Getah virus. Mol Cell
+Probes. 2021 Jun;57:101730. doi: 10.1016/j.mcp.2021.101730. Epub 2021 Apr 14.
+PMID: 33848593.
+
+22: Rawle DJ, Nguyen W, Dumenil T, Parry R, Warrilow D, Tang B, Le TT, Slonchak
+A, Khromykh AA, Lutzky VP, Yan K, Suhrbier A. Sequencing of Historical Isolates,
+K-mer Mining and High Serological Cross-Reactivity with Ross River Virus Argue
+against the Presence of Getah Virus in Australia. Pathogens. 2020 Oct
+16;9(10):848. doi: 10.3390/pathogens9100848. PMID: 33081269; PMCID: PMC7650646.
+
+23: Cao X, Qiu X, Shi N, Ha Z, Zhang H, Xie Y, Wang P, Zhu X, Zhao W, Zhao G,
+Jin N, Lu H. Establishment of a reverse transcription real-time quantitative PCR
+method for Getah virus detection and its application for epidemiological
+investigation in Shandong, China. Front Microbiol. 2022 Sep 23;13:1009610. doi:
+10.3389/fmicb.2022.1009610. PMID: 36212868; PMCID: PMC9538719.
+
+24: Nie M, Deng H, Zhou Y, Sun X, Huang Y, Zhu L, Xu Z. Development of a reverse
+transcription recombinase-aided amplification assay for detection of Getah
+virus. Sci Rep. 2021 Oct 8;11(1):20060. doi: 10.1038/s41598-021-99734-7. PMID:
+34625631; PMCID: PMC8501081.
+
+25: Zhou F, Wang A, Chen L, Wang X, Cui D, Chang H, Wang C. Isolation and
+phylogenetic analysis of Getah virus from a commercial modified live vaccine
+against porcine reproductive and respiratory syndrome virus. Mol Cell Probes.
+2020 Oct;53:101650. doi: 10.1016/j.mcp.2020.101650. Epub 2020 Aug 8. PMID:
+32781023.
+
+26: Zhong D, Zheng J, Ma Z, Wang Y, Wei J. Rapid Detection of Getah Virus
+Antibodies in Horses Using a Recombinant E2 Protein-Based Immunochromatographic
+Strip. Animals (Basel). 2024 Aug 8;14(16):2309. doi: 10.3390/ani14162309. PMID:
+39199843; PMCID: PMC11350704.
+
+27: Lin A, Hu X, Cui S, Yang T, Zhang Z, Li P, Guo M, Lu Y. Development of
+TaqMan-based real-time PCR assay based on the E1 genefor the quantitative
+detection of the Getah virus. Pol J Vet Sci. 2023 Mar;26(1):21-28. doi:
+10.24425/pjvs.2023.145003. PMID: 36961278.

@@ -1,0 +1,46 @@
+1: Kong D, Wen Z, Su H, Ge J, Chen W, Wang X, Wu C, Yang C, Chen H, Bu Z.
+Corrigendum to "Newcastle disease virus vectored Nipah encephalitis vaccines
+induce B and T cell responses in mice and long-lasting neutralizing antibodies
+in pigs" [Virology 432 (2012) 327-335]. Virology. 2022 Aug;573:176-177. doi:
+10.1016/j.virol.2022.07.001. Epub 2022 Jul 13. Erratum for: Virology. 2012 Oct
+25;432(2):327-35. doi: 10.1016/j.virol.2012.06.001. PMID: 35839550.
+
+2: Kumar R, Kumar V, Kekungu P, Barman NN, Kumar S. Evaluation of surface
+glycoproteins of classical swine fever virus as immunogens and reagents for
+serological diagnosis of infections in pigs: a recombinant Newcastle disease
+virus approach. Arch Virol. 2019 Dec;164(12):3007-3017. doi:
+10.1007/s00705-019-04425-4. Epub 2019 Oct 9. PMID: 31598846.
+
+3: Raut SD, Rajak KK, Kumar R, Singh VK, Saxena A, Chaudhary D, Muthuchelvan D,
+Pandey AB. Characterization of cytopathogenicity of classical swine fever virus
+isolate induced by Newcastle disease virus. Virusdisease. 2015 Jun;26(1-2):70-6.
+doi: 10.1007/s13337-015-0253-0. Epub 2015 May 23. PMID: 26436124; PMCID:
+PMC4585056.
+
+4: Zhang H, Nan F, Li Z, Zhao G, Xie C, Ha Z, Zhang J, Han J, Xiao P, Zhuang X,
+Wang W, Ge J, Tian M, Lu H, Bu Z, Jin N. Construction and immunological
+evaluation of recombinant Newcastle disease virus vaccines expressing highly
+pathogenic porcine reproductive and respiratory syndrome virus GP3/GP5 proteins
+in pigs. Vet Microbiol. 2019 Dec;239:108490. doi: 10.1016/j.vetmic.2019.108490.
+Epub 2019 Nov 5. PMID: 31767075.
+
+5: Chen X, Yang J, Ji Y, Okoth E, Liu B, Li X, Yin H, Zhu Q. Recombinant
+Newcastle disease virus expressing African swine fever virus protein 72 is safe
+and immunogenic in mice. Virol Sin. 2016 Apr;31(2):150-9. doi:
+10.1007/s12250-015-3692-2. Epub 2016 Mar 11. PMID: 26980334; PMCID: PMC8193403.
+
+6: Lara-Puente JH, Carreño JM, Sun W, Suárez-Martínez A, Ramírez-Martínez L,
+Quezada-Monroy F, Paz-De la Rosa G, Vigueras-Moreno R, Singh G, Rojas-Martínez
+O, Chagoya-Cortés HE, Sarfati-Mizrahi D, Soto-Priante E, López-Macías C, Krammer
+F, Castro-Peralta F, Palese P, García-Sastre A, Lozano-Dubernard B. Safety and
+Immunogenicity of a Newcastle Disease Virus Vector-Based SARS-CoV-2 Vaccine
+Candidate, AVX/COVID-12-HEXAPRO (Patria), in Pigs. mBio. 2021 Oct
+26;12(5):e0190821. doi: 10.1128/mBio.01908-21. Epub 2021 Sep 21. PMID: 34544278;
+PMCID: PMC8546847.
+
+7: Dey S, Murugasamy R, Buragohain L, D'silva AL, Sarma J, Bharali A,
+Ramakrishnan S, Saminathan M, Barman NN, Vakharia VN, Chellappa MM. Newcastle
+Disease Virus Expressing Cap Gene of Porcine Circovirus Type 2 Confers
+Protection in Mice and Induced Long-Lasting Neutralizing Antibodies in Pigs.
+Vaccines (Basel). 2024 Nov 15;12(11):1285. doi: 10.3390/vaccines12111285. PMID:
+39591187; PMCID: PMC11599103.

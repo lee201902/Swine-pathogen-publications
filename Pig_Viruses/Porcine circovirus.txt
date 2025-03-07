@@ -1,0 +1,330 @@
+1: Chang'a JS, Bitanyi SS, Kamigwe A, Magidanga B, Guo S, Makoroma P, Francis G,
+Jumbe J, Jeremiah M, Nyakilinga D, Mwasha M, Msangi K, Cattoli G, Franzo G,
+Molini U, Dundon WG. Molecular characterization of porcine circovirus-2 and -3
+in pigs in Tanzania. J Vet Med Sci. 2023 Jun 14;85(6):691-694. doi:
+10.1292/jvms.23-0031. Epub 2023 May 3. PMID: 37150615; PMCID: PMC10315549.
+
+2: Oh T, Suh J, Chae C. Pathogenicity of Porcine Circovirus Type 2e in
+Experimentally Infected Pigs. J Comp Pathol. 2022 Jul;195:19-27. doi:
+10.1016/j.jcpa.2022.05.001. Epub 2022 Jun 9. PMID: 35817537.
+
+3: Zhang M, Liu CC, Huang Y, Hill JE, Bravo Araya M, Ojkic D, Gagnon CA.
+Phylogenetic analysis of porcine circovirus 3 circulating in Canadian pigs. Vet
+Med Sci. 2022 Sep;8(5):1969-1974. doi: 10.1002/vms3.851. Epub 2022 May 30. PMID:
+35636428; PMCID: PMC9514502.
+
+4: Rudova N, Buttler J, Kovalenko G, Sushko M, Bolotin V, Muzykina L, Zinenko O,
+Stegniy B, Dunaiev Y, Sytiuk M, Gerilovych A, Drown DM, Bortz E, Solodiankin O.
+Genetic Diversity of Porcine Circovirus 2 in Wild Boar and Domestic Pigs in
+Ukraine. Viruses. 2022 Apr 28;14(5):924. doi: 10.3390/v14050924. PMID: 35632666;
+PMCID: PMC9142977.
+
+5: Hu X, Chen Z, Song D, Li Y, Ding Z, Wu X, You H, Wu H. Frequency detection of
+porcine circovirus-like viruses in pigs with porcine respiratory disease. Vet
+Microbiol. 2022 Dec;275:109581. doi: 10.1016/j.vetmic.2022.109581. Epub 2022 Oct
+12. PMID: 36279656.
+
+6: Turlewicz-Podbielska H, Augustyniak A, Pomorska-Mól M. Novel Porcine
+Circoviruses in View of Lessons Learned from Porcine Circovirus Type
+2-Epidemiology and Threat to Pigs and Other Species. Viruses. 2022 Jan
+27;14(2):261. doi: 10.3390/v14020261. PMID: 35215854; PMCID: PMC8877176.
+
+7: Bera BC, Choudhary M, Anand T, Virmani N, Sundaram K, Choudhary B, Tripathi
+BN. Detection and genetic characterization of porcine circovirus 3 (PCV3) in
+pigs in India. Transbound Emerg Dis. 2020 May;67(3):1062-1067. doi:
+10.1111/tbed.13463. Epub 2020 Jan 7. PMID: 31880100.
+
+8: Dinh PX, Nguyen MN, Nguyen HT, Tran VH, Tran QD, Dang KH, Vo DT, Le HT,
+Nguyen NTT, Nguyen TT, Do DT. Porcine circovirus genotypes and their copathogens
+in pigs with respiratory disease in southern provinces of Vietnam. Arch Virol.
+2021 Feb;166(2):403-411. doi: 10.1007/s00705-020-04878-y. Epub 2021 Jan 3. PMID:
+33392818.
+
+9: Zhang HH, Hu WQ, Li JY, Liu TN, Zhou JY, Opriessnig T, Xiao CT. Novel
+circovirus species identified in farmed pigs designated as Porcine circovirus 4,
+Hunan province, China. Transbound Emerg Dis. 2020 May;67(3):1057-1061. doi:
+10.1111/tbed.13446. Epub 2019 Dec 24. PMID: 31823481.
+
+10: Hansen MS, Jensen TK, Hjulsager CK, Angen Ø, Riber U, Nielsen J, Heegaard
+PMH, Larsen LE. Experimental infection of high health pigs with porcine
+circovirus type 2 (PCV2) and <i>Lawsonia intracellularis</i>. Front Vet Sci.
+2022 Oct 6;9:994147. doi: 10.3389/fvets.2022.994147. PMID: 36277064; PMCID:
+PMC9583870.
+
+11: Molini U, Marruchella G, Matheus F, Hemberger YM, Chiwome B, Khaiseb S,
+Cattoli G, Franzo G. Molecular Investigation of Porcine Circovirus Type 3
+Infection in Pigs in Namibia. Pathogens. 2021 May 11;10(5):585. doi:
+10.3390/pathogens10050585. PMID: 34064577; PMCID: PMC8150967.
+
+12: Temeeyasen G, Lierman S, Arruda BL, Main R, Vannucci F, Gimenez-Lirola LG,
+Piñeyro PE. Pathogenicity and immune response against porcine circovirus type 3
+infection in caesarean-derived, colostrum-deprived pigs. J Gen Virol. 2021
+Jan;102(1). doi: 10.1099/jgv.0.001502. PMID: 33206034.
+
+13: Du S, Xu F, Lin Y, Wang Y, Zhang Y, Su K, Li T, Li H, Song Q. Detection of
+Porcine Circovirus Type 2a and <i>Pasteurella multocida</i> Capsular Serotype D
+in Growing Pigs Suffering from Respiratory Disease. Vet Sci. 2022 Sep
+27;9(10):528. doi: 10.3390/vetsci9100528. PMID: 36288141; PMCID: PMC9607208.
+
+14: Sun W, Wang W, Cao L, Zheng M, Zhuang X, Zhang H, Yu N, Tian M, Lu H, Jin N.
+Genetic characterization of three porcine circovirus-like viruses in pigs with
+diarrhoea in China. Transbound Emerg Dis. 2021 Mar;68(2):289-295. doi:
+10.1111/tbed.13731. Epub 2020 Jul 30. PMID: 32657534.
+
+15: Zhang LH, Wang LQ, Li HX, Zhang HL, Zheng LL, Chen XM, Chen HY. Detection
+and genetic analysis of porcine circovirus-like virus in pigs with diarrhea
+between 2016 and 2021 in Henan and Shanxi provinces of China. Arch Virol. 2023
+Jan 28;168(2):76. doi: 10.1007/s00705-023-05701-0. PMID: 36709234.
+
+16: Dundon WG, Franzo G, Settypalli TBK, Dharmayanti NLPI, Ankhanbaatar U,
+Sendow I, Ratnawati A, Sainnokhoi T, Molini U, Cattoli G, Lamien CE. Evidence of
+coinfection of pigs with African swine fever virus and porcine circovirus 2.
+Arch Virol. 2022 Jan;167(1):207-211. doi: 10.1007/s00705-021-05312-7. Epub 2021
+Nov 26. PMID: 34826000.
+
+17: Molini U, Franzo G, Gous L, Moller S, Hemberger YM, Chiwome B, Marruchella
+G, Khaiseb S, Cattoli G, Dundon WG. Three different genotypes of porcine
+circovirus 2 (PCV-2) identified in pigs and warthogs in Namibia. Arch Virol.
+2021 Jun;166(6):1723-1728. doi: 10.1007/s00705-021-05035-9. Epub 2021 Mar 15.
+PMID: 33721098.
+
+18: Park SC, Kim S, Jeong TW, Oh B, Lim CW, Kim B. Prevalence of porcine
+circovirus type 2 and type 3 in slaughtered pigs and wild boars in Korea. Vet
+Med Sci. 2024 Jan;10(1):e1329. doi: 10.1002/vms3.1329. Epub 2023 Dec 4. PMID:
+38050451; PMCID: PMC10766032.
+
+19: Dei Giudici S, Franzoni G, Bonelli P, Angioi PP, Zinellu S, Deriu V, Carta
+T, Sechi AM, Salis F, Balzano F, Oggiano A. Genetic Characterization of Porcine
+Circovirus 3 Strains Circulating in Sardinian Pigs and Wild Boars. Pathogens.
+2020 May 2;9(5):344. doi: 10.3390/pathogens9050344. PMID: 32370251; PMCID:
+PMC7280999.
+
+20: Pan Y, Qiu S, Chen R, Zhang T, Liang L, Wang M, Baloch AR, Wang L, Zhang Q,
+Yu S. Molecular detection and phylogenetic analysis of porcine circovirus type 3
+in Tibetan pigs on the Qinghai-Tibet Plateau of China. Virol J. 2022 Apr
+7;19(1):64. doi: 10.1186/s12985-022-01792-4. PMID: 35392945; PMCID: PMC8991800.
+
+21: Gainor K, Fortuna YC, Alakkaparambil AS, González W, Malik YS, Ghosh S.
+Detection and Complete Genomic Analysis of <i>Porcine circovirus 3</i> (PCV3) in
+Diarrheic Pigs from the Dominican Republic: First Report on PCV3 from the
+Caribbean Region. Pathogens. 2023 Feb 4;12(2):250. doi:
+10.3390/pathogens12020250. PMID: 36839522; PMCID: PMC9959359.
+
+22: Lian Z, Liu J, Liu P, Zhu Z, Yao X, Yuan L, Hu D, Jiang Y, Chen C, Chen N,
+Li X. Development and application of an indirect ELISA for the detection of
+antibody to porcine circovirus 4 in pigs. Transbound Emerg Dis. 2021
+Nov;68(6):2975-2979. doi: 10.1111/tbed.14267. Epub 2021 Aug 11. PMID: 34328270.
+
+23: Ha Z, Yu C, Xie C, Wang G, Zhang Y, Hao P, Li J, Li Z, Li Y, Rong F, Nan F,
+Zhang H, Zhuang X, Xie Y, Shi N, Lu H, Jin N. Retrospective surveillance of
+porcine circovirus 4 in pigs in Inner Mongolia, China, from 2016 to 2018. Arch
+Virol. 2021 Jul;166(7):1951-1959. doi: 10.1007/s00705-021-05088-w. Epub 2021 May
+13. PMID: 33987752.
+
+24: Yang K, Zhang M, Liu Q, Cao Y, Zhang W, Liang Y, Song X, Ji K, Shao Y, Qi K,
+Tu J. Epidemiology and Evolution of Emerging Porcine Circovirus-like Viruses in
+Pigs with Hemorrhagic Dysentery and Diarrhea Symptoms in Central China from 2018
+to 2021. Viruses. 2021 Nov 15;13(11):2282. doi: 10.3390/v13112282. PMID:
+34835090; PMCID: PMC8624291.
+
+25: Oh T, Cho H, Suh J, Chae C. Virulence Comparison of Four Porcine Circovirus
+Type 2 (PCV2) Genotypes (2a, 2b, 2d and 2e) in Pigs Single-Infected with PCV2
+and Pigs Dual-Infected with PCV2 and Mycoplasma hyopneumoniae. J Comp Pathol.
+2022 Nov;199:88-98. doi: 10.1016/j.jcpa.2022.09.012. Epub 2022 Nov 5. PMID:
+36347182.
+
+26: Toyama K, Hirai T, Sueyoshi M, Zhou Z, Niazi AM, Kawaguchi N, Fuke N,
+Yamaguchi R. Histopathological findings of the nasopharynx-associated lymphoid
+tissue of pigs co-infected with porcine circovirus 2 and porcine reproductive
+and respiratory syndrome virus. J Vet Med Sci. 2022 Nov 14;84(11):1536-1542.
+doi: 10.1292/jvms.22-0231. Epub 2022 Oct 13. PMID: 36223944; PMCID: PMC9705823.
+
+27: Cho H, Oh T, Suh J, Chae C. Comparison of pathogenicity of 4 porcine
+circovirus type 2 (PCV2) genotypes (2a, 2b, 2d, and 2e) in experimentally
+infected pigs. J Vet Med Sci. 2023 Jan 12;85(1):83-87. doi:
+10.1292/jvms.22-0202. Epub 2022 Nov 22. PMID: 36418063; PMCID: PMC9887223.
+
+28: Gainor K, Castillo Fortuna Y, Alakkaparambil AS, González W, Malik YS, Ghosh
+S. Detection and Complete Genome Analysis of Porcine Circovirus 2 (PCV2) and an
+Unclassified CRESS DNA Virus from Diarrheic Pigs in the Dominican Republic:
+First Evidence for Predominance of PCV2d from the Caribbean Region. Viruses.
+2022 Aug 17;14(8):1799. doi: 10.3390/v14081799. PMID: 36016421; PMCID:
+PMC9415081.
+
+29: Lim J, Jin M, Yoon I, Yoo HS. Efficacy of bivalent vaccines of porcine
+circovirus type 2 and <i>Mycoplasma hyopneumoniae</i> in specific pathogen-free
+pigs challenged with porcine circovirus type 2d. J Vet Sci. 2022 May;23(3):e49.
+doi: 10.4142/jvs.21287. PMID: 35618321; PMCID: PMC9149493.
+
+30: Kim K, Hahn TW. Evaluation of novel recombinant porcine circovirus type 2d
+(PCV2d) vaccine in pigs naturally infected with PCV2d. Vaccine. 2021 Jan
+15;39(3):529-535. doi: 10.1016/j.vaccine.2020.12.013. Epub 2020 Dec 18. PMID:
+33342633.
+
+31: Lee SI, Jeong CG, Ul Salam Mattoo S, Nazki S, Prasad Aganja R, Kim SC,
+Khatun A, Oh Y, Noh SH, Lee SM, Kim WI. Protective immunity induced by
+concurrent intradermal injection of porcine circovirus type 2 and Mycoplasma
+hyopneumoniae inactivated vaccines in pigs. Vaccine. 2021 Oct
+29;39(45):6691-6699. doi: 10.1016/j.vaccine.2021.07.043. Epub 2021 Sep 15. PMID:
+34538524.
+
+32: Oh T, Suh J, Cho H, Min K, Choi BH, Chae C. Efficacy test of a plant-based
+porcine circovirus type 2 (PCV2) virus-like particle vaccine against four PCV2
+genotypes (2a, 2b, 2d, and 2e) in pigs. Vet Microbiol. 2022 Sep;272:109512. doi:
+10.1016/j.vetmic.2022.109512. Epub 2022 Jul 12. PMID: 35853407.
+
+33: Wei YW, Zhu HZ, Huang LP, Xia DL, Wu HL, Bian HQ, Feng L, Liu CM. Efficacy
+in pigs of a new inactivated vaccine combining porcine circovirus type 2 and
+Mycoplasma hyorhinis. Vet Microbiol. 2020 Mar;242:108588. doi:
+10.1016/j.vetmic.2020.108588. Epub 2020 Jan 16. PMID: 32122592.
+
+34: Oh T, Park KH, Yang S, Cho H, Suh J, Chae C. Pathogenicity of Porcine
+Circovirus Type 2d (PCV2d) in Pigs Infected with PCV2d or Co-infected with
+Mycoplasma hyopneumoniae and PCV2d or with Porcine Reproductive and Respiratory
+Syndrome Virus and PCV2d. J Comp Pathol. 2021 Aug;187:75-82. doi:
+10.1016/j.jcpa.2021.07.004. Epub 2021 Aug 13. PMID: 34503658.
+
+35: Cobos À, Sibila M, Alomar J, Pérez M, Huerta E, Segalés J. Retrospective
+assessment of porcine circovirus 3 (PCV-3) in formalin-fixed, paraffin-embedded
+tissues from pigs affected by different clinical-pathological conditions.
+Porcine Health Manag. 2022 Dec 5;8(1):51. doi: 10.1186/s40813-022-00293-8. PMID:
+36471405; PMCID: PMC9720923.
+
+36: Suh J, Oh T, Park K, Yang S, Cho H, Chae C. A Comparison of Virulence of
+Three Porcine Circovirus Type 2 (PCV2) Genotypes (a, b, and d) in Pigs
+Singularly Inoculated with PCV2 and Dually Inoculated with PCV2 and Porcine
+Reproductive and Respiratory Syndrome Virus. Pathogens. 2021 Jul 14;10(7):891.
+doi: 10.3390/pathogens10070891. PMID: 34358041; PMCID: PMC8308741.
+
+37: Lee JY, Park KH, Oh T, Yang S, Suh J, Ham HJ, Chae C. Experimental
+reproduction of porcine respiratory disease complex in pigs inoculated porcine
+reproductive and respiratory syndrome virus and Mycoplasma hyopneumoniae and
+followed by inoculation with porcine circovirus type 2. J Vet Med Sci. 2021 Mar
+11;83(3):427-430. doi: 10.1292/jvms.20-0577. Epub 2021 Jan 19. PMID: 33473060;
+PMCID: PMC8025419.
+
+38: Li G, Liu L, Xu B, Hu J, Kuang H, Wang X, Wang L, Cui X, Sun H, Rong J.
+Displaying epitope B and epitope 7 of porcine reproductive and respiratory
+syndrome virus on virus like particles of porcine circovirus type 2 provides
+partial protection to pigs. J Vet Med Sci. 2021 Aug 12;83(8):1263-1272. doi:
+10.1292/jvms.20-0543. Epub 2021 Jul 7. PMID: 34234054; PMCID: PMC8437722.
+
+39: Rajkhowa TK, Lalnunthanga P, Rao PL, Subbiah M, Lalrohlua B. Emergence of
+porcine circovirus 2g (PCV2g) and evidence for recombination between genotypes
+2g, 2b and 2d among field isolates from non-vaccinated pigs in Mizoram, India.
+Infect Genet Evol. 2021 Jun;90:104775. doi: 10.1016/j.meegid.2021.104775. Epub
+2021 Feb 20. PMID: 33618002.
+
+40: Constance LA, Thissen JB, Jaing CJ, McLoughlin KS, Rowland RRR, Serão NVL,
+Cino-Ozuna AG, Niederwerder MC. Gut microbiome associations with outcome
+following co-infection with porcine reproductive and respiratory syndrome virus
+(PRRSV) and porcine circovirus type 2 (PCV2) in pigs immunized with a PRRS
+modified live virus vaccine. Vet Microbiol. 2021 Mar;254:109018. doi:
+10.1016/j.vetmic.2021.109018. Epub 2021 Feb 16. PMID: 33639341.
+
+41: Oh T, Suh J, Park KH, Yang S, Cho H, Chae C. A Comparison of Pathogenicity
+and Virulence of Three Porcine Circovirus Type 2 (PCV2) Genotypes (a, b, and d)
+in Pigs Singularly Inoculated with PCV2 and Dually Inoculated with <i>Mycoplasma
+hyopneumoniae</i> and PCV2. Pathogens. 2021 Aug 3;10(8):979. doi:
+10.3390/pathogens10080979. PMID: 34451444; PMCID: PMC8400386.
+
+42: Boulbria G, Brilland S, Teixeira-Costa C, Brissonnier M, Charles M,
+Capdevielle N, Normand V, Bouchet F, Berton P, Krejci R, Lebret A. Effectiveness
+of two intramuscular combined vaccines for the control of Mycoplasma
+hyopneumoniae and porcine circovirus type 2 in growing pigs: a randomized field
+trial. Porcine Health Manag. 2021 Jun 27;7(1):41. doi:
+10.1186/s40813-021-00220-3. PMID: 34176520; PMCID: PMC8237417.
+
+43: López-Lorenzo G, Prieto A, López-Novo C, Díaz P, Remesar S, Morrondo P,
+Fernández G, Díaz-Cao JM. Presence of Porcine Circovirus Type 2 in the
+Environment of Farm Facilities without Pigs in Long Term-Vaccinated Farrow-to-
+Wean Farms. Animals (Basel). 2022 Dec 13;12(24):3515. doi: 10.3390/ani12243515.
+PMID: 36552435; PMCID: PMC9774950.
+
+44: Ji C, Zeng M, Wei Y, Lv X, Sun Y, Ma J. Genetic characterization of four
+strains porcine circovirus-like viruses in pigs with diarrhea in Hunan Province
+of China. Front Microbiol. 2023 Mar 1;14:1126707. doi:
+10.3389/fmicb.2023.1126707. PMID: 36937298; PMCID: PMC10014920.
+
+45: Hayashi S, Sato T, Ono H, Ito S, Takai R, Shibuya K, Sasakawa C.
+Experimental inoculation of a tissue homogenate containing porcine circovirus
+type 3 obtained after two in vivo passages in NIBS miniature pigs. Vet
+Microbiol. 2023 Jun;281:109740. doi: 10.1016/j.vetmic.2023.109740. Epub 2023 Apr
+11. PMID: 37087879.
+
+46: Kim K, Choi K, Shin M, Hahn TW. A porcine circovirus type 2d-based virus-
+like particle vaccine induces humoral and cellular immune responses and
+effectively protects pigs against PCV2d challenge. Front Microbiol. 2024 Jan
+11;14:1334968. doi: 10.3389/fmicb.2023.1334968. PMID: 38274769; PMCID:
+PMC10808717.
+
+47: Cui X, Wang X, Gao Q, Liu X, Kai Y, Chen C, Gao S. Colonisation of mice and
+pigs by a chimeric porcine circovirus 1-2 prototype vaccine strain and a PCV2
+isolate originating in China and their induction of cytokines. J Virol Methods.
+2020 Sep;283:113905. doi: 10.1016/j.jviromet.2020.113905. Epub 2020 Jun 2. PMID:
+32502500.
+
+48: Saporiti V, Huerta E, Correa-Fiz F, Grosse Liesner B, Duran O, Segalés J,
+Sibila M. Detection and genotyping of Porcine circovirus 2 (PCV-2) and detection
+of Porcine circovirus 3 (PCV-3) in sera from fattening pigs of different
+European countries. Transbound Emerg Dis. 2020 Nov;67(6):2521-2531. doi:
+10.1111/tbed.13596. Epub 2020 May 14. PMID: 32356364; PMCID: PMC7754154.
+
+49: Correa-Fiz F, Franzo G, Llorens A, Huerta E, Sibila M, Kekarainen T, Segalés
+J. Porcine circovirus 2 (PCV2) population study in experimentally infected pigs
+developing PCV2-systemic disease or a subclinical infection. Sci Rep. 2020 Oct
+20;10(1):17747. doi: 10.1038/s41598-020-74627-3. PMID: 33082419; PMCID:
+PMC7576782.
+
+50: Sibila M, Rocco C, Franzo G, Huerta E, Domingo M, Núñez JI, Segalés J.
+Genotyping of Porcine Circovirus 2 (PCV-2) in Vaccinated Pigs Suffering from
+PCV-2-Systemic Disease between 2009 and 2020 in Spain. Pathogens. 2021 Aug
+12;10(8):1016. doi: 10.3390/pathogens10081016. PMID: 34451480; PMCID:
+PMC8402084.
+
+51: Saporiti V, Cruz TF, Correa-Fiz F, Núñez JI, Sibila M, Segalés J. Similar
+frequency of Porcine circovirus 3 (PCV-3) detection in serum samples of pigs
+affected by digestive or respiratory disorders and age-matched clinically
+healthy pigs. Transbound Emerg Dis. 2020 Jan;67(1):199-205. doi:
+10.1111/tbed.13341. Epub 2019 Sep 18. PMID: 31483952.
+
+52: Zeng M, Ji C, Sun Y, Ma J. The Prevalence of Porcine Circovirus-like Viruses
+in China Presents New Challenges to the Diagnosis of Diarrhea-Associated
+Viruses. Comment on Yang et al. Epidemiology and Evolution of Emerging Porcine
+Circovirus-like Viruses in Pigs with Hemorrhagic Dysentery and Diarrhea Symptoms
+in Central China from 2018 to 2021. <i>Viruses</i> 2021, <i>13</i>, 2282.
+Viruses. 2022 May 5;14(5):962. doi: 10.3390/v14050962. PMID: 35632704; PMCID:
+PMC9143798.
+
+53: Weissenbacher-Lang C, Kristen T, Mendel V, Brunthaler R, Schwarz L,
+Weissenböck H. Porcine circovirus type 2 (PCV2) genotyping in Austrian pigs in
+the years 2002 to 2017. BMC Vet Res. 2020 Jun 15;16(1):198. doi:
+10.1186/s12917-020-02413-4. PMID: 32539835; PMCID: PMC7294622.
+
+54: Miłek D, Woźniak A, Podgórska K, Stadejek T. Do porcine parvoviruses 1
+through 7 (PPV1-PPV7) have an impact on porcine circovirus type 2 (PCV2) viremia
+in pigs? Vet Microbiol. 2020 Mar;242:108613. doi: 10.1016/j.vetmic.2020.108613.
+Epub 2020 Feb 17. PMID: 32122579.
+
+55: Faustini G, Poletto F, Baston R, Tucciarone CM, Legnardi M, Dal Maso M,
+Genna V, Fiorentini L, Di Donato A, Perulli S, Cecchinato M, Drigo M, Franzo G.
+D for dominant: porcine circovirus 2d (PCV-2d) prevalence over other genotypes
+in wild boars and higher viral flows from domestic pigs in Italy. Front
+Microbiol. 2024 Jun 17;15:1412615. doi: 10.3389/fmicb.2024.1412615. PMID:
+38952451; PMCID: PMC11215180.
+
+56: Hung LC. Carboxyl-Terminal Decoy Epitopes in the Capsid Protein of Porcine
+Circovirus Type 2 Are Immunogenicity-Enhancers That Elicit Predominantly
+Specific Antibodies in Non-Vaccinated Pigs. Viruses. 2022 Oct 27;14(11):2373.
+doi: 10.3390/v14112373. PMID: 36366471; PMCID: PMC9693397.
+
+57: Lee SH, Lim KS, Hong KC, Kim JM. Genetic association of polymorphisms in
+porcine RGS16 with porcine circovirus viral load in naturally infected Yorkshire
+pigs. J Anim Sci Technol. 2021 Nov;63(6):1223-1231. doi: 10.5187/jast.2021.e105.
+Epub 2021 Nov 30. PMID: 34957439; PMCID: PMC8672253.
+
+58: Yadhapura Venkatesh R, Dey S, Buragohain L, Chellappa MM, Pathak DC, Singh
+A, Murugasamy R, Manivasagam V, Barman NN. Development of recombinant capsid
+protein-based single serum dilution ELISA for sero-detection of porcine
+circovirus type 2 infection in pigs. Vet Res Commun. 2024 Apr;48(2):1149-1159.
+doi: 10.1007/s11259-024-10299-y. Epub 2024 Jan 12. PMID: 38214798.

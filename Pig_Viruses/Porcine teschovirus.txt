@@ -1,0 +1,45 @@
+1: Ray PK, Desingu PA, Anoopraj R, Singh RK, Saikumar G. Identification and
+genotypic characterization of porcine teschovirus from selected pig populations
+in India. Trop Anim Health Prod. 2020 May;52(3):1161-1166. doi:
+10.1007/s11250-019-02114-7. Epub 2019 Dec 10. PMID: 31820308.
+
+2: Stäubli T, Rickli CI, Torgerson PR, Fraefel C, Lechmann J. Porcine
+teschovirus, sapelovirus, and enterovirus in Swiss pigs: multiplex RT-PCR
+investigation of viral frequencies and disease association. J Vet Diagn Invest.
+2021 Sep;33(5):864-874. doi: 10.1177/10406387211025827. Epub 2021 Jun 21. PMID:
+34151653; PMCID: PMC8366261.
+
+3: Li Y, Chen S, Shi Y, Huang H, Wang W, Zheng M, Zhao C, Zhang X, Lei X, Sun W,
+Liu H, Lan T. Construction and characterization of the full-length cDNA of an
+infectious clone of emerging porcine teschovirus-2. Pathog Dis. 2022 Oct
+12;80(1):ftac033. doi: 10.1093/femspd/ftac033. PMID: 36044999.
+
+4: Vreman S, Caliskan N, Harders F, Boonstra J, Peperkamp K, Ho CKY, Kuller W,
+Kortekaas J. Two novel porcine teschovirus strains as the causative agents of
+encephalomyelitis in the Netherlands. BMC Vet Res. 2020 Feb 11;16(1):51. doi:
+10.1186/s12917-020-2275-0. PMID: 32046722; PMCID: PMC7014746.
+
+5: Stadler J, Junker S, Gründl J, Fröhlich S, Beisl M, Zöls S, Ritzmann M,
+Eddicks M, Palzer A, Sehl J, Höper D, Unterweger C, Ladinig A, Mayer C.
+Hinterhandlähmungen bei Mastschweinen im Zusammenhang mit einem neuen Stamm des
+porzinen Teschovirus A11 [Hind limb paralysis in fattening pigs due to a new
+strain of porcine Teschovirus A11]. Tierarztl Prax Ausg G Grosstiere Nutztiere.
+2022 Feb;50(1):59-67. German. doi: 10.1055/a-1729-3677. Epub 2022 Mar 2. PMID:
+35235983.
+
+6: Chen QY, Sun ZH, Chen RJ, Wu XM, Che YL, Wu RJ, Qiu JL, He B, Wang LB, Zhou
+LJ. A rapid visual detection method for porcine teschovirus through reverse
+transcription recombinase-aided amplification coupled with lateral flow
+dipstick. BMC Vet Res. 2024 Dec 30;20(1):588. doi: 10.1186/s12917-024-04442-9.
+PMID: 39736581; PMCID: PMC11687080.
+
+7: Liang W, Wu X, Ding Z, Zhong S, Qian X, Ye P, Liu H, Chen Z, Zhang J, Cao H,
+Hu G, Luo J, Li Z, Ding N, Hu R. Identification of a novel porcine Teschovirus 2
+strain as causative agent of encephalomyelitis in suckling piglets with high
+mortality in China. BMC Vet Res. 2023 Jan 4;19(1):2. doi:
+10.1186/s12917-022-03549-1. PMID: 36597091; PMCID: PMC9810521.
+
+8: Tsai TH, Chang CY, Wang FI. A Highly Conserved Epitope (RNNQIPQDF) of
+<i>Porcine teschovirus</i> Induced a Group-Specific Antiserum: A Bioinformatics-
+Predicted Model with Pan-PTV Potential. Viruses. 2020 Oct 29;12(11):1225. doi:
+10.3390/v12111225. PMID: 33138189; PMCID: PMC7693897.

@@ -1,0 +1,240 @@
+1: Song H, Gao X, Fu Y, Li J, Fan G, Shao L, Zhang J, Qiu HJ, Luo Y. Isolation
+and Molecular Characterization of Atypical Porcine Pestivirus Emerging in China.
+Viruses. 2023 Oct 25;15(11):2149. doi: 10.3390/v15112149. PMID: 38005827; PMCID:
+PMC10675531.
+
+2: Dall Agnol AM, Alfieri AF, Alfieri AA. <i>Pestivirus K</i> (Atypical Porcine
+Pestivirus): Update on the Virus, Viral Infection, and the Association with
+Congenital Tremor in Newborn Piglets. Viruses. 2020 Aug 18;12(8):903. doi:
+10.3390/v12080903. PMID: 32824845; PMCID: PMC7472392.
+
+3: Houston GE, Jones CK, Woodworth JC, Palinski R, Paulk CB, Petznick T,
+Gebhardt JT. Detection and investigation of atypical porcine pestivirus in a
+swine production system. Front Vet Sci. 2022 Oct 11;9:998344. doi:
+10.3389/fvets.2022.998344. PMID: 36304415; PMCID: PMC9593052.
+
+4: Shiokawa M, Morita Y, Nagai M, Haritani M, Aoki H. Isolation and artificial
+production of atypical porcine pestivirus, using the swine-kidney-derived cell
+line SK-L. Arch Virol. 2023 Nov 19;168(12):294. doi: 10.1007/s00705-023-05919-y.
+PMID: 37981594.
+
+5: Folgueiras-González A, van den Braak R, Simmelink B, Deijs M, van der Hoek L,
+de Groof A. Atypical Porcine Pestivirus Circulation and Molecular Evolution
+within an Affected Swine Herd. Viruses. 2020 Sep 25;12(10):1080. doi:
+10.3390/v12101080. PMID: 32992946; PMCID: PMC7599615.
+
+6: Buckley AC, Falkenberg SM, Palmer MV, Arruda PH, Magstadt DR, Schwartz KJ,
+Gatto IR, Neill JD, Arruda BL. Distribution and persistence of atypical porcine
+pestivirus in experimentally inoculated pigs. J Vet Diagn Invest. 2021
+Sep;33(5):952-955. doi: 10.1177/10406387211022683. Epub 2021 Jun 2. PMID:
+34078182; PMCID: PMC8366256.
+
+7: Guo Z, Wang L, Qiao S, Deng R, Zhang G. Genetic characterization and
+recombination analysis of atypical porcine pestivirus. Infect Genet Evol. 2020
+Jul;81:104259. doi: 10.1016/j.meegid.2020.104259. Epub 2020 Feb 19. PMID:
+32087344.
+
+8: Sutton KM, Eaton CW, Borza T, Burkey TE, Mote BE, Loy JD, Ciobanu DC. Genetic
+diversity and detection of atypical porcine pestivirus infections. J Anim Sci.
+2022 Jan 1;100(1):skab360. doi: 10.1093/jas/skab360. PMID: 34865057; PMCID:
+PMC8760896.
+
+9: Sun X, Zhang Q, Shan H, Cao Z, Huang J. Genome characteristics of atypical
+porcine pestivirus from abortion cases in Shandong Province, China. Virol J.
+2023 Nov 29;20(1):282. doi: 10.1186/s12985-023-02247-0. PMID: 38031135; PMCID:
+PMC10688472.
+
+10: Hill H, Reddick D, Caspe G, Ramage C, Frew D, Rocchi MS, Opriessnig T,
+McNeilly TN. Enhancing the understanding of coinfection outcomes: Impact of
+natural atypical porcine pestivirus infection on porcine reproductive and
+respiratory syndrome in pigs. Virus Res. 2024 Oct;348:199443. doi:
+10.1016/j.virusres.2024.199443. Epub 2024 Aug 1. PMID: 39094475; PMCID:
+PMC11342287.
+
+11: Song H, Gao X, Li J, Dong X, Fu Y, Shao L, Zhang J, Qiu HJ, Luo Y.
+Development and application of an indirect ELISA for detection of antibodies
+against emerging atypical porcine pestivirus. Virol J. 2024 Mar 4;21(1):53. doi:
+10.1186/s12985-024-02330-0. PMID: 38438894; PMCID: PMC10910838.
+
+12: Buckley AC, Mora-Díaz JC, Magtoto RL, Hulzen AV, Ferreyra FM, Falkenberg SM,
+Giménez-Lirola LG, Arruda BL. Dynamics of Infection of Atypical Porcine
+Pestivirus in Commercial Pigs from Birth to Market: A Longitudinal Study.
+Viruses. 2023 Aug 18;15(8):1767. doi: 10.3390/v15081767. PMID: 37632109; PMCID:
+PMC10458225.
+
+13: Pan S, Mou C, Wu H, Chen Z. Phylogenetic and codon usage analysis of
+atypical porcine pestivirus (APPV). Virulence. 2020 Dec;11(1):916-926. doi:
+10.1080/21505594.2020.1790282. PMID: 32615860; PMCID: PMC7549985.
+
+14: Yuan F, Feng Y, Bai J, Liu X, Arruda B, Anbalagan S, Peddireddi L. Genetic
+diversity and prevalence of Atypical Porcine Pestivirus in the Midwest of US
+swine herds during 2016-2018. Transbound Emerg Dis. 2022 Mar;69(2):753-763. doi:
+10.1111/tbed.14046. Epub 2021 Mar 5. PMID: 33621429.
+
+15: Dénes L, Ruedas-Torres I, Szilasi A, Balka G. Detection and localization of
+atypical porcine pestivirus in the testicles of naturally infected, congenital
+tremor affected piglets. Transbound Emerg Dis. 2022 Jul;69(4):e621-e629. doi:
+10.1111/tbed.14355. Epub 2021 Nov 8. PMID: 34705340; PMCID: PMC9541069.
+
+16: Ma H, Li W, Zhang M, Yang Z, Lin L, Ghonaim AH, He Q. The Diversity and
+Spatiotemporally Evolutionary Dynamic of Atypical Porcine Pestivirus in China.
+Front Microbiol. 2022 Jun 24;13:937918. doi: 10.3389/fmicb.2022.937918. PMID:
+35814668; PMCID: PMC9263985.
+
+17: Aae FH, Stokstad M, Myrmel M, Sørby R, Bergfeldt A, Ranheim B. Tremor tales:
+A cohort study of general and neurological signs in pigs with atypical porcine
+pestivirus-induced congenital tremor. Vet J. 2024 Dec 5;309:106288. doi:
+10.1016/j.tvjl.2024.106288. Epub ahead of print. PMID: 39645222.
+
+18: Yuan F, Wang L. Genotyping atypical porcine pestivirus using NS5a. Infect
+Genet Evol. 2021 Aug;92:104866. doi: 10.1016/j.meegid.2021.104866. Epub 2021 Apr
+17. PMID: 33872785.
+
+19: Kasahara-Kamiie M, Kagawa M, Shiokawa M, Sunaga F, Fukase Y, Aihara N, Shiga
+T, Kamiie J, Aoki H, Nagai M. Detection and genetic analysis of a novel atypical
+porcine pestivirus from piglets with congenital tremor in Japan. Transbound
+Emerg Dis. 2022 Jul;69(4):1761-1769. doi: 10.1111/tbed.14149. Epub 2021 May 29.
+PMID: 33978312.
+
+20: Stenberg H, Malmberg M, Hayer J. Screening for atypical porcine pestivirus
+in Swedish boar semen used for artificial insemination and a characterisation of
+the seminal RNA microbiome including the virome. BMC Vet Res. 2023 Oct
+20;19(1):219. doi: 10.1186/s12917-023-03762-6. PMID: 37864222; PMCID:
+PMC10588136.
+
+21: Reuscher CM, Seitz K, Schwarz L, Geranio F, Isken O, Raigel M, Huber T,
+Barth S, Riedel C, Netsch A, Zimmer K, Rümenapf T, Tautz N, Lamp B.
+DNAJC14-Independent Replication of the Atypical Porcine Pestivirus. J Virol.
+2022 Aug 10;96(15):e0198021. doi: 10.1128/jvi.01980-21. Epub 2022 Jul 19. PMID:
+35852352; PMCID: PMC9364808.
+
+22: Shi K, Xie S, Sun W, Liu H, Zhao J, Yin Y, Si H, Qu S, Lu W. Evolution and
+genetic diversity of atypical porcine pestivirus (APPV) from piglets with
+congenital tremor in Guangxi Province, Southern China. Vet Med Sci. 2021
+May;7(3):714-723. doi: 10.1002/vms3.407. Epub 2020 Dec 13. PMID: 33314734;
+PMCID: PMC8136935.
+
+23: Choe S, Park GN, Cha RM, Hyun BH, Park BK, An DJ. Prevalence and Genetic
+Diversity of Atypical Porcine Pestivirus (APPV) Detected in South Korean Wild
+Boars. Viruses. 2020 Jun 24;12(6):680. doi: 10.3390/v12060680. PMID: 32599836;
+PMCID: PMC7354535.
+
+24: Stenberg H, Leveringhaus E, Malmsten A, Dalin AM, Postel A, Malmberg M.
+Atypical porcine pestivirus-A widespread virus in the Swedish wild boar
+population. Transbound Emerg Dis. 2022 Jul;69(4):2349-2360. doi:
+10.1111/tbed.14251. Epub 2021 Aug 11. PMID: 34331830.
+
+25: Deng L, Yang X, Xu Z, Li F, Zhao J, Deng H, Jian Z, Sun X, Zhu L.
+Development and use of a droplet digital PCR (ddPCR) assay to achieve sensitive
+and fast atypical porcine pestivirus detection. Braz J Microbiol. 2022
+Jun;53(2):625-631. doi: 10.1007/s42770-022-00728-y. Epub 2022 Mar 12. PMID:
+35277851; PMCID: PMC9151951.
+
+26: Zhang Q, Yu Y, Song C, Cao Z. Genetic characterization of atypical porcine
+pestivirus (APPV) in China and the successful isolation of a novel APPV strain
+within genotype 2. Microb Pathog. 2021 Dec;161(Pt A):105282. doi:
+10.1016/j.micpath.2021.105282. Epub 2021 Nov 7. PMID: 34758359.
+
+27: Xia YJ, Xu L, Zhao JJ, Li YX, Wu RZ, Song XP, Zhao QZ, Liu YB, Wang Q, Zhang
+QY. Development of a quadruple PCR-based gene microarray for detection of
+vaccine and wild-type classical swine fever virus, African swine fever virus and
+atypical porcine pestivirus. Virol J. 2022 Nov 29;19(1):201. doi:
+10.1186/s12985-022-01933-9. PMID: 36447230; PMCID: PMC9708128.
+
+28: Liu H, Shi K, Zhao J, Yin Y, Chen Y, Si H, Qu S, Long F, Lu W. Development
+of a one-step multiplex qRT-PCR assay for the detection of African swine fever
+virus, classical swine fever virus and atypical porcine pestivirus. BMC Vet Res.
+2022 Jan 18;18(1):43. doi: 10.1186/s12917-022-03144-4. PMID: 35042532; PMCID:
+PMC8764768.
+
+29: Liu H, Shi K, Sun W, Zhao J, Yin Y, Si H, Qu S, Lu W. Development a
+multiplex RT-PCR assay for simultaneous detection of African swine fever virus,
+classical swine fever virus and atypical porcine pestivirus. J Virol Methods.
+2021 Jan;287:114006. doi: 10.1016/j.jviromet.2020.114006. Epub 2020 Oct 27.
+PMID: 33127443.
+
+30: Yan M, Huang J, Chen J, Yang W, Liu G. Preparation, identification, and
+functional analysis of monoclonal antibodies against atypical porcine pestivirus
+NS3 protein. J Vet Diagn Invest. 2020 Sep;32(5):695-699. doi:
+10.1177/1040638720939923. Epub 2020 Jul 15. PMID: 32667260; PMCID: PMC7488968.
+
+31: Cagatay GN, Antos A, Suckstorff O, Isken O, Tautz N, Becher P, Postel A.
+Porcine Complement Regulatory Protein CD46 Is a Major Receptor for Atypical
+Porcine Pestivirus but Not for Classical Swine Fever Virus. J Virol. 2021 Apr
+12;95(9):e02186-20. doi: 10.1128/JVI.02186-20. PMID: 33568504; PMCID:
+PMC8104093.
+
+32: Yuan F, Fu J, Liu X, Bai J, Peddireddi L. Development of a quantitative real
+time RT-PCR assay for sensitive and rapid detection of emerging Atypical Porcine
+Pestivirus associated with congenital tremor in pigs. J Virol Methods. 2021
+Oct;296:114220. doi: 10.1016/j.jviromet.2021.114220. Epub 2021 Jun 25. PMID:
+34182037.
+
+33: Pedersen K, Kristensen CS, Strandbygaard B, Bøtner A, Rasmussen TB.
+Detection of Atypical Porcine Pestivirus in Piglets from Danish Sow Herds.
+Viruses. 2021 Apr 21;13(5):717. doi: 10.3390/v13050717. PMID: 33919031; PMCID:
+PMC8142981.
+
+34: Yang Y, Jiang G, He W, Tian X, Zheng H, Xiang B, Sun Y. Network of
+Interactions between the Mut Domains of the E2 Protein of Atypical Porcine
+Pestivirus and Host Proteins. Genes (Basel). 2024 Jul 27;15(8):991. doi:
+10.3390/genes15080991. PMID: 39202352; PMCID: PMC11354059.
+
+35: Yu X, Liu J, Li H, Liu B, Zhao B, Ning Z. Comprehensive Analysis of
+Synonymous Codon Usage Bias for Complete Genomes and E2 Gene of Atypical Porcine
+Pestivirus. Biochem Genet. 2021 Jun;59(3):799-812. doi:
+10.1007/s10528-021-10037-y. Epub 2021 Feb 4. PMID: 33538926; PMCID: PMC7860996.
+
+36: Liu J, Ren X, Li H, Yu X, Zhao B, Liu B, Ning Z. Development of the reverse
+genetics system for emerging atypical porcine pestivirus using in vitro and
+intracellular transcription systems. Virus Res. 2020 Jul 2;283:197975. doi:
+10.1016/j.virusres.2020.197975. Epub 2020 Apr 18. PMID: 32311384.
+
+37: Liu H, Shi K, Feng S, Yin Y, Long F, Si H. Development of a Crystal Digital
+RT-PCR for the Detection of Atypical Porcine Pestivirus. Vet Sci. 2023 May
+4;10(5):330. doi: 10.3390/vetsci10050330. PMID: 37235413; PMCID: PMC10223196.
+
+38: Grahofer A, Zeeh F, Nathues H. Seroprevalence of atypical porcine pestivirus
+in a closed pig herd with subclinical infection. Transbound Emerg Dis. 2020
+Nov;67(6):2770-2774. doi: 10.1111/tbed.13636. Epub 2020 Jun 2. PMID: 32441848.
+
+39: Stenberg H, Jacobson M, Malmberg M. Detection of atypical porcine pestivirus
+in Swedish piglets with congenital tremor type A-II. BMC Vet Res. 2020 Jul
+29;16(1):260. doi: 10.1186/s12917-020-02445-w. PMID: 32727473; PMCID:
+PMC7389371.
+
+40: Ren X, Qian P, Hu Z, Chen H, Li X. Genetic characterization of atypical
+porcine pestivirus from neonatal piglets with congenital tremor in Hubei
+province, China. Virol J. 2022 Mar 24;19(1):51. doi: 10.1186/s12985-022-01780-8.
+PMID: 35331281; PMCID: PMC8944037.
+
+41: Ren X, Qian P, Liu S, Chen H, Li X. Fc-Mediated E2-Dimer Subunit Vaccines of
+Atypical Porcine Pestivirus Induce Efficient Humoral and Cellular Immune
+Responses in Piglets. Viruses. 2021 Dec 6;13(12):2443. doi: 10.3390/v13122443.
+PMID: 34960713; PMCID: PMC8703287.
+
+42: Mou C, Pan S, Wu H, Chen Z. Disruption of interferon-β production by the
+N<sup>pro</sup> of atypical porcine pestivirus. Virulence. 2021
+Dec;12(1):654-665. doi: 10.1080/21505594.2021.1880773. PMID: 33538238; PMCID:
+PMC7872032.
+
+43: Mou C, Xie S, Pan S, Chen Z. Coding-Complete Genome Sequences of Two
+Atypical Porcine Pestivirus Strains from Anhui Province, China. Microbiol Resour
+Announc. 2023 Jan 24;12(1):e0094322. doi: 10.1128/mra.00943-22. Epub 2023 Jan 4.
+PMID: 36598252; PMCID: PMC9872582.
+
+44: Liu J, Zhang P, Chen Y, Zhong W, Li B, Pi M, Ning Z. Vaccination with virus-
+like particles of atypical porcine pestivirus inhibits virus replication in
+tissues of BALB/c mice. Arch Virol. 2021 Oct;166(10):2733-2741. doi:
+10.1007/s00705-021-05185-w. Epub 2021 Jul 28. PMID: 34322722; PMCID: PMC8317679.
+
+45: Ikeda K, Miyazawa K, Takagi M, Tomochi H, Ishii K, Araki M, Iwamaru Y.
+Complete Genome Sequence of a Genotype 3 Atypical Porcine Pestivirus Strain
+(OKN/2021) from Okinawa Prefecture, Japan. Microbiol Resour Announc. 2022 Dec
+15;11(12):e0061422. doi: 10.1128/mra.00614-22. Epub 2022 Nov 14. PMID: 36374092;
+PMCID: PMC9753644.
+
+46: Wang X, Xie Y, He D, Yan H. Near-Complete Genome Sequence of a Newly
+Emerging Subgenotype of Atypical Porcine Pestivirus. Microbiol Resour Announc.
+2020 Apr 2;9(14):e00115-20. doi: 10.1128/MRA.00115-20. PMID: 32241857; PMCID:
+PMC7118183.

@@ -1,0 +1,85 @@
+1: Ibrahim YM, Zhang W, Werid GM, Zhang H, Feng Y, Pan Y, Zhang L, Li C, Lin H,
+Chen H, Wang Y. Isolation, Characterization, and Molecular Detection of Porcine
+Sapelovirus. Viruses. 2022 Feb 8;14(2):349. doi: 10.3390/v14020349. PMID:
+35215935; PMCID: PMC8877214.
+
+2: Chelli E, De Sabato L, Vaccari G, Ostanello F, Di Bartolo I. Detection and
+Characterization of Porcine Sapelovirus in Italian Pig Farms. Animals (Basel).
+2020 Jun 2;10(6):966. doi: 10.3390/ani10060966. PMID: 32498384; PMCID:
+PMC7341194.
+
+3: Yang T, Lu Y, Zhang L. Proposed genotype definition of Porcine sapelovirus.
+Pol J Vet Sci. 2021 Jun;24(2):307-312. doi: 10.24425/pjvs.2021.137667. PMID:
+34250780.
+
+4: Chen QY, Sun ZH, Che YL, Chen RJ, Wu XM, Wu RJ, Wang LB, Zhou LJ. High
+Prevalence, Genetic Diversity, and Recombination of <i>Porcine Sapelovirus</i>
+in Pig Farms in Fujian, Southern China. Viruses. 2023 Aug 17;15(8):1751. doi:
+10.3390/v15081751. PMID: 37632093; PMCID: PMC10458035.
+
+5: Mou C, Wang Y, Pan S, Shi K, Chen Z. Porcine sapelovirus 2A protein induces
+mitochondrial-dependent apoptosis. Front Immunol. 2022 Nov 25;13:1050354. doi:
+10.3389/fimmu.2022.1050354. PMID: 36505441; PMCID: PMC9732094.
+
+6: Zhong Z, Li B, Tao J, Cheng J, Shi Y, Tang P, Jiao J, Liu H. Development of
+an Indirect ELISA to Distinguish between Porcine Sapelovirus-Infected and
+-Vaccinated Animals Using the Viral Nonstructural Protein 3AB. Curr Issues Mol
+Biol. 2024 Sep 3;46(9):9821-9830. doi: 10.3390/cimb46090583. PMID: 39329935;
+PMCID: PMC11429539.
+
+7: Yang T, Zhang L, Lu Y, Guo M, Zhang Z, Lin A. Characterization of porcine
+sapelovirus prevalent in western Jiangxi, China. BMC Vet Res. 2021 Aug
+14;17(1):273. doi: 10.1186/s12917-021-02979-7. PMID: 34391425; PMCID:
+PMC8364068.
+
+8: Hao C, Ren H, Wu X, Shu X, Li Z, Hu Y, Zeng Q, Zhang Y, Zu S, Yuan J, Zhang
+H, Hu H. Preparation of monoclonal antibody and identification of two novel B
+cell epitopes to VP1 protein of porcine sapelovirus. Vet Microbiol. 2022
+Dec;275:109593. doi: 10.1016/j.vetmic.2022.109593. Epub 2022 Oct 26. PMID:
+36323175.
+
+9: Yin M, Wen W, Wang H, Zhao Q, Zhu H, Chen H, Li X, Qian P. Porcine
+Sapelovirus 3C<sup>pro</sup> Inhibits the Production of Type I Interferon. Front
+Cell Infect Microbiol. 2022 Jun 15;12:852473. doi: 10.3389/fcimb.2022.852473.
+PMID: 35782136; PMCID: PMC9240219.
+
+10: Kaur R, Maan S, Batra K, Singh N, Chahal N, Kumar A. Rapid detection of
+porcine sapelovirus by reverse transcription recombinase polymerase
+amplification assay. Mol Biol Rep. 2024 Jan 22;51(1):178. doi:
+10.1007/s11033-023-09123-8. PMID: 38252231.
+
+11: Lu SJ, Ma MY, Yan XG, Zhao FJ, Hu WY, Ding QW, Ren HJ, Xiang YQ, Zheng LL.
+Development and application of a low-priced duplex quantitative PCR assay based
+on SYBR Green I for the simultaneous detection of porcine deltacoronavirus and
+porcine sapelovirus. Vet Med (Praha). 2023 Mar 23;68(3):106-115. doi:
+10.17221/79/2022-VETMED. PMID: 37981902; PMCID: PMC10581527.
+
+12: Li N, Tao J, Li B, Cheng J, Shi Y, Xiaohui S, Liu H. Molecular
+characterization of a porcine sapelovirus strain isolated in China. Arch Virol.
+2021 Oct;166(10):2683-2692. doi: 10.1007/s00705-021-05153-4. Epub 2021 Jul 15.
+PMID: 34268639.
+
+13: Chen J, Suo X, Cao L, Yuan C, Shi L, Duan Y, Zheng H, Wang Q. Virome
+Analysis for Identification of a Novel Porcine Sapelovirus Isolated in Western
+China. Microbiol Spectr. 2022 Aug 31;10(4):e0180122. doi:
+10.1128/spectrum.01801-22. Epub 2022 Aug 8. PMID: 35938790; PMCID: PMC9430179.
+
+14: Zhao T, Cui L, Yu X, Zhang Z, Chen Q, Hua X. Proteome Analysis Reveals
+Syndecan 1 Regulates Porcine Sapelovirus Replication. Int J Mol Sci. 2020 Jun
+19;21(12):4386. doi: 10.3390/ijms21124386. PMID: 32575635; PMCID: PMC7352226.
+
+15: Zhang W, Kataoka M, Doan HY, Wu FT, Takeda N, Muramatsu M, Li TC. Isolation
+and Characterization of Hepatitis E Virus Subtype 4b Using a PLC/PRF/5 Cell-
+Derived Cell Line Resistant to Porcine Sapelovirus Infection. Jpn J Infect Dis.
+2021 Nov 22;74(6):573-575. doi: 10.7883/yoken.JJID.2021.100. Epub 2021 Apr 30.
+PMID: 33952773.
+
+16: Kumari S, Ray PK, Singh R, Desingu PA, Sharma GT, Saikumar G. Development of
+a Taqman-based real-time PCR assay for detection of porcine sapelovirus
+infection in pigs. Anim Biotechnol. 2020 Jun;31(3):264-267. doi:
+10.1080/10495398.2018.1549561. Epub 2018 Dec 24. PMID: 30583714.
+
+17: Liu J, Li B, Tao J, Cheng J, Shi Y, Qiao C, Shen X, Liu H. Development of an
+indirect ELISA method based on the VP1 protein for detection of IgG antibodies
+against porcine sapelovirus. Can J Vet Res. 2023 Jul;87(3):176-183. PMID:
+37397630; PMCID: PMC10291703.

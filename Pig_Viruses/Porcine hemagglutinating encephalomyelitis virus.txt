@@ -1,0 +1,93 @@
+1: He WT, Li D, Baele G, Zhao J, Jiang Z, Ji X, Veit M, Suchard MA, Holmes EC,
+Lemey P, Boni MF, Su S. Newly identified lineages of porcine hemagglutinating
+encephalomyelitis virus exhibit respiratory phenotype. Virus Evol. 2023 Aug
+18;9(2):vead051. doi: 10.1093/ve/vead051. PMID: 37711483; PMCID: PMC10499004.
+
+2: Li Z, Mu S, Tian Y, Shi J, Lan Y, Guan J, Zhao K, Gao F, He W. Porcine
+Hemagglutinating Encephalomyelitis Virus Co-Opts Multivesicular-Derived Exosomes
+for Transmission. mBio. 2023 Feb 28;14(1):e0305422. doi: 10.1128/mbio.03054-22.
+Epub 2022 Dec 21. PMID: 36541757; PMCID: PMC9973304.
+
+3: Liu Y, Song D, Liu X, Wang Y, Wang G, Lan Y. Suppression of porcine
+hemagglutinating encephalomyelitis virus replication by resveratrol. Virol J.
+2022 Dec 28;19(1):226. doi: 10.1186/s12985-022-01953-5. PMID: 36578037; PMCID:
+PMC9795454.
+
+4: Li Z, Gao F, Lan Y, Guan J, Zhang J, Lu H, Zhao K, He W. Porcine
+Hemagglutinating Encephalomyelitis Virus Triggers Neural Autophagy Independently
+of ULK1. J Virol. 2021 Sep 9;95(19):e0085121. doi: 10.1128/JVI.00851-21. Epub
+2021 Jul 21. PMID: 34287052; PMCID: PMC8428410.
+
+5: Mora-Díaz JC, Piñeyro PE, Rauh R, Nelson W, Sankoh Z, Gregg E, Carrillo-Ávila
+JA, Shen H, Nelli RK, Zimmerman JJ, Giménez-Lirola LG. Porcine Hemagglutinating
+Encephalomyelitis Virus Infection <i>In Vivo</i> and <i>Ex Vivo</i>. J Virol.
+2021 May 24;95(12):e02335-20. doi: 10.1128/JVI.02335-20. PMID: 33762411; PMCID:
+PMC8316118.
+
+6: Mora-Díaz JC, Magtoto R, Houston E, Baum D, Carrillo-Ávila JA, Temeeyasen G,
+Zimmerman J, Piñeyro P, Giménez-Lirola L. Detecting and Monitoring Porcine
+Hemagglutinating Encephalomyelitis Virus, an Underresearched Betacoronavirus.
+mSphere. 2020 May 6;5(3):e00199-20. doi: 10.1128/mSphere.00199-20. PMID:
+32376700; PMCID: PMC7203454.
+
+7: Mora-Díaz JC, Temeeyasen G, Magtoto R, Rauh R, Nelson W, Carrillo-Ávila JA,
+Zimmerman J, Piñeyro P, Giménez-Lirola L. Infection and immune response to
+porcine hemagglutinating encephalomyelitis virus in grower pigs. Vet Microbiol.
+2021 Feb;253:108958. doi: 10.1016/j.vetmic.2020.108958. Epub 2020 Dec 16. PMID:
+33387911.
+
+8: Hu S, Zhao K, Lan Y, Shi J, Guan J, Lu H, Gao F, Feng H, He W, Li Z. Cell-
+surface glycans act as attachment factors for porcine hemagglutinating
+encephalomyelitis virus. Vet Microbiol. 2022 Feb;265:109315. doi:
+10.1016/j.vetmic.2021.109315. Epub 2021 Dec 24. PMID: 34972029.
+
+9: Shi K, Hu X, Long F, Shi Y, Pan Y, Feng S, Li Z, Yin Y. Genetic diversity and
+evolution of porcine hemagglutinating encephalomyelitis virus in Guangxi
+province of China during 2021-2024. Front Microbiol. 2024 Oct 9;15:1474552. doi:
+10.3389/fmicb.2024.1474552. PMID: 39444682; PMCID: PMC11496168.
+
+10: Hu S, Li Z, Lan Y, Guan J, Zhao K, Chu D, Fan G, Guo Y, Gao F, He W.
+MiR-10a-5p-Mediated Syndecan 1 Suppression Restricts Porcine Hemagglutinating
+Encephalomyelitis Virus Replication. Front Microbiol. 2020 Feb 20;11:105. doi:
+10.3389/fmicb.2020.00105. PMID: 32153518; PMCID: PMC7044266.
+
+11: Ai X, He W, Wang X, Wang Z, Wang G, Lu H, Qin S, Li Z, Guan J, Zhao K, Song
+D, Gao F, Lan Y. Antiviral effect of lysosomotropic disaccharide trehalose on
+porcine hemagglutinating encephalomyelitis virus, a highly neurotropic
+betacoronavirus. Virology. 2022 Dec;577:131-137. doi:
+10.1016/j.virol.2022.10.013. Epub 2022 Nov 4. PMID: 36368235.
+
+12: Fan P, Guan J, He W, Lv X, Hu S, Lan Y, Zhao K, Gao F, Li F, Fan G, He H, Li
+Z. miR-142a-3p promotes the proliferation of porcine hemagglutinating
+encephalomyelitis virus by targeting Rab3a. Arch Virol. 2020 Feb;165(2):345-354.
+doi: 10.1007/s00705-019-04470-z. Epub 2019 Dec 13. PMID: 31834525; PMCID:
+PMC7087191.
+
+13: Lan Y, Li Z, Wang Z, Wang X, Wang G, Zhang J, Hu S, Zhao K, Xu B, Gao F, He
+W. An Experimental Model of Neurodegenerative Disease Based on Porcine
+Hemagglutinating Encephalomyelitis Virus-Related Lysosomal Abnormalities. Mol
+Neurobiol. 2020 Dec;57(12):5299-5306. doi: 10.1007/s12035-020-02105-y. Epub 2020
+Sep 2. PMID: 32876841; PMCID: PMC7463228.
+
+14: Kim Y, Lee KM, Jang G, Lee C. Complete genome sequence of a novel porcine
+hemagglutinating encephalomyelitis virus strain identified in South Korea. Arch
+Virol. 2022 May;167(5):1381-1385. doi: 10.1007/s00705-022-05414-w. Epub 2022 Apr
+10. PMID: 35397684; PMCID: PMC8994818.
+
+15: Wang Z, Song D, Wang G, Li C, Liu X, Wang X, Li Z, Guan J, Zhao K, He W, Gao
+F, Lan Y. Porcine hemagglutinating encephalomyelitis virus induces atypical
+autophagy via opposite regulation of expression and nuclear translocation of
+transcription factor EB. Vet Microbiol. 2021 Apr;255:109015. doi:
+10.1016/j.vetmic.2021.109015. Epub 2021 Feb 17. PMID: 33640682.
+
+16: Shi J, Li Z, Xu R, Zhang J, Zhou Q, Gao R, Lu H, Lan Y, Zhao K, He H, Gao F,
+He W. The PERK/PKR-eIF2α Pathway Negatively Regulates Porcine Hemagglutinating
+Encephalomyelitis Virus Replication by Attenuating Global Protein Translation
+and Facilitating Stress Granule Formation. J Virol. 2022 Jan 12;96(1):e0169521.
+doi: 10.1128/JVI.01695-21. Epub 2021 Oct 13. PMID: 34643429; PMCID: PMC8754228.
+
+17: Trang CTH, Nakanishi M, Hayashidani H, Taniguchi T. Development of an
+indirect ELISA based on soluble antigen produced from virus-infected cells for
+detection of porcine hemagglutinating encephalomyelitis virus. J Virol Methods.
+2021 Mar;289:114016. doi: 10.1016/j.jviromet.2020.114016. Epub 2020 Dec 5. PMID:
+33290788.

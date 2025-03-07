@@ -1,0 +1,27 @@
+1: Dastjerdi A, Strong R, La Rocca SA, Wessels M, Wessels J, Whitaker K,
+Strugnell B, Williamson S. Investigation into an outbreak of Border disease
+virus in pigs in England. Transbound Emerg Dis. 2022 Jul;69(4):1698-1706. doi:
+10.1111/tbed.14539. Epub 2022 Apr 12. PMID: 35353447; PMCID: PMC9544453.
+
+2: Meyer D, Postel A, Wiedemann A, Cagatay GN, Ciulli S, Guercio A, Becher P.
+Comparative Analysis of Tunisian Sheep-like Virus, Bungowannah Virus and Border
+Disease Virus Infection in the Porcine Host. Viruses. 2021 Aug 4;13(8):1539.
+doi: 10.3390/v13081539. PMID: 34452404; PMCID: PMC8402848.
+
+3: Huang YL, Meyer D, Postel A, Tsai KJ, Liu HM, Yang CH, Huang YC, Berkley N,
+Deng MC, Wang FI, Becher P, Crooke H, Chang CY. Identification of a Common
+Conformational Epitope on the Glycoprotein E2 of Classical Swine Fever Virus and
+Border Disease Virus. Viruses. 2021 Aug 20;13(8):1655. doi: 10.3390/v13081655.
+PMID: 34452520; PMCID: PMC8402670.
+
+4: Mao L, Li W, Liu X, Hao F, Yang L, Deng J, Zhang W, Wei J, Jiang J. Chinese
+border disease virus strain JSLS12-01 infects piglets and down-regulates the
+antibody responses of classical swine fever virus C strain vaccination. Vaccine.
+2015 Jul 31;33(32):3918-22. doi: 10.1016/j.vaccine.2015.06.059. Epub 2015 Jun
+25. PMID: 26117151.
+
+5: Stalder H, Marti S, Flückiger F, Renevey N, Hofmann MA, Schweizer M. Complete
+Genome Sequences of Three Border Disease Virus Strains of the Same Subgenotype,
+BDSwiss, Isolated from Sheep, Cattle, and Pigs in Switzerland. Genome Announc.
+2017 Nov 9;5(45):e01238-17. doi: 10.1128/genomeA.01238-17. PMID: 29122875;
+PMCID: PMC5679808.

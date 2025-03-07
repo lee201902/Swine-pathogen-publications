@@ -1,0 +1,732 @@
+1: Ang BSP, Lim TCC, Wang L. Nipah Virus Infection. J Clin Microbiol. 2018 May
+25;56(6):e01875-17. doi: 10.1128/JCM.01875-17. PMID: 29643201; PMCID:
+PMC5971524.
+
+2: Devnath P, Wajed S, Chandra Das R, Kar S, Islam I, Masud HMAA. The
+pathogenesis of Nipah virus: A review. Microb Pathog. 2022 Sep;170:105693. doi:
+10.1016/j.micpath.2022.105693. Epub 2022 Aug 6. PMID: 35940443.
+
+3: Kai C. [Nipah virus infections]. Nihon Naika Gakkai Zasshi. 2004 Nov
+10;93(11):2341-6. Japanese. doi: 10.2169/naika.93.2341. PMID: 15624469.
+
+4: Singh RK, Dhama K, Chakraborty S, Tiwari R, Natesan S, Khandia R, Munjal A,
+Vora KS, Latheef SK, Karthik K, Singh Malik Y, Singh R, Chaicumpa W, Mourya DT.
+Nipah virus: epidemiology, pathology, immunobiology and advances in diagnosis,
+vaccine designing and control strategies - a comprehensive review. Vet Q. 2019
+Dec;39(1):26-55. doi: 10.1080/01652176.2019.1580827. PMID: 31006350; PMCID:
+PMC6830995.
+
+5: Ling AE. Lessons to be learnt from the Nipah virus outbreak in Singapore.
+Singapore Med J. 1999 May;40(5):331-2. PMID: 10489489.
+
+6: Rathish B, Vaishnani K. Nipah Virus. 2023 Apr 24. In: StatPearls [Internet].
+Treasure Island (FL): StatPearls Publishing; 2024 Jan–. PMID: 34033338.
+
+7: Paul L. Nipah virus in Kerala: a deadly Zoonosis. Clin Microbiol Infect. 2018
+Oct;24(10):1113-1114. doi: 10.1016/j.cmi.2018.06.017. Epub 2018 Jun 20. PMID:
+29935330.
+
+8: Pulliam JR, Field HE, Olival KJ; Henipavirus Ecology Research Group. Nipah
+virus strain variation. Emerg Infect Dis. 2005 Dec;11(12):1978-9; author reply
+1979. doi: 10.3201/eid1112.050220. PMID: 16485499; PMCID: PMC3367625.
+
+9: Okabe N, Morita K. [Nipah virus outbreak in Malaysia, 1999]. Uirusu. 2000
+Jun;50(1):27-33. Japanese. PMID: 10998976.
+
+10: Freitag TC, Maisner A. Early Activation of Primary Brain Microvascular
+Endothelial Cells by Nipah Virus Glycoprotein-Containing Particles. J Virol.
+2015 Dec 16;90(5):2706-9. doi: 10.1128/JVI.02825-15. PMID: 26676791; PMCID:
+PMC4810727.
+
+11: Farrar JJ. Nipah-virus encephalitis--investigation of a new infection.
+Lancet. 1999 Oct 9;354(9186):1222-3. doi: 10.1016/S0140-6736(99)90124-1. PMID:
+10520625.
+
+12: Rahman SA, Hassan SS, Olival KJ, Mohamed M, Chang LY, Hassan L, Saad NM,
+Shohaimi SA, Mamat ZC, Naim MS, Epstein JH, Suri AS, Field HE, Daszak P;
+Henipavirus Ecology Research Group. Characterization of Nipah virus from
+naturally infected Pteropus vampyrus bats, Malaysia. Emerg Infect Dis. 2010
+Dec;16(12):1990-3. doi: 10.3201/eid1612.091790. PMID: 21122240; PMCID:
+PMC3294568.
+
+13: Premalatha GD, Lye MS, Ariokasamy J, Parashar UD, Rahmat R, Lee BY, Ksiazek
+TG. Assessment of Nipah virus transmission among pork sellers in Seremban,
+Malaysia. Southeast Asian J Trop Med Public Health. 2000 Jun;31(2):307-9. PMID:
+11127331.
+
+14: Yadav P, Sudeep A, Gokhale M, Pawar S, Shete A, Patil D, Kumar V, Lakra R,
+Sarkale P, Nichol S, Mourya D. Circulation of Nipah virus in <i>Pteropus
+giganteus</i> bats in northeast region of India, 2015. Indian J Med Res. 2018
+Mar;147(3):318-320. doi: 10.4103/ijmr.IJMR_1488_16. PMID: 29923524; PMCID:
+PMC6022392.
+
+15: Enserink M. Emerging diseases. Malaysian researchers trace Nipah virus
+outbreak to bats. Science. 2000 Jul 28;289(5479):518-9. doi:
+10.1126/science.289.5479.518. PMID: 10939954.
+
+16: Lee KE, Umapathi T, Tan CB, Tjia HT, Chua TS, Oh HM, Fock KM, Kurup A, Das
+A, Tan AK, Lee WL. The neurological manifestations of Nipah virus encephalitis,
+a novel paramyxovirus. Ann Neurol. 1999 Sep;46(3):428-32. PMID: 10482278.
+
+17: Arjoso S, Wuryadi S, Windyaningsih C, Winoto IL, Heriyanto A, Ksiazek TG,
+Campbell JR, Burans JP, Corwin AL. The economic imperative of Nipah virus
+surveillance in Indonesia. Trans R Soc Trop Med Hyg. 2001 Jul-Aug;95(4):368-9.
+doi: 10.1016/s0035-9203(01)90182-8. PMID: 11579874.
+
+18: Banerjee S, Gupta N, Kodan P, Mittal A, Ray Y, Nischal N, Soneja M, Biswas
+A, Wig N. Nipah virus disease: A rare and intractable disease. Intractable Rare
+Dis Res. 2019 Feb;8(1):1-8. doi: 10.5582/irdr.2018.01130. PMID: 30881850; PMCID:
+PMC6409114.
+
+19: McLean RK, Graham SP. Vaccine Development for Nipah Virus Infection in Pigs.
+Front Vet Sci. 2019 Feb 4;6:16. doi: 10.3389/fvets.2019.00016. PMID: 30778392;
+PMCID: PMC6369168.
+
+20: Gabra MD, Ghaith HS, Ebada MA. Nipah Virus: An Updated Review and Emerging
+Challenges. Infect Disord Drug Targets. 2022;22(4):e170122200296. doi:
+10.2174/1871526522666220117120859. PMID: 35078400.
+
+21: Johnson K, Vu M, Freiberg AN. Recent advances in combating Nipah virus. Fac
+Rev. 2021 Sep 29;10:74. doi: 10.12703/r/10-74. PMID: 34632460; PMCID:
+PMC8483238.
+
+22: Singhai M, Jain R, Jain S, Bala M, Singh S, Goyal R. Nipah Virus Disease:
+Recent Perspective and One Health Approach. Ann Glob Health. 2021 Oct
+12;87(1):102. doi: 10.5334/aogh.3431. PMID: 34712599; PMCID: PMC8516003.
+
+23: Tan CT, Chua KB. Nipah virus encephalitis. Curr Infect Dis Rep. 2008
+Jul;10(4):315-20. doi: 10.1007/s11908-008-0051-6. PMID: 18765105.
+
+24: Hauser N, Gushiken AC, Narayanan S, Kottilil S, Chua JV. Evolution of Nipah
+Virus Infection: Past, Present, and Future Considerations. Trop Med Infect Dis.
+2021 Feb 14;6(1):24. doi: 10.3390/tropicalmed6010024. PMID: 33672796; PMCID:
+PMC8005932.
+
+25: Bruno L, Nappo MA, Ferrari L, Di Lecce R, Guarnieri C, Cantoni AM, Corradi
+A. Nipah Virus Disease: Epidemiological, Clinical, Diagnostic and Legislative
+Aspects of This Unpredictable Emerging Zoonosis. Animals (Basel). 2022 Dec
+31;13(1):159. doi: 10.3390/ani13010159. PMID: 36611767; PMCID: PMC9817766.
+
+26: Li Z, Zhu Y, Yan F, Jin H, Wang Q, Zhao Y, Feng N, Wang T, Li N, Yang S, Xia
+X, Cong Y. Inactivated Recombinant Rabies Virus Displaying the Nipah Virus
+Envelope Glycoproteins Induces Systemic Immune Responses in Mice. Vaccines
+(Basel). 2023 Nov 26;11(12):1758. doi: 10.3390/vaccines11121758. PMID: 38140162;
+PMCID: PMC10747385.
+
+27: Sharma V, Kaushik S, Kumar R, Yadav JP, Kaushik S. Emerging trends of Nipah
+virus: A review. Rev Med Virol. 2019 Jan;29(1):e2010. doi: 10.1002/rmv.2010.
+Epub 2018 Sep 24. PMID: 30251294; PMCID: PMC7169151.
+
+28: Kaku Y. [Nipah virus infection]. Uirusu. 2004 Dec;54(2):237-42. Japanese.
+doi: 10.2222/jsv.54.237. PMID: 15745162.
+
+29: Medina-Magües ES, Lopera-Madrid J, Lo MK, Spiropoulou CF, Montgomery JM,
+Medina-Magües LG, Salas-Quinchucua C, Jiménez-Mora AP, Osorio JE. Immunogenicity
+of poxvirus-based vaccines against Nipah virus. Sci Rep. 2023 Jul
+14;13(1):11384. doi: 10.1038/s41598-023-38010-2. PMID: 37452062; PMCID:
+PMC10349127.
+
+30: Fischer K, Pickering B, Diederich S. Detection of Serum Antibody Responses
+in Nipah Virus-Infected Pigs. Methods Mol Biol. 2023;2610:17-29. doi:
+10.1007/978-1-0716-2895-9_2. PMID: 36534278.
+
+31: Lo Presti A, Cella E, Giovanetti M, Lai A, Angeletti S, Zehender G, Ciccozzi
+M. Origin and evolution of Nipah virus. J Med Virol. 2016 Mar;88(3):380-8. doi:
+10.1002/jmv.24345. Epub 2015 Aug 14. PMID: 26252523.
+
+32: Chattu VK, Kumar R, Kumary S, Kajal F, David JK. Nipah virus epidemic in
+southern India and emphasizing "One Health" approach to ensure global health
+security. J Family Med Prim Care. 2018 Mar-Apr;7(2):275-283. doi:
+10.4103/jfmpc.jfmpc_137_18. Erratum in: J Family Med Prim Care. 2021
+Jan;10(1):588. doi: 10.4103/2249-4863.307980. PMID: 30090764; PMCID: PMC6060941.
+
+33: Elvert M, Sauerhering L, Heiner A, Maisner A. Isolation of Primary Porcine
+Bronchial Epithelial Cells for Nipah Virus Infections. Methods Mol Biol.
+2023;2682:103-120. doi: 10.1007/978-1-0716-3283-3_8. PMID: 37610577.
+
+34: Broder CC, Weir DL, Reid PA. Hendra virus and Nipah virus animal vaccines.
+Vaccine. 2016 Jun 24;34(30):3525-34. doi: 10.1016/j.vaccine.2016.03.075. Epub
+2016 May 4. PMID: 27154393; PMCID: PMC4933500.
+
+35: Elvert M, Sauerhering L, Maisner A. Cytokine Induction in Nipah Virus-
+Infected Primary Human and Porcine Bronchial Epithelial Cells. J Infect Dis.
+2020 May 11;221(Suppl 4):S395-S400. doi: 10.1093/infdis/jiz455. PMID: 31665348.
+
+36: Chua KB. Epidemiology, surveillance and control of Nipah virus infections in
+Malaysia. Malays J Pathol. 2010 Dec;32(2):69-73. PMID: 21329176.
+
+37: Chua KB. Risk factors, prevention and communication strategy during Nipah
+virus outbreak in Malaysia. Malays J Pathol. 2010 Dec;32(2):75-80. PMID:
+21329177.
+
+38: Chua KB. Nipah virus outbreak in Malaysia. J Clin Virol. 2003
+Apr;26(3):265-75. doi: 10.1016/s1386-6532(02)00268-8. PMID: 12637075.
+
+39: Pedrera M, McLean RK, Medfai L, Thakur N, Todd S, Marsh G, Bailey D,
+Donofrio G, Muramatsu H, Pardi N, Weissman D, Graham SP. Evaluation of the
+immunogenicity of an mRNA vectored Nipah virus vaccine candidate in pigs. Front
+Immunol. 2024 Apr 25;15:1384417. doi: 10.3389/fimmu.2024.1384417. PMID:
+38726013; PMCID: PMC11079202.
+
+40: Wongnak P, Thanapongtharm W, Kusakunniran W, Karnjanapreechakorn S,
+Sutassananon K, Kalpravidh W, Wongsathapornchai K, Wiratsudakul A. A 'what-if'
+scenario: Nipah virus attacks pig trade chains in Thailand. BMC Vet Res. 2020
+Aug 24;16(1):300. doi: 10.1186/s12917-020-02502-4. PMID: 32838786; PMCID:
+PMC7446211.
+
+41: Mohd Nor MN, Gan CH, Ong BL. Nipah virus infection of pigs in peninsular
+Malaysia. Rev Sci Tech. 2000 Apr;19(1):160-5. doi: 10.20506/rst.19.1.1202. PMID:
+11189713.
+
+42: Kirkland PD, Daniels PW, Nor MN, Love RJ, Philbey AW, Ross AD. Menangle and
+Nipah virus infections of pigs. Vet Clin North Am Food Anim Pract. 2002
+Nov;18(3):557-71, ix. doi: 10.1016/s0749-0720(02)00038-5. PMID: 12442583.
+
+43: Maisner A, Neufeld J, Weingartl H. Organ- and endotheliotropism of Nipah
+virus infections in vivo and in vitro. Thromb Haemost. 2009 Dec;102(6):1014-23.
+doi: 10.1160/TH09-05-0310. PMID: 19967130.
+
+44: Lam SK. Nipah virus--a potential agent of bioterrorism? Antiviral Res. 2003
+Jan;57(1-2):113-9. doi: 10.1016/s0166-3542(02)00204-8. PMID: 12615307.
+
+45: Müller M, Fischer K, Woehnke E, Zaeck LM, Prönnecke C, Knittler MR, Karger
+A, Diederich S, Finke S. Analysis of Nipah Virus Replication and Host Proteome
+Response Patterns in Differentiated Porcine Airway Epithelial Cells Cultured at
+the Air-Liquid Interface. Viruses. 2023 Apr 13;15(4):961. doi:
+10.3390/v15040961. PMID: 37112941; PMCID: PMC10143807.
+
+46: Shu HF, Wang KY, Liu SL, Zhang M, Song T. [Progress in prevention and
+control of Nipah virus disease]. Zhonghua Liu Xing Bing Xue Za Zhi. 2022 Feb
+10;43(2):286-291. Chinese. doi: 10.3760/cma.j.cn112338-20210706-00529. PMID:
+35184498.
+
+47: Tan FH, Sukri A, Idris N, Ong KC, Schee JP, Tan CT, Tan SH, Wong KT, Wong
+LP, Tee KK, Chang LY. A systematic review on Nipah virus: global molecular
+epidemiology and medical countermeasures development. Virus Evol. 2024 Jul
+25;10(1):veae048. doi: 10.1093/ve/veae048. PMID: 39119137; PMCID: PMC11306115.
+
+48: Seifert SN, Letko MC, Bushmaker T, Laing ED, Saturday G, Meade-White K, van
+Doremalen N, Broder CC, Munster VJ. Rousettus aegyptiacus Bats Do Not Support
+Productive Nipah Virus Replication. J Infect Dis. 2020 May 11;221(Suppl
+4):S407-S413. doi: 10.1093/infdis/jiz429. PMID: 31682727; PMCID: PMC7199784.
+
+49: Barua S, Dénes A. Global dynamics of a compartmental model for the spread of
+Nipah virus. Heliyon. 2023 Sep 6;9(9):e19682. doi:
+10.1016/j.heliyon.2023.e19682. PMID: 37809375; PMCID: PMC10558937.
+
+50: Hoque AF, Rahman MM, Lamia AS, Islam A, Klena JD, Satter SM, Epstein JH,
+Montgomery JM, Hossain ME, Shirin T, Jahid IK, Rahman MZ. In silico prediction
+of interaction between Nipah virus attachment glycoprotein and host cell
+receptors Ephrin-B2 and Ephrin-B3 in domestic and peridomestic mammals. Infect
+Genet Evol. 2023 Dec;116:105516. doi: 10.1016/j.meegid.2023.105516. Epub 2023
+Nov 2. PMID: 37924857.
+
+51: Bellini WJ, Harcourt BH, Bowden N, Rota PA. Nipah virus: an emergent
+paramyxovirus causing severe encephalitis in humans. J Neurovirol. 2005
+Oct;11(5):481-7. doi: 10.1080/13550280500187435. PMID: 16287690.
+
+52: Kulkarni DD, Tosh C, Venkatesh G, Senthil Kumar D. Nipah virus infection:
+current scenario. Indian J Virol. 2013 Dec;24(3):398-408. doi:
+10.1007/s13337-013-0171-y. Epub 2013 Nov 7. PMID: 24426305; PMCID: PMC3832692.
+
+53: Stachowiak B, Weingartl HM. Nipah virus infects specific subsets of porcine
+peripheral blood mononuclear cells. PLoS One. 2012;7(1):e30855. doi:
+10.1371/journal.pone.0030855. Epub 2012 Jan 27. PMID: 22303463; PMCID:
+PMC3267752.
+
+54: Gao Z, Li T, Han J, Feng S, Li L, Jiang Y, Xu Z, Hao P, Chen J, Hao J, Xu P,
+Tian M, Jin N, Huang W, Li C. Assessment of the immunogenicity and protection of
+a Nipah virus soluble G vaccine candidate in mice and pigs. Front Microbiol.
+2022 Oct 6;13:1031523. doi: 10.3389/fmicb.2022.1031523. PMID: 36274696; PMCID:
+PMC9583134.
+
+55: Thanapongtharm W, Paul MC, Wiratsudakul A, Wongphruksasoong V, Kalpravidh W,
+Wongsathapornchai K, Damrongwatanapokin S, Schar D, Gilbert M. A spatial
+assessment of Nipah virus transmission in Thailand pig farms using multi-
+criteria decision analysis. BMC Vet Res. 2019 Mar 4;15(1):73. doi:
+10.1186/s12917-019-1815-y. PMID: 30832676; PMCID: PMC6399983.
+
+56: Torres-Velez FJ, Shieh WJ, Rollin PE, Morken T, Brown C, Ksiazek TG, Zaki
+SR. Histopathologic and immunohistochemical characterization of Nipah virus
+infection in the guinea pig. Vet Pathol. 2008 Jul;45(4):576-85. doi:
+10.1354/vp.45-4-576. PMID: 18587107.
+
+57: Sauerhering L, Zickler M, Elvert M, Behner L, Matrosovich T, Erbar S,
+Matrosovich M, Maisner A. Species-specific and individual differences in Nipah
+virus replication in porcine and human airway epithelial cells. J Gen Virol.
+2016 Jul;97(7):1511-1519. doi: 10.1099/jgv.0.000483. Epub 2016 Apr 14. PMID:
+27075405.
+
+58: Looi LM, Chua KB. Lessons from the Nipah virus outbreak in Malaysia. Malays
+J Pathol. 2007 Dec;29(2):63-7. PMID: 19108397.
+
+59: Pedrera M, Macchi F, McLean RK, Franceschi V, Thakur N, Russo L, Medfai L,
+Todd S, Tchilian EZ, Audonnet JC, Chappell K, Isaacs A, Watterson D, Young PR,
+Marsh GA, Bailey D, Graham SP, Donofrio G. Bovine Herpesvirus-4-Vectored
+Delivery of Nipah Virus Glycoproteins Enhances T Cell Immunogenicity in Pigs.
+Vaccines (Basel). 2020 Mar 2;8(1):115. doi: 10.3390/vaccines8010115. PMID:
+32131403; PMCID: PMC7157636.
+
+60: Erbar S, Maisner A. Nipah virus infection and glycoprotein targeting in
+endothelial cells. Virol J. 2010 Nov 8;7:305. doi: 10.1186/1743-422X-7-305.
+PMID: 21054904; PMCID: PMC2991316.
+
+61: Chang LY, Ali AR, Hassan SS, AbuBakar S. Nipah virus RNA synthesis in
+cultured pig and human cells. J Med Virol. 2006 Aug;78(8):1105-12. doi:
+10.1002/jmv.20669. PMID: 16789019.
+
+62: Middleton DJ, Westbury HA, Morrissy CJ, van der Heide BM, Russell GM, Braun
+MA, Hyatt AD. Experimental Nipah virus infection in pigs and cats. J Comp
+Pathol. 2002 Feb-Apr;126(2-3):124-36. doi: 10.1053/jcpa.2001.0532. PMID:
+11945001.
+
+63: Ochani RK, Batra S, Shaikh A, Asad A. Nipah virus - the rising epidemic: a
+review. Infez Med. 2019 Jun 1;27(2):117-127. PMID: 31205033.
+
+64: Diederich S, Maisner A. Molecular characteristics of the Nipah virus
+glycoproteins. Ann N Y Acad Sci. 2007 Apr;1102:39-50. doi:
+10.1196/annals.1408.003. PMID: 17470910.
+
+65: Kenmoe S, Demanou M, Bigna JJ, Nde Kengne C, Fatawou Modiyinji A, Simo FBN,
+Eyangoh S, Sadeuh-Mba SA, Njouom R. Case fatality rate and risk factors for
+Nipah virus encephalitis: A systematic review and meta-analysis. J Clin Virol.
+2019 Aug;117:19-26. doi: 10.1016/j.jcv.2019.05.009. Epub 2019 May 21. PMID:
+31132674.
+
+66: Kitsutani P, Ohta M. [Nipah virus infections]. Nihon Rinsho. 2005
+Dec;63(12):2143-53. Japanese. PMID: 16363687.
+
+67: Suman N, Khandelwal E, Chiluvuri P, Rami DS, Chansoria S, Jerry A, Tiwari R.
+NIPAH Virus Encephalitis: Unveiling the Epidemiology, Risk Factors, and Clinical
+Outcomes - A Systematic Review and Meta-Analysis. J Pharm Bioallied Sci. 2024
+Feb;16(Suppl 1):S102-S105. doi: 10.4103/jpbs.jpbs_935_23. Epub 2024 Feb 29.
+PMID: 38595585; PMCID: PMC11001063.
+
+68: Hyatt AD, Zaki SR, Goldsmith CS, Wise TG, Hengstberger SG. Ultrastructure of
+Hendra virus and Nipah virus within cultured cells and host animals. Microbes
+Infect. 2001 Apr;3(4):297-306. doi: 10.1016/s1286-4579(01)01383-1. PMID:
+11334747.
+
+69: Yoneda M. [Study of pathogenicity of Nipah virus and its vaccine
+development]. Uirusu. 2014;64(1):105-12. Japanese. doi: 10.2222/jsv.64.105.
+PMID: 25765986.
+
+70: Berhane Y, Weingartl HM, Lopez J, Neufeld J, Czub S, Embury-Hyatt C, Goolia
+M, Copps J, Czub M. Bacterial infections in pigs experimentally infected with
+Nipah virus. Transbound Emerg Dis. 2008 May;55(3-4):165-74. doi:
+10.1111/j.1865-1682.2008.01021.x. PMID: 18405339.
+
+71: Luby SP. The pandemic potential of Nipah virus. Antiviral Res. 2013
+Oct;100(1):38-43. doi: 10.1016/j.antiviral.2013.07.011. Epub 2013 Jul 30. PMID:
+23911335.
+
+72: Epstein JH, Field HE, Luby S, Pulliam JR, Daszak P. Nipah virus: impact,
+origins, and causes of emergence. Curr Infect Dis Rep. 2006 Jan;8(1):59-65. doi:
+10.1007/s11908-006-0036-2. PMID: 16448602; PMCID: PMC7088631.
+
+73: Guillaume V, Contamin H, Loth P, Georges-Courbot MC, Lefeuvre A, Marianneau
+P, Chua KB, Lam SK, Buckland R, Deubel V, Wild TF. Nipah virus: vaccination and
+passive protection studies in a hamster model. J Virol. 2004 Jan;78(2):834-40.
+doi: 10.1128/jvi.78.2.834-840.2004. PMID: 14694115; PMCID: PMC368848.
+
+74: Wacharapluesadee S, Ghai S, Duengkae P, Manee-Orn P, Thanapongtharm W,
+Saraya AW, Yingsakmongkon S, Joyjinda Y, Suradhat S, Ampoot W, Nuansrichay B,
+Kaewpom T, Tantilertcharoen R, Rodpan A, Wongsathapornchai K, Ponpinit T,
+Buathong R, Bunprakob S, Damrongwatanapokin S, Ruchiseesarod C, Petcharat S,
+Kalpravidh W, Olival KJ, Stokes MM, Hemachudha T. Two decades of one health
+surveillance of Nipah virus in Thailand. One Health Outlook. 2021 Jul 5;3(1):12.
+doi: 10.1186/s42522-021-00044-9. PMID: 34218820; PMCID: PMC8255096.
+
+75: Yang X, Xu K, Li S, Zhang J, Xie Y, Lou Y, Xiao X. Novel methods for the
+rapid and sensitive detection of Nipah virus based on a CRISPR/Cas12a system.
+Analyst. 2024 Apr 29;149(9):2586-2593. doi: 10.1039/d4an00027g. PMID: 38497408.
+
+76: DeBuysscher BL, Scott D, Thomas T, Feldmann H, Prescott J. Peri-exposure
+protection against Nipah virus disease using a single-dose recombinant vesicular
+stomatitis virus-based vaccine. NPJ Vaccines. 2016;1:16002–. doi:
+10.1038/npjvaccines.2016.2. Epub 2016 Jul 28. PMID: 28706736; PMCID: PMC5505655.
+
+77: Walpita P, Barr J, Sherman M, Basler CF, Wang L. Vaccine potential of Nipah
+virus-like particles. PLoS One. 2011 Apr 6;6(4):e18437. doi:
+10.1371/journal.pone.0018437. PMID: 21494680; PMCID: PMC3071823.
+
+78: Findlay-Wilson S, Flett L, Salguero FJ, Ruedas-Torres I, Fotheringham S,
+Easterbrook L, Graham V, Dowall S. Establishment of a Nipah Virus Disease Model
+in Hamsters, including a Comparison of Intranasal and Intraperitoneal Routes of
+Challenge. Pathogens. 2023 Jul 26;12(8):976. doi: 10.3390/pathogens12080976.
+PMID: 37623936; PMCID: PMC10458503.
+
+79: Weingartl HM, Berhane Y, Caswell JL, Loosmore S, Audonnet JC, Roth JA, Czub
+M. Recombinant nipah virus vaccines protect pigs against challenge. J Virol.
+2006 Aug;80(16):7929-38. doi: 10.1128/JVI.00263-06. PMID: 16873250; PMCID:
+PMC1563797.
+
+80: Mazzola LT, Kelly-Cirino C. Diagnostics for Nipah virus: a zoonotic pathogen
+endemic to Southeast Asia. BMJ Glob Health. 2019 Feb 1;4(Suppl 2):e001118. doi:
+10.1136/bmjgh-2018-001118. PMID: 30815286; PMCID: PMC6361328.
+
+81: Wong KT, Shieh WJ, Kumar S, Norain K, Abdullah W, Guarner J, Goldsmith CS,
+Chua KB, Lam SK, Tan CT, Goh KJ, Chong HT, Jusoh R, Rollin PE, Ksiazek TG, Zaki
+SR; Nipah Virus Pathology Working Group. Nipah virus infection: pathology and
+pathogenesis of an emerging paramyxoviral zoonosis. Am J Pathol. 2002
+Dec;161(6):2153-67. doi: 10.1016/S0002-9440(10)64493-8. PMID: 12466131; PMCID:
+PMC1850894.
+
+82: Debroy B, De A, Bhattacharya S, Pal K. In silico screening of herbal
+phytochemicals to develop a Rasayana for immunity against Nipah virus. J
+Ayurveda Integr Med. 2023 Nov-Dec;14(6):100825. doi: 10.1016/j.jaim.2023.100825.
+Epub 2023 Dec 3. PMID: 38048723; PMCID: PMC10746367.
+
+83: Masoomi Dezfooli S, Tan WS, Tey BT, Ooi CW, Hussain SA. Expression and
+purification of the matrix protein of Nipah virus in baculovirus insect cell
+system. Biotechnol Prog. 2016 Jan-Feb;32(1):171-7. doi: 10.1002/btpr.2192. Epub
+2015 Nov 17. PMID: 26519022.
+
+84: Fischer K, Diederich S, Smith G, Reiche S, Pinho Dos Reis V, Stroh E,
+Groschup MH, Weingartl HM, Balkema-Buschmann A. Indirect ELISA based on Hendra
+and Nipah virus proteins for the detection of henipavirus specific antibodies in
+pigs. PLoS One. 2018 Apr 30;13(4):e0194385. doi: 10.1371/journal.pone.0194385.
+PMID: 29708971; PMCID: PMC5927399.
+
+85: Goh KJ, Tan CT, Chew NK, Tan PS, Kamarulzaman A, Sarji SA, Wong KT, Abdullah
+BJ, Chua KB, Lam SK. Clinical features of Nipah virus encephalitis among pig
+farmers in Malaysia. N Engl J Med. 2000 Apr 27;342(17):1229-35. doi:
+10.1056/NEJM200004273421701. PMID: 10781618.
+
+86: Yoneda M, Georges-Courbot MC, Ikeda F, Ishii M, Nagata N, Jacquot F, Raoul
+H, Sato H, Kai C. Recombinant measles virus vaccine expressing the Nipah virus
+glycoprotein protects against lethal Nipah virus challenge. PLoS One.
+2013;8(3):e58414. doi: 10.1371/journal.pone.0058414. Epub 2013 Mar 14. PMID:
+23516477; PMCID: PMC3597623.
+
+87: Aljofan M, Saubern S, Meyer AG, Marsh G, Meers J, Mungall BA.
+Characteristics of Nipah virus and Hendra virus replication in different cell
+lines and their suitability for antiviral screening. Virus Res. 2009
+Jun;142(1-2):92-9. doi: 10.1016/j.virusres.2009.01.014. Epub 2009 Jan 29. PMID:
+19428741; PMCID: PMC2744099.
+
+88: Kulkarni DD, Venkatesh G, Tosh C, Patel P, Mashoria A, Gupta V, Gupta S, D
+S. Development and Evaluation of Recombinant Nucleocapsid Protein Based
+Diagnostic ELISA for Detection of Nipah Virus Infection in Pigs. J Immunoassay
+Immunochem. 2016;37(2):154-66. doi: 10.1080/15321819.2015.1074922. PMID:
+26327601.
+
+89: Berhane Y, Berry JD, Ranadheera C, Marszal P, Nicolas B, Yuan X, Czub M,
+Weingartl H. Production and characterization of monoclonal antibodies against
+binary ethylenimine inactivated Nipah virus. J Virol Methods. 2006
+Mar;132(1-2):59-68. doi: 10.1016/j.jviromet.2005.09.005. Epub 2005 Oct 13. PMID:
+16226320.
+
+90: Centers for Disease Control and Prevention (CDC). Update: outbreak of Nipah
+virus--Malaysia and Singapore, 1999. MMWR Morb Mortal Wkly Rep. 1999 Apr
+30;48(16):335-7. PMID: 10366143.
+
+91: Tanimura N, Imada T, Kashiwazaki Y, Shahirudin S, Sharifah SH, Aziz AJ.
+Monoclonal antibody-based immunohistochemical diagnosis of Malaysian Nipah virus
+infection in pigs. J Comp Pathol. 2004 Aug-Oct;131(2-3):199-206. doi:
+10.1016/j.jcpa.2004.03.006. PMID: 15276859.
+
+92: AbuBakar S, Chang LY, Ali AR, Sharifah SH, Yusoff K, Zamrod Z. Isolation and
+molecular identification of Nipah virus from pigs. Emerg Infect Dis. 2004
+Dec;10(12):2228-30. doi: 10.3201/eid1012.040452. PMID: 15663869; PMCID:
+PMC3323361.
+
+93: Kalodimou G, Veit S, Jany S, Kalinke U, Broder CC, Sutter G, Volz A. A
+Soluble Version of Nipah Virus Glycoprotein G Delivered by Vaccinia Virus MVA
+Activates Specific CD8 and CD4 T Cells in Mice. Viruses. 2019 Dec 24;12(1):26.
+doi: 10.3390/v12010026. PMID: 31878180; PMCID: PMC7019319.
+
+94: Uppal PK. Emergence of Nipah virus in Malaysia. Ann N Y Acad Sci.
+2000;916:354-7. doi: 10.1111/j.1749-6632.2000.tb05312.x. PMID: 11193645.
+
+95: Pulliam JR, Epstein JH, Dushoff J, Rahman SA, Bunning M, Jamaluddin AA,
+Hyatt AD, Field HE, Dobson AP, Daszak P; Henipavirus Ecology Research Group
+(HERG). Agricultural intensification, priming for persistence and the emergence
+of Nipah virus: a lethal bat-borne zoonosis. J R Soc Interface. 2012 Jan
+7;9(66):89-101. doi: 10.1098/rsif.2011.0223. Epub 2011 Jun 1. PMID: 21632614;
+PMCID: PMC3223631.
+
+96: Geisbert TW, Daddario-DiCaprio KM, Hickey AC, Smith MA, Chan YP, Wang LF,
+Mattapallil JJ, Geisbert JB, Bossart KN, Broder CC. Development of an acute and
+highly pathogenic nonhuman primate model of Nipah virus infection. PLoS One.
+2010 May 18;5(5):e10690. doi: 10.1371/journal.pone.0010690. PMID: 20502528;
+PMCID: PMC2872660.
+
+97: Banico EC, Sira EMJS, Fajardo LE, Dulay ANG, Odchimar NMO, Simbulan AM,
+Orosco FL. Advancing one health vaccination: In silico design and evaluation of
+a multi-epitope subunit vaccine against Nipah virus for cross-species
+immunization using immunoinformatics and molecular modeling. PLoS One. 2024 Sep
+26;19(9):e0310703. doi: 10.1371/journal.pone.0310703. PMID: 39325755; PMCID:
+PMC11426463.
+
+98: Lim CC, Lee WL, Leo YS, Lee KE, Chan KP, Ling AE, Oh H, Auchus AP, Paton NI,
+Hui F, Tambyah PA. Late clinical and magnetic resonance imaging follow up of
+Nipah virus infection. J Neurol Neurosurg Psychiatry. 2003 Jan;74(1):131-3. doi:
+10.1136/jnnp.74.1.131. PMID: 12486285; PMCID: PMC1738187.
+
+99: Weingartl H, Czub S, Copps J, Berhane Y, Middleton D, Marszal P, Gren J,
+Smith G, Ganske S, Manning L, Czub M. Invasion of the central nervous system in
+a porcine host by nipah virus. J Virol. 2005 Jun;79(12):7528-34. doi:
+10.1128/JVI.79.12.7528-7534.2005. PMID: 15919907; PMCID: PMC1143674.
+
+100: Sendow I, Field HE, Adjid A, Ratnawati A, Breed AC, Darminto, Morrissy C,
+Daniels P. Screening for Nipah virus infection in West Kalimantan province,
+Indonesia. Zoonoses Public Health. 2010 Dec;57(7-8):499-503. doi:
+10.1111/j.1863-2378.2009.01252.x. PMID: 19638160.
+
+101: Walpita P, Cong Y, Jahrling PB, Rojas O, Postnikova E, Yu S, Johns L,
+Holbrook MR. A VLP-based vaccine provides complete protection against Nipah
+virus challenge following multiple-dose or single-dose vaccination schedules in
+a hamster model. NPJ Vaccines. 2017 Aug 8;2:21. doi: 10.1038/s41541-017-0023-7.
+PMID: 29263876; PMCID: PMC5627259.
+
+102: Lam SK, Chua KB. Nipah virus encephalitis outbreak in Malaysia. Clin Infect
+Dis. 2002 May 1;34 Suppl 2:S48-51. doi: 10.1086/338818. PMID: 11938496.
+
+103: Guillaume V, Contamin H, Loth P, Grosjean I, Courbot MC, Deubel V, Buckland
+R, Wild TF. Antibody prophylaxis and therapy against Nipah virus infection in
+hamsters. J Virol. 2006 Feb;80(4):1972-8. doi: 10.1128/JVI.80.4.1972-1978.2006.
+PMID: 16439553; PMCID: PMC1367164.
+
+104: Eshaghi M, Tan WS, Mohidin TB, Yusoff K. Nipah virus glycoprotein:
+production in baculovirus and application in diagnosis. Virus Res. 2004
+Nov;106(1):71-6. doi: 10.1016/j.virusres.2004.06.011. PMID: 15522449.
+
+105: Bossart KN, Wang LF, Flora MN, Chua KB, Lam SK, Eaton BT, Broder CC.
+Membrane fusion tropism and heterotypic functional activities of the Nipah virus
+and Hendra virus envelope glycoproteins. J Virol. 2002 Nov;76(22):11186-98. doi:
+10.1128/jvi.76.22.11186-11198.2002. PMID: 12388678; PMCID: PMC136767.
+
+106: Mourya D, Yadav P, Rout M, Pattnaik B, Shete A, Patil D. Absence of Nipah
+virus antibodies in pigs in Mizoram State, North East India. Indian J Med Res.
+2019 May;149(5):677-679. doi: 10.4103/ijmr.IJMR_1086_18. PMID: 31417037; PMCID:
+PMC6702692.
+
+107: Luby SP, Gurley ES, Hossain MJ. Transmission of human infection with Nipah
+virus. Clin Infect Dis. 2009 Dec 1;49(11):1743-8. doi: 10.1086/647951. PMID:
+19886791; PMCID: PMC2784122.
+
+108: Harcourt BH, Tamin A, Halpin K, Ksiazek TG, Rollin PE, Bellini WJ, Rota PA.
+Molecular characterization of the polymerase gene and genomic termini of Nipah
+virus. Virology. 2001 Aug 15;287(1):192-201. doi: 10.1006/viro.2001.1026. PMID:
+11504554.
+
+109: Chua KB, Koh CL, Hooi PS, Wee KF, Khong JH, Chua BH, Chan YP, Lim ME, Lam
+SK. Isolation of Nipah virus from Malaysian Island flying-foxes. Microbes
+Infect. 2002 Feb;4(2):145-51. doi: 10.1016/s1286-4579(01)01522-2. PMID:
+11880045.
+
+110: Geisbert TW, Mire CE, Geisbert JB, Chan YP, Agans KN, Feldmann F, Fenton
+KA, Zhu Z, Dimitrov DS, Scott DP, Bossart KN, Feldmann H, Broder CC. Therapeutic
+treatment of Nipah virus infection in nonhuman primates with a neutralizing
+human monoclonal antibody. Sci Transl Med. 2014 Jun 25;6(242):242ra82. doi:
+10.1126/scitranslmed.3008929. PMID: 24964990; PMCID: PMC4467163.
+
+111: Chua KB, Bellini WJ, Rota PA, Harcourt BH, Tamin A, Lam SK, Ksiazek TG,
+Rollin PE, Zaki SR, Shieh W, Goldsmith CS, Gubler DJ, Roehrig JT, Eaton B, Gould
+AR, Olson J, Field H, Daniels P, Ling AE, Peters CJ, Anderson LJ, Mahy BW. Nipah
+virus: a recently emergent deadly paramyxovirus. Science. 2000 May
+26;288(5470):1432-5. doi: 10.1126/science.288.5470.1432. PMID: 10827955.
+
+112: Yoneda M, Guillaume V, Ikeda F, Sakuma Y, Sato H, Wild TF, Kai C.
+Establishment of a Nipah virus rescue system. Proc Natl Acad Sci U S A. 2006 Oct
+31;103(44):16508-13. doi: 10.1073/pnas.0606972103. Epub 2006 Oct 19. PMID:
+17053073; PMCID: PMC1618306.
+
+113: Tamin A, Harcourt BH, Lo MK, Roth JA, Wolf MC, Lee B, Weingartl H, Audonnet
+JC, Bellini WJ, Rota PA. Development of a neutralization assay for Nipah virus
+using pseudotype particles. J Virol Methods. 2009 Sep;160(1-2):1-6. doi:
+10.1016/j.jviromet.2009.02.025. Epub 2009 Mar 9. PMID: 19559943; PMCID:
+PMC2704486.
+
+114: Chua KB, Goh KJ, Wong KT, Kamarulzaman A, Tan PS, Ksiazek TG, Zaki SR, Paul
+G, Lam SK, Tan CT. Fatal encephalitis due to Nipah virus among pig-farmers in
+Malaysia. Lancet. 1999 Oct 9;354(9186):1257-9. doi:
+10.1016/S0140-6736(99)04299-3. PMID: 10520635.
+
+115: Tanimura N, Imada T, Kashiwazaki Y, Shamusudin S, Syed Hassan S, Jamaluddin
+A, Russell G, White J. Reactivity of anti-Nipah virus monoclonal antibodies to
+formalin-fixed, paraffin-embedded lung tissues from experimental Nipah and
+Hendra virus infections. J Vet Med Sci. 2004 Oct;66(10):1263-6. doi:
+10.1292/jvms.66.1263. PMID: 15528861.
+
+116: Chang LY, Ali AR, Hassan SS, AbuBakar S. Quantitative estimation of Nipah
+virus replication kinetics in vitro. Virol J. 2006 Jun 19;3:47. doi:
+10.1186/1743-422X-3-47. PMID: 16784519; PMCID: PMC1543632.
+
+117: Guillaume V, Lefeuvre A, Faure C, Marianneau P, Buckland R, Lam SK, Wild
+TF, Deubel V. Specific detection of Nipah virus using real-time RT-PCR (TaqMan).
+J Virol Methods. 2004 Sep 15;120(2):229-37. doi: 10.1016/j.jviromet.2004.05.018.
+PMID: 15288966.
+
+118: Chew MH, Arguin PM, Shay DK, Goh KT, Rollin PE, Shieh WJ, Zaki SR, Rota PA,
+Ling AE, Ksiazek TG, Chew SK, Anderson LJ. Risk factors for Nipah virus
+infection among abattoir workers in Singapore. J Infect Dis. 2000
+May;181(5):1760-3. doi: 10.1086/315443. Epub 2000 May 3. PMID: 10823780.
+
+119: Yu F, Khairullah NS, Inoue S, Balasubramaniam V, Berendam SJ, Teh LK,
+Ibrahim NS, Abdul Rahman S, Hassan SS, Hasebe F, Sinniah M, Morita K.
+Serodiagnosis using recombinant nipah virus nucleocapsid protein expressed in
+Escherichia coli. J Clin Microbiol. 2006 Sep;44(9):3134-8. doi:
+10.1128/JCM.00693-06. PMID: 16954238; PMCID: PMC1594737.
+
+120: Mirza AM, Aguilar HC, Zhu Q, Mahon PJ, Rota PA, Lee B, Iorio RM. Triggering
+of the newcastle disease virus fusion protein by a chimeric attachment protein
+that binds to Nipah virus receptors. J Biol Chem. 2011 May 20;286(20):17851-60.
+doi: 10.1074/jbc.M111.233965. Epub 2011 Apr 1. PMID: 21460213; PMCID:
+PMC3093860.
+
+121: Sahani M, Parashar UD, Ali R, Das P, Lye MS, Isa MM, Arif MT, Ksiazek TG,
+Sivamoorthy M; Nipah Encephalitis Outbreak Investigation Group. Nipah virus
+infection among abattoir workers in Malaysia, 1998-1999. Int J Epidemiol. 2001
+Oct;30(5):1017-20. doi: 10.1093/ije/30.5.1017. PMID: 11689513.
+
+122: Middleton DJ, Morrissy CJ, van der Heide BM, Russell GM, Braun MA, Westbury
+HA, Halpin K, Daniels PW. Experimental Nipah virus infection in pteropid bats
+(Pteropus poliocephalus). J Comp Pathol. 2007 May;136(4):266-72. doi:
+10.1016/j.jcpa.2007.03.002. PMID: 17498518.
+
+123: Eshaghi M, Tan WS, Ong ST, Yusoff K. Purification and characterization of
+Nipah virus nucleocapsid protein produced in insect cells. J Clin Microbiol.
+2005 Jul;43(7):3172-7. doi: 10.1128/JCM.43.7.3172-3177.2005. PMID: 16000431;
+PMCID: PMC1169143.
+
+124: Mills JN, Alim AN, Bunning ML, Lee OB, Wagoner KD, Amman BR, Stockton PC,
+Ksiazek TG. Nipah virus infection in dogs, Malaysia, 1999. Emerg Infect Dis.
+2009 Jun;15(6):950-2. doi: 10.3201/eid1506.080453. PMID: 19523300; PMCID:
+PMC2727347.
+
+125: Sawatsky B, Grolla A, Kuzenko N, Weingartl H, Czub M. Inhibition of
+henipavirus infection by Nipah virus attachment glycoprotein occurs without
+cell-surface downregulation of ephrin-B2 or ephrin-B3. J Gen Virol. 2007
+Feb;88(Pt 2):582-591. doi: 10.1099/vir.0.82427-0. PMID: 17251577.
+
+126: Chua KB, Chua BH, Wang CW. Anthropogenic deforestation, El Niño and the
+emergence of Nipah virus in Malaysia. Malays J Pathol. 2002 Jun;24(1):15-21.
+PMID: 16329551.
+
+127: Kono Y, Yusnita Y, Mohd Ali AR, Maizan M, Sharifah SH, Fauzia O, Kubo M,
+Aziz AJ. Characterization and identification of Oya virus, a Simbu serogroup
+virus of the genus Bunyavirus, isolated from a pig suspected of Nipah virus
+infection. Arch Virol. 2002 Aug;147(8):1623-30. doi: 10.1007/s00705-002-0838-y.
+PMID: 12181680.
+
+128: Harcourt BH, Tamin A, Ksiazek TG, Rollin PE, Anderson LJ, Bellini WJ, Rota
+PA. Molecular characterization of Nipah virus, a newly emergent paramyxovirus.
+Virology. 2000 Jun 5;271(2):334-49. doi: 10.1006/viro.2000.0340. PMID: 10860887.
+
+129: Ahmad K. Malaysia culls pigs as Nipah virus strikes again. Lancet. 2000 Jul
+15;356(9225):230. doi: 10.1016/S0140-6736(05)74483-4. PMID: 10963210.
+
+130: Thanapongtharm W, Linard C, Wiriyarat W, Chinsorn P, Kanchanasaka B, Xiao
+X, Biradar C, Wallace RG, Gilbert M. Spatial characterization of colonies of the
+flying fox bat, a carrier of Nipah virus in Thailand. BMC Vet Res. 2015 Mar
+28;11:81. doi: 10.1186/s12917-015-0390-0. PMID: 25880385; PMCID: PMC4389713.
+
+131: Niedermeier S, Singethan K, Rohrer SG, Matz M, Kossner M, Diederich S,
+Maisner A, Schmitz J, Hiltensperger G, Baumann K, Holzgrabe U, Schneider-
+Schaulies J. A small-molecule inhibitor of Nipah virus envelope protein-mediated
+membrane fusion. J Med Chem. 2009 Jul 23;52(14):4257-65. doi: 10.1021/jm900411s.
+PMID: 19499921.
+
+132: Chan KP, Rollin PE, Ksiazek TG, Leo YS, Goh KT, Paton NI, Sng EH, Ling AE.
+A survey of Nipah virus infection among various risk groups in Singapore.
+Epidemiol Infect. 2002 Feb;128(1):93-8. doi: 10.1017/s0950268801006422. PMID:
+11895096; PMCID: PMC2869800.
+
+133: Kaku Y, Noguchi A, Marsh GA, McEachern JA, Okutani A, Hotta K, Bazartseren
+B, Fukushi S, Broder CC, Yamada A, Inoue S, Wang LF. A neutralization test for
+specific detection of Nipah virus antibodies using pseudotyped vesicular
+stomatitis virus expressing green fluorescent protein. J Virol Methods. 2009
+Sep;160(1-2):7-13. doi: 10.1016/j.jviromet.2009.04.037. Epub 2009 May 9. PMID:
+19433112; PMCID: PMC7112920.
+
+134: Odchimar NMO, Macalalad MAB, Orosco FL. From antibiotic to antiviral:
+computational screening reveals a multi-targeting antibiotic from Streptomyces
+spp. against Nipah virus fusion proteins. Mol Divers. 2024 Jul 26. doi:
+10.1007/s11030-024-10932-7. Epub ahead of print. PMID: 39060858.
+
+135: Chua KB, Wong EM, Cropp BC, Hyatt AD. Role of electron microscopy in Nipah
+virus outbreak investigation and control. Med J Malaysia. 2007 Jun;62(2):139-42.
+PMID: 18705447.
+
+136: Subramanian SK, Tey BT, Hamid M, Tan WS. Production of the matrix protein
+of Nipah virus in Escherichia coli: virus-like particles and possible
+application for diagnosis. J Virol Methods. 2009 Dec;162(1-2):179-83. doi:
+10.1016/j.jviromet.2009.07.034. Epub 2009 Aug 8. PMID: 19666056.
+
+137: Yap WB, Tey BT, Alitheen NB, Tan WS. Display of the antigenic region of
+Nipah virus nucleocapsid protein on hepatitis B virus capsid. J Biosci Bioeng.
+2012 Jan;113(1):26-9. doi: 10.1016/j.jbiosc.2011.09.007. Epub 2011 Oct 24. PMID:
+22024533.
+
+138: Amal NM, Lye MS, Ksiazek TG, Kitsutani PD, Hanjeet KS, Kamaluddin MA, Ong
+F, Devi S, Stockton PC, Ghazali O, Zainab R, Taha MA. Risk factors for Nipah
+virus transmission, Port Dickson, Negeri Sembilan, Malaysia: results from a
+hospital-based case-control study. Southeast Asian J Trop Med Public Health.
+2000 Jun;31(2):301-6. PMID: 11127330.
+
+139: Yob JM, Field H, Rashdi AM, Morrissy C, van der Heide B, Rota P, bin Adzhar
+A, White J, Daniels P, Jamaluddin A, Ksiazek T. Nipah virus infection in bats
+(order Chiroptera) in peninsular Malaysia. Emerg Infect Dis. 2001 May-
+Jun;7(3):439-41. doi: 10.3201/eid0703.010312. PMID: 11384522; PMCID: PMC2631791.
+
+140: Halpin K, Bankamp B, Harcourt BH, Bellini WJ, Rota PA. Nipah virus conforms
+to the rule of six in a minigenome replication assay. J Gen Virol. 2004
+Mar;85(Pt 3):701-707. doi: 10.1099/vir.0.19685-0. PMID: 14993656.
+
+141: Aguilar HC, Aspericueta V, Robinson LR, Aanensen KE, Lee B. A quantitative
+and kinetic fusion protein-triggering assay can discern distinct steps in the
+nipah virus membrane fusion cascade. J Virol. 2010 Aug;84(16):8033-41. doi:
+10.1128/JVI.00469-10. Epub 2010 Jun 2. PMID: 20519383; PMCID: PMC2916531.
+
+142: Eshaghi M, Tan WS, Chin WK, Yusoff K. Purification of the extra-cellular
+domain of Nipah virus glycoprotein produced in Escherichia coli and possible
+application in diagnosis. J Biotechnol. 2005 Mar 30;116(3):221-6. doi:
+10.1016/j.jbiotec.2004.10.020. Epub 2005 Jan 5. PMID: 15707682; PMCID:
+PMC7125951.
+
+143: Imada T, Abdul Rahman MA, Kashiwazaki Y, Tanimura N, Syed Hassan S,
+Jamaluddin A. Production and characterization of monoclonal antibodies against
+formalin-inactivated Nipah virus isolated from the lungs of a pig. J Vet Med
+Sci. 2004 Jan;66(1):81-3. doi: 10.1292/jvms.66.81. PMID: 14960818.
+
+144: Tan WS, Ong ST, Eshaghi M, Foo SS, Yusoff K. Solubility, immunogenicity and
+physical properties of the nucleocapsid protein of Nipah virus produced in
+Escherichia coli. J Med Virol. 2004 May;73(1):105-12. doi: 10.1002/jmv.20052.
+PMID: 15042656.
+
+145: Kashiwazaki Y, Na YN, Tanimura N, Imada T. A solid-phase blocking ELISA for
+detection of antibodies to Nipah virus. J Virol Methods. 2004 Nov;121(2):259-61.
+doi: 10.1016/j.jviromet.2004.06.015. PMID: 15381364.
+
+146: Parashar UD, Sunn LM, Ong F, Mounts AW, Arif MT, Ksiazek TG, Kamaluddin MA,
+Mustafa AN, Kaur H, Ding LM, Othman G, Radzi HM, Kitsutani PT, Stockton PC,
+Arokiasamy J, Gary HE Jr, Anderson LJ. Case-control study of risk factors for
+human infection with a new zoonotic paramyxovirus, Nipah virus, during a
+1998-1999 outbreak of severe encephalitis in Malaysia. J Infect Dis. 2000
+May;181(5):1755-9. doi: 10.1086/315457. Epub 2000 May 15. PMID: 10823779.
+
+147: Ong ST, Tan WS, Hassan SS, Mohd Lila MA, Yusoff K. Cloning and expression
+of the nucleocapsid protein gene of nipah virus in different strains of
+Escherichia coli. J Biochem Mol Biol Biophys. 2002 Oct;6(5):347-50. doi:
+10.1080/1025814021000013994. PMID: 12385971.
+
+148: Wong SC, Ooi MH, Wong MN, Tio PH, Solomon T, Cardosa MJ. Late presentation
+of Nipah virus encephalitis and kinetics of the humoral immune response. J
+Neurol Neurosurg Psychiatry. 2001 Oct;71(4):552-4. doi: 10.1136/jnnp.71.4.552.
+PMID: 11561048; PMCID: PMC1763511.
+
+149: Eshaghi M, Tan WS, Yusoff K. Identification of epitopes in the nucleocapsid
+protein of Nipah virus using a linear phage-displayed random peptide library. J
+Med Virol. 2005 Jan;75(1):147-52. doi: 10.1002/jmv.20249. PMID: 15543570.
+
+150: Ali R, Mounts AW, Parashar UD, Sahani M, Lye MS, Isa MM, Balathevan K, Arif
+MT, Ksiazek TG. Nipah virus among military personnel involved in pig culling
+during an outbreak of encephalitis in Malaysia, 1998-1999. Emerg Infect Dis.
+2001 Jul-Aug;7(4):759-61. doi: 10.3201/eid0704.010433. PMID: 11592256; PMCID:
+PMC2631760.
+
+151: Ternhag A, Penttinen P. Nipahvirus--ännu en produkt från den asiatiska
+"virusfabriken" [Nipah virus--another product from the Asian "virus factory"].
+Lakartidningen. 2005 Apr 4-10;102(14):1046-7. Swedish. PMID: 15892474.

@@ -1,0 +1,38 @@
+1: Xie J, Idris A, Feng R. The complex interplay between encephalomyocarditis
+virus and the host defence system. Virulence. 2024 Dec;15(1):2383559. doi:
+10.1080/21505594.2024.2383559. Epub 2024 Jul 27. PMID: 39066684; PMCID:
+PMC11285270.
+
+2: Wang J, Chen S, Han Q, Wang K, Liu L, Xu X, Yuan W, Wang J. Rapid detection
+of porcine encephalomyocarditis virus (EMCV) by isothermal reverse transcription
+recombinase polymerase amplification assays. J Virol Methods. 2022
+Aug;306:114544. doi: 10.1016/j.jviromet.2022.114544. Epub 2022 May 17. PMID:
+35595156.
+
+3: Baran H, Draxler M, Kronsteiner C, Kepplinger B. Increase of Kynurenic Acid
+after Encephalomyocarditis Virus Infection and Its Significances. Neurosignals.
+2021 Sep 30;29(1):24-34. doi: 10.33594/000000434. PMID: 34590795.
+
+4: Wei N, Xiong J, Ma J, Ye J, Si Y, Cao S. Development of efficient, sensitive,
+and specific detection method for Encephalomyocarditis virus based on
+CRISPR/Cas13a. J Virol Methods. 2022 Nov;309:114592. doi:
+10.1016/j.jviromet.2022.114592. Epub 2022 Jul 26. PMID: 35905814.
+
+5: Scollo A, Mazzoni C, Luppi A. Management of encephalomyocarditis virus
+infection in Italian pig farms: a case report. BMC Vet Res. 2023 Feb
+24;19(1):54. doi: 10.1186/s12917-023-03611-6. PMID: 36829167; PMCID: PMC9951397.
+
+6: Han Y, Xie J, Xu S, Bi Y, Li X, Zhang H, Idris A, Bai J, Feng R.
+Encephalomyocarditis Virus Abrogates the Interferon Beta Signaling Pathway via
+Its Structural Protein VP2. J Virol. 2021 Feb 24;95(6):e01590-20. doi:
+10.1128/JVI.01590-20. PMID: 33328314; PMCID: PMC8094936.
+
+7: Foglia EA, Pezzoni G, Bonilauri P, Torri D, Grazioli S, Brocchi E. A recent
+view about encephalomyocarditis virus circulating in compartmentalised animal
+population in Northern Italy. Sci Rep. 2023 Jan 11;13(1):592. doi:
+10.1038/s41598-023-27828-5. PMID: 36631510; PMCID: PMC9834260.
+
+8: Han R, Liang L, Qin T, Xiao S, Liang R. Encephalomyocarditis Virus 2A Protein
+Inhibited Apoptosis by Interaction with Annexin A2 through JNK/c-Jun Pathway.
+Viruses. 2022 Feb 9;14(2):359. doi: 10.3390/v14020359. PMID: 35215950; PMCID:
+PMC8880565.

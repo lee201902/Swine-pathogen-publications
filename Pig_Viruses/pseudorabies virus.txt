@@ -1,0 +1,75 @@
+1: Liu Q, Kuang Y, Li Y, Guo H, Zhou C, Guo S, Tan C, Wu B, Chen H, Wang X. The
+Epidemiology and Variation in Pseudorabies Virus: A Continuing Challenge to Pigs
+and Humans. Viruses. 2022 Jul 1;14(7):1463. doi: 10.3390/v14071463. PMID:
+35891443; PMCID: PMC9325097.
+
+2: Lu JJ, Yuan WZ, Zhu YP, Hou SH, Wang XJ. Latent pseudorabies virus infection
+in medulla oblongata from quarantined pigs. Transbound Emerg Dis. 2021
+Mar;68(2):543-551. doi: 10.1111/tbed.13712. Epub 2020 Jul 14. PMID: 32615031.
+
+3: Silva E, Medina-Ramirez E, Pavulraj S, Gladue DP, Borca M, Chowdhury SI. A
+Triple Gene-Deleted Pseudorabies Virus-Vectored Subunit PCV2b and CSFV Vaccine
+Protect Pigs against a Virulent CSFV Challenge. Viruses. 2023 Oct
+25;15(11):2143. doi: 10.3390/v15112143. PMID: 38005821; PMCID: PMC10674279.
+
+4: Hernández FA, Carr AN, Milleson MP, Merrill HR, Avery ML, Parker BM, Pylant
+CL, Austin JD, Wisely SM. Dispersal and Land Cover Contribute to Pseudorabies
+Virus Exposure in Invasive Wild Pigs. Ecohealth. 2020 Dec;17(4):498-511. doi:
+10.1007/s10393-020-01508-6. Epub 2021 Jan 14. PMID: 33447876; PMCID: PMC8192353.
+
+5: Song C, Huang X, Gao Y, Zhang X, Wang Y, Zhang Y, Lv T, Zhang Z, Zhang Y, Pan
+Q, Shu Y, Shu X. Histopathology of brain functional areas in pigs infected by
+porcine pseudorabies virus. Res Vet Sci. 2021 Dec;141:203-211. doi:
+10.1016/j.rvsc.2021.10.011. Epub 2021 Oct 28. PMID: 34763257.
+
+6: Jin YL, Yin D, Xing G, Huang YM, Fan CM, Fan CF, Qiu XH, Dong WR, Yan Y, Gu
+JY, Zhou JY. The Inactivated <i>gE</i>/<i>TK</i> Gene<i>-</i>Deleted Vaccine
+Against Pseudorabies Virus Type II Confers Effective Protection in Mice and
+Pigs. Front Microbiol. 2022 Aug 4;13:943707. doi: 10.3389/fmicb.2022.943707.
+PMID: 35992698; PMCID: PMC9389536.
+
+7: He H, Qi B, Yang Y, Cui X, Chen T, Cai X, An T, Wang S. Immunogenicity
+Characterization of the Recombinant gI Protein Fragment from Pseudorabies Virus
+and an Evaluation of Its Diagnostic Use in Pigs. Vet Sci. 2023 Aug 5;10(8):506.
+doi: 10.3390/vetsci10080506. PMID: 37624293; PMCID: PMC10458116.
+
+8: Liao X, Nie J, Yuan X, Feng Z, Cui E, Wu Y, Li Y, Scherman D, Liu Y. Carbopol
+dispersed PAA-modified UIO-66 with high colloidal stability as a combination
+nano-adjuvant boosts immune response and protection against pseudorabies virus
+in mice and pigs. Acta Biomater. 2023 Sep 15;168:540-550. doi:
+10.1016/j.actbio.2023.06.039. Epub 2023 Jun 30. PMID: 37393970.
+
+9: Pavulraj S, Pannhorst K, Stout RW, Paulsen DB, Carossino M, Meyer D, Becher
+P, Chowdhury SI. A Triple Gene-Deleted Pseudorabies Virus-Vectored Subunit PCV2b
+and CSFV Vaccine Protects Pigs against PCV2b Challenge and Induces Serum
+Neutralizing Antibody Response against CSFV. Vaccines (Basel). 2022 Feb
+16;10(2):305. doi: 10.3390/vaccines10020305. PMID: 35214763; PMCID: PMC8878206.
+
+10: Yan Z, Chen M, Tang D, Wu X, Ren X, Pan H, Li Y, Ji Q, Luo Y, Fan H, Ju C.
+Better immune efficacy triggered by the inactivated gI/gE-deleted pseudorabies
+virus with the additional insertion of gC gene in mice and weaned pigs. Virus
+Res. 2021 Apr 15;296:198353. doi: 10.1016/j.virusres.2021.198353. Epub 2021 Feb
+25. PMID: 33640358.
+
+11: Pickard GE, Brodersen B, Sollars PJ, Smith GA. The pseudorabies virus R2
+non-neuroinvasive vaccine: A proof-of-concept study in pigs. Vaccine. 2020 Jun
+15;38(29):4524-4528. doi: 10.1016/j.vaccine.2020.05.002. Epub 2020 May 22. PMID:
+32448623; PMCID: PMC7334881.
+
+12: Hu R, Wang L, Liu Q, Hua L, Huang X, Zhang Y, Fan J, Chen H, Song W, Liang
+W, Ding N, Li Z, Ding Z, Tang X, Peng Z, Wu B. Whole-Genome Sequence Analysis of
+Pseudorabies Virus Clinical Isolates from Pigs in China between 2012 and 2017 in
+China. Viruses. 2021 Jul 8;13(7):1322. doi: 10.3390/v13071322. PMID: 34372529;
+PMCID: PMC8310123.
+
+13: Yang B, Nie J, Guo A, Xie N, Cui Y, Sun W, Li Y, Li X, Wu Y, Liu Y.
+MIL-53(Al)-oil/water emulsion composite as an adjuvant promotes immune responses
+to an inactivated pseudorabies virus vaccine in mice and pigs. Acta Biomater.
+2024 Jul 15;183:330-340. doi: 10.1016/j.actbio.2024.05.050. Epub 2024 Jun 3.
+PMID: 38838909.
+
+14: Kaneko C, Kaneko Y, Sudaryatma PE, Mekata H, Kirino Y, Yamaguchi R,
+Okabayashi T. Pseudorabies virus infection in hunting dogs in Oita, Japan:
+Report from a prefecture free from Aujeszky's disease in domestic pigs. J Vet
+Med Sci. 2021 Apr 9;83(4):680-684. doi: 10.1292/jvms.20-0450. Epub 2021 Feb 15.
+PMID: 33583864; PMCID: PMC8111351.

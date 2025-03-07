@@ -1,0 +1,266 @@
+1: Ianiro G, Monini M, De Sabato L, Chelli E, Cerini N, Ostanello F, Di Bartolo
+I. Dynamic of Hepatitis E Virus (HEV) Shedding in Pigs. Animals (Basel). 2022
+Apr 20;12(9):1063. doi: 10.3390/ani12091063. PMID: 35565491; PMCID: PMC9101398.
+
+2: Rios-Muñoz L, Gonzálvez M, Caballero-Gomez J, Castro-Scholten S, Casares-
+Jimenez M, Agulló-Ros I, Corona-Mata D, García-Bocanegra I, Lopez-Lopez P,
+Fajardo T, Mesquita JR, Risalde MA, Rivero-Juarez A, Rivero A. Detection of Rat
+Hepatitis E Virus in Pigs, Spain, 2023. Emerg Infect Dis. 2024
+Apr;30(4):823-826. doi: 10.3201/eid3004.231629. PMID: 38526410; PMCID:
+PMC10977822.
+
+3: Chelli E, Suffredini E, De Santis P, De Medici D, Di Bella S, D'Amato S,
+Gucciardi F, Guercio A, Ostanello F, Perrone V, Purpari G, Scavia GS, Schembri
+P, Varcasia BM, Di Bartolo I. Hepatitis E Virus Occurrence in Pigs Slaughtered
+in Italy. Animals (Basel). 2021 Jan 22;11(2):277. doi: 10.3390/ani11020277.
+PMID: 33499160; PMCID: PMC7911034.
+
+4: Batmagnai E, Boldbaatar B, Sodbayasgalan A, Kato-Mori Y, Hagiwara K.
+Hepatitis E Virus (HEV) Spreads from Pigs and Sheep in Mongolia. Animals
+(Basel). 2023 Mar 1;13(5):891. doi: 10.3390/ani13050891. PMID: 36899748; PMCID:
+PMC10000034.
+
+5: Ahmad T, Jin H, Dhama K, Yatoo MI, Tiwari R, Bilal M, Dhawan M, Emran TB,
+Alestad JH, Alhani HM, BinKhalaf HK, Rabaan AA. Hepatitis E virus in pigs and
+the environment: An updated review of public health concerns. Narra J. 2022
+Aug;2(2):e78. doi: 10.52225/narra.v2i2.78. Epub 2022 Aug 1. PMID: 38449702;
+PMCID: PMC10914032.
+
+6: Liu B, Chen Y, Zhang M, Chen T, Zhang Y, DanBaZhaXi, Xu S, Zhao Q, Zhou EM.
+Identification and pathogenicity of hepatitis E Virus from laboratory Bama
+miniature pigs. BMC Vet Res. 2022 Mar 15;18(1):99. doi:
+10.1186/s12917-022-03206-7. PMID: 35292024; PMCID: PMC8922083.
+
+7: Chambaro HM, Sasaki M, Muleya W, Kajihara M, Shawa M, Mwape KE, Harima H, Qiu
+Y, Hall WW, Fandamu P, Squarre D, Simulundu E, Sawa H, Orba Y. Hepatitis E virus
+infection in pigs: a first report from Zambia. Emerg Microbes Infect. 2021
+Dec;10(1):2169-2172. doi: 10.1080/22221751.2021.2002669. PMID: 34736356; PMCID:
+PMC8635572.
+
+8: Yadav KK, Boley PA, Lee CM, Khatiwada S, Jung K, Laocharoensuk T, Hofstetter
+J, Wood R, Hanson J, Kenney SP. Rat hepatitis E virus cross-species infection
+and transmission in pigs. PNAS Nexus. 2024 Jul 1;3(7):pgae259. doi:
+10.1093/pnasnexus/pgae259. PMID: 39035038; PMCID: PMC11259135.
+
+9: Boxman ILA, Verhoef L, Dop PY, Vennema H, Dirks RAM, Opsteegh M. High
+prevalence of acute hepatitis E virus infection in pigs in Dutch
+slaughterhouses. Int J Food Microbiol. 2022 Oct 16;379:109830. doi:
+10.1016/j.ijfoodmicro.2022.109830. Epub 2022 Jul 16. PMID: 35908493.
+
+10: Liao MH, Wu FT, Bai H, Doan YH, Yang JY, Takeda N, Muramatsu M, Li TC.
+Hepatitis E virus infection in 6-month-old pigs in Taiwan. Sci Rep. 2020 Oct
+9;10(1):16869. doi: 10.1038/s41598-020-74034-8. PMID: 33037297; PMCID:
+PMC7547095.
+
+11: Carella E, Oberto F, Romano A, Peletto S, Vitale N, Costa A, Caruso C,
+Chiavacci L, Acutis PL, Pite L, Masoero L. Molecular and serological
+investigation of Hepatitis E virus in pigs slaughtered in Northwestern Italy.
+BMC Vet Res. 2023 Jan 25;19(1):21. doi: 10.1186/s12917-023-03578-4. PMID:
+36698186; PMCID: PMC9875460.
+
+12: Yeboah R, Sylverken AA, Owusu M, El-Duah P, Burimuah V, Frimpong Y, Lamptey
+J, Eckerle I, Meyer B, Antwi C, Agbenyaga O, Folitse R, Emikpe B, Oppong SK,
+Adu-Sarkodie Y, Drosten C. Sero-molecular epidemiology of hepatitis E virus in
+pigs and human contacts in Ghana. One Health Outlook. 2021 Jun 22;3(1):13. doi:
+10.1186/s42522-021-00043-w. PMID: 34154674; PMCID: PMC8218416.
+
+13: Tsachev I, Baymakova M, Dimitrov KK, Gospodinova K, Marutsov P, Pepovich R,
+Kundurzhiev T, Ciccozzi M, Dalton HR. Serological evidence of hepatitis E virus
+infection in pigs from Northern Bulgaria. Vet Ital. 2021 Jul 27;57(2). doi:
+10.12834/VetIt.2341.14461.1. PMID: 34971505.
+
+14: Meester M, Bouwknegt M, Hakze-van der Honing R, Vernooij H, Houben M, van
+Oort S, van der Poel WHM, Stegeman A, Tobias T. Repeated cross-sectional
+sampling of pigs at slaughter indicates varying age of hepatitis E virus
+infection within and between pig farms. Vet Res. 2022 Jul 7;53(1):50. doi:
+10.1186/s13567-022-01068-3. PMID: 35799280; PMCID: PMC9264715.
+
+15: Jung S, Seo DJ, Yeo D, Wang Z, Min A, Zhao Z, Song M, Choi IS, Myoung J,
+Choi C. Experimental infection of hepatitis E virus induces pancreatic
+necroptosis in miniature pigs. Sci Rep. 2020 Jul 21;10(1):12022. doi:
+10.1038/s41598-020-68959-3. PMID: 32694702; PMCID: PMC7374588.
+
+16: Sooryanarain H, Heffron CL, Hill DE, Fredericks J, Rosenthal BM, Werre SR,
+Opriessnig T, Meng XJ. Hepatitis E Virus in Pigs from Slaughterhouses, United
+States, 2017-2019. Emerg Infect Dis. 2020 Feb;26(2):354-357. doi:
+10.3201/eid2602.191348. PMID: 31961315; PMCID: PMC6986846.
+
+17: Lee HS, Dao DT, Bui VN, Bui NA, Le TD, Nguyen-Viet H, Grace D, Thakur KK,
+Hagiwara K. Prevalence and phylogenetic analysis of hepatitis E virus in pigs in
+Vietnam. BMC Vet Res. 2020 Sep 14;16(1):333. doi: 10.1186/s12917-020-02537-7.
+PMID: 32928220; PMCID: PMC7489210.
+
+18: Wang Y, Toh X, Ong J, Teo XH, Bay P, Fernandez CJ, Huangfu T. Serological
+prevalence and molecular characterization of hepatitis E virus in imported pigs
+in Singapore (2000-2019). Transbound Emerg Dis. 2022 Mar;69(2):286-296. doi:
+10.1111/tbed.13977. Epub 2021 Jan 29. PMID: 33406320.
+
+19: Palombieri A, Tsachev I, Sarchese V, Fruci P, Di Profio F, Pepovich R,
+Baymakova M, Marsilio F, Martella V, Di Martino B. A Molecular Study on
+Hepatitis E Virus (HEV) in Pigs in Bulgaria. Vet Sci. 2021 Nov 6;8(11):267. doi:
+10.3390/vetsci8110267. PMID: 34822640; PMCID: PMC8619608.
+
+20: Liu D, Liu B, He Z, Qiao C, Luo Q, Chen X, Wang X, Xiang H, Chen J, Zhang P,
+Huang Y, Wang G, Tan C, Cai R. Seroprevalence survey of Hepatitis E Virus in
+Domestic Pigs in Guangdong, China. Animals (Basel). 2024 Jun 24;14(13):1861.
+doi: 10.3390/ani14131861. PMID: 38997973; PMCID: PMC11240697.
+
+21: Fajardo-Alonso T, García-Bocanegra I, Risalde MA, Rivero-Juárez A, Jiménez-
+Ruiz S, Cano-Terriza D, Casares-Jiménez M, Laguna E, Acevedo P, Frías M, Vicente
+J, Rivero A, Caballero-Gómez J. Longitudinal survey of hepatitis E virus in
+extensively raised pigs in Spain. Vet Microbiol. 2024 Sep 23;298:110256. doi:
+10.1016/j.vetmic.2024.110256. Epub ahead of print. PMID: 39366316.
+
+22: Takova K, Koynarski T, Minkov I, Ivanova Z, Toneva V, Zahmanova G.
+Increasing Hepatitis E Virus Seroprevalence in Domestic Pigs and Wild Boar in
+Bulgaria. Animals (Basel). 2020 Aug 28;10(9):1521. doi: 10.3390/ani10091521.
+PMID: 32872096; PMCID: PMC7552291.
+
+23: Takahashi M, Kunita S, Nishizawa T, Ohnishi H, Primadharsini PP, Nagashima
+S, Murata K, Okamoto H. Infection Dynamics and Genomic Mutations of Hepatitis E
+Virus in Naturally Infected Pigs on a Farrow-to-Finish Farm in Japan: A Survey
+from 2012 to 2021. Viruses. 2023 Jul 7;15(7):1516. doi: 10.3390/v15071516. PMID:
+37515202; PMCID: PMC10385168.
+
+24: Monini M, Di Bartolo I, De Sabato L, Ianiro G, Agostinelli F, Ostanello F.
+Hepatitis E Virus (HEV) in Heavy Pigs in Slaughterhouses of Northern Italy:
+Investigation of Seroprevalence, Viraemia, and Faecal Shedding. Animals (Basel).
+2023 Sep 16;13(18):2942. doi: 10.3390/ani13182942. PMID: 37760342; PMCID:
+PMC10525452.
+
+25: Milojević L, Velebit B, Teodorović V, Kirbiš A, Petrović T, Karabasil N,
+Dimitrijević M. Screening and Molecular Characterization of Hepatitis E Virus in
+Slaughter Pigs in Serbia. Food Environ Virol. 2019 Dec;11(4):410-419. doi:
+10.1007/s12560-019-09393-1. Epub 2019 Jun 26. PMID: 31243738.
+
+26: El-Duah P, Dei D, Binger T, Sylverken A, Wollny R, Tasiame W, Oppong S, Adu-
+Sarkodie Y, Emikpe B, Folitse R, Drexler JF, Phillips R, Drosten C, Corman VM.
+Detection and genomic characterization of hepatitis E virus genotype 3 from pigs
+in Ghana, Africa. One Health Outlook. 2020 Jul 20;2:10. doi:
+10.1186/s42522-020-00018-3. PMID: 33829131; PMCID: PMC7993477.
+
+27: Pellerin M, Trabucco B, Capai L, Laval M, Maestrini O, Jori F, Falchi A,
+Doceul V, Charrier F, Casabianca F, Pavio N. Low prevalence of hepatitis E virus
+in the liver of Corsican pigs slaughtered after 12 months despite high antibody
+seroprevalence. Transbound Emerg Dis. 2022 Sep;69(5):e2706-e2718. doi:
+10.1111/tbed.14621. Epub 2022 Jun 29. PMID: 35689821; PMCID: PMC9796636.
+
+28: Meester M, Rademaker A, Bouwknegt M, Hakze-van der Honing RW, Stegeman A,
+van der Poel WHM, Tobias TJ. Evaluation of Non-Invasive Sampling Methods for
+Detection of Hepatitis E Virus Infected Pigs in Pens. Microorganisms. 2023 Feb
+16;11(2):500. doi: 10.3390/microorganisms11020500. PMID: 36838465; PMCID:
+PMC9962119.
+
+29: Priemer G, Cierniak F, Wolf C, Ulrich RG, Groschup MH, Eiden M. Co-
+Circulation of Different Hepatitis E Virus Genotype 3 Subtypes in Pigs and Wild
+Boar in North-East Germany, 2019. Pathogens. 2022 Jul 6;11(7):773. doi:
+10.3390/pathogens11070773. PMID: 35890018; PMCID: PMC9317891.
+
+30: Milton AAP, Das S, Ghatak S, Srinivas K, Angappan M, Prasad MCB, Wahlang L,
+Priya GB, Khan S, Sailo B, Lalhruaipuii, Singh M, Garam GB, Sen A. First
+Seroepidemiological Investigation of Hepatitis E Virus Infection in Backyard
+Pigs from Northeastern India: Prevalence and Associated Risk Factors. Food
+Environ Virol. 2023 Dec;15(4):307-317. doi: 10.1007/s12560-023-09564-1. Epub
+2023 Sep 8. PMID: 37682460.
+
+31: Montalvo Villalba MC, Snoeck CJ, Rodriguez Lay LLA, Sausy A, Hernández López
+D, Corredor MB, Marrero Sanchéz B, Hübschen JM. Hepatitis E virus in Cuba: A
+cross-sectional serological and virological study in pigs and people
+occupationally exposed to pigs. Zoonoses Public Health. 2023 Feb;70(1):58-68.
+doi: 10.1111/zph.13000. Epub 2022 Sep 16. PMID: 36114628.
+
+32: García N, Hernández M, Gutierrez-Boada M, Valero A, Navarro A, Muñoz-Chimeno
+M, Fernández-Manzano A, Escobar FM, Martínez I, Bárcena C, González S, Avellón
+A, Eiros JM, Fongaro G, Domínguez L, Goyache J, Rodríguez-Lázaro D. Occurrence
+of Hepatitis E Virus in Pigs and Pork Cuts and Organs at the Time of Slaughter,
+Spain, 2017. Front Microbiol. 2020 Jan 28;10:2990. doi:
+10.3389/fmicb.2019.02990. PMID: 32047480; PMCID: PMC6997137.
+
+33: Di Cola G, Di Cola G, Fantilli A, Mamani V, Tamiozzo P, Martínez Wassaf M,
+Nates SV, Ré VE, Pisano MB. High circulation of hepatitis E virus (HEV) in pigs
+from the central region of Argentina without evidence of virus occurrence in
+pork meat and derived products. Res Vet Sci. 2023 Nov;164:105000. doi:
+10.1016/j.rvsc.2023.105000. Epub 2023 Sep 4. PMID: 37708830.
+
+34: Rivero-Juárez A, Dashti A, Santín M, Köster PC, López-López P, Risalde MA,
+García-Bocanegra I, Gómez-Villamandos JC, Caballero-Gómez J, Frías M, Bailo B,
+Ortega S, Muadica AS, Calero-Bernal R, González-Barrio D, Rivero A, Briz V,
+Carmena D. Diarrhoea-causing enteric protist species in intensively and
+extensively raised pigs (Sus scrofa domesticus) in Southern Spain. Part II:
+Association with Hepatitis E virus susceptibility. Transbound Emerg Dis. 2022
+Jul;69(4):e1172-e1178. doi: 10.1111/tbed.14408. Epub 2021 Dec 10. PMID:
+34850588.
+
+35: Han SH, Ahn HS, Go HJ, Kim DH, Kim DY, Kim JH, Lim KB, Lee JB, Park SY, Song
+CS, Lee SW, Choi YK, Choi IS. Cross-Species Transmission of Rabbit Hepatitis E
+Virus to Pigs and Evaluation of the Protection of a Virus-like Particle Vaccine
+against Rabbit Hepatitis E Virus Infection in Pigs. Vaccines (Basel). 2022 Jun
+30;10(7):1053. doi: 10.3390/vaccines10071053. PMID: 35891218; PMCID: PMC9320745.
+
+36: Cao LC, Ha LNN, Giang TT, Tiep VM, Chau NTM, Phuong Anh TN, Duy PK, Nhan LP,
+Hoai NTT, Linh LTK, Hafza N, Bock CT, My TN, Sy BT, Toan NL, Song LH, Velavan
+TP. Characterization of zoonotic hepatitis E virus in domestic pigs and wild
+boar in Vietnam: Implications for public health. One Health. 2024 Jul
+10;19:100857. doi: 10.1016/j.onehlt.2024.100857. PMID: 39077329; PMCID:
+PMC11284544.
+
+37: Ferri G, Giantomassi G, Tognetti D, Olivastri A, Vergara A. Hepatitis E
+Virus RNA Detection in Liver and Muscle Tissues Sampled from Home Slaughtered
+Domestic Pigs in Central Italy. Food Environ Virol. 2024 Dec;16(4):438-448. doi:
+10.1007/s12560-024-09606-2. Epub 2024 Jun 11. PMID: 38862750; PMCID:
+PMC11525307.
+
+38: Zhou K, Zhou Q, Yang D, Yue H, Tang C, Zhang B. Hepatitis E virus in Tibetan
+pigs on the Qinghai-Tibetan Plateau: detection, molecular characterization and
+infection of BALB/c mice. Arch Virol. 2019 Dec;164(12):2943-2951. doi:
+10.1007/s00705-019-04410-x. Epub 2019 Sep 23. PMID: 31549302.
+
+39: Kelbert L, Stephan R, Furtwaengler C, Pinillo JA, Morach M, Nüesch-
+Inderbinen M. Prevalence of Toxoplasma gondii, Hepatitis E Virus, and Salmonella
+Antibodies in Meat Juice Samples from Pigs at Slaughter in Switzerland. J Food
+Prot. 2021 Oct 1;84(10):1760-1764. doi: 10.4315/JFP-21-183. PMID: 34086887.
+
+40: Chauhan RP, Gordon ML. Characterization of a Near Full-Length Hepatitis E
+Virus Genome of Subtype 3c Generated from Naturally Infected South African
+Backyard Pigs. Pathogens. 2022 Sep 11;11(9):1030. doi:
+10.3390/pathogens11091030. PMID: 36145462; PMCID: PMC9506134.
+
+41: Meester M, Tobias TJ, van den Broek J, Meulenbroek CB, Bouwknegt M, van der
+Poel WHM, Stegeman A. Farm biosecurity measures to prevent hepatitis E virus
+infection in finishing pigs on endemically infected pig farms. One Health. 2023
+May 27;16:100570. doi: 10.1016/j.onehlt.2023.100570. PMID: 37363225; PMCID:
+PMC10288132.
+
+42: Song X, Wu J, Zhou K, Zhang Z, Tang C, Zhang B. Prevalence of hepatitis E
+virus genotype 4 of probable human origin in Tibetan pigs from the Qinghai-
+Tibetan Plateau, China. Zoonoses Public Health. 2024 Feb;71(1):120-126. doi:
+10.1111/zph.13078. Epub 2023 Oct 10. PMID: 37817386.
+
+43: Takova K, Koynarski T, Minkov G, Toneva V, Mardanova E, Ravin N, Lukov GL,
+Zahmanova G. Development and Optimization of an Enzyme Immunoassay to Detect
+Serum Antibodies against the Hepatitis E Virus in Pigs, Using Plant-Derived ORF2
+Recombinant Protein. Vaccines (Basel). 2021 Sep 6;9(9):991. doi:
+10.3390/vaccines9090991. PMID: 34579228; PMCID: PMC8473109.
+
+44: Dzierzon J, Oswaldi V, Merle R, Langkabel N, Meemken D. High Predictive
+Power of Meat Juice Serology on the Presence of Hepatitis E Virus in Slaughter
+Pigs. Foodborne Pathog Dis. 2020 Nov;17(11):687-692. doi: 10.1089/fpd.2020.2797.
+Epub 2020 May 17. PMID: 32412857.
+
+45: Navarro A, Bárcena C, Pozo P, Díez-Guerrier A, Martínez I, Polo C, Duque C,
+Rodríguez-Lázaro D, Goyache J, García N. Liver Transudate, a Potential
+Alternative to Detect Anti-Hepatitis E Virus Antibodies in Pigs and Wild Boars
+(<i>Sus scrofa</i>). Microorganisms. 2020 Mar 23;8(3):450. doi:
+10.3390/microorganisms8030450. PMID: 32210090; PMCID: PMC7144013.
+
+46: Milojević L, Velebit B, Janković V, Mitrović R, Betić N, Simunović S,
+Dimitrijević M. Prevalence, Genetic Diversity, and Quantification of the RNA
+Genome of the Hepatitis E Virus in Slaughtered Pigs in Serbia. Animals (Basel).
+2024 Feb 10;14(4):586. doi: 10.3390/ani14040586. PMID: 38396554; PMCID:
+PMC10886375.
+
+47: Modiyinji AF, Sanding GMAM, Atsama MA, Monamele CG, Nola M, Njouom R.
+Serological and molecular investigation of hepatitis E virus in pigs reservoirs
+from Cameroon reveals elevated seroprevalence and presence of genotype 3. PLoS
+One. 2020 Feb 10;15(2):e0229073. doi: 10.1371/journal.pone.0229073. PMID:
+32040501; PMCID: PMC7010275.

@@ -1,0 +1,32 @@
+1: Lei D, Ye Y, Lin K, Zhang F, Huang D, Li K, Yuan W, Wu Q, Ding Z, Wang L,
+Song D, Tang Y. Detection and genetic characterization of porcine pegivirus from
+pigs in China. Virus Genes. 2019 Apr;55(2):248-252. doi:
+10.1007/s11262-018-1624-6. Epub 2019 Jan 2. PMID: 30600430.
+
+2: Yang C, Wang L, Shen H, Zheng Y, Bade SA, Gauger PC, Chen Q, Zhang J, Guo B,
+Yoon KJ, Harmon KM, Main RG, Li G. Detection and genetic characterization of
+porcine pegivirus in pigs in the United States. Transbound Emerg Dis. 2018
+Jun;65(3):618-626. doi: 10.1111/tbed.12844. Epub 2018 Feb 27. PMID: 29484834.
+
+3: Kennedy J, Pfankuche VM, Hoeltig D, Postel A, Keuling O, Ciurkiewicz M,
+Baumgärtner W, Becher P, Baechlein C. Genetic variability of porcine pegivirus
+in pigs from Europe and China and insights into tissue tropism. Sci Rep. 2019
+Jun 3;9(1):8174. doi: 10.1038/s41598-019-44642-0. PMID: 31160748; PMCID:
+PMC6547670.
+
+4: Xie Y, Wang X, Feng J, Wei L, Li G, Si G, Chen Y, Yan H, He D. The
+Prevalence, Genetic Characterization, and Evolutionary Analysis of Porcine
+Pegivirus in Guangdong, China. Virol Sin. 2021 Feb;36(1):52-60. doi:
+10.1007/s12250-020-00240-3. Epub 2020 Jul 8. PMID: 32643050; PMCID: PMC7973331.
+
+5: Chen F, Knutson TP, Braun E, Jiang Y, Rossow S, Marthaler DG. Semi-
+quantitative duplex RT-PCR reveals the low occurrence of Porcine Pegivirus and
+Atypical Porcine Pestivirus in diagnostic samples from the United States.
+Transbound Emerg Dis. 2019 May;66(3):1420-1425. doi: 10.1111/tbed.13154. Epub
+2019 Mar 21. PMID: 30806022; PMCID: PMC6849716.
+
+6: Li H, Li K, Bi Z, Gu J, Song D, Lei D, Luo S, Huang D, Wu Q, Ding Z, Wang L,
+Ye Y, Tang Y. Development of a reverse transcription-loop-mediated isothermal
+amplification (RT-LAMP) assay for the detection of porcine pegivirus. J Virol
+Methods. 2019 Aug;270:59-65. doi: 10.1016/j.jviromet.2019.04.019. Epub 2019 Apr
+22. PMID: 31022411; PMCID: PMC7113777.

@@ -1,0 +1,215 @@
+1: Ren X, Yin M, Zhao Q, Zheng Z, Wang H, Lu Z, Li X, Qian P. Foot-and-Mouth
+Disease Virus Induces Porcine Gasdermin E-Mediated Pyroptosis through the
+Protease Activity of 3C<sup>pro</sup>. J Virol. 2023 Jul 27;97(7):e0068623. doi:
+10.1128/jvi.00686-23. Epub 2023 Jun 27. PMID: 37367489; PMCID: PMC10373541.
+
+2: Lee G, Kim A, Kang HR, Hwang JH, Park JH, Lee MJ, Kim B, Kim SM. Porcine
+interferon-α linked to the porcine IgG-Fc induces prolonged and broad-spectrum
+antiviral effects against foot-and-mouth disease virus. Antiviral Res. 2024
+Mar;223:105836. doi: 10.1016/j.antiviral.2024.105836. Epub 2024 Feb 14. PMID:
+38360296.
+
+3: Lu B, Ru Y, Hao R, Yang Y, Liu H, Li Y, Zhang Y, Mao Y, Yang R, Pan Y, Yu S,
+Zheng H, Cui Y. A ferritin-based nanoparticle displaying a neutralizing epitope
+for foot-and-mouth disease virus (FMDV) confers partial protection in guinea
+pigs. BMC Vet Res. 2024 Jul 6;20(1):301. doi: 10.1186/s12917-024-04159-9. PMID:
+38971791; PMCID: PMC11227194.
+
+4: Li F, Wu S, Lv L, Huang S, Zhang Z, Zerang Z, Li P, Cao Y, Bao H, Sun P, Bai
+X, He Y, Fu Y, Yuan H, Ma X, Zhao Z, Zhang J, Wang J, Wang T, Li D, Zhang Q, He
+J, Liu Z, Lu Z, Lei D, Li K. Discovery, recognized antigenic structures, and
+evolution of cross-serotype broadly neutralizing antibodies from porcine B-cell
+repertoires against foot-and-mouth disease virus. PLoS Pathog. 2024 Oct
+15;20(10):e1012623. doi: 10.1371/journal.ppat.1012623. PMID: 39405339; PMCID:
+PMC11508087.
+
+5: Shao J, Liu W, Gao S, Chang H, Guo H. A recombinant multi-epitope trivalent
+vaccine for foot-and-mouth disease virus serotype O in pigs. Virology. 2024
+Aug;596:110103. doi: 10.1016/j.virol.2024.110103. Epub 2024 May 10. PMID:
+38781710.
+
+6: Li Q, Ma X, Shen Y, Dai J, Nian X, Shang X, Chen J, Wubshet AK, Zhang J,
+Zheng H. Chimeric Porcine Parvovirus VP2 Virus-like Particles with Epitopes of
+South African Serotype 2 Foot-and-Mouth Disease Virus Elicits Specific Humoral
+and Cellular Responses in Mice. Viruses. 2024 Apr 17;16(4):621. doi:
+10.3390/v16040621. PMID: 38675963; PMCID: PMC11054767.
+
+7: Ranjitha HB, Dhanesh VV, Hosamani M, Sreenivasa BP, Jabeen U, Biswal JK,
+Saravanan P, Sanyal A, Bhanuprakash V, Basagoudanavar SH. Thermostable negative-
+marker foot-and-mouth disease virus serotype O induces protective immunity in
+guinea pigs. Appl Microbiol Biotechnol. 2023 Feb;107(4):1285-1297. doi:
+10.1007/s00253-023-12359-w. Epub 2023 Jan 19. PMID: 36656322; PMCID: PMC9850340.
+
+8: Yeo S, Yang M, Nyachoti M, Rauh R, Callahan JD, Nfon C. Detection of Foot-
+and-Mouth Disease Virus in Swine Meat Juice. Pathogens. 2020 May 29;9(6):424.
+doi: 10.3390/pathogens9060424. PMID: 32485851; PMCID: PMC7350341.
+
+9: Dong C, Xiao X, Wang M, Sun Y, Jin H, Zhang Y, Zhao H, Cao Q, Yang Y, Yin R.
+Development and Application of a TaqMan RT-qPCR for the Detection of Foot-and-
+Mouth Disease Virus in Pigs. Vet Sci. 2024 Nov 5;11(11):541. doi:
+10.3390/vetsci11110541. PMID: 39591315; PMCID: PMC11598863.
+
+10: Roh JH, Bui NA, Lee HS, Bui VN, Dao DT, Vu TT, Hoang TT, So KM, Yi SW, Kim
+E, Hur TY, Oh SI. Age-dependent immune response in pigs against foot-and-mouth
+disease virus <i>in vitro</i>. J Anim Sci Technol. 2021 Nov;63(6):1376-1385.
+doi: 10.5187/jast.2021.e103. Epub 2021 Nov 30. PMID: 34957451; PMCID:
+PMC8672249.
+
+11: Song BM, Lee GH, Kang SM, Tark D. Evaluation of vaccine efficacy with 2B/T
+epitope conjugated porcine IgG-Fc recombinants against foot-and-mouth disease
+virus. J Vet Med Sci. 2024 Sep 20;86(9):999-1007. doi: 10.1292/jvms.23-0480.
+Epub 2024 Jul 29. PMID: 39069487; PMCID: PMC11422696.
+
+12: Stenfeldt C, Bertram MR, Meek HC, Hartwig EJ, Smoliga GR, Niederwerder MC,
+Diel DG, Dee SA, Arzt J. The risk and mitigation of foot-and-mouth disease virus
+infection of pigs through consumption of contaminated feed. Transbound Emerg
+Dis. 2022 Jan;69(1):72-87. doi: 10.1111/tbed.14230. Epub 2021 Jul 27. PMID:
+34237198.
+
+13: Hu W, Zheng H, Li Q, Wang Y, Liu X, Hu X, Liu W, Liu S, Chen Z, Feng W, Cai
+X, Li N. shRNA transgenic swine display resistance to infection with the foot-
+and-mouth disease virus. Sci Rep. 2021 Aug 12;11(1):16377. doi:
+10.1038/s41598-021-95853-3. PMID: 34385528; PMCID: PMC8361160.
+
+14: Zhang T, Lu B, Yang B, Zhang D, Shi X, Shen C, Cui H, Yuan X, Zhao D, Yang
+J, Hao Y, Chen X, Liu X, Zhang K, Zheng H. Component Identification and Analysis
+of Vesicular Fluid From Swine Infected by Foot-and-Mouth Disease Virus. Front
+Vet Sci. 2022 Mar 17;9:860978. doi: 10.3389/fvets.2022.860978. PMID: 35372527;
+PMCID: PMC8968935.
+
+15: Yeo S, Yang M, Nyachoti M, Nfon C. Detection of antibodies to structural
+proteins of foot-and-mouth disease virus in swine meat juice. Can J Vet Res.
+2022 Apr;86(2):147-152. PMID: 35388229; PMCID: PMC8978280.
+
+16: Kim A, Lee G, Hwang JH, Park JH, Lee MJ, Kim B, Kim SM. BacMam Expressing
+Highly Glycosylated Porcine Interferon Alpha Induces Robust Antiviral and
+Adjuvant Effects against Foot-and-Mouth Disease Virus in Pigs. J Virol. 2022 Jun
+22;96(12):e0052822. doi: 10.1128/jvi.00528-22. Epub 2022 May 23. PMID: 35604219;
+PMCID: PMC9215255.
+
+17: Stenfeldt C, Bertram MR, Smoliga GR, Hartwig EJ, Delgado AH, Arzt J.
+Duration of Contagion of Foot-And-Mouth Disease Virus in Infected Live Pigs and
+Carcasses. Front Vet Sci. 2020 Jun 11;7:334. doi: 10.3389/fvets.2020.00334.
+PMID: 32596275; PMCID: PMC7300267.
+
+18: Sarry M, Bernelin-Cottet C, Michaud C, Relmy A, Romey A, Salomez AL, Renson
+P, Contrant M, Berthaud M, Huet H, Jouvion G, Hägglund S, Valarcher JF, Bakkali
+Kassimi L, Blaise-Boisseau S. Development of a primary cell model derived from
+porcine dorsal soft palate for foot-and-mouth disease virus research and
+diagnosis. Front Microbiol. 2023 Sep 29;14:1215347. doi:
+10.3389/fmicb.2023.1215347. PMID: 37840704; PMCID: PMC10570842.
+
+19: Puckette MC, Martel E, Rutherford J, Barrera J, Hurtle W, Pisano M,
+Martignette L, Zurita M, Neilan JG, Chung CJ. Generation and characterization of
+genetically stable heterohybridomas producing foot-and-mouth disease virus-
+specific porcine monoclonal antibodies. J Immunol Methods. 2020 Dec;487:112873.
+doi: 10.1016/j.jim.2020.112873. Epub 2020 Sep 28. PMID: 32998052.
+
+20: Kim DW, Cho G, Kim H, Lee G, Lim TG, Kwak HY, Park JH, Park SH.
+Immunogenicity and Protection against Foot-and-Mouth Disease Virus in Swine
+Intradermally Vaccinated with a Bivalent Vaccine of Foot-and-Mouth Disease Virus
+Type O and A. Vaccines (Basel). 2023 Apr 7;11(4):815. doi:
+10.3390/vaccines11040815. PMID: 37112726; PMCID: PMC10142530.
+
+21: Malirat V, Caldevilla C, Cardillo S, Espinoza AM, Novo SG, Taffarel A,
+Benito MB, Bergmann IE. Broad immunogenic spectrum of monovalent and trivalent
+foot-and-mouth disease virus vaccines containing O<sub>1</sub> campos, A24
+cruzeiro and A Argentina 2001 strains against circulating viral lineages in
+cattle and pigs. Vaccine. 2023 Sep 7;41(39):5782-5790. doi:
+10.1016/j.vaccine.2023.08.007. Epub 2023 Aug 12. PMID: 37574343.
+
+22: Nishi T, Morioka K, Kawaguchi R, Yamada M, Ikezawa M, Fukai K. Quantitative
+analysis of infection dynamics of foot-and-mouth disease virus strain O/CATHAY
+in pigs and cattle. PLoS One. 2021 Jan 22;16(1):e0245781. doi:
+10.1371/journal.pone.0245781. PMID: 33481934; PMCID: PMC7822254.
+
+23: Lalzampuia H, Elango S, Biswal JK, Krishnaswamy N, Selvan RPT, Saravanan P,
+Mahadappa P, V Umapathi, Reddy GR, Bhanuprakash V, Sanyal A, Dechamma HJ.
+Infection and protection responses of deletion mutants of non-structural
+proteins of foot-and-mouth disease virus serotype Asia1 in guinea pigs. Appl
+Microbiol Biotechnol. 2022 Jan;106(1):273-286. doi: 10.1007/s00253-021-11692-2.
+Epub 2021 Dec 10. PMID: 34889988.
+
+24: Xie Y, Chang H, Li Z, Zhang Y. Adenovirus-Vectored Capsid Proteins of the
+Serotype A Foot-and-Mouth Disease Virus Protect Guinea Pigs Against Challenge.
+Front Microbiol. 2020 Jul 9;11:1449. doi: 10.3389/fmicb.2020.01449. PMID:
+32733405; PMCID: PMC7363769.
+
+25: Kim H, Seo HW, Cho HS, Oh Y. A Vaccine Based on Asia1 Shamir of the Foot-
+and-Mouth Disease Virus Offers Low Levels of Protection to Pigs against
+Asia1/MOG/05, Circulating in East Asia. Viruses. 2022 Aug 4;14(8):1726. doi:
+10.3390/v14081726. PMID: 36016348; PMCID: PMC9412984.
+
+26: Eschbaumer M, Dill V, Carlson JC, Arzt J, Stenfeldt C, Krug PW, Hardham JM,
+Stegner JE, Rodriguez LL, Rieder E. Foot-and-Mouth Disease Virus Lacking the
+Leader Protein and Containing Two Negative DIVA Markers (FMDV LL3B3D
+A<sub>24</sub>) Is Highly Attenuated in Pigs. Pathogens. 2020 Feb 17;9(2):129.
+doi: 10.3390/pathogens9020129. PMID: 32079312; PMCID: PMC7168223.
+
+27: Feng L, Gao YY, Sun M, Li ZB, Zhang Q, Yang J, Qiao C, Jin H, Feng HS, Xian
+YH, Qi J, Gao GF, Liu WJ, Gao FS. The Parallel Presentation of Two Functional
+CTL Epitopes Derived from the O and Asia 1 Serotypes of Foot-and-Mouth Disease
+Virus and Swine SLA-2*HB01: Implications for Universal Vaccine Development.
+Cells. 2022 Dec 12;11(24):4017. doi: 10.3390/cells11244017. PMID: 36552780;
+PMCID: PMC9777387.
+
+28: de León P, Cañas-Arranz R, Saez Y, Forner M, Defaus S, Cuadra D, Bustos MJ,
+Torres E, Andreu D, Blanco E, Sobrino F, Hammer SE. Association of Porcine Swine
+Leukocyte Antigen (SLA) Haplotypes with B- and T-Cell Immune Response to Foot-
+and-Mouth Disease Virus (FMDV) Peptides. Vaccines (Basel). 2020 Sep 8;8(3):513.
+doi: 10.3390/vaccines8030513. PMID: 32911818; PMCID: PMC7563261.
+
+29: Fukai K, Nishi T, Kato T, Kawaguchi R, Seeyo KB, Morioka K. Near-Complete
+Genome Sequences of Three Foot-and-Mouth Disease Virus O/ME-SA/Ind-2001e
+Isolates Obtained from Cattle and Pigs in Thailand in 2016. Microbiol Resour
+Announc. 2023 Feb 16;12(2):e0111022. doi: 10.1128/mra.01110-22. Epub 2023 Jan
+18. PMID: 36651785; PMCID: PMC9933717.
+
+30: Cañas-Arranz R, Forner M, Defaus S, de León P, Bustos MJ, Torres E, Sobrino
+F, Andreu D, Blanco E. A Single Dose of Dendrimer B<sub>2</sub>T Peptide Vaccine
+Partially Protects Pigs against Foot-and-Mouth Disease Virus Infection. Vaccines
+(Basel). 2020 Jan 10;8(1):19. doi: 10.3390/vaccines8010019. PMID: 31936706;
+PMCID: PMC7157199.
+
+31: Li K, Zhu G, Zhou S, Sun P, Wang H, Bao H, Fu Y, Li P, Bai X, Ma X, Zhang J,
+Li D, Chen Y, Liu Z, Cao Y, Lu Z. Isolation and characterization of porcine
+monoclonal antibodies revealed two distinct serotype-independent epitopes on VP2
+of foot-and-mouth disease virus. J Gen Virol. 2021 Jul;102(7). doi:
+10.1099/jgv.0.001608. PMID: 34280085.
+
+32: Rangel G, Bárcena J, Moreno N, Mata CP, Castón JR, Alejo A, Blanco E.
+Chimeric RHDV Virus-Like Particles Displaying Foot-and-Mouth Disease Virus
+Epitopes Elicit Neutralizing Antibodies and Confer Partial Protection in Pigs.
+Vaccines (Basel). 2021 May 7;9(5):470. doi: 10.3390/vaccines9050470. PMID:
+34066934; PMCID: PMC8148555.
+
+33: Liu W, Shao J, Zhang G, Chang Y, Ge S, Sun Y, Gao Z, Chang H. Development of
+an Indirect Chemiluminescence Immunoassay Using a Multiepitope Recombinant
+Protein To Specifically Detect Antibodies against Foot-and-Mouth Disease Virus
+Serotype O in Swine. J Clin Microbiol. 2021 Feb 18;59(3):e02464-20. doi:
+10.1128/JCM.02464-20. PMID: 33328177; PMCID: PMC8106706.
+
+34: Neiffer D, Hewlett J, Buss P, Rossouw L, Hausler G, deKlerk-Lorist LM, Roos
+E, Olea-Popelka F, Lubisi B, Heath L, Miller M. ANTIBODY PREVALENCE TO AFRICAN
+SWINE FEVER VIRUS, MYCOBACTERIUM BOVIS, FOOT-AND-MOUTH DISEASE VIRUS, RIFT
+VALLEY FEVER VIRUS, INFLUENZA A VIRUS, AND BRUCELLA AND LEPTOSPIRA SPP. IN FREE-
+RANGING WARTHOG (PHACOCHOERUS AFRICANUS) POPULATIONS IN SOUTH AFRICA. J Wildl
+Dis. 2021 Jan 6;57(1):60-70. doi: 10.7589/JWD-D-20-00011. PMID: 33635986.
+
+35: Mansilla FC, Turco CS, Miraglia MC, Bessone FA, Franco R, Pérez-Filgueira M,
+Sala JM, Capozzo AV. The role of viral particle integrity in the serological
+assessment of foot-and-mouth disease virus vaccine-induced immunity in swine.
+PLoS One. 2020 May 5;15(5):e0232782. doi: 10.1371/journal.pone.0232782. PMID:
+32369529; PMCID: PMC7199947.
+
+36: Sui C, Jiang D, Wu X, Liu S, Li F, Pan L, Cong X, Li J, Yoo D, Rock DL,
+Miller LC, Lee C, Du Y, Qi J. Inhibition of Antiviral Innate Immunity by Foot-
+and-Mouth Disease Virus L<sup>pro</sup> through Interaction with the N-Terminal
+Domain of Swine RNase L. J Virol. 2021 Jul 12;95(15):e0036121. doi:
+10.1128/JVI.00361-21. Epub 2021 Jul 12. PMID: 33980594; PMCID: PMC8274615.
+
+37: Bazid AI, El-Alfy HA, El-Didamony G, Elfeil WK, El-Sayed MM, Fawzy M.
+Adjuvant effect of saponin in an oil-based monovalent (serotype O) foot-and-
+mouth disease virus vaccine on the antibody response in guinea pigs and cattle.
+Arch Virol. 2021 Jul;166(7):1977-1984. doi: 10.1007/s00705-021-05043-9. Epub
+2021 Apr 19. PMID: 33871696.

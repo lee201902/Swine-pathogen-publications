@@ -1,0 +1,11 @@
+1: Rawle DJ, Nguyen W, Dumenil T, Parry R, Warrilow D, Tang B, Le TT, Slonchak
+A, Khromykh AA, Lutzky VP, Yan K, Suhrbier A. Sequencing of Historical Isolates,
+K-mer Mining and High Serological Cross-Reactivity with Ross River Virus Argue
+against the Presence of Getah Virus in Australia. Pathogens. 2020 Oct
+16;9(10):848. doi: 10.3390/pathogens9100848. PMID: 33081269; PMCID: PMC7650646.
+
+2: Togami E, Gyawali N, Ong O, Kama M, Cao-Lormeau VM, Aubry M, Ko AI, Nilles
+EJ, Collins-Emerson JM, Devine GJ, Weinstein P, Lau CL. First evidence of
+concurrent enzootic and endemic transmission of Ross River virus in the absence
+of marsupial reservoirs in Fiji. Int J Infect Dis. 2020 Jul;96:94-96. doi:
+10.1016/j.ijid.2020.02.048. Epub 2020 Feb 27. PMID: 32114197.

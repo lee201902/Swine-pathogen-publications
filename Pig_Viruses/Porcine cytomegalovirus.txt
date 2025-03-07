@@ -1,0 +1,52 @@
+1: Halecker S, Hansen S, Krabben L, Ebner F, Kaufer B, Denner J. How, where and
+when to screen for porcine cytomegalovirus (PCMV) in donor pigs for
+xenotransplantation. Sci Rep. 2022 Dec 13;12(1):21545. doi:
+10.1038/s41598-022-25624-1. PMID: 36513687; PMCID: PMC9747970.
+
+2: Fischer N, Gulich B, Keßler B, Längin M, Fishman JA, Wolf E, Boller K, Tönjes
+RR, Godehardt AW. PCR and peptide based PCMV detection in pig - development and
+application of a combined testing procedure differentiating newly from latent
+infected pigs. Xenotransplantation. 2023 Jul-Aug;30(4):e12803. doi:
+10.1111/xen.12803. Epub 2023 Apr 30. PMID: 37120823.
+
+3: Denner J, Bigley TM, Phan TL, Zimmermann C, Zhou X, Kaufer BB. Comparative
+Analysis of Roseoloviruses in Humans, Pigs, Mice, and Other Species. Viruses.
+2019 Nov 30;11(12):1108. doi: 10.3390/v11121108. PMID: 31801268; PMCID:
+PMC6949924.
+
+4: Halecker S, Papatsiros V, Psalla D, Krabben L, Kaufer B, Denner J.
+Virological Characterization of Pigs with Erythema Multiforme. Microorganisms.
+2022 Mar 18;10(3):652. doi: 10.3390/microorganisms10030652. PMID: 35336226;
+PMCID: PMC8949330.
+
+5: Kim A, Lee G, Hwang JH, Park JH, Lee MJ, Kim B, Kim SM. BacMam Expressing
+Highly Glycosylated Porcine Interferon Alpha Induces Robust Antiviral and
+Adjuvant Effects against Foot-and-Mouth Disease Virus in Pigs. J Virol. 2022 Jun
+22;96(12):e0052822. doi: 10.1128/jvi.00528-22. Epub 2022 May 23. PMID: 35604219;
+PMCID: PMC9215255.
+
+6: Jhelum H, Papatsiros V, Papakonstantinou G, Krabben L, Kaufer B, Denner J.
+Screening for Viruses in Indigenous Greek Black Pigs. Microorganisms. 2024 Feb
+2;12(2):315. doi: 10.3390/microorganisms12020315. PMID: 38399719; PMCID:
+PMC10893322.
+
+7: Goecke NB, Kobberø M, Kusk TK, Hjulsager CK, Pedersen KS, Kristensen CS,
+Larsen LE. Objective pathogen monitoring in nursery and finisher pigs by monthly
+laboratory diagnostic testing. Porcine Health Manag. 2020 Sep 8;6:23. doi:
+10.1186/s40813-020-00161-3. PMID: 32922832; PMCID: PMC7476771.
+
+8: Martín-Valls GE, Li Y, Díaz I, Cano E, Sosa-Portugal S, Mateu E. Diversity of
+respiratory viruses present in nasal swabs under influenza suspicion in
+respiratory disease cases of weaned pigs. Front Vet Sci. 2022 Oct 19;9:1014475.
+doi: 10.3389/fvets.2022.1014475. PMID: 36337208; PMCID: PMC9627340.
+
+9: Jhelum H, Kaufer B, Denner J. Application of Methods Detecting
+Xenotransplantation-Relevant Viruses for Screening German Slaughterhouse Pigs.
+Viruses. 2024 Jul 11;16(7):1119. doi: 10.3390/v16071119. PMID: 39066281; PMCID:
+PMC11281539.
+
+10: Zhou L, Zhou H, Fan Y, Wang J, Zhang R, Guo Z, Li Y, Kang R, Zhang Z, Yang
+D, Liu J. Metagenomics to Identify Viral Communities Associated with Porcine
+Respiratory Disease Complex in Tibetan Pigs in the Tibetan Plateau, China.
+Pathogens. 2024 May 13;13(5):404. doi: 10.3390/pathogens13050404. PMID:
+38787256; PMCID: PMC11124006.

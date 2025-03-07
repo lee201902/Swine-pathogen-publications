@@ -1,0 +1,108 @@
+1: Kitamura K, Takagi H, Oka T, Kataoka M, Ueki Y, Sakagami A. Intertypic
+reassortment of mammalian orthoreovirus identified in wastewater in Japan. Sci
+Rep. 2021 Jun 15;11(1):12583. doi: 10.1038/s41598-021-92019-z. PMID: 34131201;
+PMCID: PMC8206364.
+
+2: Ye D, Ji Z, Shi H, Chen J, Shi D, Cao L, Liu J, Li M, Dong H, Jing Z, Wang X,
+Liu Q, Fan Q, Cong G, Zhang J, Han Y, Zhou J, Gu J, Zhang X, Feng L. Molecular
+characterization of an emerging reassortant mammalian orthoreovirus in China.
+Arch Virol. 2020 Oct;165(10):2367-2372. doi: 10.1007/s00705-020-04712-5. Epub
+2020 Aug 5. PMID: 32757058.
+
+3: Wang L, Zheng B, Shen Z, Nath ND, Li Y, Walsh T, Li Y, Mitchell WJ, He D, Lee
+J, Moore S, Tong S, Zhang S, Ma W. Isolation and characterization of mammalian
+orthoreovirus from bats in the United States. J Med Virol. 2023
+Feb;95(2):e28492. doi: 10.1002/jmv.28492. PMID: 36633204.
+
+4: Wang L, Li Y, Walsh T, Shen Z, Li Y, Deb Nath N, Lee J, Zheng B, Tao Y, Paden
+CR, Queen K, Zhang S, Tong S, Ma W. Isolation and characterization of novel
+reassortant mammalian orthoreovirus from pigs in the United States. Emerg
+Microbes Infect. 2021 Dec;10(1):1137-1147. doi: 10.1080/22221751.2021.1933608.
+PMID: 34018466; PMCID: PMC8205024.
+
+5: Lee SA, Lee HJ, Gu NY, Park YR, Kim EJ, Kang SJ, Hyun BH, Yang DK. Evaluation
+of porcine intestinal organoids as an <i>in vitro</i> model for mammalian
+orthoreovirus 3 infection. J Vet Sci. 2023 Jul;24(4):e53. doi:
+10.4142/jvs.23017. PMID: 37532298; PMCID: PMC10404702.
+
+6: Thimmasandra Narayanappa A, Sooryanarain H, Deventhiran J, Cao D, Ammayappan
+Venkatachalam B, Kambiranda D, LeRoith T, Heffron CL, Lindstrom N, Hall K, Jobst
+P, Sexton C, Meng XJ, Elankumaran S. A novel pathogenic Mammalian orthoreovirus
+from diarrheic pigs and Swine blood meal in the United States. mBio. 2015 May
+19;6(3):e00593-15. doi: 10.1128/mBio.00593-15. PMID: 25991685; PMCID:
+PMC4442135.
+
+7: Zhang W, Kataoka M, Doan YH, Oi T, Furuya T, Oba M, Mizutani T, Oka T, Li TC,
+Nagai M. Isolation and characterization of mammalian orthoreovirus type 3 from a
+fecal sample from a wild boar in Japan. Arch Virol. 2021 Jun;166(6):1671-1680.
+doi: 10.1007/s00705-021-05053-7. Epub 2021 Apr 11. PMID: 33839921.
+
+8: Lelli D, Moreno A, Steyer A, Nagliˇc T, Chiapponi C, Prosperi A, Faccin F,
+Sozzi E, Lavazza A. Detection and Characterization of a Novel Reassortant
+Mammalian Orthoreovirus in Bats in Europe. Viruses. 2015 Nov 11;7(11):5844-54.
+doi: 10.3390/v7112908. PMID: 26569289; PMCID: PMC4664981.
+
+9: Arnaboldi S, Righi F, Filipello V, Trogu T, Lelli D, Bianchi A, Bonardi S,
+Pavoni E, Bertasi B, Lavazza A. Mammalian Orthoreovirus (MRV) Is Widespread in
+Wild Ungulates of Northern Italy. Viruses. 2021 Feb 3;13(2):238. doi:
+10.3390/v13020238. PMID: 33546342; PMCID: PMC7913563.
+
+10: Singh F, Rajukumar K, Senthilkumar D, Venkatesh G, Srivastava D, Kombiah S,
+Jhade SK, Singh VP. First report on co-isolation and whole-genomic
+characterisation of mammalian orthorubulavirus 5 and mammalian orthoreovirus
+type 3 from domestic pigs in India. Arch Virol. 2022 Jul;167(7):1529-1545. doi:
+10.1007/s00705-022-05459-x. Epub 2022 May 23. PMID: 35604502.
+
+11: Luo Y, Fei L, Yue H, Li S, Ma H, Tang C. Prevalence and genomic
+characteristics of a novel reassortment mammalian orthoreovirus type 2 in
+diarrhea piglets in Sichuan, China. Infect Genet Evol. 2020 Nov;85:104420. doi:
+10.1016/j.meegid.2020.104420. Epub 2020 Jun 13. PMID: 32544614.
+
+12: Lelli D, Beato MS, Cavicchio L, Lavazza A, Chiapponi C, Leopardi S, Baioni
+L, De Benedictis P, Moreno A. First identification of mammalian orthoreovirus
+type 3 in diarrheic pigs in Europe. Virol J. 2016 Aug 12;13:139. doi:
+10.1186/s12985-016-0593-4. PMID: 27519739; PMCID: PMC4983005.
+
+13: Do HQ, Yeom M, Moon S, Lee H, Chung C-u, Chung H-c, Park JW, Na W, Song D.
+Genetic characterization and pathogenicity in a mouse model of newly isolated
+bat-originated mammalian orthoreovirus in South Korea. Microbiol Spectr. 2024
+Mar 5;12(3):e0176223. doi: 10.1128/spectrum.01762-23. Epub 2024 Jan 30. PMID:
+38289932; PMCID: PMC10913406.
+
+14: Luo Y, Wang Y, Tang W, Wang C, Liu H, Wang X, Xie J, Wang J, Ouyang K, Chen
+Y, Wei Z, Qin Y, Pan Y, Huang W. Isolation and identification of a novel
+porcine-related recombinant mammalian orthoreovirus type 3 strain from cattle in
+Guangxi Province, China. Front Microbiol. 2024 Jul 22;15:1419691. doi:
+10.3389/fmicb.2024.1419691. PMID: 39104586; PMCID: PMC11299062.
+
+15: Cao D, Sooryanarain H, Yugo DM, Tian D, Rogers AJ, Heffron CL, Thimmasandra
+Narayanappa A, LeRoith T, Overend C, Matzinger SR, Elankumaran S, Hermann JR,
+Patterson AR, Meng XJ. Evaluation of the pathogenicity of mammalian
+orthoreovirus type 3 (MRV3) in germ-free gnotobiotic pigs and of the efficacy of
+an inactivated vaccine against MRV3 infection in neonatal conventional piglets.
+Vet Microbiol. 2018 Oct;224:23-30. doi: 10.1016/j.vetmic.2018.08.019. Epub 2018
+Aug 22. PMID: 30269786.
+
+16: Qin P, Li H, Wang JW, Wang B, Xie RH, Xu H, Zhao LY, Li L, Pan Y, Song Y,
+Huang YW. Genetic and pathogenic characterization of a novel reassortant
+mammalian orthoreovirus 3 (MRV3) from a diarrheic piglet and seroepidemiological
+survey of MRV3 in diarrheic pigs from east China. Vet Microbiol. 2017
+Sep;208:126-136. doi: 10.1016/j.vetmic.2017.07.021. Epub 2017 Jul 23. PMID:
+28888627; PMCID: PMC7117289.
+
+17: Besozzi M, Lauzi S, Lelli D, Lavazza A, Chiapponi C, Pisoni G, Viganò R,
+Lanfranchi P, Luzzago C. Host range of mammalian orthoreovirus type 3 widening
+to alpine chamois. Vet Microbiol. 2019 Mar;230:72-77. doi:
+10.1016/j.vetmic.2019.01.012. Epub 2019 Jan 14. PMID: 30827408.
+
+18: Rosa UA, Ribeiro GO, Villanova F, Luchs A, Milagres FAP, Komninakis SV,
+Tahmasebi R, Lobato MCABS, Brustulin R, Chagas RTD, Abrão MFNDS, Soares CVDA,
+Tinker RJ, Pandey RP, Raj VS, Sabino EC, Deng X, Delwart E, Costa ACD, Leal É.
+First identification of mammalian orthoreovirus type 3 by gut virome analysis in
+diarrheic child in Brazil. Sci Rep. 2019 Dec 9;9(1):18599. doi:
+10.1038/s41598-019-55216-5. PMID: 31819139; PMCID: PMC6901473.
+
+19: Jansen van Vuren P, Parry RH, Pawęska JT. Detection of Dengue Virus 1 and
+Mammalian Orthoreovirus 3, with Novel Reassortments, in a South African Family
+Returning from Thailand, 2017. Viruses. 2024 Aug 9;16(8):1274. doi:
+10.3390/v16081274. PMID: 39205247; PMCID: PMC11358982.

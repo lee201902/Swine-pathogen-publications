@@ -1,0 +1,61 @@
+1: Bedsted AE, Rasmussen TB, Martinenghi LD, Bøtner A, Nauwynck H, Belsham GJ.
+Porcine respiratory coronavirus genome sequences; comparisons and relationships
+to transmissible gastroenteritis viruses. Virology. 2024 Jul;595:110072. doi:
+10.1016/j.virol.2024.110072. Epub 2024 Apr 2. PMID: 38599031.
+
+2: Rawal G, Yim-Im W, Aljets E, Halbur PG, Zhang J, Opriessnig T. Porcine
+Respiratory Coronavirus (PRCV): Isolation and Characterization of a Variant PRCV
+from USA Pigs. Pathogens. 2023 Aug 28;12(9):1097. doi:
+10.3390/pathogens12091097. PMID: 37764905; PMCID: PMC10536027.
+
+3: Ma Y, Shi K, Chen Z, Shi Y, Zhou Q, Mo S, Wei H, Hu L, Mo M. Simultaneous
+Detection of Porcine Respiratory Coronavirus, Porcine Reproductive and
+Respiratory Syndrome Virus, Swine Influenza Virus, and Pseudorabies Virus via
+Quadruplex One-Step RT-qPCR. Pathogens. 2024 Apr 19;13(4):341. doi:
+10.3390/pathogens13040341. PMID: 38668296; PMCID: PMC11054806.
+
+4: Kim JH, Park J, Lee DK, Kim WI, Lyoo YS, Park CK, Kim HR. Prevalence and
+Genetic Characterization of Porcine Respiratory Coronavirus in Korean Pig Farms.
+Animals (Basel). 2024 Jun 5;14(11):1698. doi: 10.3390/ani14111698. PMID:
+38891745; PMCID: PMC11171391.
+
+5: Antas M, Olech M. First report of transmissible gastroenteritis virus (TGEV)
+and porcine respiratory coronavirus (PRCV) in pigs from Poland. BMC Vet Res.
+2024 Nov 18;20(1):517. doi: 10.1186/s12917-024-04364-6. PMID: 39551750; PMCID:
+PMC11571510.
+
+6: Rawal G, Zhang J, Halbur PG, Gauger PC, Wang C, Opriessnig T. Experimental
+Infection of Pigs with a Traditional or a Variant Porcine Respiratory
+Coronavirus (PRCV) Strain and Impact on Subsequent Influenza A Infection.
+Pathogens. 2023 Aug 11;12(8):1031. doi: 10.3390/pathogens12081031. PMID:
+37623991; PMCID: PMC10459072.
+
+7: Heegaard PMH, Sturek M, Alloosh M, Belsham GJ. Animal Models for COVID-19:
+More to the Picture Than ACE2, Rodents, Ferrets, and Non-human Primates. A Case
+for Porcine Respiratory Coronavirus and the Obese Ossabaw Pig. Front Microbiol.
+2020 Sep 25;11:573756. doi: 10.3389/fmicb.2020.573756. PMID: 33101246; PMCID:
+PMC7545904.
+
+8: Keep S, Carr BV, Lean FZX, Fones A, Newman J, Dowgier G, Freimanis G, Vatzia
+E, Polo N, Everest H, Webb I, Mcnee A, Paudyal B, Thakur N, Nunez A, MacLoughlin
+R, Maier H, Hammond J, Bailey D, Waters R, Charleston B, Tuthill T, Britton P,
+Bickerton E, Tchilian E. Porcine Respiratory Coronavirus as a Model for Acute
+Respiratory Coronavirus Disease. Front Immunol. 2022 Mar 28;13:867707. doi:
+10.3389/fimmu.2022.867707. PMID: 35418984; PMCID: PMC8995773.
+
+9: Jiang C, Li L, Xue M, Zhao L, Liu X, Wang W, Feng L, Liu P. Long-Term
+Expanding Porcine Airway Organoids Provide Insights into the Pathogenesis and
+Innate Immunity of Porcine Respiratory Coronavirus Infection. J Virol. 2022 Jul
+27;96(14):e0073822. doi: 10.1128/jvi.00738-22. Epub 2022 Jun 28. PMID: 35762755;
+PMCID: PMC9327677.
+
+10: De Rijcke M, Shaikh HM, Mees J, Nauwynck H, Vandegehuchte MB. Environmental
+stability of porcine respiratory coronavirus in aquatic environments. PLoS One.
+2021 Jul 14;16(7):e0254540. doi: 10.1371/journal.pone.0254540. PMID: 34260643;
+PMCID: PMC8279332.
+
+11: Peng JY, Punyadarsaniya D, Shin DL, Pavasutthipaisit S, Beineke A, Li G, Wu
+NH, Herrler G. The Cell Tropism of Porcine Respiratory Coronavirus for Airway
+Epithelial Cells Is Determined by the Expression of Porcine Aminopeptidase N.
+Viruses. 2020 Oct 23;12(11):1211. doi: 10.3390/v12111211. PMID: 33114247; PMCID:
+PMC7690903.

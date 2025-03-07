@@ -1,0 +1,34 @@
+1: More-Bayona JA, Ramirez-Velasquez M, Hause B, Nelson E, Rivera-Geronimo H.
+First isolation and whole genome characterization of porcine deltacoronavirus
+from pigs in Peru. Transbound Emerg Dis. 2022 Sep;69(5):e1561-e1573. doi:
+10.1111/tbed.14489. Epub 2022 Mar 15. PMID: 35184388; PMCID: PMC9790302.
+
+2: Yen L, Mora-Díaz JC, Rauh R, Nelson W, Castillo G, Ye F, Zhang J, Baum D,
+Zimmerman J, Nelli R, Giménez-Lirola L. Characterization of the Subclinical
+Infection of Porcine Deltacoronavirus in Grower Pigs under Experimental
+Conditions. Viruses. 2022 Sep 28;14(10):2144. doi: 10.3390/v14102144. PMID:
+36298699; PMCID: PMC9611937.
+
+3: Zhao D, Gao X, Zhou P, Zhang L, Zhang Y, Wang Y, Liu X. Evaluation of the
+immune response in conventionally weaned pigs infected with porcine
+deltacoronavirus. Arch Virol. 2020 Jul;165(7):1653-1658. doi:
+10.1007/s00705-020-04590-x. Epub 2020 May 12. PMID: 32399787; PMCID: PMC7215125.
+
+4: Castañeda-Montes FJ, Cerriteño-Sánchez JL, Castañeda-Montes MA, Cuevas-Romero
+JS, Mendoza-Elvira S. A Candidate Antigen of the Recombinant Membrane Protein
+Derived from the Porcine Deltacoronavirus Synthetic Gene to Detect Seropositive
+Pigs. Viruses. 2023 Apr 25;15(5):1049. doi: 10.3390/v15051049. PMID: 37243136;
+PMCID: PMC10222885.
+
+5: Stoian A, Rowland RRR, Petrovan V, Sheahan M, Samuel MS, Whitworth KM, Wells
+KD, Zhang J, Beaton B, Cigan M, Prather RS. The use of cells from ANPEP knockout
+pigs to evaluate the role of aminopeptidase N (APN) as a receptor for porcine
+deltacoronavirus (PDCoV). Virology. 2020 Feb;541:136-140. doi:
+10.1016/j.virol.2019.12.007. Epub 2019 Dec 24. PMID: 32056711; PMCID:
+PMC7112016.
+
+6: Castañeda Montes FJ, Cerriteño Sánchez JL, Cuevas-Romero JS, Castañeda Montes
+MA, Mendoza Elvira S. Development and Application of an Indirect Enzyme-Linked
+Immunosorbent Assay Based on a Recombinant Matrix Protein for the Serological
+Study of Porcine Deltacoronavirus in Mexican Pigs. Vet Med Sci. 2024
+Nov;10(6):e70108. doi: 10.1002/vms3.70108. PMID: 39494986; PMCID: PMC11533212.

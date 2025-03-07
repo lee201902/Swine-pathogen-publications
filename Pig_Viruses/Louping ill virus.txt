@@ -1,0 +1,16 @@
+1: Bannatyne CC, Wilson RL, Reid HW, Buxton D, Pow I. Louping-ill virus
+infection of pigs. Vet Rec. 1980 Jan 5;106(1):13. doi: 10.1136/vr.106.1.13.
+PMID: 6243813.
+
+2: Krueger N, Reid HW. Detection of louping ill virus in formalin-fixed,
+paraffin wax-embedded tissues of mice, sheep and a pig by the avidin-biotin-
+complex immunoperoxidase technique. Vet Rec. 1994 Sep 3;135(10):224-5. doi:
+10.1136/vr.135.10.224. PMID: 7801438.
+
+3: WILLIAMS HE. Growth and titration of louping-ill virus in monolayer tissue
+culture of pig kidney. Nature. 1958 Feb 15;181(4607):497-8. doi:
+10.1038/181497a0. PMID: 13517192.
+
+7: Reid HW. Experimental infection of red grouse with louping-ill virus
+(flavivirus group). I. The viraemia and antibody response. J Comp Pathol. 1975
+Apr;85(2):223-9. doi: 10.1016/0021-9975(75)90063-8. PMID: 167055.

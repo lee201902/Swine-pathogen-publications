@@ -1,0 +1,52 @@
+1: Dénes L, Cságola A, Schönhardt K, Halas M, Solymosi N, Balka G. First report
+of porcine parainfluenza virus 1 (species Porcine respirovirus 1) in Europe.
+Transbound Emerg Dis. 2021 Jul;68(4):1731-1735. doi: 10.1111/tbed.13869. Epub
+2020 Oct 17. PMID: 33006252.
+
+2: Palinski RM, Chen Z, Henningson JN, Lang Y, Rowland RRR, Fang Y, Prickett J,
+Gauger PC, Hause BM. Widespread detection and characterization of porcine
+parainfluenza virus 1 in pigs in the USA. J Gen Virol. 2016 Feb;97(2):281-286.
+doi: 10.1099/jgv.0.000343. Epub 2015 Nov 17. PMID: 26581410.
+
+3: Welch M, Krueger K, Zhang J, Neveau M, Piñeyro P, Magstadt D, Main R, Gauger
+P. Characterization of Two Porcine Parainfluenza Virus 1 Isolates and Human
+Parainfluenza Virus 1 Infection in Weaned Nursery Pigs. Vet Sci. 2022 Dec
+28;10(1):18. doi: 10.3390/vetsci10010018. PMID: 36669019; PMCID: PMC9863182.
+
+4: Welch M, Park J, Harmon K, Zhang J, Piñeyro P, Giménez-Lirola L, Zhang M,
+Wang C, Patterson A, Gauger PC. Pathogenesis of a novel porcine parainfluenza
+virus type 1 isolate in conventional and colostrum deprived/caesarean derived
+pigs. Virology. 2021 Nov;563:88-97. doi: 10.1016/j.virol.2021.08.015. Epub 2021
+Sep 3. PMID: 34500147.
+
+5: Welch M, Krueger K, Zhang J, Piñeyro P, Patterson A, Gauger P. Pathogenesis
+of an experimental coinfection of porcine parainfluenza virus 1 and influenza A
+virus in commercial nursery swine. Vet Microbiol. 2023 Oct;285:109850. doi:
+10.1016/j.vetmic.2023.109850. Epub 2023 Aug 16. PMID: 37639899.
+
+6: Welch M, Krueger K, Zhang J, Piñeyro P, Magtoto R, Wang C, Giménez-Lirola L,
+Strait E, Mogler M, Gauger P. Detection of porcine parainfluenza virus type-1
+antibody in swine serum using whole-virus ELISA, indirect fluorescence antibody
+and virus neutralizing assays. BMC Vet Res. 2022 Mar 21;18(1):110. doi:
+10.1186/s12917-022-03196-6. PMID: 35313864; PMCID: PMC8935814.
+
+7: Lau SKP, Woo PCY, Wu Y, Wong AYP, Wong BHL, Lau CCY, Fan RYY, Cai JP, Tsoi
+HW, Chan KH, Yuen KY. Identification and characterization of a novel
+paramyxovirus, porcine parainfluenza virus 1, from deceased pigs. J Gen Virol.
+2013 Oct;94(Pt 10):2184-2190. doi: 10.1099/vir.0.052985-0. Epub 2013 Aug 5.
+PMID: 23918408.
+
+8: Park JY, Welch MW, Harmon KM, Zhang J, Piñeyro PE, Li G, Hause BM, Gauger PC.
+Detection, isolation, and in vitro characterization of porcine parainfluenza
+virus type 1 isolated from respiratory diagnostic specimens in swine. Vet
+Microbiol. 2019 Jan;228:219-225. doi: 10.1016/j.vetmic.2018.12.002. Epub 2018
+Dec 5. PMID: 30593371.
+
+9: Lee YN, Lee C. Complete genome sequence of a novel porcine parainfluenza
+virus 5 isolate in Korea. Arch Virol. 2013 Aug;158(8):1765-72. doi:
+10.1007/s00705-013-1770-z. Epub 2013 Jun 27. PMID: 23807746.
+
+10: Lee YN, Park CK, Kim SH, Lee du S, Shin JH, Lee C. Characterization in vitro
+and in vivo of a novel porcine parainfluenza virus 5 isolate in Korea. Virus
+Res. 2013 Dec 26;178(2):423-9. doi: 10.1016/j.virusres.2013.09.010. Epub 2013
+Sep 16. PMID: 24050998.

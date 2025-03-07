@@ -1,0 +1,228 @@
+1: Nordengrahn A, Svenda M, Moreno-Lopez J, Bergvall A, Hernandez P, McNeilly F,
+Allan G, Merza M. Development of a blocking ELISA for screening antibodies to
+porcine rubulavirus, La Piedad Michoacan Virus. J Vet Diagn Invest. 1999
+Jul;11(4):319-23. doi: 10.1177/104063879901100404. PMID: 10424646.
+
+2: Svenda M, Berg M, Moreno-López J, Linné T. Analysis of the large (L) protein
+gene of the porcine rubulavirus LPMV: identification of possible functional
+domains. Virus Res. 1997 Apr;48(1):57-70. doi: 10.1016/s0168-1702(96)01426-8.
+PMID: 9140194.
+
+3: Rivera-Benitez JF, Cuevas-Romero S, Pérez-Torres A, Reyes-Leyva J, Hernández
+J, Ramírez-Mendoza H. Respiratory disease in growing pigs after Porcine
+rubulavirus experimental infection. Virus Res. 2013 Sep;176(1-2):137-43. doi:
+10.1016/j.virusres.2013.05.017. Epub 2013 Jun 12. PMID: 23770154.
+
+4: Siañez-Estrada LI, Rivera-Benítez JF, Rosas-Murrieta NH, Reyes-Leyva J,
+Santos-López G, Herrera-Camacho I. Immunoinformatics approach for predicting
+epitopes in HN and F proteins of Porcine rubulavirus. PLoS One. 2020 Sep
+25;15(9):e0239785. doi: 10.1371/journal.pone.0239785. PMID: 32976525; PMCID:
+PMC7518572.
+
+5: Cuevas-Romero JS, Blomström AL, Berg M. Molecular and epidemiological studies
+of Porcine rubulavirus infection - an overview. Infect Ecol Epidemiol. 2015 Nov
+18;5:29602. doi: 10.3402/iee.v5.29602. PMID: 26584829; PMCID: PMC4653323.
+
+6: Sánchez-Betancourt JI, Trujillo ME, Mendoza SE, Reyes-Leyva J, Alonso RA.
+Genetic and antigenic changes in porcine rubulavirus. Can J Vet Res. 2012
+Jan;76(1):33-7. PMID: 22754092; PMCID: PMC3244285.
+
+7: Rivera-Benitez JF, De la Luz-Armendáriz J, Saavedra-Montañez M, Jasso-Escutia
+MÁ, Sánchez-Betancourt I, Pérez-Torres A, Reyes-Leyva J, Hernández J, Martínez-
+Lara A, Ramírez-Mendoza H. Co-infection of classic swine H1N1 influenza virus in
+pigs persistently infected with porcine rubulavirus. Vet Microbiol. 2016 Feb
+29;184:31-9. doi: 10.1016/j.vetmic.2016.01.005. Epub 2016 Jan 7. PMID: 26854342;
+PMCID: PMC7117528.
+
+8: Mendoza-Magaña ML, Godoy-Martinez DV, Guerrero-Cazares H, Rodriguez-Peredo A,
+Dueñas-Jimenez JM, Dueñas-Jiménez SH, Ramírez-Herrera MA. Blue eye disease
+porcine rubulavirus (PoRv) infects pig neurons and glial cells using sialo-
+glycoprotein as receptor. Vet J. 2007 Mar;173(2):428-36. doi:
+10.1016/j.tvjl.2005.12.004. Epub 2006 Feb 3. PMID: 16459111.
+
+9: Cuevas-Romero JS, Rivera-Benítez JF, Hernández-Baumgarten E, Hernández-
+Jaúregui P, Vega M, Blomström AL, Berg M, Baule C. Cloning, expression and
+characterization of potential immunogenic recombinant hemagglutinin-
+neuraminidase protein of Porcine rubulavirus. Protein Expr Purif. 2016
+Dec;128:1-7. doi: 10.1016/j.pep.2016.08.002. Epub 2016 Aug 3. PMID: 27496728.
+
+10: Cuevas-Romero JS, Cerriteño-Sánchez JL, Lara-Romero R, Vega-López MA,
+Ramírez-Estudillo C, Ramírez-Mendoza H, Berg M, Lövgren-Bengtsson K.
+Immunogenicity of a recombinant hemagglutinin neuraminidase-Porcine rubulavirus
+produced by Escherichia coli of Porcine rubulavirus gives protective immunity of
+litter after challenge. J Vet Med Sci. 2022 Nov 18;84(12):1595-1604. doi:
+10.1292/jvms.22-0207. Epub 2022 Oct 21. PMID: 36273875; PMCID: PMC9791230.
+
+11: Rivera-Benitez JF, Martínez-Bautista R, Pérez-Torres A, García-Contreras
+ADC, Reyes-Leyva J, Hernández J, Ramírez-Mendoza H. Persistence of porcine
+rubulavirus in experimentally infected boars. Vet Microbiol. 2013 Mar
+23;162(2-4):491-498. doi: 10.1016/j.vetmic.2012.10.037. Epub 2012 Nov 11. PMID:
+23201243.
+
+12: Escobar-López AC, Rivera-Benitez JF, Castillo-Juárez H, Ramírez-Mendoza H,
+Trujillo-Ortega ME, Sánchez-Betancourt JI. Identification of antigenic variants
+of the porcine rubulavirus in sera of field swine and their seroprevalence.
+Transbound Emerg Dis. 2012 Oct;59(5):416-20. doi:
+10.1111/j.1865-1682.2011.01286.x. Epub 2011 Dec 16. PMID: 22171991.
+
+13: Cuevas-Romero S, Rivera-Benítez JF, Blomström AL, Ramliden M, Hernández-
+Baumgarten E, Hernández-Jáuregui P, Ramírez-Mendoza H, Berg M. Molecular
+characterisation of Porcine rubulavirus (PorPV) isolates from different
+outbreaks in Mexico. Virus Genes. 2016 Feb;52(1):81-90. doi:
+10.1007/s11262-015-1281-y. Epub 2016 Jan 4. PMID: 26728078.
+
+14: Hjertner B, Linné T, Moreno-López J. Establishment and characterisation of a
+porcine rubulavirus (LPMV) persistent infection in porcine kidney cells. Acta
+Vet Scand. 1997;38(3):213-24. doi: 10.1186/BF03548484. PMID: 9444775; PMCID:
+PMC8057016.
+
+15: Reyes-Leyva J, Espinosa B, Santos G, Zenteno R, Hernández J, Vallejo V,
+Zenteno E. Purification and characterization of the hemagglutinin-neuraminidase
+of Porcine rubulavirus LPMV. Glycoconj J. 1999 Sep;16(9):517-22. doi:
+10.1023/a:1007022021301. PMID: 10815988.
+
+16: Cuevas JS, Rodríguez-Ropón A, Kennedy S, Moreno-López J, Berg M, Hernández-
+Jáuregui P. Investigation of T-cell responses and viral mRNA persistence in
+lymph nodes of pigs infected with porcine rubulavirus. Vet Immunol Immunopathol.
+2009 Jan 15;127(1-2):148-52. doi: 10.1016/j.vetimm.2008.09.008. Epub 2008 Sep
+19. PMID: 18986711.
+
+17: Garcia-Barrera AA, Del Valle A, Montaño-Hirose JA, Barrón BL, Salinas-
+Trujano J, Torres-Flores J. Full-genome sequencing and phylogenetic analysis of
+four neurovirulent Mexican isolates of porcine rubulavirus. Arch Virol. 2017
+Jun;162(6):1765-1768. doi: 10.1007/s00705-017-3267-7. Epub 2017 Feb 9. PMID:
+28185101.
+
+18: Hernández J, Garfias Y, Nieto A, Mercado C, Montaño LF, Zenteno E.
+Comparative evaluation of the CD4+CD8+ and CD4+CD8- lymphocytes in the immune
+response to porcine rubulavirus. Vet Immunol Immunopathol. 2001 May
+30;79(3-4):249-59. doi: 10.1016/s0165-2427(01)00259-8. PMID: 11389959.
+
+19: Santos-López G, Borraz-Argüello MT, Márquez-Domínguez L, Flores-Alonso JC,
+Ramírez-Mendoza H, Priem B, Fort S, Vallejo-Ruiz V, Reyes-Leyva J, Herrera-
+Camacho I. Neuraminidase activity of blue eye disease porcine rubulavirus:
+Specificity, affinity and inhibition studies. Res Vet Sci. 2017 Oct;114:218-224.
+doi: 10.1016/j.rvsc.2017.05.008. Epub 2017 May 6. PMID: 28502901.
+
+20: Herrera J, Gómez-Núñez L, Lara-Romero R, Diosdado F, Martínez-Lara A, Jasso
+M, Ramírez-Mendoza H, Pérez-Torres A, Rivera-Benítez JF. Acute neurologic
+disease in Porcine rubulavirus experimentally infected piglets. Virus Res. 2017
+Feb 15;230:50-58. doi: 10.1016/j.virusres.2017.01.010. Epub 2017 Jan 16. PMID:
+28104449.
+
+21: Cuevas-Romero S, Hernández-Baumgarten E, Kennedy S, Hernández-Jáuregui P,
+Berg M, Moreno-López J. Long-term RNA persistence of porcine rubulavirus (PorPV-
+LPMV) after an outbreak of a natural infection: the detection of viral mRNA in
+sentinel pigs suggests viral transmission. Virus Res. 2014 Aug 8;188:155-61.
+doi: 10.1016/j.virusres.2014.04.012. Epub 2014 Apr 24. PMID: 24768705.
+
+22: Hernández-Jáuregui P, Yacoub A, Kennedy S, Curran B, Téllez C, Svenda M,
+Ljung L, Moreno-López J. Uptake of porcine rubulavirus (LPMV) by PK-15 cells.
+Arch Med Res. 2001 Sep-Oct;32(5):400-9. doi: 10.1016/s0188-4409(01)00314-9.
+PMID: 11578755.
+
+23: Hernández J, Reyes-Leyva J, Zenteno R, Ramírez H, Hernández-Jauregui P,
+Zenteno E. Immunity to porcine rubulavirus infection in adult swine. Vet Immunol
+Immunopathol. 1998 Aug 31;64(4):367-81. doi: 10.1016/s0165-2427(98)00169-x.
+PMID: 9764728.
+
+24: Solís M, Ramírez-Mendoza H, Mercado C, Espinosa S, Vallejo V, Reyes-Leyva J,
+Hernández J. Semen alterations in porcine rubulavirus-infected boars are related
+to viral excretion and have implications for artificial insemination. Res Vet
+Sci. 2007 Dec;83(3):403-9. doi: 10.1016/j.rvsc.2007.01.018. Epub 2007 Mar 21.
+PMID: 17368687.
+
+25: Wiman AC, Hjertner B, Linné T, Herron B, Allan G, McNeilly F, Adair B,
+Moreno-López J, Berg M. Porcine rubulavirus LPMV RNA persists in the central
+nervous system of pigs after recovery from acute infection. J Neurovirol. 1998
+Oct;4(5):545-52. doi: 10.3109/13550289809113499. PMID: 9839652.
+
+26: Zenteno-Cuevas R, Huerta-Yepez S, Reyes-Leyva J, Hernández-Jáuregui P,
+González-Bonilla C, Ramírez-Mendoza H, Agundis C, Zenteno E. Identification of
+potential B cell epitope determinants by computer techniques, in hemagglutinin-
+neuraminidase from the porcine rubulavirus La Piedad Michoacan. Viral Immunol.
+2007 Summer;20(2):250-60. doi: 10.1089/vim.2006.0066. PMID: 17603842.
+
+27: Hernández-Jáuregui P, Ramírez Mendoza H, Mercado García C, Moreno-López J,
+Kennedy S. Experimental porcine rubulavirus (La Piedad-Michoacan virus)
+infection in pregnant gilts. J Comp Pathol. 2004 Jan;130(1):1-6. doi:
+10.1016/s0021-9975(03)00058-6. PMID: 14693118.
+
+28: Cuevas-Romero S, Blomström AL, Alvarado A, Hernández-Jauregui P, Rivera-
+Benitez F, Ramírez-Mendoza H, Berg M. Development of a real-time RT-PCR method
+for detection of porcine rubulavirus (PoRV-LPMV). J Virol Methods. 2013
+Apr;189(1):1-6. doi: 10.1016/j.jviromet.2012.12.009. Epub 2013 Jan 7. PMID:
+23305816; PMCID: PMC7113651.
+
+29: Rodríguez-Ropón A, Hernández-Jauregui P, Sánchez-Torres L, Favila-Castillo
+L, Estrada-Parra S, Moreno-López J, Kennedy S. Apoptosis in lymph nodes and
+changes in lymphocyte subpopulations in peripheral blood of pigs infected with
+porcine rubulavirus. J Comp Pathol. 2003 Jan;128(1):1-8. doi:
+10.1053/jcpa.2002.0598. PMID: 12531681.
+
+30: Sánchez-Betancourt JI, Santos-López G, Alonso R, Doporto JM, Ramírez-Mendoza
+H, Mendoza S, Hernández J, Reyes-Leyva J, Trujillo ME. Molecular
+characterization of the hemagglutinin-neuraminidase gene of porcine rubulavirus
+isolates associated with neurological disorders in fattening and adult pigs. Res
+Vet Sci. 2008 Oct;85(2):359-67. doi: 10.1016/j.rvsc.2007.10.007. Epub 2007 Nov
+26. PMID: 18031776.
+
+31: Cerriteño-Sánchez JL, Santos-López G, Rosas-Murrieta NH, Reyes-Leyva J,
+Cuevas-Romero S, Herrera-Camacho I. Production of an enzymatically active and
+immunogenic form of ectodomain of Porcine rubulavirus hemagglutinin-
+neuraminidase in the yeast Pichia pastoris. J Biotechnol. 2016 Apr 10;223:52-61.
+doi: 10.1016/j.jbiotec.2016.02.035. Epub 2016 Mar 3. PMID: 26940828.
+
+32: Rivera-Benitez JF, García-Contreras Adel C, Reyes-Leyva J, Hernández J,
+Sánchez-Betancourt JI, Ramírez-Mendoza H. Efficacy of quantitative RT-PCR for
+detection of the nucleoprotein gene from different porcine rubulavirus strains.
+Arch Virol. 2013 Sep;158(9):1849-56. doi: 10.1007/s00705-013-1672-0. Epub 2013
+Mar 24. PMID: 23525730.
+
+33: Berg M, Bergvall AC, Svenda M, Sundqvist A, Moreno-López J, Linné T.
+Analysis of the fusion protein gene of the porcine rubulavirus LPMV: comparative
+analysis of paramyxovirus F proteins. Virus Genes. 1997;14(1):55-61. doi:
+10.1023/a:1007987407250. PMID: 9208455.
+
+34: Santos-López G, Flores E, Baños R, Herrera-Camacho I, Reyes-Leyva J.
+Purification of the Porcine rubulavirus attachment protein by liquid isoelectric
+focusing. Protein Expr Purif. 2004 May;35(1):120-5. doi:
+10.1016/j.pep.2003.12.009. PMID: 15039074.
+
+35: Zenteno-Cuevas R, Hernández J, Espinosa B, Reyes J, Zenteno E. Secondary
+structure prediction of the hemagglutinin-neuraminidase from a porcine
+rubulavirus. Arch Virol. 1998;143(2):333-52. doi: 10.1007/s007050050290. PMID:
+9541617.
+
+36: Ramirez-Mendoza H, Hernandez-Jauregui P, Reyes-Leyva J, Zenteno E, Moreno-
+Lopez J, Kennedy S. Lesions in the reproductive tract of boars experimentally
+infected with porcine rubulavirus. J Comp Pathol. 1997 Oct;117(3):237-52. doi:
+10.1016/s0021-9975(97)80018-7. PMID: 9447484.
+
+37: Reyes-Leyva J, Espinosa B, Hernandez J, Zenteno R, Vallejo V, Hernández-
+Jáuregui P, Zenteno E. NeuAc alpha 2,3gal-glycoconjugate expression determines
+cell susceptibility to the porcine rubulavirus LPMV. Comp Biochem Physiol B
+Biochem Mol Biol. 1997 Oct;118(2):327-32. doi: 10.1016/s0305-0491(97)00164-8.
+PMID: 9440225.
+
+38: Flores-Ocelotl Mdel R, Rosas-Murrieta NH, Vallejo-Ruiz V, Reyes-Leyva J,
+Herrera-Camacho I, Santos-López G. Transcription of interferon stimulated genes
+in response to Porcine rubulavirus infection in vitro. Braz J Microbiol. 2011
+Jul;42(3):1167-75. doi: 10.1590/S1517-838220110003000041. Epub 2011 Sep 1. PMID:
+24031738; PMCID: PMC3768783.
+
+39: Svenda M, Hjertner B, Linné T, Berg M. Both the P and V proteins of the
+porcine rubulavirus LPMV interact with the NP protein via their respective
+C-terminal unique parts. Virus Res. 2002 Feb 26;83(1-2):31-41. doi:
+10.1016/s0168-1702(01)00406-3. PMID: 11864739.
+
+40: Borraz-Argüello Mdel T, Santos-López G, Vallejo-Ruiz V, Herrera-Camacho I,
+Reyes-Leyva J. Caracterización biológica de tres aislamientos naturales del
+Rubulavirus porcino (México) [Biological characterization of three natural
+isolates of the porcine rubulavirus (Mexico)]. Rev Biol Trop. 2008
+Jun;56(2):487-99. Spanish. PMID: 19256422.
+
+41: Hjertner B, Wiman AC, Svenda M, Berg M, Moreno-López J, Linné T. Multiple
+factors including subgenomic RNAs and reduced viral protein expression are
+associated with a persistent infection by porcine rubulavirus (LPMV). Arch
+Virol. 1998;143(3):425-39. doi: 10.1007/s007050050300. PMID: 9572545.

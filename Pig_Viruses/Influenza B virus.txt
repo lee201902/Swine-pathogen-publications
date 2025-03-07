@@ -1,0 +1,23 @@
+1: Priore SF, Moss WN, Turner DH. Influenza B virus has global ordered RNA
+structure in (+) and (-) strands but relatively less stable predicted RNA
+folding free energy than allowed by the encoded protein sequence. BMC Res Notes.
+2013 Aug 19;6:330. doi: 10.1186/1756-0500-6-330. PMID: 23958134; PMCID:
+PMC3765861.
+
+2: Takátsy G, Farkas E, Romváry J. Susceptibility of the domestic pig to
+influenza B virus. Nature. 1969 Apr 12;222(5189):184-5. doi: 10.1038/222184a0.
+PMID: 4304929.
+
+3: Shibata M, Maeno K, Isomura S, Tsurumi T, Aoki H, Suzuki S. Plaque formation
+by influenza B virus in a porcine kidney cell line. Microbiol Immunol.
+1982;26(5):441-4. doi: 10.1111/j.1348-0421.1982.tb00195.x. PMID: 7121317.
+
+4: Hillaire ML, van Eijk M, Vogelzang-van Trierum SE, Nieuwkoop NJ, van Riel D,
+Fouchier RA, Kuiken T, Osterhaus AD, Haagsman HP, Rimmelzwaan GF. Assessment of
+the antiviral properties of recombinant surfactant protein D against influenza B
+virus in vitro. Virus Res. 2015 Jan 2;195:43-6. doi:
+10.1016/j.virusres.2014.08.019. Epub 2014 Sep 6. PMID: 25200748.
+
+5: Takátsy G, Romváry J, Farkas E. Susceptibility of the domestic swine to
+influenza B virus. Acta Microbiol Acad Sci Hung. 1967;14(3):309-15. PMID:
+5625091.

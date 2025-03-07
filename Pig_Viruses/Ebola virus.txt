@@ -1,0 +1,54 @@
+1: Bradfute SB. History and impact of the mouse-adapted Ebola virus model.
+Antiviral Res. 2023 Feb;210:105493. doi: 10.1016/j.antiviral.2022.105493. Epub
+2022 Dec 23. PMID: 36567023.
+
+2: Lane TR, Massey C, Comer JE, Freiberg AN, Zhou H, Dyall J, Holbrook MR,
+Anantpadma M, Davey RA, Madrid PB, Ekins S. Pyronaridine tetraphosphate efficacy
+against Ebola virus infection in guinea pig. Antiviral Res. 2020 Sep;181:104863.
+doi: 10.1016/j.antiviral.2020.104863. Epub 2020 Jul 16. PMID: 32682926; PMCID:
+PMC8194506.
+
+3: Spengler JR, Welch SR, Ritter JM, Harmon JR, Coleman-McCray JD, Genzer SC,
+Seixas JN, Scholte FEM, Davies KA, Bradfute SB, Montgomery JM, Spiropoulou CF.
+Mouse models of Ebola virus tolerance and lethality: characterization of CD-1
+mice infected with wild-type, guinea pig-adapted, or mouse-adapted virus.
+Antiviral Res. 2023 Feb;210:105496. doi: 10.1016/j.antiviral.2022.105496. Epub
+2022 Dec 22. PMID: 36567020.
+
+4: Birungi D, Tumwine G, Kato CD, Ssekamatte T, Ocaido M, Majalija S. Knowledge,
+perceptions and effects of Ebola virus disease outbreak on the pig value chain
+in the agro-pastoralist district of Luwero, Central Uganda. BMC Infect Dis. 2021
+Jul 9;21(1):669. doi: 10.1186/s12879-021-06337-8. PMID: 34243704; PMCID:
+PMC8268591.
+
+5: Morozov I, Monath TP, Meekins DA, Trujillo JD, Sunwoo SY, Urbaniak K, Kim IJ,
+Narayanan SK, Indran SV, Ma W, Wilson WC, O'Connor C, Dubey S, Troth SP, Coller
+BA, Nichols R, Martin BK, Feldmann H, Richt JA. High dose of vesicular
+stomatitis virus-vectored Ebola virus vaccine causes vesicular disease in swine
+without horizontal transmission. Emerg Microbes Infect. 2021 Dec;10(1):651-663.
+doi: 10.1080/22221751.2021.1903343. PMID: 33719915; PMCID: PMC8023602.
+
+6: Bodmer BS, Greßler J, Schmidt ML, Holzerland J, Brandt J, Braun S, Groseth A,
+Hoenen T. Differences in Viral RNA Synthesis but Not Budding or Entry Contribute
+to the In Vitro Attenuation of Reston Virus Compared to Ebola Virus.
+Microorganisms. 2020 Aug 11;8(8):1215. doi: 10.3390/microorganisms8081215. PMID:
+32796523; PMCID: PMC7463789.
+
+7: Zhang Y, Wei Y, Li Y, Wang X, Liu Y, Tian D, Jia X, Gong R, Liu W, Yang L.
+IgY antibodies against Ebola virus possess post-exposure protection in a murine
+pseudovirus challenge model and excellent thermostability. PLoS Negl Trop Dis.
+2021 Mar 12;15(3):e0008403. doi: 10.1371/journal.pntd.0008403. PMID: 33711011;
+PMCID: PMC7990235.
+
+8: Dowall SD, Kempster S, Findlay-Wilson S, Mattiuzzo G, Graham VA, Page M,
+Hewson R, Almond N. Towards quantification of protective antibody responses by
+passive transfer of the 1st WHO International Standard for Ebola virus antibody
+in a guinea pig model. Vaccine. 2020 Jan 10;38(2):345-349. doi:
+10.1016/j.vaccine.2019.10.009. Epub 2019 Oct 24. PMID: 31668821.
+
+9: Johnson DM, Juelich T, Zhang L, Smith JK, Kalveram BK, Perez D, Smith J,
+Grimes MR, Garron T, Torres M, Massey S, Brasel T, Beasley DWC, Freiberg AN,
+Comer JE. Comparison of Routes of Administration, Frequency, and Duration of
+Favipiravir Treatment in Mouse and Guinea Pig Models of Ebola Virus Disease.
+Viruses. 2024 Jul 9;16(7):1101. doi: 10.3390/v16071101. PMID: 39066263; PMCID:
+PMC11281331.

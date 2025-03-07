@@ -1,0 +1,40 @@
+1: Wei R, Shang R, Cheng K, Wang S, Wu J, Yu Z. A novel recombinant porcine
+sapovirus infection in piglets with diarrhea in Shandong Province, China, 2022.
+Braz J Microbiol. 2023 Jun;54(2):1309-1314. doi: 10.1007/s42770-023-00963-x.
+Epub 2023 Apr 10. PMID: 37036658; PMCID: PMC10235293.
+
+2: Wang L, Marthaler D, Fredrickson R, Gauger PC, Zhang J, Burrough ER, Petznick
+T, Li G. Genetically divergent porcine sapovirus identified in pigs, United
+States. Transbound Emerg Dis. 2020 Jan;67(1):18-28. doi: 10.1111/tbed.13337.
+Epub 2019 Sep 13. PMID: 31461567.
+
+3: Dong HV, Truong TH, Tran GTH, Rapichai W, Rattanasrisomporn A, Choowongkomon
+K, Rattanasrisomporn J. Porcine Sapovirus in Northern Vietnam: Genetic Detection
+and Characterization Reveals Co-Circulation of Multiple Genotypes. Vet Sci. 2023
+Jul 1;10(7):430. doi: 10.3390/vetsci10070430. PMID: 37505835; PMCID:
+PMC10385290.
+
+4: Georgana I, Hosmillo M, Jahun AS, Emmott E, Sorgeloos F, Cho KO, Goodfellow
+IG. Porcine Sapovirus Protease Controls the Innate Immune Response and Targets
+TBK1. Viruses. 2024 Feb 3;16(2):247. doi: 10.3390/v16020247. PMID: 38400023;
+PMCID: PMC10892870.
+
+5: Sharif M, Baek YB, Nguyen TH, Soliman M, Cho KO. Porcine sapovirus-induced
+RIPK1-dependent necroptosis is proviral in LLC-PK cells. PLoS One. 2023 Feb
+3;18(2):e0279843. doi: 10.1371/journal.pone.0279843. PMID: 36735696; PMCID:
+PMC9897573.
+
+6: Liu X, Song C, Liu Y, Qu K, Bi J, Bi J, Wang Y, Yang Y, Sun J, Guo Z, Li G,
+Liu J, Yin G. High Genetic Diversity of Porcine Sapovirus From Diarrheic Piglets
+in Yunnan Province, China. Front Vet Sci. 2022 Jul 7;9:854905. doi:
+10.3389/fvets.2022.854905. PMID: 35873674; PMCID: PMC9300989.
+
+7: Sharif M, Baek YB, Naveed A, Stalin N, Kang MI, Park SI, Soliman M, Cho KO.
+Porcine Sapovirus-Induced Tight Junction Dissociation via Activation of
+RhoA/ROCK/MLC Signaling Pathway. J Virol. 2021 May 10;95(11):e00051-21. doi:
+10.1128/JVI.00051-21. Epub 2021 Mar 10. PMID: 33692204; PMCID: PMC8139687.
+
+8: Tao J, Li B, Shi Y, Cheng J, Tang P, Jiao J, Liu H. Genomic Evolution and
+Selective Pressure Analysis of a Novel Porcine Sapovirus in Shanghai, China.
+Microorganisms. 2024 Mar 12;12(3):569. doi: 10.3390/microorganisms12030569.
+PMID: 38543620; PMCID: PMC10975609.

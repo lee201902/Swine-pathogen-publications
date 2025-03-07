@@ -1,0 +1,10 @@
+1: Zhang Y, Zhang J, Wang Y, Tian F, Zhang X, Wang G, Li S, Ding H, Hu Z, Liu W,
+Zhang X. Genetic Diversity and Expanded Host Range of J Paramyxovirus Detected
+in Wild Small Mammals in China. Viruses. 2022 Dec 23;15(1):49. doi:
+10.3390/v15010049. PMID: 36680089; PMCID: PMC9866557.
+
+2: Abraham M, Beavis AC, Xiao P, Villinger FJ, Li Z, Jones CA, Tompkins SM, He
+B. Evaluation of a New Viral Vaccine Vector in Mice and Rhesus Macaques: J
+Paramyxovirus Expressing Hemagglutinin of Influenza A Virus H5N1. J Virol. 2021
+Oct 27;95(22):e0132121. doi: 10.1128/JVI.01321-21. Epub 2021 Sep 1. PMID:
+34469242; PMCID: PMC8549524.

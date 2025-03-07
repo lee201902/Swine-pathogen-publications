@@ -1,0 +1,114 @@
+1: Zhou X, Niu JW, Zhang JF, Liao M, Zhai SL. Commentary: Identification of
+pulmonary infections with porcine Rotavirus A in pigs with respiratory disease.
+Front Vet Sci. 2023 Jan 17;10:1102602. doi: 10.3389/fvets.2023.1102602. PMID:
+36733638; PMCID: PMC9887174.
+
+2: Brnić D, Čolić D, Kunić V, Maltar-Strmečki N, Krešić N, Konjević D, Bujanić
+M, Bačani I, Hižman D, Jemeršić L. Rotavirus A in Domestic Pigs and Wild Boars:
+High Genetic Diversity and Interspecies Transmission. Viruses. 2022 Sep
+13;14(9):2028. doi: 10.3390/v14092028. PMID: 36146832; PMCID: PMC9503859.
+
+3: Roczo-Farkas S, Dunlop RH, Donato CM, Kirkwood CD, McOrist S. Rotavirus group
+C infections in neonatal and grower pigs in Australia. Vet Rec. 2021
+Jun;188(12):e296. doi: 10.1002/vetr.296. Epub 2021 Apr 19. PMID: 33870517.
+
+4: Ferrari E, Vignola G, Bertasio C, Chiapponi C, Alborali GL, Martella V,
+Boniotti MB. Identification of Putative Novel Rotavirus H VP7, VP4, VP6 and NSP4
+Genotypes in Pigs. Viruses. 2023 Dec 30;16(1):68. doi: 10.3390/v16010068. PMID:
+38257768; PMCID: PMC10819321.
+
+5: Ndebe J, Harima H, Chambaro HM, Sasaki M, Yamagishi J, Kalonda A, Shawa M,
+Qiu Y, Kajihara M, Takada A, Sawa H, Saasa N, Simulundu E. Prevalence and
+Genomic Characterization of Rotavirus A from Domestic Pigs in Zambia: Evidence
+for Possible Porcine-Human Interspecies Transmission. Pathogens. 2023 Sep
+27;12(10):1199. doi: 10.3390/pathogens12101199. PMID: 37887715; PMCID:
+PMC10609906.
+
+6: Wu FT, Liu LT, Jiang B, Kuo TY, Wu CY, Liao MH. Prevalence and diversity of
+rotavirus A in pigs: Evidence for a possible reservoir in human infection.
+Infect Genet Evol. 2022 Mar;98:105198. doi: 10.1016/j.meegid.2021.105198. Epub
+2021 Dec 28. PMID: 34968762.
+
+7: Logeshwaran G, Ravishankar C, Nandhakumar D, Sebastian SR, Rajasekhar R,
+Sumod K, Mani BK, Benjamin ED, Jayakrishnan TR, John K, Mini M. Detection and
+molecular characterization of rotavirus of pigs in Kerala, India. Virusdisease.
+2020 Dec;31(4):554-559. doi: 10.1007/s13337-020-00621-y. Epub 2020 Aug 13. PMID:
+33381628; PMCID: PMC7749024.
+
+8: Nyblade C, Zhou P, Frazier M, Frazier A, Hensley C, Fantasia-Davis A,
+Shahrudin S, Hoffer M, Agbemabiese CA, LaRue L, Barro M, Patton JT, Parreño V,
+Yuan L. Human Rotavirus Replicates in Salivary Glands and Primes Immune
+Responses in Facial and Intestinal Lymphoid Tissues of Gnotobiotic Pigs.
+Viruses. 2023 Aug 31;15(9):1864. doi: 10.3390/v15091864. PMID: 37766270; PMCID:
+PMC10534682.
+
+9: Doerksen T, Christensen T, Lu A, Noll L, Bai J, Henningson J, Palinski R.
+Assessment of porcine Rotavirus-associated virome variations in pigs with
+enteric disease. Vet Microbiol. 2022 Jul;270:109447. doi:
+10.1016/j.vetmic.2022.109447. Epub 2022 Apr 27. PMID: 35561657.
+
+10: Park GN, Kim DI, Choe S, Shin J, An BH, Kim KS, Hyun BH, Lee JS, An DJ.
+Genetic Diversity of Porcine Group A Rotavirus Strains from Pigs in South Korea.
+Viruses. 2022 Nov 14;14(11):2522. doi: 10.3390/v14112522. PMID: 36423131; PMCID:
+PMC9695303.
+
+11: Ferrari E, Salogni C, Martella V, Alborali GL, Scaburri A, Boniotti MB.
+Assessing the Epidemiology of Rotavirus A, B, C and H in Diarrheic Pigs of
+Different Ages in Northern Italy. Pathogens. 2022 Apr 14;11(4):467. doi:
+10.3390/pathogens11040467. PMID: 35456143; PMCID: PMC9025647.
+
+12: Kunić V, Mikuletič T, Kogoj R, Koritnik T, Steyer A, Šoprek S, Tešović G,
+Konjik V, Roksandić Križan I, Prišlin M, Jemeršić L, Brnić D. Interspecies
+transmission of porcine-originated G4P[6] rotavirus A between pigs and humans: a
+synchronized spatiotemporal approach. Front Microbiol. 2023 May 22;14:1194764.
+doi: 10.3389/fmicb.2023.1194764. PMID: 37283926; PMCID: PMC10239803.
+
+13: Luo G, Zeng Y, Sheng R, Zhang Z, Li C, Yang H, Chen Y, Song F, Zhang S, Li
+T, Ge S, Zhang J, Xia N. Wa-VP4* as a candidate rotavirus vaccine induced
+homologous and heterologous virus neutralizing antibody responses in mice, pigs,
+and cynomolgus monkeys. Vaccine. 2024 May 31;42(15):3514-3521. doi:
+10.1016/j.vaccine.2024.04.056. Epub 2024 Apr 25. PMID: 38670845.
+
+14: Flores PS, Costa FB, Amorim AR, Mendes GS, Rojas M, Santos N. Rotavirus A,
+C, and H in Brazilian pigs: potential for zoonotic transmission of RVA. J Vet
+Diagn Invest. 2021 Jan;33(1):129-135. doi: 10.1177/1040638720967673. Epub 2020
+Oct 22. PMID: 33090086; PMCID: PMC7758689.
+
+15: Nelsen A, Lager KM, Stasko J, Nelson E, Lin CM, Hause BM. Identification of
+Pulmonary Infections With Porcine Rotavirus A in Pigs With Respiratory Disease.
+Front Vet Sci. 2022 Jun 23;9:918736. doi: 10.3389/fvets.2022.918736. PMID:
+35812854; PMCID: PMC9260157.
+
+16: Yu W, Xiao X, Chen D, Yu B, He J, Zheng P, Yu J, Luo J, Luo Y, Yan H, Yi X,
+Wang J, Wang H, Wang Q, Mao X. Effect of Dietary Lactose Supplementation on
+Growth Performance and Intestinal Epithelium Functions in Weaned Pigs Challenged
+by Rotavirus. Animals (Basel). 2022 Sep 8;12(18):2336. doi: 10.3390/ani12182336.
+PMID: 36139196; PMCID: PMC9495109.
+
+17: Fan X, Hu H, Chen D, Yu B, He J, Yu J, Luo J, Eckhardt E, Luo Y, Wang J, Yan
+H, Mao X. Lentinan administration alleviates diarrhea of rotavirus-infected
+weaned pigs via regulating intestinal immunity. J Anim Sci Biotechnol. 2021 Mar
+9;12(1):43. doi: 10.1186/s40104-021-00562-6. PMID: 33750472; PMCID: PMC7945689.
+
+18: Yan N, Yue H, Wang Y, Zhang B, Tang C. Genomic analysis reveals G3P[13]
+porcine rotavirus A interspecific transmission to human from pigs in a swine
+farm with diarrhoea outbreak. J Gen Virol. 2021 Feb;102(2). doi:
+10.1099/jgv.0.001532. PMID: 33295864.
+
+19: Yan H, Dong B, Li X, He J, Yu B, Mao X, Yu J, Luo Y, Luo J, Wu A, Pu J, Wang
+Q, Wang H, Crenshaw J, Shen Y, Chen D. Spray-dried plasma protects against
+rotavirus-induced gastroenteritis via regulating macrophage and T cells
+divergence in weanling pigs. Front Vet Sci. 2024 Oct 16;11:1467108. doi:
+10.3389/fvets.2024.1467108. PMID: 39479205; PMCID: PMC11523297.
+
+20: Harima H, Qiu Y, Sasaki M, Ndebe J, Penjaninge K, Simulundu E, Kajihara M,
+Ohnuma A, Matsuno K, Nao N, Orba Y, Takada A, Ishihara K, Hall WW, Hang'ombe BM,
+Sawa H. A first report of rotavirus B from Zambian pigs leading to the discovery
+of a novel VP4 genotype P[9]. Virol J. 2024 Oct 24;21(1):263. doi:
+10.1186/s12985-024-02533-5. PMID: 39449113; PMCID: PMC11515359.
+
+21: Neves MAO, Sousa Júnior AS, de Camargo DS, Lobo PS, Bandeira RS, Soares LS,
+Mascarenhas JDP. Characterization of rotavirus possessing a DS-1-like VP3 gene
+from pigs in Brazil: Evidence for zooanthroponotic transmission. Infect Genet
+Evol. 2020 Apr;79:104151. doi: 10.1016/j.meegid.2019.104151. Epub 2019 Dec 20.
+PMID: 31870971.

@@ -1,0 +1,37 @@
+1: Taylor G. Animal models of respiratory syncytial virus infection. Vaccine.
+2017 Jan 11;35(3):469-480. doi: 10.1016/j.vaccine.2016.11.054. Epub 2016 Nov 29.
+PMID: 27908639; PMCID: PMC5244256.
+
+2: Hervé PL, Descamps D, Deloizy C, Dhelft V, Laubreton D, Bouguyon E, Boukadiri
+A, Dubuquoy C, Larcher T, Benhamou PH, Eléouët JF, Bertho N, Mondoulet L,
+Riffault S. Non-invasive epicutaneous vaccine against Respiratory Syncytial
+Virus: Preclinical proof of concept. J Control Release. 2016 Dec 10;243:146-159.
+doi: 10.1016/j.jconrel.2016.10.003. Epub 2016 Oct 6. PMID: 27720994.
+
+3: Murakami K, Matsuura M, Ota M, Gomi Y, Yamanishi K, Mori Y. A recombinant
+varicella vaccine harboring a respiratory syncytial virus gene induces humoral
+immunity. Vaccine. 2015 Nov 9;33(45):6085-92. doi:
+10.1016/j.vaccine.2015.04.101. Epub 2015 Jun 23. PMID: 26116253.
+
+4: Chan KF, Carolan LA, Druce J, Chappell K, Watterson D, Young P, Korenkov D,
+Subbarao K, Barr IG, Laurie KL, Reading PC. Pathogenesis, Humoral Immune
+Responses, and Transmission between Cohoused Animals in a Ferret Model of Human
+Respiratory Syncytial Virus Infection. J Virol. 2018 Jan 30;92(4):e01322-17.
+doi: 10.1128/JVI.01322-17. PMID: 29187546; PMCID: PMC5790937.
+
+5: Kant K, Lal UR, Ghosh M. Computational Breakthrough of Natural Lead Hits from
+the Genus of <i>Arisaema</i> against Human Respiratory Syncytial Virus.
+Pharmacogn Mag. 2018 Jan;13(Suppl 4):S780-S785. doi: 10.4103/pm.pm_459_16. Epub
+2018 Jan 31. PMID: 29491633; PMCID: PMC5822500.
+
+6: Huynh K, Dion S, Mahoney MT, Ekiz A. Exploring the "Two-Hit" Phenomenon of
+Guillain-Barré Syndrome Following Respiratory Syncytial Virus and Influenza
+Vaccinations. Cureus. 2024 Sep 7;16(9):e68899. doi: 10.7759/cureus.68899. PMID:
+39246641; PMCID: PMC11380568.
+
+7: Liu X, Liang B, Ngwuta J, Liu X, Surman S, Lingemann M, Kwong PD, Graham BS,
+Collins PL, Munir S. Attenuated Human Parainfluenza Virus Type 1 Expressing the
+Respiratory Syncytial Virus (RSV) Fusion (F) Glycoprotein from an Added Gene:
+Effects of Prefusion Stabilization and Packaging of RSV F. J Virol. 2017 Oct
+27;91(22):e01101-17. doi: 10.1128/JVI.01101-17. PMID: 28835504; PMCID:
+PMC5660469.

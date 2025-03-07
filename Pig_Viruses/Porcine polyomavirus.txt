@@ -1,0 +1,4 @@
+1: Hause BM, Smith C, Bishop B, Stewart C, Simonson R. Complete Genome Sequence
+of a Porcine Polyomavirus from Nasal Swabs of Pigs with Respiratory Disease.
+Genome Announc. 2018 Apr 26;6(17):e00344-18. doi: 10.1128/genomeA.00344-18.
+PMID: 29700160; PMCID: PMC5920162.

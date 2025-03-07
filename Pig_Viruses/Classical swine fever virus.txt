@@ -1,0 +1,1105 @@
+1: Ganges L, Crooke HR, Bohórquez JA, Postel A, Sakoda Y, Becher P, Ruggli N.
+Classical swine fever virus: the past, present and future. Virus Res. 2020
+Nov;289:198151. doi: 10.1016/j.virusres.2020.198151. Epub 2020 Sep 6. PMID:
+32898613.
+
+2: Fan J, Liao Y, Zhang M, Liu C, Li Z, Li Y, Li X, Wu K, Yi L, Ding H, Zhao M,
+Fan S, Chen J. Anti-Classical Swine Fever Virus Strategies. Microorganisms. 2021
+Apr 6;9(4):761. doi: 10.3390/microorganisms9040761. PMID: 33917361; PMCID:
+PMC8067343.
+
+3: Li X, Song Y, Wang X, Fu C, Zhao F, Zou L, Wu K, Chen W, Li Z, Fan J, Li Y,
+Li B, Zeng S, Liu X, Zhao M, Yi L, Chen J, Fan S. The regulation of cell
+homeostasis and antiviral innate immunity by autophagy during classical swine
+fever virus infection. Emerg Microbes Infect. 2023 Dec;12(1):2164217. doi:
+10.1080/22221751.2022.2164217. PMID: 36583373; PMCID: PMC9848339.
+
+4: Li X, Huang Y, Liu X, Zhang L, Wang X, Zhao F, Zou L, Wu K, Chen W, Qin Y,
+Zeng S, Li B, He Y, Song Y, Li Z, Fan J, Zhao M, Yi L, Ding H, Fan S, Chen J.
+Classical swine fever virus inhibits serine metabolism-mediated antiviral
+immunity by deacetylating modified PHGDH. mBio. 2024 Oct 16;15(10):e0209724.
+doi: 10.1128/mbio.02097-24. Epub 2024 Aug 29. PMID: 39207107; PMCID:
+PMC11481501.
+
+5: Guo X, Zhang M, Liu X, Zhang Y, Wang C, Guo Y. Attachment, Entry, and
+Intracellular Trafficking of Classical Swine Fever Virus. Viruses. 2023 Sep
+3;15(9):1870. doi: 10.3390/v15091870. PMID: 37766277; PMCID: PMC10534341.
+
+6: Sun J, Yu H, Wang Y, Li L, Zhu J, Ma P, Feng Z, Tu C. Classical swine fever
+virus NS5A protein activates autophagy via the PP2A-DAPK3-Beclin 1 axis. J
+Virol. 2023 Dec 21;97(12):e0098823. doi: 10.1128/jvi.00988-23. Epub 2023 Dec 1.
+PMID: 38038430; PMCID: PMC10734420.
+
+7: Lamothe-Reyes Y, Figueroa M, Sánchez O. Host cell factors involved in
+classical swine fever virus entry. Vet Res. 2023 Dec 1;54(1):115. doi:
+10.1186/s13567-023-01238-x. PMID: 38041163; PMCID: PMC10693020.
+
+8: Chen J, Song HX, Hu JH, Bai JS, Li XH, Sun RC, Zhao BQ, Li MZ, Zhou B.
+Classical swine fever virus non-structural protein 5B hijacks host
+METTL14-mediated m6A modification to counteract host antiviral immune response.
+PLoS Pathog. 2024 Mar 29;20(3):e1012130. doi: 10.1371/journal.ppat.1012130.
+PMID: 38551978; PMCID: PMC11006178.
+
+9: Zhao B-q, Chen J, Chen J-X, Cheng Y, Zhou J-f, Bai J-s, Mao D-y, Zhou B.
+Classical swine fever virus non-structural protein 4A recruits dihydroorotate
+dehydrogenase to facilitate viral replication. J Virol. 2024 Jun
+13;98(6):e0049424. doi: 10.1128/jvi.00494-24. Epub 2024 May 17. PMID: 38757985;
+PMCID: PMC11237749.
+
+10: Xu Q, Ma F, Yang D, Li Q, Yan L, Ou J, Zhang L, Liu Y, Zhan Q, Li R, Wei Q,
+Hu H, Wang Y, Li X, Zhang S, Yang J, Chai S, Du Y, Wang L, Zhang E, Zhang G.
+Rice-produced classical swine fever virus glycoprotein E2 with herringbone-dimer
+design to enhance immune responses. Plant Biotechnol J. 2023
+Dec;21(12):2546-2559. doi: 10.1111/pbi.14152. Epub 2023 Aug 12. Erratum in:
+Plant Biotechnol J. 2024 Jul;22(7):2076. doi: 10.1111/pbi.14374. PMID: 37572354;
+PMCID: PMC10651154.
+
+11: Júnior AAF, Laguardia-Nascimento M, Barbosa AAS, da Silva Gonçalves VL,
+Freitas TRP, Júnior AVR, Camargos MF. Phylodynamics of classical swine fever
+virus in Brazil. Braz J Microbiol. 2022 Jun;53(2):1065-1075. doi:
+10.1007/s42770-022-00724-2. Epub 2022 Apr 8. PMID: 35394611; PMCID: PMC9151941.
+
+12: Liao J, Hu W, Wang W, Wang X, Yu S, Niu X, Zhu W, Zhou B, Song Y, Zeng W, Lu
+Z, Chen J. Plasma metabonomics of classical swine fever virus-infected pigs.
+Front Vet Sci. 2023 Dec 6;10:1171750. doi: 10.3389/fvets.2023.1171750. PMID:
+38130437; PMCID: PMC10734307.
+
+13: Sun J, Li J, Li L, Yu H, Ma P, Wang Y, Zhu J, Feng Z, Tu C. Classical swine
+fever virus NS5A protein antagonizes innate immune response by inhibiting the
+NF-κB signaling. Virol Sin. 2023 Dec;38(6):900-910. doi:
+10.1016/j.virs.2023.09.002. Epub 2023 Sep 14. PMID: 37714433; PMCID:
+PMC10786662.
+
+14: Tran DH, Tran HT, Vo B, Than TT, Nguyen VT, Le VP, Phung H. Enhancing
+classical swine fever virus identification: the advantages of Field-LAMP
+testing. Aust Vet J. 2024 Mar;102(3):67-73. doi: 10.1111/avj.13297. Epub 2023
+Oct 24. PMID: 37875328.
+
+15: Lou JX, Liu YY, Bai JS, Cheng Y, Zhang J, Liu CC, Zhou B. Kinesin-1
+Regulates Endocytic Trafficking of Classical Swine Fever Virus along Acetylated
+Microtubules. J Virol. 2023 Jan 31;97(1):e0192922. doi: 10.1128/jvi.01929-22.
+Epub 2023 Jan 5. PMID: 36602362; PMCID: PMC9888263.
+
+16: Wei Q, Liu Y, Zhang G. Research Progress and Challenges in Vaccine
+Development against Classical Swine Fever Virus. Viruses. 2021 Mar 10;13(3):445.
+doi: 10.3390/v13030445. PMID: 33801868; PMCID: PMC7998128.
+
+17: Zou X, Yang Y, Lin F, Chen J, Zhang H, Li L, Ouyang H, Pang D, Ren L, Tang
+X. Lactate facilitates classical swine fever virus replication by enhancing
+cholesterol biosynthesis. iScience. 2022 Oct 13;25(11):105353. doi:
+10.1016/j.isci.2022.105353. PMID: 36339254; PMCID: PMC9626675.
+
+18: Zhang Y, Li Q, Wang R, Wang L, Wang X, Luo J, Xing G, Zheng G, Wan B, Guo J,
+Zhang G. Differentiation of Classical Swine Fever Virus Virulent and Vaccine
+Strains by CRISPR/Cas13a. Microbiol Spectr. 2022 Oct 26;10(5):e0089122. doi:
+10.1128/spectrum.00891-22. Epub 2022 Sep 29. PMID: 36173294; PMCID: PMC9603908.
+
+19: Malik YS, Bhat S, Kumar ORV, Yadav AK, Sircar S, Ansari MI, Sarma DK,
+Rajkhowa TK, Ghosh S, Dhama K. Classical Swine Fever Virus Biology,
+Clinicopathology, Diagnosis, Vaccines and a Meta-Analysis of Prevalence: A
+Review from the Indian Perspective. Pathogens. 2020 Jun 22;9(6):500. doi:
+10.3390/pathogens9060500. PMID: 32580503; PMCID: PMC7350356.
+
+20: Robert E, Goonewardene K, Lamboo L, Perez O, Goolia M, Lewis C, Erdelyan
+CNG, Lung O, Handel K, Moffat E, Embury-Hyatt C, Amaya NN, Parra CPC, Rueda DCG,
+Monroy MAR, Clavijo A, Ambagala A. Molecular and Pathological Characterization
+of Classical Swine Fever Virus Genotype 2 Strains Responsible for the 2013-2018
+Outbreak in Colombia. Viruses. 2023 Nov 24;15(12):2308. doi: 10.3390/v15122308.
+PMID: 38140549; PMCID: PMC10747092.
+
+21: Hinojosa Y, Liniger M, García-Nicolás O, Gerber M, Rajaratnam A, Muñoz-
+González S, Coronado L, Frías MT, Perera CL, Ganges L, Ruggli N. Evolutionary-
+Related High- and Low-Virulent Classical Swine Fever Virus Isolates Reveal Viral
+Determinants of Virulence. Viruses. 2024 Jan 19;16(1):147. doi:
+10.3390/v16010147. PMID: 38275957; PMCID: PMC10820463.
+
+22: Zeng S, Zhu W, Luo Z, Wu K, Lu Z, Li X, Wang W, Hu W, Qin Y, Chen W, Yi L,
+Fan S, Chen J. Role of OGDH in Atophagy-IRF3-IFN-β pathway during classical
+swine fever virus infection. Int J Biol Macromol. 2023 Sep 30;249:126443. doi:
+10.1016/j.ijbiomac.2023.126443. Epub 2023 Aug 19. Erratum in: Int J Biol
+Macromol. 2023 Oct 1;250:127031. doi: 10.1016/j.ijbiomac.2023.127031. PMID:
+37604413.
+
+23: Leveringhaus E, Poljakovic R, Herrmann G, Roman-Sosa G, Becher P, Postel A.
+Porcine low-density lipoprotein receptor plays an important role in classical
+swine fever virus infection. Emerg Microbes Infect. 2024 Dec;13(1):2327385. doi:
+10.1080/22221751.2024.2327385. Epub 2024 Mar 21. PMID: 38514916; PMCID:
+PMC10962300.
+
+24: Dong W, Jing H, Wang H, Cao S, Sun Y, Zhang Y, Lv H. Classical swine fever
+virus NS4B protein interacts with MAVS and inhibits IL-8 expression in PAMs.
+Virus Res. 2022 Jan 2;307:198622. doi: 10.1016/j.virusres.2021.198622. Epub 2021
+Nov 8. PMID: 34762991.
+
+25: Ma Z, Zhao Y, Lv J, Pan L. Development and application of classical swine
+fever virus monoclonal antibodies derived from single B cells. Vet Res. 2023 Oct
+16;54(1):90. doi: 10.1186/s13567-023-01229-y. PMID: 37845739; PMCID:
+PMC10580647.
+
+26: Liu Y, Bahoussi AN, Wang PH, Wu C, Xing L. Complete genome sequences of
+classical swine fever virus: Phylogenetic and evolutionary analyses. Front
+Microbiol. 2022 Sep 26;13:1021734. doi: 10.3389/fmicb.2022.1021734. PMID:
+36225377; PMCID: PMC9549409.
+
+27: Han X, Xu H, Weng Y, Chen R, Xu J, Cao T, Sun R, Shan Y, He F, Fang W, Li X.
+N<sup>pro</sup> of classical swine fever virus enhances HMGB1 acetylation and
+its degradation by lysosomes to evade from HMGB1-mediated antiviral immunity.
+Virus Res. 2024 Jan 2;339:199280. doi: 10.1016/j.virusres.2023.199280. Epub 2023
+Nov 23. PMID: 37995963; PMCID: PMC10709370.
+
+28: Tomar NR, Bhat IA, Bharti MK, John JK, Sharma V, Chandra V, Sharma GT,
+Saikumar G. Isolation and propagation of classical swine fever virus in porcine
+Wharton's Jelly mesenchymal stem cells. Anim Biotechnol. 2022 Aug;33(4):629-637.
+doi: 10.1080/10495398.2020.1813151. Epub 2020 Sep 4. PMID: 32885744.
+
+29: Wu Q, Yang Z, Lu Z, Mi S, Feng Y, He B, Zhu G, Gong W, Tu C. Identification
+of two novel ephemeroviruses in pigs infected by classical swine fever virus.
+Infect Genet Evol. 2022 Jun;100:105273. doi: 10.1016/j.meegid.2022.105273. Epub
+2022 Mar 20. PMID: 35321840.
+
+30: Gao Y, Hu JH, Liang XD, Chen J, Liu CC, Liu YY, Cheng Y, Go YY, Zhou B.
+Curcumin inhibits classical swine fever virus replication by interfering with
+lipid metabolism. Vet Microbiol. 2021 Aug;259:109152. doi:
+10.1016/j.vetmic.2021.109152. Epub 2021 Jun 12. PMID: 34146894.
+
+31: Chang CY, Tsai KJ, Deng MC, Wang FI, Liu HM, Tsai SH, Tu YC, Lin NN, Huang
+YL. Transmission of Classical Swine Fever Virus in Cohabitating Piglets with
+Various Immune Statuses Following Attenuated Live Vaccine. Animals (Basel). 2023
+Jan 21;13(3):368. doi: 10.3390/ani13030368. PMID: 36766258; PMCID: PMC9913813.
+
+32: Vuono E, Ramirez-Medina E, Silva E, Berggren K, Rai A, Espinoza N, Gladue
+DP, Borca MV. Classical Swine Fever Virus Structural Glycoprotein E2 Interacts
+with Host Protein ACADM during the Virus Infectious Cycle. Viruses. 2023 Apr
+23;15(5):1036. doi: 10.3390/v15051036. PMID: 37243123; PMCID: PMC10223252.
+
+33: Yamashita M, Iwamoto S, Ochiai M, Yamamoto A, Sudo K, Narushima R, Nagasaka
+T, Saito A, Oba M, Omatsu T, Mizutani T, Yamamoto K. Pathogenicity of genotype
+2.1 classical swine fever virus isolated from Japan in 2019 in pigs. Microbiol
+Immunol. 2024 Aug;68(8):267-280. doi: 10.1111/1348-0421.13160. Epub 2024 Jun 30.
+PMID: 38946035.
+
+34: Yu H, Zhang L, Cai Y, Hao Z, Luo Z, Peng T, Liu L, Wang N, Wang G, Deng Z,
+Zhan Y. Seroprevalence of antibodies to classical swine fever virus and porcine
+reproductive and respiratory syndrome virus in healthy pigs in Hunan Province,
+China. Pol J Vet Sci. 2022 Sep;25(3):375-381. doi: 10.24425/pjvs.2022.142020.
+PMID: 36155561.
+
+35: Qian Q, Xu R, Wang Y, Ma L. The NS4A Protein of Classical Swine Fever Virus
+Suppresses RNA Silencing in Mammalian Cells. J Virol. 2022 Aug
+10;96(15):e0187421. doi: 10.1128/jvi.01874-21. Epub 2022 Jul 13. PMID: 35867575;
+PMCID: PMC9364796.
+
+36: Chen YS, Lee CY, Wu CC, Kao PL, Chen TA, Huang Y, Chung WB, Kuo TY, Chen C.
+Efficacy evaluation of a bivalent subunit vaccine against classical swine fever
+virus and porcine circovirus type 2. Sci Rep. 2024 Feb 6;14(1):2997. doi:
+10.1038/s41598-024-53624-w. PMID: 38316873; PMCID: PMC10844208.
+
+37: Deka D, Barman NN, Deka N, Batth BK, Singh G, Singh S, Agrawal RK,
+Mukhopadhyay CS, Ramneek. Sero-epidemiology of porcine parvovirus, circovirus,
+and classical swine fever virus infections in India. Trop Anim Health Prod. 2021
+Feb 24;53(1):180. doi: 10.1007/s11250-021-02587-5. PMID: 33624145.
+
+38: Hansen MS, Nielsen J, Uttenthal Å, Jensen GØ, Lohse L. Intranasal
+Inoculation with Classical Swine Fever Virus Provided a More Consistent
+Experimental Disease Model Compared to Oral Inoculation. Vet Sci. 2024 Jan
+28;11(2):56. doi: 10.3390/vetsci11020056. PMID: 38393074; PMCID: PMC10892780.
+
+39: Zhong D, Lu Z, Xia Y, Wu H, Zhang X, Li M, Song X, Wang Y, Moon A, Qiu HJ,
+Li Y, Sun Y. Ferritin Nanoparticle Delivery of the E2 Protein of Classical Swine
+Fever Virus Completely Protects Pigs from Lethal Challenge. Vaccines (Basel).
+2024 Jun 5;12(6):629. doi: 10.3390/vaccines12060629. PMID: 38932358; PMCID:
+PMC11209039.
+
+40: Nishi T, Fukai K, Kato T, Sawai K, Yamamoto T. Genome variability of
+classical swine fever virus during the 2018-2020 epidemic in Japan. Vet
+Microbiol. 2021 Jul;258:109128. doi: 10.1016/j.vetmic.2021.109128. Epub 2021 May
+24. PMID: 34058522.
+
+41: Fan D, Hu C, Yang X, Yang X, Chen Y, Lin J. Generation of a DNA-launched
+classical swine fever virus infectious clone packaged in bacterial artificial
+chromosome. Virus Res. 2023 Jan 2;323:198961. doi:
+10.1016/j.virusres.2022.198961. Epub 2022 Oct 6. PMID: 36209918; PMCID:
+PMC10194133.
+
+42: Sawai K, Nishi T, Fukai K, Kato T, Hayama Y, Yamamoto T. Phylogenetic and
+phylodynamic analysis of a classical swine fever virus outbreak in Japan
+(2018-2020). Transbound Emerg Dis. 2022 May;69(3):1529-1538. doi:
+10.1111/tbed.14117. Epub 2021 May 5. PMID: 33890426.
+
+43: Zhang L, Yi Y, Wang T, Song M, Guo K, Zhang Y. 25-hydroxycholesterol
+inhibits classical swine fever virus entry into porcine alveolar macrophages by
+depleting plasma membrane cholesterol. Vet Microbiol. 2023 Mar;278:109668. doi:
+10.1016/j.vetmic.2023.109668. Epub 2023 Jan 24. PMID: 36709687.
+
+44: Chen R, Han X, Xu H, Xu J, Cao T, Shan Y, He F, Fang W, Li X. N-terminal
+domain of classical swine fever virus N<sup>pro</sup> induces proteasomal
+degradation of specificity protein 1 with reduced HDAC1 expression to evade from
+innate immune responses. J Virol. 2023 Oct 31;97(10):e0111523. doi:
+10.1128/jvi.01115-23. Epub 2023 Oct 5. PMID: 37796122; PMCID: PMC10617410.
+
+45: Liu YY, Liang XD, Liu CC, Cheng Y, Chen H, Baloch AS, Zhang J, Go YY, Zhou
+B. Fatty Acid Synthase Is Involved in Classical Swine Fever Virus Replication by
+Interaction with NS4B. J Virol. 2021 Aug 10;95(17):e0078121. doi:
+10.1128/JVI.00781-21. Epub 2021 Aug 10. PMID: 34132567; PMCID: PMC8354233.
+
+46: Yang Z, He B, Lu Z, Mi S, Jiang J, Liu Z, Tu C, Gong W. Mammalian
+birnaviruses identified in pigs infected by classical swine fever virus. Virus
+Evol. 2021 Sep 22;7(2):veab084. doi: 10.1093/ve/veab084. PMID: 34659797; PMCID:
+PMC8516818.
+
+47: Klangprapan S, Choke-Arpornchai B, Lieberzeit PA, Choowongkomon K. Sensing
+the classical swine fever virus with molecularly imprinted polymer on quartz
+crystal microbalance. Heliyon. 2020 Jun 6;6(6):e04137. doi:
+10.1016/j.heliyon.2020.e04137. PMID: 32548329; PMCID: PMC7284075.
+
+48: Zhu X, Liu M, Wu X, Ma W, Zhao X. Phylogenetic analysis of classical swine
+fever virus isolates from China. Arch Virol. 2021 Aug;166(8):2255-2261. doi:
+10.1007/s00705-021-05084-0. Epub 2021 May 18. PMID: 34003359.
+
+49: Wang T, Liu Y, Sun Y, Zhang L, Guo K, Zhang Y. Rab22a cooperates with Rab5
+and NS4B in classical swine fever virus entry process. Vet Microbiol. 2022
+Mar;266:109363. doi: 10.1016/j.vetmic.2022.109363. Epub 2022 Feb 2. PMID:
+35134740.
+
+50: Wang X, Yang Y, Yang X, Liu X, Wang X, Gao L, Yang C, Lan R, Bi J, Zhao Q,
+Yang G, Wang J, Lin Y, Liu J, Yin G. Classical swine fever virus infection
+suppresses claudin-1 expression to facilitate its replication in PK-15 cells.
+Microb Pathog. 2021 Aug;157:105012. doi: 10.1016/j.micpath.2021.105012. Epub
+2021 May 29. PMID: 34062228.
+
+51: Xu C, Feng L, Chen P, Li A, Guo S, Jiao X, Zhang C, Zhao Y, Jin X, Zhong K,
+Guo Y, Zhu H, Han L, Yang G, Li H, Wang Y. Viperin inhibits classical swine
+fever virus replication by interacting with viral nonstructural 5A protein. J
+Med Virol. 2020 Feb;92(2):149-160. doi: 10.1002/jmv.25595. Epub 2019 Sep 26.
+PMID: 31517388.
+
+52: Bohórquez JA, Muñoz-Aguilera A, Lanka S, Coronado L, Rosell R, Alberch M,
+Maddox CW, Ganges L. Development of a new loop-mediated isothermal amplification
+test for the sensitive, rapid, and economic detection of different genotypes of
+Classical swine fever virus. Front Cell Infect Microbiol. 2024 Apr
+15;14:1372166. doi: 10.3389/fcimb.2024.1372166. PMID: 38686097; PMCID:
+PMC11056584.
+
+53: Hardy S, Jackson B, Goodbourn S, Seago J. Classical swine fever virus
+N<sup>pro</sup> antagonises IRF3 to prevent IFN-independent TLR3 and RIG-I-
+mediated apoptosis. J Virol. 2020 May 1;95(9):e01136-20. doi:
+10.1128/JVI.01136-20. Epub 2020 Dec 16. PMID: 33328306; PMCID: PMC8092839.
+
+54: Zhao D, Zhang L, Song M, Mail YZ. RPS3-induced antiviral cytokines inhibit
+the proliferation of classical swine fever virus. Acta Virol. 2022;66(1):55-64.
+doi: 10.4149/av_2022_107. PMID: 35380865.
+
+55: Zhang L, Tang R, Liang D, Wang W, Min K, Luo T, Li X. Uncovering the
+Interaction between TRAF1 and MAVS in the RIG-I Pathway to Enhance the
+Upregulation of IRF1/ISG15 during Classical Swine Fever Virus Infection. Cells.
+2024 Jul 8;13(13):1165. doi: 10.3390/cells13131165. PMID: 38995016; PMCID:
+PMC11240745.
+
+56: Patil SS, Indrabalan UB, Suresh KP, Shome BR. Analysis of codon usage bias
+of classical swine fever virus. Vet World. 2021 Jun;14(6):1450-1458. doi:
+10.14202/vetworld.2021.1450-1458. Epub 2021 Jun 5. PMID: 34316191; PMCID:
+PMC8304411.
+
+57: Fatima M, Luo Y, Zhang L, Wang PY, Song H, Fu Y, Li Y, Sun Y, Li S, Bao YJ,
+Qiu HJ. Genotyping and Molecular Characterization of Classical Swine Fever Virus
+Isolated in China during 2016-2018. Viruses. 2021 Apr 12;13(4):664. doi:
+10.3390/v13040664. PMID: 33921513; PMCID: PMC8069065.
+
+58: Panyasing Y, Gimenez-Lirola L, Thanawongnuwech R, Prakobsuk P, Kawilaphan Y,
+Kittawornrat A, Cheng TY, Zimmerman J. Performance of a Differentiation of
+Infected from Vaccinated Animals (DIVA) Classical Swine Fever Virus (CSFV) Serum
+and Oral Fluid Erns Antibody AlphaLISA Assay. Animals (Basel). 2023 Dec
+9;13(24):3802. doi: 10.3390/ani13243802. PMID: 38136839; PMCID: PMC10740410.
+
+59: Chen Y, Fan S, Zhao M, Wu K, Zhu E, Ma S, He W, Deng S, Xu H, Zhang J, Ding
+H, Yi L, Zhao M, Chen J. MG132 Attenuates the Replication of Classical Swine
+Fever Virus <i>in vitro</i>. Front Microbiol. 2020 Jun 3;11:852. doi:
+10.3389/fmicb.2020.00852. PMID: 32582037; PMCID: PMC7283581.
+
+60: Giangaspero M, Zang SQ. Circulation of classical swine fever virus (CSFV)
+strains of bovine origin in China and India. Vet Ital. 2023 Mar 31;59(1):41-49.
+doi: 10.12834/VetIt.2757.17907.2. PMID: 37994638.
+
+61: Chengcheng Z, Xiuling W, Jiahao S, Mengjiao G, Xiaorong Z, Yantao W.
+Mitophagy induced by classical swine fever virus nonstructural protein 5A
+promotes viral replication. Virus Res. 2022 Oct 15;320:198886. doi:
+10.1016/j.virusres.2022.198886. Epub 2022 Aug 7. PMID: 35948130.
+
+62: Wang F, Yu Q, Hu M, Xing G, Zhao D, Zhang G. Purification of Classical Swine
+Fever Virus E2 Subunit Vaccines Based on High Affinity Peptide Ligand. Protein
+Pept Lett. 2021;28(5):554-562. doi: 10.2174/0929866527666201103152100. PMID:
+33143607.
+
+63: Li S, Gao Y, Zhai H, Guan X, Yang X, Hou Q, Zhang X, Li LF, Wang X, Huang S,
+Qiu HJ, Li Y. Immune responses induced by a recombinant C-strain of classical
+swine fever virus expressing the F317L protein of African swine fever virus. Vet
+Microbiol. 2024 Nov;298:110239. doi: 10.1016/j.vetmic.2024.110239. Epub 2024 Sep
+3. PMID: 39243670.
+
+64: Liu YY, Bai JS, Liu CC, Zhou JF, Chen J, Cheng Y, Zhou B. The Small GTPase
+Rab14 Regulates the Trafficking of Ceramide from Endoplasmic Reticulum to Golgi
+Apparatus and Facilitates Classical Swine Fever Virus Assembly. J Virol. 2023
+May 31;97(5):e0036423. doi: 10.1128/jvi.00364-23. Epub 2023 Apr 12. PMID:
+37255314; PMCID: PMC10231254.
+
+65: Yuan F, Li D, Li C, Zhang Y, Song H, Li S, Deng H, Gao GF, Zheng A. ADAM17
+is an essential attachment factor for classical swine fever virus. PLoS Pathog.
+2021 Mar 8;17(3):e1009393. doi: 10.1371/journal.ppat.1009393. PMID: 33684175;
+PMCID: PMC7971878.
+
+66: Li D, Wu J, Chen J, Zhang D, Zhang Y, Qiao X, Yu X, Zheng Q, Hou J.
+Optimized expression of classical swine fever virus E2 protein via combined
+strategy in Pichia pastoris. Protein Expr Purif. 2020 Mar;167:105527. doi:
+10.1016/j.pep.2019.105527. Epub 2019 Nov 1. PMID: 31678666.
+
+67: Zhu E, Wu H, Chen W, Qin Y, Liu J, Fan S, Ma S, Wu K, Mao Q, Luo C, Qin Y,
+Yi L, Ding H, Zhao M, Chen J. Classical swine fever virus employs the PERK- and
+IRE1-dependent autophagy for viral replication in cultured cells. Virulence.
+2021 Dec;12(1):130-149. doi: 10.1080/21505594.2020.1845040. PMID: 33380286;
+PMCID: PMC7781608.
+
+68: Vuono E, Ramirez-Medina E, Silva E, Berggren K, Rai A, Espinoza N, Borca MV,
+Gladue DP. The Interaction between the DOCK7 Protein and the E2 Protein of
+Classical Swine Fever Virus Is Not Involved with Viral Replication or
+Pathogenicity. Viruses. 2023 Dec 30;16(1):70. doi: 10.3390/v16010070. PMID:
+38257770; PMCID: PMC10821278.
+
+69: Parthiban S, Kowsalya B, Parthiban M, Ramesh A, Raja P, Gopal K, Jaisree S,
+Thangathurai R, Senthilkumar K. Molecular Analysis of Classical Swine Fever
+Virus Associated Field Infections Evidence Novel CSFV Sub Genotype in Tamil
+Nadu, Southern India. Indian J Microbiol. 2024 Sep;64(3):1347-1354. doi:
+10.1007/s12088-024-01345-z. Epub 2024 Jun 28. PMID: 39282161; PMCID:
+PMC11399502.
+
+70: Mi S, Guo S, Xing C, Xiao C, He B, Wu B, Xia X, Tu C, Gong W. Isolation and
+Characterization of Porcine Astrovirus 5 from a Classical Swine Fever Virus-
+Infected Specimen. J Virol. 2020 Dec 22;95(2):e01513-20. doi:
+10.1128/JVI.01513-20. PMID: 33115877; PMCID: PMC7944439.
+
+71: Zhang H, Yin D, Qin H, Zhang K, Li Z, Cui G, Ma G, Sun P, Cao Z.
+Immunogenicity of the recombinant adenovirus fusion-expressing E0-E2 gene of the
+classical swine fever virus. Front Microbiol. 2022 Oct 28;13:1054651. doi:
+10.3389/fmicb.2022.1054651. PMID: 36406388; PMCID: PMC9673476.
+
+72: Bohórquez JA, Sozzi E, Wang M, Alberch M, Abad X, Gaffuri A, Lelli D, Rosell
+R, Pérez LJ, Moreno A, Ganges L. The new emerging ovine pestivirus can infect
+pigs and confers strong protection against classical swine fever virus.
+Transbound Emerg Dis. 2022 May;69(3):1539-1555. doi: 10.1111/tbed.14119. Epub
+2021 May 5. PMID: 33896109.
+
+73: Takahashi M, Nishizawa T, Nishizono A, Kawakami M, Sato Y, Kawakami K,
+Irokawa M, Tamaru T, Miyazaki S, Shimada M, Ozaki H, Primadharsini PP, Nagashima
+S, Murata K, Okamoto H. Recent decline in hepatitis E virus prevalence among
+wild boars in Japan: Probably due to countermeasures implemented in response to
+outbreaks of classical swine fever virus infection. Virus Res. 2024
+Oct;348:199438. doi: 10.1016/j.virusres.2024.199438. Epub 2024 Jul 19. PMID:
+39013518; PMCID: PMC11315222.
+
+74: Nabeshima K, Kuriyama T, Takagi S, Sugimoto T, Yokoyama M, Goka K, Onuma M.
+Novel approach for detecting classical swine fever virus from swabs of wild boar
+cut tails using nested real-time PCR. J Vet Med Sci. 2024 Jun 1;86(6):656-659.
+doi: 10.1292/jvms.24-0062. Epub 2024 Apr 25. PMID: 38658334; PMCID: PMC11187583.
+
+75: Dong H, Song G, Ma D, Wang T, Jing S, Yang H, Tao Y, Tang Y, Shi Y, Dai Z,
+Zhu JM, Liu T, Wang B, Leng X, Shen X, Zhu C, Zhao Y. Improved Antiviral
+Activity of Classical Swine Fever Virus-Targeted siRNA by Tetrahedral Framework
+Nucleic Acid-Enhanced Delivery. ACS Appl Mater Interfaces. 2021 Jun
+30;13(25):29416-29423. doi: 10.1021/acsami.1c08143. Epub 2021 Jun 20. Erratum
+in: ACS Appl Mater Interfaces. 2023 Nov 29;15(47):55194. doi:
+10.1021/acsami.3c15965. PMID: 34148345.
+
+76: Cheng Y, Lou JX, Liu YY, Liu CC, Chen J, Yang MC, Ye YB, Go YY, Zhou B.
+Intracellular Vimentin Regulates the Formation of Classical Swine Fever Virus
+Replication Complex through Interaction with NS5A Protein. J Virol. 2023 May
+31;97(5):e0177022. doi: 10.1128/jvi.01770-22. Epub 2023 Apr 27. PMID: 37129496;
+PMCID: PMC10231149.
+
+77: Coronado L, Perera CL, Rios L, Frías MT, Pérez LJ. A Critical Review about
+Different Vaccines against Classical Swine Fever Virus and Their Repercussions
+in Endemic Regions. Vaccines (Basel). 2021 Feb 15;9(2):154. doi:
+10.3390/vaccines9020154. PMID: 33671909; PMCID: PMC7918945.
+
+78: Kim T, Huynh LT, Hirose S, Igarashi M, Hiono T, Isoda N, Sakoda Y.
+Characteristics of Classical Swine Fever Virus Variants Derived from Live
+Attenuated GPE<sup>-</sup> Vaccine Seed. Viruses. 2021 Aug 23;13(8):1672. doi:
+10.3390/v13081672. PMID: 34452536; PMCID: PMC8402697.
+
+79: Gopinath S, Hosamani M, Joseph BV, Patil SS. Development of classical swine
+fever virus E2-protein based indirect ELISA for detection of antibodies against
+the virus in pigs. Vet Res Commun. 2024 Oct;48(5):3121-3129. doi:
+10.1007/s11259-024-10482-1. Epub 2024 Aug 1. PMID: 39088127.
+
+80: Casciari C, Sozzi E, Bazzucchi M, Moreno Martin AM, Gaffuri A, Giammarioli
+M, Lavazza A, De Mia GM. Serological relationship between a novel ovine
+pestivirus and classical swine fever virus. Transbound Emerg Dis. 2020
+May;67(3):1406-1410. doi: 10.1111/tbed.13480. Epub 2020 Jan 24. PMID: 31944563.
+
+81: Liniger M, Gerber M, Renzullo S, García-Nicolás O, Ruggli N. TNF-Mediated
+Inhibition of Classical Swine Fever Virus Replication Is IRF1-, NF-κB- and
+JAK/STAT Signaling-Dependent. Viruses. 2021 Oct 7;13(10):2017. doi:
+10.3390/v13102017. PMID: 34696447; PMCID: PMC8540133.
+
+82: Chen X, Wang X. Computational investigation in inhibitory effects of
+amantadine on classical swine fever virus p7 ion channel activity. Sci Rep. 2024
+Sep 2;14(1):20387. doi: 10.1038/s41598-024-71477-1. PMID: 39223222; PMCID:
+PMC11369150.
+
+83: Yi W, Zheng F, Zhu H, Wu Y, Wei J, Pan Z. Role of the conserved E2 residue
+G259 in classical swine fever virus production and replication. Virus Res. 2022
+May;313:198747. doi: 10.1016/j.virusres.2022.198747. Epub 2022 Mar 18. PMID:
+35314201.
+
+84: Liu CC, Liu YY, Zhou JF, Chen X, Chen H, Hu JH, Chen J, Zhang J, Sun RC, Wei
+JC, Go YY, Morita E, Zhou B. Cellular ESCRT components are recruited to regulate
+the endocytic trafficking and RNA replication compartment assembly during
+classical swine fever virus infection. PLoS Pathog. 2022 Feb 4;18(2):e1010294.
+doi: 10.1371/journal.ppat.1010294. PMID: 35120190; PMCID: PMC8849529.
+
+85: Yamamoto T, Sawai K, Nishi T, Fukai K, Kato T, Hayama Y, Murato Y, Shimizu
+Y, Yamaguchi E. Subgrouping and analysis of relationships between classical
+swine fever virus identified during the 2018-2020 epidemic in Japan by a novel
+approach using shared genomic variants. Transbound Emerg Dis. 2022
+May;69(3):1166-1177. doi: 10.1111/tbed.14076. Epub 2021 Mar 30. PMID: 33730417.
+
+86: Sun YY, Liu KS, Zhang C, Ni Z, Zhu YC, Bao HL, Chen L, Ye WC, Hua JG, Huo
+SX, Wang HY, Yun T, Bao ED. Recombinant pseudorabies virus (PRV) expressing
+stabilized E2 of classical swine fever virus (CSFV) protects against both PRV
+and CSFV. Antiviral Res. 2023 Mar;211:105548. doi:
+10.1016/j.antiviral.2023.105548. Epub 2023 Jan 24. PMID: 36702445.
+
+87: Liu HM, Deng MC, Huang YL, Tsai KJ, Chang HW, Chang CY. In vivo
+characterization of the superior fitness of classical swine fever virus genotype
+2.1 to genotype 3.4. Vet Microbiol. 2023 Oct;285:109854. doi:
+10.1016/j.vetmic.2023.109854. Epub 2023 Aug 22. PMID: 37633061.
+
+88: Chen WT, Liu HM, Chang CY, Deng MC, Huang YL, Chang YC, Chang HW. Cross-
+reactivities and cross-neutralization of different envelope glycoproteins E2
+antibodies against different genotypes of classical swine fever virus. Front Vet
+Sci. 2023 Apr 27;10:1169766. doi: 10.3389/fvets.2023.1169766. PMID: 37180072;
+PMCID: PMC10172653.
+
+89: Chen JY, Wu CM, Chia MY, Huang C, Chien MS. A prospective CSFV-PCV2 bivalent
+vaccine effectively protects against classical swine fever virus and porcine
+circovirus type 2 dual challenge and prevents horizontal transmission. Vet Res.
+2023 Jul 11;54(1):57. doi: 10.1186/s13567-023-01181-x. PMID: 37434231; PMCID:
+PMC10337183.
+
+90: Fukai K, Nishi T, Masujin K, Yamada M, Ikezawa M. Quantitative analysis of
+viremia and viral shedding in pigs infected experimentally with classical swine
+fever virus isolates obtained from recent outbreaks in Japan. Vet Res. 2023 Sep
+27;54(1):81. doi: 10.1186/s13567-023-01215-4. PMID: 37759265; PMCID:
+PMC10523739.
+
+91: Huang YL, Meyer D, Postel A, Tsai KJ, Liu HM, Yang CH, Huang YC, Chang HW,
+Deng MC, Wang FI, Becher P, Crooke H, Chang CY. Identification of neutralizing
+epitopes on the D/A domain of the E2 glycoprotein of classical swine fever
+virus. Virus Res. 2023 Oct 15;336:199209. doi: 10.1016/j.virusres.2023.199209.
+Epub 2023 Aug 31. PMID: 37633596; PMCID: PMC10485151.
+
+92: Izzati UZ, Hoa NT, Lan NT, Diep NV, Fuke N, Hirai T, Yamaguchi R. Pathology
+of the outbreak of subgenotype 2.5 classical swine fever virus in northern
+Vietnam. Vet Med Sci. 2021 Jan;7(1):164-174. doi: 10.1002/vms3.339. Epub 2020
+Aug 11. PMID: 32781492; PMCID: PMC7840204.
+
+93: Choe S, Kim KS, Park GN, Song S, Shin J, Hyun BH, An DJ. Haplotype of Wild
+Korean Boars Infected by Classical Swine Fever Virus Subgenotype 2.1d. Animals
+(Basel). 2022 Oct 4;12(19):2670. doi: 10.3390/ani12192670. PMID: 36230411;
+PMCID: PMC9559489.
+
+94: Yao J, Su L, Wang Q, Gao L, Xie J, He Y, Shu X, Song C, Chai J, Zhang Y,
+Yang S. Epidemiological investigation and phylogenetic analysis of Classical
+Swine Fever virus in Yunnan province from 2015 to 2021. J Vet Sci. 2022
+Jul;23(4):e57. doi: 10.4142/jvs.22042. PMID: 35920121; PMCID: PMC9346530.
+
+95: Li D, Zhang H, Yang L, Chen J, Zhang Y, Yu X, Zheng Q, Hou J. Surface
+display of classical swine fever virus E2 glycoprotein on gram-positive enhancer
+matrix (GEM) particles via the SpyTag/SpyCatcher system. Protein Expr Purif.
+2020 Mar;167:105526. doi: 10.1016/j.pep.2019.105526. Epub 2019 Nov 2. PMID:
+31689499.
+
+96: Fang Q, Luo Y, Liang T, Liao R, Yu X, Zheng J, Yin D, Yu X. Development of
+an indirect ELISA for the immunoprotection evaluation of E2 antibodies against
+classical swine fever virus. J Virol Methods. 2024 Sep;329:114999. doi:
+10.1016/j.jviromet.2024.114999. Epub 2024 Jul 16. PMID: 39025132.
+
+97: Zhang L, Jin M, Song M, Liu S, Wang T, Guo K, Zhang Y. ARFGAP1 binds to
+classical swine fever virus NS5A protein and enhances CSFV replication in PK-15
+cells. Vet Microbiol. 2021 Apr;255:109034. doi: 10.1016/j.vetmic.2021.109034.
+Epub 2021 Mar 5. PMID: 33721634.
+
+98: Zhang Y, Wang M, Sun Y, Xiao X, Wang S, Li P, Liu Y, Zhao H, Meng Y, Yin R.
+Rapid Differential Detection of Wild-Type Classical Swine Fever Virus and Hog
+Cholera Lapinized Virus Vaccines by TaqMan MGB-Based Dual One-Step Real-Time RT-
+PCR. Vet Sci. 2024 Jun 28;11(7):289. doi: 10.3390/vetsci11070289. PMID:
+39057973; PMCID: PMC11281418.
+
+99: Zhao X, Wang X, Yuan M, Zhang X, Yang X, Guan X, Li S, Ma J, Qiu HJ, Li Y.
+Identification of two novel T cell epitopes on the E2 protein of classical swine
+fever virus C-strain. Vet Microbiol. 2023 Sep;284:109814. doi:
+10.1016/j.vetmic.2023.109814. Epub 2023 Jun 16. PMID: 37356277.
+
+100: Liu H, Shi K, Zhao J, Yin Y, Chen Y, Si H, Qu S, Long F, Lu W. Development
+of a one-step multiplex qRT-PCR assay for the detection of African swine fever
+virus, classical swine fever virus and atypical porcine pestivirus. BMC Vet Res.
+2022 Jan 18;18(1):43. doi: 10.1186/s12917-022-03144-4. PMID: 35042532; PMCID:
+PMC8764768.
+
+101: Cheng Y, Lou JX, Liu CC, Liu YY, Chen XN, Liang XD, Zhang J, Yang Q, Go YY,
+Zhou B. Microfilaments and microtubules alternately coordinate the multi-step
+endosomal trafficking of Classical Swine Fever Virus. J Virol. 2021 Apr
+26;95(10):e02436-20. doi: 10.1128/JVI.02436-20. Epub 2021 Feb 24. PMID:
+33627389; PMCID: PMC8139654.
+
+102: Zhang L, Wang T, Yi Y, Song M, Jin M, Guo K, Zhang Y. ARF1 with Sec7
+Domain-Dependent GBF1 Activates Coatomer Protein I To Support Classical Swine
+Fever Virus Entry. J Virol. 2022 Mar 23;96(6):e0219321. doi:
+10.1128/jvi.02193-21. Epub 2022 Jan 19. PMID: 35044210; PMCID: PMC8941923.
+
+103: Sordo-Puga Y, Suárez-Pedroso M, Naranjo-Valdéz P, Pérez-Pérez D, Santana-
+Rodríguez E, Sardinas-Gonzalez T, Mendez-Orta MK, Duarte-Cano CA, Estrada-Garcia
+MP, Rodríguez-Moltó MP. Porvac<sup>®</sup> Subunit Vaccine E2-CD154 Induces
+Remarkable Rapid Protection against Classical Swine Fever Virus. Vaccines
+(Basel). 2021 Feb 17;9(2):167. doi: 10.3390/vaccines9020167. PMID: 33671399;
+PMCID: PMC7922993.
+
+104: Fan J, Zhang M, Liu C, Zhu M, Zhang Z, Wu K, Li Z, Li W, Fan S, Ju C, Yi L,
+Ding H, Zhao M, Chen J. The Network of Interactions Between Classical Swine
+Fever Virus Nonstructural Protein p7 and Host Proteins. Front Microbiol. 2020
+Nov 30;11:597893. doi: 10.3389/fmicb.2020.597893. PMID: 33329485; PMCID:
+PMC7733924.
+
+105: Yin M, Hu D, Li P, Kong L, Ning H, Yue F, Jiang J, Wang X. Cloning and
+Identification of PK15 Cells for Enhanced Replication of Classical Swine Fever
+Virus. J Vet Res. 2020 Mar 24;64(1):9-14. doi: 10.2478/jvetres-2020-0020. PMID:
+32258794; PMCID: PMC7105985.
+
+106: Bai Y, Jia R, Wei Q, Wang L, Sun Y, Li Y, Luo J, Zhang G. Development and
+application of a high-sensitivity immunochromatographic test strip for detecting
+classical swine fever virus antibodies. Transbound Emerg Dis. 2022
+Jul;69(4):e788-e798. doi: 10.1111/tbed.14367. Epub 2021 Dec 14. PMID: 34724351.
+
+107: Choe S, Le VP, Shin J, Kim JH, Kim KS, Song S, Cha RM, Park GN, Nguyen TL,
+Hyun BH, Park BK, An DJ. Pathogenicity and Genetic Characterization of
+Vietnamese Classical Swine Fever Virus: 2014-2018. Pathogens. 2020 Feb
+28;9(3):169. doi: 10.3390/pathogens9030169. PMID: 32121079; PMCID: PMC7157220.
+
+108: Wang L, Madera R, Li Y, Gladue DP, Borca MV, McIntosh MT, Shi J.
+Development of Porcine Monoclonal Antibodies with In Vitro Neutralizing Activity
+against Classical Swine Fever Virus from C-Strain E2-Specific Single B Cells.
+Viruses. 2023 Mar 28;15(4):863. doi: 10.3390/v15040863. PMID: 37112845; PMCID:
+PMC10145741.
+
+109: Sun YY, Liu KS, Yun T, Ni Z, Zhu YC, Chen L, Bao HL, Ye WC, Hua JG, Huo SX,
+Wang HY, Bao ED, Zhang C. High expression of the classical swine fever virus
+(CSFV) envelope protein E2 by a single amino acid mutation and its embedded in
+the pseudorabies virus (PRV) vector for immunization. Virus Res. 2023 Jul
+2;331:199111. doi: 10.1016/j.virusres.2023.199111. Epub 2023 Apr 24. PMID:
+37062496; PMCID: PMC10345576.
+
+110: Itakura Y, Matsuno K, Ito A, Gerber M, Liniger M, Fujimoto Y, Tamura T,
+Kameyama KI, Okamatsu M, Ruggli N, Kida H, Sakoda Y. A cloned classical swine
+fever virus derived from the vaccine strain GPE<sup>-</sup> causes cytopathic
+effect in CPK-NS cells via type-I interferon-dependent necroptosis. Virus Res.
+2020 Jan 15;276:197809. doi: 10.1016/j.virusres.2019.197809. Epub 2019 Nov 9.
+PMID: 31715204.
+
+111: Okamoto R, Ito N, Ide Y, Kitab B, Sakoda Y, Tsukiyama-Kohara K. Development
+of short hairpin RNA expression vectors targeting the internal ribosomal entry
+site of the classical swine fever virus genomic RNA. BMC Biotechnol. 2023 Sep
+8;23(1):37. doi: 10.1186/s12896-023-00805-6. PMID: 37684601; PMCID: PMC10492304.
+
+112: Zhao L, Wen XH, Jia CL, Zhou XR, Luo SJ, Lv DH, Zhai Q. Development of a
+multiplex qRT-PCR assay for detection of classical swine fever virus, African
+swine fever virus, and <i>Erysipelothrix rhusiopathiae</i>. Front Vet Sci. 2023
+May 25;10:1183360. doi: 10.3389/fvets.2023.1183360. PMID: 37303728; PMCID:
+PMC10248016.
+
+113: Stoian AMM, Petrovan V, Constance LA, Olcha M, Dee S, Diel DG, Sheahan MA,
+Rowland RRR, Patterson G, Niederwerder MC. Stability of classical swine fever
+virus and pseudorabies virus in animal feed ingredients exposed to transpacific
+shipping conditions. Transbound Emerg Dis. 2020 Jul;67(4):1623-1632. doi:
+10.1111/tbed.13498. Epub 2020 Feb 9. PMID: 31999072.
+
+114: Cao Z, Yin D, Zhang L, Ma S, Zhang K, Yang R, Shan H, Qin Z. A Novel
+Blocking Enzyme-Linked Immunosorbent Assay Based on a Biotinylated Nanobody for
+the Rapid and Sensitive Clinical Detection of Classical Swine Fever Virus
+Antibodies. Microbiol Spectr. 2023 Feb 14;11(1):e0299622. doi:
+10.1128/spectrum.02996-22. Epub 2023 Jan 23. PMID: 36688674; PMCID: PMC9927282.
+
+115: Zhang L, Liang D, Min K, Liang J, Tian Y, Liu C, Luo TR, Li X.
+CRISPR/Cas9-mediated knockout of STAT1 in porcine-derived cell lines to
+elucidate the role of STAT1 in autophagy following classical swine fever virus
+infection. Front Immunol. 2024 Oct 30;15:1468258. doi:
+10.3389/fimmu.2024.1468258. PMID: 39539545; PMCID: PMC11557322.
+
+116: Shi K, Chen Y, Yin Y, Long F, Feng S, Liu H, Qu S, Si H. A Multiplex
+Crystal Digital PCR for Detection of African Swine Fever Virus, Classical Swine
+Fever Virus, and Porcine Reproductive and Respiratory Syndrome Virus. Front Vet
+Sci. 2022 Jun 24;9:926881. doi: 10.3389/fvets.2022.926881. PMID: 35812859;
+PMCID: PMC9270018.
+
+117: Xia YJ, Xu L, Zhao JJ, Li YX, Wu RZ, Song XP, Zhao QZ, Liu YB, Wang Q,
+Zhang QY. Development of a quadruple PCR-based gene microarray for detection of
+vaccine and wild-type classical swine fever virus, African swine fever virus and
+atypical porcine pestivirus. Virol J. 2022 Nov 29;19(1):201. doi:
+10.1186/s12985-022-01933-9. PMID: 36447230; PMCID: PMC9708128.
+
+118: Wang T, Zhang L, Liang W, Liu S, Deng W, Liu Y, Liu Y, Song M, Guo K, Zhang
+Y. Extracellular vesicles originating from autophagy mediate an antibody-
+resistant spread of classical swine fever virus in cell culture. Autophagy. 2022
+Jun;18(6):1433-1449. doi: 10.1080/15548627.2021.1987673. Epub 2021 Nov 5. PMID:
+34740307; PMCID: PMC9225397.
+
+119: Xu Q, Sun Y, Yang J, Ma F, Wang Y, Zhang S, Li X, Qu X, Bai Y, Jia R, Wang
+L, Zhang E, Zhang G. An Improved Immunochromatographic Strip Based on Plant-
+Derived E2 for Detection of Antibodies against Classical Swine Fever Virus.
+Microbiol Spectr. 2022 Aug 31;10(4):e0105022. doi: 10.1128/spectrum.01050-22.
+Epub 2022 Jul 12. PMID: 35862968; PMCID: PMC9431618.
+
+120: Sun RC, Hu JH, Li XH, Liu CC, Liu YY, Chen J, Yang YC, Zhou B. Valosin-
+containing protein (VCP/p97) is responsible for the endocytotic trafficking of
+classical swine fever virus. Vet Microbiol. 2022 Sep;272:109511. doi:
+10.1016/j.vetmic.2022.109511. Epub 2022 Jul 12. Erratum in: Vet Microbiol. 2022
+Nov;274:109569. doi: 10.1016/j.vetmic.2022.109569. PMID: 35849988.
+
+121: Zheng HH, Zhang SJ, Cui JT, Zhang J, Wang L, Liu F, Chen HY. Simultaneous
+detection of classical swine fever virus and porcine circovirus 3 by SYBR green
+I-based duplex real-time fluorescence quantitative PCR. Mol Cell Probes. 2020
+Apr;50:101524. doi: 10.1016/j.mcp.2020.101524. Epub 2020 Jan 21. PMID: 31972226.
+
+122: Rajkhowa S, Choudhury M, Pegu SR, Sarma DK, Gupta VK. Development of a
+novel one-step triplex PCR assay for the simultaneous detection of porcine
+circovirus type 2, porcine parvovirus and classical swine fever virus in a
+single tube. Lett Appl Microbiol. 2022 Aug;75(2):338-344. doi:
+10.1111/lam.13732. Epub 2022 May 10. PMID: 35491744.
+
+123: Bao X, Zhuang T, Xu Y, Chen L, Feng L, Yao H. Essential role of the
+interaction between classical swine fever virus core protein and cellular MYO1B
+in viral components transport to exosomes and titer maintenance. Vet Microbiol.
+2024 Dec;299:110315. doi: 10.1016/j.vetmic.2024.110315. Epub 2024 Nov 24. PMID:
+39603013.
+
+124: Xu P, Jia S, Wang K, Fan Z, Zheng H, Lv J, Jiang Y, Hou Y, Lou B, Zhou H,
+Zhang Y, Guo K. MiR-140 inhibits classical swine fever virus replication by
+targeting Rab25 in swine umbilical vein endothelial cells. Virulence. 2020
+Dec;11(1):260-269. doi: 10.1080/21505594.2020.1735051. PMID: 32114898; PMCID:
+PMC7051144.
+
+125: Hirose S, Isoda N, Huynh LT, Kim T, Yoshimoto K, Tanaka T, Inui K, Hiono T,
+Sakoda Y. Antiviral Effects of 5-Aminolevulinic Acid Phosphate against Classical
+Swine Fever Virus: In Vitro and In Vivo Evaluation. Pathogens. 2022 Jan
+27;11(2):164. doi: 10.3390/pathogens11020164. PMID: 35215109; PMCID: PMC8877771.
+
+126: Cao Y, Yuan L, Yang S, Shang Y, Yang B, Jing Z, Guo H, Yin S. Establishment
+and application of a solid-phase blocking ELISA method for detection of
+antibodies against classical swine fever virus. J Vet Sci. 2022 Sep;23(5):e32.
+doi: 10.4142/jvs.21262. PMID: 36174976; PMCID: PMC9523335.
+
+127: Li W, Zhang Z, Zhang L, Li H, Fan S, Zhu E, Fan J, Li Z, Chen W, Yi L, Ding
+H, Chen J, Zhao M. Antiviral Role of Serine Incorporator 5 (SERINC5) Proteins in
+Classical Swine Fever Virus Infection. Front Microbiol. 2020 Sep 4;11:580233.
+doi: 10.3389/fmicb.2020.580233. PMID: 33013817; PMCID: PMC7498654.
+
+128: Hao G, Zhang H, Chen H, Qian P, Li X. Comparison of the Pathogenicity of
+Classical Swine Fever Virus Subgenotype 2.1c and 2.1d Strains from China.
+Pathogens. 2020 Oct 7;9(10):821. doi: 10.3390/pathogens9100821. PMID: 33036431;
+PMCID: PMC7600237.
+
+129: Wei Q, Bai Y, Song Y, Liu Y, Yu W, Sun Y, Wang L, Deng R, Xing G, Zhang G.
+Generation and immunogenicity analysis of recombinant classical swine fever
+virus glycoprotein E2 and E<sup>rns</sup> expressed in baculovirus expression
+system. Virol J. 2021 Feb 24;18(1):44. doi: 10.1186/s12985-021-01507-1. PMID:
+33627167; PMCID: PMC7903030.
+
+130: Li Y, Yuan M, Han Y, Xie L, Ma Y, Li S, Sun Y, Luo Y, Li W, Qiu HJ. The
+Unique Glycosylation at Position 986 on the E2 Glycoprotein of Classical Swine
+Fever Virus Is Responsible for Viral Attenuation and Protection against Lethal
+Challenge. J Virol. 2022 Jan 26;96(2):e0176821. doi: 10.1128/JVI.01768-21. Epub
+2021 Nov 3. PMID: 34730400; PMCID: PMC8791258.
+
+131: Yi W, Zhu H, Wu Y, Li Q, Lou W, Zhao H, Pan Z. The recombinant
+E<sup>rns</sup> and truncated E2-based indirect enzyme-linked immunosorbent
+assays to distinguishably test specific antibodies against classical swine fever
+virus and bovine viral diarrhea virus. Virol J. 2022 Jul 22;19(1):121. doi:
+10.1186/s12985-022-01851-w. PMID: 35869505; PMCID: PMC9308313.
+
+132: Wang X, Gao L, Yang X, Zuo Q, Lan R, Li M, Yang C, Lin Y, Liu J, Yin G.
+Porcine RACK1 negatively regulates the infection of classical swine fever virus
+and the NF-κB activation in PK-15 cells. Vet Microbiol. 2020 Jul;246:108711.
+doi: 10.1016/j.vetmic.2020.108711. Epub 2020 Jun 3. PMID: 32605753.
+
+133: Muasya D, Leeuwen JV, Gitau G, McKenna S, Heider L, Muraya J. Evaluation of
+antibody and antigen cross-reaction in Kenyan dairy cattle naturally infected
+with two pestiviruses: Bovine viral diarrhea virus and classical swine fever
+virus. Vet World. 2022 May;15(5):1290-1296. doi:
+10.14202/vetworld.2022.1290-1296. Epub 2022 May 24. PMID: 35765487; PMCID:
+PMC9210842.
+
+134: Jang G, Kim EJ, Cho SC, Moon SU, Kim BS, Kim J, Jeong KJ, Song K, Mun SH,
+Kang WM, Lee J, Park C, Yang HS, Lee C. Field evaluation of the safety and
+immunogenicity of a classical swine fever virus E2 subunit vaccine in breeding
+and nursery animals on Jeju Island, South Korea. Clin Exp Vaccine Res. 2022
+Sep;11(3):264-273. doi: 10.7774/cevr.2022.11.3.264. Epub 2022 Sep 30. PMID:
+36451667; PMCID: PMC9691865.
+
+135: Vuono EA, Ramirez-Medina E, Velazquez-Salinas L, Berggren K, Rai A, Pruitt
+S, Espinoza N, Gladue DP, Borca MV. Structural Glycoprotein E2 of Classical
+Swine Fever Virus Critically Interacts with Host Protein Torsin-1A during the
+Virus Infectious Cycle. J Virol. 2021 May 24;95(12):e00314-21. doi:
+10.1128/JVI.00314-21. PMID: 33827941; PMCID: PMC8316129.
+
+136: Xie L, Han Y, Ma Y, Yuan M, Li W, Li LF, Li M, Sun Y, Luo Y, Li S, Hu S, Li
+Y, Qiu HJ. P108 and T109 on E2 Glycoprotein Domain I Are Critical for the
+Adaptation of Classical Swine Fever Virus to Rabbits but Not for Virulence in
+Pigs. J Virol. 2020 Aug 17;94(17):e01104-20. doi: 10.1128/JVI.01104-20. PMID:
+32581110; PMCID: PMC7431803.
+
+137: Wang M, Bohórquez JA, Muñoz-González S, Gerber M, Alberch M, Pérez-Simó M,
+Abad X, Liniger M, Ruggli N, Ganges L. Removal of the E<sup>rns</sup> RNase
+Activity and of the 3' Untranslated Region Polyuridine Insertion in a Low-
+Virulence Classical Swine Fever Virus Triggers a Cytokine Storm and Lethal
+Disease. J Virol. 2022 Jul 27;96(14):e0043822. doi: 10.1128/jvi.00438-22. Epub
+2022 Jun 27. PMID: 35758667; PMCID: PMC9327722.
+
+138: Li Y, Jin Q, Ding P, Zhou W, Chai Y, Li X, Wang Y, Zhang G. Gold
+nanoparticles enhance immune responses in mice against recombinant classical
+swine fever virus E2 protein. Biotechnol Lett. 2020 Jul;42(7):1169-1180. doi:
+10.1007/s10529-020-02853-w. Epub 2020 Mar 5. PMID: 32140883.
+
+139: Giangaspero M, Zhang SQ. Genomic characteristics of classical swine fever
+virus strains of bovine origin according to primary and secondary sequence-
+structure analysis. Open Vet J. 2020 Apr;10(1):94-115. doi:
+10.4314/ovj.v10i1.15. Epub 2020 Mar 27. PMID: 32426263; PMCID: PMC7193884.
+
+140: Mischler M, Meyers G. The Molecular Basis for E<sup>rns</sup> Dimerization
+in Classical Swine Fever Virus. Viruses. 2021 Nov 2;13(11):2204. doi:
+10.3390/v13112204. PMID: 34835010; PMCID: PMC8625691.
+
+141: Nam S, Na HG, Oh EH, Jung E, Lee YH, Jeong EJ, Ou YD, Zhou B, Ahn S, Shin
+JS, Han SB, Go YY. Discovery and synthesis of 1,2,4-oxadiazole derivatives as
+novel inhibitors of Zika, dengue, Japanese encephalitis, and classical swine
+fever virus infections. Arch Pharm Res. 2022 Apr;45(4):280-293. doi:
+10.1007/s12272-022-01380-8. Epub 2022 Apr 20. PMID: 35441964.
+
+142: Lamp B, Barth S, Reuscher C, Affeldt S, Cechini A, Netsch A, Lobedank I,
+Rümenapf T. Essential role of <i>cis</i>-encoded mature NS3 in the genome
+packaging of classical swine fever virus. J Virol. 2024 Dec 26:e0120924. doi:
+10.1128/jvi.01209-24. Epub ahead of print. PMID: 39723819.
+
+143: Cao Z, Zhang H, Yang Q, Zhang H, Fan G. Establishment of a method for
+evaluation of the efficacy of a classical swine fever virus subunit vaccine in
+rabbits. Am J Vet Res. 2020 Jun;81(6):521-526. doi: 10.2460/ajvr.81.6.521. PMID:
+32436789.
+
+144: Park Y, Lee S, Kang H, Park M, Min K, Kim NH, Gu S, Kim JK, An DJ, Choe S,
+Sohn EJ. A classical swine fever virus E2 fusion protein produced in plants
+elicits a neutralizing humoral immune response in mice and pigs. Biotechnol
+Lett. 2020 Jul;42(7):1247-1261. doi: 10.1007/s10529-020-02892-3. Epub 2020 Apr
+22. PMID: 32323080; PMCID: PMC7223222.
+
+145: Du F, Cao Z, Ye Z, He J, Zhang W, Zhang K, Ning P. Production and
+immunogenicity of a deoxyribonucleic acid <i>Alphavirus</i> vaccine expressing
+classical swine fever virus <i>E2-Erns</i> protein and porcine <i>Circovirus
+Cap-Rep</i> protein. Front Microbiol. 2022 Dec 6;13:1065532. doi:
+10.3389/fmicb.2022.1065532. PMID: 36560936; PMCID: PMC9764008.
+
+146: Coronado L, Muñoz-Aguilera A, Cantero G, Martínez P, Alberch M, Rosell R,
+Gladue DP, Borca MV, Ganges L. FlagT4G Vaccine Prevents Transplacental
+Transmission of Highly Virulent Classical Swine Fever Virus after Single
+Vaccination in Pregnant Sows. Vaccines (Basel). 2024 Jul 23;12(8):832. doi:
+10.3390/vaccines12080832. PMID: 39203958; PMCID: PMC11359035.
+
+147: Li J, Li X, Ma H, Ren X, Hao G, Zhang H, Zhao Z, Fang K, Li X, Rong Z, Sun
+S, Chen H, Qian P. Efficient mucosal vaccination of a novel classical swine
+fever virus E2-Fc fusion protein mediated by neonatal Fc receptor. Vaccine. 2020
+Jun 15;38(29):4574-4583. doi: 10.1016/j.vaccine.2020.05.013. Epub 2020 May 7.
+PMID: 32417139.
+
+148: Nguyen NH, Nguyen BTP, Do DT, Nguyen TQ, Nguyen DTM, Nguyen MN. Genetic
+diversity and molecular characterization of classical swine fever virus envelope
+protein genes E2 and E<sup>rns</sup> circulating in Vietnam from 2017 to 2019.
+Infect Genet Evol. 2021 Dec;96:105140. doi: 10.1016/j.meegid.2021.105140. Epub
+2021 Nov 12. PMID: 34781037.
+
+149: Mi S, Wang L, Li H, Bao F, Madera R, Shi X, Zhang L, Mao Y, Yan R, Xia X,
+Gong W, Shi J, Tu C. Characterization of monoclonal antibodies that specifically
+differentiate field isolates from vaccine strains of classical swine fever
+virus. Front Immunol. 2022 Jul 19;13:930631. doi: 10.3389/fimmu.2022.930631.
+PMID: 35958565; PMCID: PMC9361847.
+
+150: Liu CC, Liu YY, Cheng Y, Zhang YN, Zhang J, Liang XD, Gao Y, Chen H, Baloch
+AS, Yang Q, Go YY, Zhou B. The ESCRT-I Subunit Tsg101 Plays Novel Dual Roles in
+Entry and Replication of Classical Swine Fever Virus. J Virol. 2021 Feb
+24;95(6):e01928-20. doi: 10.1128/JVI.01928-20. PMID: 33328308; PMCID:
+PMC8094941.
+
+151: Barman NN, Khatoon E, Bora M, Deori L, Gogoi SM, Kalita D. Investigation of
+congenital tremor associated with <i>Classical swine fever virus</i> genotype
+2.2 in an organized pig farm in north-eastern India. Virusdisease. 2021
+Mar;32(1):173-182. doi: 10.1007/s13337-021-00678-3. Epub 2021 Mar 17. PMID:
+33748346; PMCID: PMC7965332.
+
+152: Ma Z, Lv J, Zhang Z, Zhao Y, Pan L, Zhang Y. A chemiluminescence
+immunoassay for rapid detection of classical swine fever virus E2 antibodies in
+pig serum samples. Transbound Emerg Dis. 2020 Sep;67(5):1797-1803. doi:
+10.1111/tbed.13557. Epub 2020 Apr 27. PMID: 32239638.
+
+153: Huang YL, Meyer D, Postel A, Tsai KJ, Liu HM, Yang CH, Huang YC, Berkley N,
+Deng MC, Wang FI, Becher P, Crooke H, Chang CY. Identification of a Common
+Conformational Epitope on the Glycoprotein E2 of Classical Swine Fever Virus and
+Border Disease Virus. Viruses. 2021 Aug 20;13(8):1655. doi: 10.3390/v13081655.
+PMID: 34452520; PMCID: PMC8402670.
+
+154: Liu H, Shi K, Sun W, Zhao J, Yin Y, Si H, Qu S, Lu W. Development a
+multiplex RT-PCR assay for simultaneous detection of African swine fever virus,
+classical swine fever virus and atypical porcine pestivirus. J Virol Methods.
+2021 Jan;287:114006. doi: 10.1016/j.jviromet.2020.114006. Epub 2020 Oct 27.
+PMID: 33127443.
+
+155: Wang M, Bohórquez JA, Hinojosa Y, Muñoz-González S, Gerber M, Coronado L,
+Perera CL, Liniger M, Ruggli N, Ganges L. Abrogation of the RNase activity of
+E<sup>rns</sup> in a low virulence classical swine fever virus enhances the
+humoral immune response and reduces virulence, transmissibility, and persistence
+in pigs. Virulence. 2021 Dec;12(1):2037-2049. doi:
+10.1080/21505594.2021.1959715. PMID: 34339338; PMCID: PMC8331007.
+
+156: Lamothe-Reyes Y, Bohórquez JA, Wang M, Alberch M, Pérez-Simó M, Rosell R,
+Ganges L. Early and Solid Protection Afforded by the Thiverval Vaccine Provides
+Novel Vaccination Alternatives Against Classical Swine Fever Virus. Vaccines
+(Basel). 2021 May 6;9(5):464. doi: 10.3390/vaccines9050464. PMID: 34066376;
+PMCID: PMC8148177.
+
+157: Suárez-Pedroso M, Sordo-Puga Y, Sosa-Teste I, Rodriguez-Molto MP, Naranjo-
+Valdés P, Sardina-González T, Santana-Rodríguez E, Montero-Espinosa C, Frías-
+Laporeaux MT, Fuentes-Rodríguez Y, Pérez-Pérez D, Oliva-Cárdenas A, Pereda CL,
+González-Fernández N, Bover-Fuentes E, Vargas-Hernández M, Duarte CA, Estrada-
+García MP. Novel chimeric E2CD154 subunit vaccine is safe and confers long
+lasting protection against classical swine fever virus. Vet Immunol
+Immunopathol. 2021 Apr;234:110222. doi: 10.1016/j.vetimm.2021.110222. Epub 2021
+Mar 5. PMID: 33690056.
+
+158: Cagatay GN, Antos A, Suckstorff O, Isken O, Tautz N, Becher P, Postel A.
+Porcine Complement Regulatory Protein CD46 Is a Major Receptor for Atypical
+Porcine Pestivirus but Not for Classical Swine Fever Virus. J Virol. 2021 Apr
+12;95(9):e02186-20. doi: 10.1128/JVI.02186-20. PMID: 33568504; PMCID:
+PMC8104093.
+
+159: Zhang L, Zhao D, Jin M, Song M, Liu S, Guo K, Zhang Y. Rab18 binds to
+classical swine fever virus NS5A and mediates viral replication and assembly in
+swine umbilical vein endothelial cells. Virulence. 2020 Dec;11(1):489-501. doi:
+10.1080/21505594.2020.1767356. PMID: 32419589; PMCID: PMC7239025.
+
+160: Chen Y, Shi K, Liu H, Yin Y, Zhao J, Long F, Lu W, Si H. Development of a
+multiplex qRT-PCR assay for detection of African swine fever virus, classical
+swine fever virus and porcine reproductive and respiratory syndrome virus. J Vet
+Sci. 2021 Nov;22(6):e87. doi: 10.4142/jvs.2021.22.e87. PMID: 34854269; PMCID:
+PMC8636662.
+
+161: Li C, Wang Y, Zheng H, Dong W, Lv H, Lin J, Guo K, Zhang Y. Antiviral
+activity of ISG15 against classical swine fever virus replication in porcine
+alveolar macrophages via inhibition of autophagy by ISGylating BECN1. Vet Res.
+2020 Feb 24;51(1):22. doi: 10.1186/s13567-020-00753-5. PMID: 32093773; PMCID:
+PMC7038623.
+
+162: Xu Q, Guo J, Ma F, Liu L, Wang Y, Zhang S, Niu X, Li X, Jiang M, Wang Y,
+Wang L, Liu Y, Li Q, Chai S, Wang R, Ma Q, Zhang E, Zhang G. A novel linear
+epitope at the C-terminal region of the classical swine fever virus E2 protein
+elicits neutralizing activity. Int J Biol Macromol. 2021 Oct 31;189:837-846.
+doi: 10.1016/j.ijbiomac.2021.08.088. Epub 2021 Aug 14. PMID: 34403672.
+
+163: Vuono EA, Ramirez-Medina E, Berggren K, Rai A, Pruitt S, Silva E,
+Velazquez-Salinas L, Gladue DP, Borca MV. Swine Host Protein Coiled-Coil Domain-
+Containing 115 (CCDC115) Interacts with Classical Swine Fever Virus Structural
+Glycoprotein E2 during Virus Replication. Viruses. 2020 Mar 31;12(4):388. doi:
+10.3390/v12040388. PMID: 32244508; PMCID: PMC7232474.
+
+164: Sah V, Kumar A, Dhar P, Upmanyu V, Tiwari AK, Wani SA, Sahu AR, Kumar A,
+Badasara SK, Pandey A, Saxena S, Rai A, Mishra BP, Singh RK, Gandham RK.
+Signature of genome wide gene expression in classical swine fever virus infected
+macrophages and PBMCs of indigenous vis-a-vis crossbred pigs. Gene. 2020 Mar
+20;731:144356. doi: 10.1016/j.gene.2020.144356. Epub 2020 Jan 11. PMID:
+31935504.
+
+165: Zuo XX, Zhao YH, Zhou MX, Deng BH, Hu LG, Lv F, Lu Y, Hou JB. Live vaccine
+preserved at room temperature: Preparation and characterization of a freeze-
+dried classical swine fever virus vaccine. Vaccine. 2020 Dec
+14;38(52):8371-8378. doi: 10.1016/j.vaccine.2020.10.093. Epub 2020 Nov 13. PMID:
+33199076.
+
+166: Jang G, Kim JA, Yoo H, Yang K, Yang HS, Park C, Jeong K, Park CK, Lyoo YS,
+Lee C. Genomic characterization of classical swine fever virus LOM variants with
+3'-UTR INDELs from pigs on Jeju Island, South Korea. Arch Virol. 2020
+Jul;165(7):1691-1696. doi: 10.1007/s00705-020-04651-1. Epub 2020 May 11. PMID:
+32394293.
+
+167: Pang H, Li L, Liu H, Pan Z. Proline to Threonine Mutation at Position 162
+of NS5B of Classical Swine Fever Virus Vaccine C Strain Promoted Genome
+Replication and Infectious Virus Production by Facilitating Initiation of RNA
+Synthesis. Viruses. 2021 Aug 2;13(8):1523. doi: 10.3390/v13081523. PMID:
+34452387; PMCID: PMC8402891.
+
+168: Feng Z, Shi K, Yin Y, Shi Y, Feng S, Long F, Wei Z, Si H. A Quadruplex RT-
+qPCR for the Detection of African Swine Fever Virus, Classical Swine Fever
+Virus, Porcine Reproductive and Respiratory Syndrome Virus, and Porcine
+Pseudorabies Virus. Animals (Basel). 2024 Dec 9;14(23):3551. doi:
+10.3390/ani14233551. PMID: 39682516; PMCID: PMC11640363.
+
+169: Wang M, Liniger M, Muñoz-González S, Bohórquez JA, Hinojosa Y, Gerber M,
+López-Soria S, Rosell R, Ruggli N, Ganges L. A Polyuridine Insertion in the 3'
+Untranslated Region of Classical Swine Fever Virus Activates Immunity and
+Reduces Viral Virulence in Piglets. J Virol. 2020 Jan 6;94(2):e01214-19. doi:
+10.1128/JVI.01214-19. PMID: 31645448; PMCID: PMC6955259.
+
+170: Tan B, Giangaspero M, Sun N, Jin Y, Liu K, Wang Q, Cheng S, Wang Y, Zhang
+S. Antiviral Effect of Ginsenoside Rb2 and Rb3 Against Bovine Viral Diarrhea
+Virus and Classical Swine Fever Virus <i>in vitro</i>. Front Vet Sci. 2021 Dec
+8;8:764909. doi: 10.3389/fvets.2021.764909. PMID: 34957281; PMCID: PMC8692705.
+
+171: Zhang L, Wang T, Song M, Jin M, Liu S, Guo K, Zhang Y. Rab1b-GBF1-ARFs
+mediated intracellular trafficking is required for classical swine fever virus
+replication in swine umbilical vein endothelial cells. Vet Microbiol. 2020
+Jul;246:108743. doi: 10.1016/j.vetmic.2020.108743. Epub 2020 Jun 1. PMID:
+32605744.
+
+172: Chen J, Wu Y, Wu XD, Zhou J, Liang XD, Baloch AS, Qiu YF, Gao S, Zhou B.
+The R614E mutation of mouse Mx1 protein contributes to the novel antiviral
+activity against classical swine fever virus. Vet Microbiol. 2020
+Apr;243:108621. doi: 10.1016/j.vetmic.2020.108621. Epub 2020 Feb 26. PMID:
+32273007.
+
+173: Park Y, Oh Y, Wang M, Ganges L, Bohórquez JA, Park S, Gu S, Park J, Lee S,
+Kim J, Sohn E. A Novel E2 Glycoprotein Subunit Marker Vaccine Produced in Plant
+Is Able to Prevent Classical Swine Fever Virus Vertical Transmission after
+Double Vaccination. Vaccines (Basel). 2021 Apr 22;9(5):418. doi:
+10.3390/vaccines9050418. PMID: 33922120; PMCID: PMC8143534.
+
+174: Pérez-Pérez D, Sordo-Puga Y, Rodríguez-Moltó MP, Sardina T, Santana E,
+Montero C, Ancizar J, Cabrera Y, Tuero Á, Naranjo P, Sosa-Testé I, Fernandez F,
+Valdés R, Duarte CA, Suárez-Pedroso M. E2-CD154 vaccine candidate is safe and
+immunogenic in pregnant sows, and the maternal derived neutralizing antibodies
+protect piglets from classical swine fever virus challenge. Vet Microbiol. 2021
+Sep;260:109153. doi: 10.1016/j.vetmic.2021.109153. Epub 2021 Jun 16. PMID:
+34271304.
+
+175: Sudo K, Yamada M, Ochiai M, Iwamoto S, Sakaki H, Kushida C, Yamashita M,
+Yamamoto A, Nagasaka T, Oidemizu M, Saito A, Yamamoto K. The formation process
+of button ulcers in pigs experimentally infected with a subgenotype 2.1 isolate
+of classical swine fever virus. J Vet Med Sci. 2021 Jul 10;83(6):990-993. doi:
+10.1292/jvms.20-0654. Epub 2021 Apr 19. PMID: 33867396; PMCID: PMC8267204.
+
+176: Ikeda T, Asano M, Suzuki M. The potential negative impacts of the classical
+swine fever virus on wild boar population in Gifu prefecture, Japan. J Vet Med
+Sci. 2021 May 17;83(5):846-849. doi: 10.1292/jvms.20-0675. Epub 2021 Mar 26.
+PMID: 33775990; PMCID: PMC8182327.
+
+177: Vuono EA, Ramirez-Medina E, Azzinaro P, Berggren KA, Rai A, Pruitt S, Silva
+E, Velazquez-Salinas L, Borca MV, Gladue DP. SERTA Domain Containing Protein 1
+(SERTAD1) Interacts with Classical Swine Fever Virus Structural Glycoprotein E2,
+Which Is Involved in Virus Virulence in Swine. Viruses. 2020 Apr 9;12(4):421.
+doi: 10.3390/v12040421. PMID: 32283651; PMCID: PMC7232485.
+
+178: Raut AA, Aasdev A, Mishra A, Dutta B, Bharali A, Konwar N, Dubey CK,
+Chingtham S, Pawar SD, Raghuvanshi R, Sakhrie A, Sen A, Patil SS, Singh VP,
+Barman NN. Detection of coinfection of a divergent subgroup of genotype I
+Japanese encephalitis virus in multiple classical swine fever virus outbreaks in
+pigs of Assam, India. Transbound Emerg Dis. 2021 Jul;68(4):2622-2627. doi:
+10.1111/tbed.13903. Epub 2020 Nov 17. PMID: 33124192.
+
+179: Tu F, Yang X, Xu S, Chen D, Zhou L, Ge X, Han J, Zhang Y, Guo X, Yang H.
+Development of a fluorescent probe-based real-time reverse transcription
+recombinase-aided amplification assay for the rapid detection of classical swine
+fever virus. Transbound Emerg Dis. 2021 Jul;68(4):2017-2027. doi:
+10.1111/tbed.13849. Epub 2020 Oct 6. PMID: 32979245.
+
+180: Sordo-Puga Y, Santana-Rodríguez E, Pérez-Pérez D, Méndez-Orta MK, Sardina-
+González T, Vargas-Hernández M, Duarte CA, Rodríguez-Moltó MP, Estrada MP,
+Ambagala A, Suárez-Pedroso M. Porvac<sup>®</sup> subunit vaccine induces
+neutralizing antibodies against all three main classical swine fever virus
+genotypes. Arch Virol. 2024 Dec 17;170(1):22. doi: 10.1007/s00705-024-06198-x.
+PMID: 39690193.
+
+181: Wang M, Sozzi E, Bohórquez JA, Alberch M, Pujols J, Cantero G, Gaffuri A,
+Lelli D, Rosell R, Bensaid A, Domingo M, Pérez LJ, Moreno A, Ganges L.
+Decrypting the Origin and Pathogenesis in Pregnant Ewes of a New Ovine
+Pestivirus Closely Related to Classical Swine Fever Virus. Viruses. 2020 Jul
+17;12(7):775. doi: 10.3390/v12070775. PMID: 32709168; PMCID: PMC7411581.
+
+182: Zheng G, Li LF, Zhang Y, Qu L, Wang W, Li M, Yu S, Zhou M, Luo Y, Sun Y,
+Munir M, Li S, Qiu HJ. MERTK is a host factor that promotes classical swine
+fever virus entry and antagonizes innate immune response in PK-15 cells. Emerg
+Microbes Infect. 2020 Mar 14;9(1):571-581. doi: 10.1080/22221751.2020.1738278.
+PMID: 32172658; PMCID: PMC7144274.
+
+183: Soldevila F, Edwards JC, Graham SP, Crooke HR, Werling D, Steinbach F.
+Activation of Dendritic Cells in Tonsils Is Associated with CD8 T Cell Responses
+following Vaccination with Live Attenuated Classical Swine Fever Virus. Int J
+Mol Sci. 2021 Aug 16;22(16):8795. doi: 10.3390/ijms22168795. PMID: 34445493;
+PMCID: PMC8395915.
+
+184: Dong XY, Liu WJ, Zhao MQ, Wang JY, Pei JJ, Luo YW, Ju CM, Chen JD.
+Correction: Classical swine fever virus triggers RIG-I and MDA5-dependent
+signaling pathway to IRF-3 and NF-κB activation to promote secretion of
+interferon and inflammatory cytokines in porcine alveolar macrophages. Virol J.
+2024 Jun 12;21(1):137. doi: 10.1186/s12985-024-02409-8. Erratum for: Virol J.
+2013 Sep 13;10:286. doi: 10.1186/1743-422X-10-286. PMID: 38867246; PMCID:
+PMC11170820.
+
+185: Jelsma T, Wijnker JJ, Smid B, Verheij E, van der Poel WHM, Wisselink HJ.
+Determination of Intestinal Viral Loads and Distribution of Bovine Viral
+Diarrhea Virus, Classical Swine Fever Virus, and Peste Des Petits Ruminants
+Virus: A Pilot Study. Pathogens. 2021 Sep 14;10(9):1188. doi:
+10.3390/pathogens10091188. PMID: 34578220; PMCID: PMC8466767.
+
+186: Choe S, Cha RM, Yu DS, Kim KS, Song S, Choi SH, Jung BI, Lim SI, Hyun BH,
+Park BK, An DJ. Rapid Spread of Classical Swine Fever Virus among South Korean
+Wild Boars in Areas near the Border with North Korea. Pathogens. 2020 Mar
+25;9(4):244. doi: 10.3390/pathogens9040244. PMID: 32218239; PMCID: PMC7238106.
+
+187: Yamashita M, Iwamoto S, Ochiai M, Sudo K, Nagasaka T, Saito A, Kozasa T,
+Omatsu T, Mizutani T, Yamamoto K. Efficacy of GPE<sup>-</sup> strain live
+attenuated vaccine and CP7_E2alf strain recombinant live vaccine (marker
+vaccine) against Japanese epidemic classical swine fever virus isolated in 2019
+and DIVA discrimination ability of the marker vaccine. Res Vet Sci. 2025
+Jan;182:105484. doi: 10.1016/j.rvsc.2024.105484. Epub 2024 Nov 28. PMID:
+39622177.
+
+188: Feng L, Chen L, Yun J, Cao X. Expression of recombinant classical swine
+fever virus E2 glycoprotein by endogenous Txnip promoter in stable transgenic
+CHO cells. Eng Life Sci. 2020 Jul 1;20(8):320-330. doi: 10.1002/elsc.201900147.
+PMID: 32774204; PMCID: PMC7401223.
+
+189: Huang YL, Tsai KJ, Deng MC, Liu HM, Huang CC, Wang FI, Chang CY. In Vivo
+Demonstration of the Superior Replication and Infectivity of Genotype 2.1 with
+Respect to Genotype 3.4 of Classical Swine Fever Virus by Dual Infections.
+Pathogens. 2020 Apr 3;9(4):261. doi: 10.3390/pathogens9040261. PMID: 32260208;
+PMCID: PMC7238001.
+
+190: Dong H, Song G, Ma D, Wang T, Jing S, Yang H, Tao Y, Tang Y, Shi Y, Dai Z,
+Zhu JM, Liu T, Wang B, Leng X, Shen X, Zhu C, Zhao Y. Correction to "Improved
+Antiviral Activity of Classical Swine Fever Virus-Targeted siRNA by Tetrahedral
+Framework Nucleic Acid-Enhanced Delivery". ACS Appl Mater Interfaces. 2023 Nov
+29;15(47):55194. doi: 10.1021/acsami.3c15965. Epub 2023 Nov 16. Erratum for: ACS
+Appl Mater Interfaces. 2021 Jun 30;13(25):29416-29423. doi:
+10.1021/acsami.1c08143. PMID: 37971869.
+
+191: Zeng S, Zhu W, Luo Z, Wu K, Lu Z, Li X, Wang W, Hu W, Qin Y, Chen W, Yi L,
+Fan S, Chen J. Corrigendum to "Role of OGDH in Autophagy-IRF3-IFN-β pathway
+during classical swine fever virus infection" [Int. J. Biol. Macromol. 249
+(2023) 126443 (BIOMAC 126443)]. Int J Biol Macromol. 2023 Oct 1;250:127031. doi:
+10.1016/j.ijbiomac.2023.127031. Epub 2023 Sep 27. Erratum for: Int J Biol
+Macromol. 2023 Sep 30;249:126443. doi: 10.1016/j.ijbiomac.2023.126443. PMID:
+37775432.
+
+192: Sun RC, Hu JH, Li XH, Liu CC, Liu YY, Chen J, Yang YC, Zhou B. Corrigendum
+to "Valosin-containing protein (VCP/p97) is responsible for the endocytotic
+trafficking of classical swine fever virus" [Vet. Microbiol. 272 (2022) 109511].
+Vet Microbiol. 2022 Nov;274:109569. doi: 10.1016/j.vetmic.2022.109569. Epub 2022
+Sep 7. Erratum for: Vet Microbiol. 2022 Sep;272:109511. doi:
+10.1016/j.vetmic.2022.109511. PMID: 36088198.
+
+193: Dong H, Su A, Lv D, Ma L, Dong J, Guo N, Ren L, Jiao H, Pang D, Ouyang H.
+Correction to Development of Whole-Porcine Monoclonal Antibodies with Potent
+Neutralization Activity against Classical Swine Fever Virus from Single B Cells.
+ACS Synth Biol. 2020 Apr 17;9(4):978. doi: 10.1021/acssynbio.0c00160. Epub 2020
+Mar 31. Erratum for: ACS Synth Biol. 2019 May 17;8(5):989-1000. doi:
+10.1021/acssynbio.8b00365. PMID: 32227930.

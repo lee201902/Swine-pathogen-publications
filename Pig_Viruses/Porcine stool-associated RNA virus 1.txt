@@ -1,0 +1,10 @@
+1: Chen J, Lu M, Ma T, Cao L, Zhu X, Zhang X, Shi D, Shi H, Liu J, Feng L.
+Detection and complete genome characteristics of Posavirus 1 from pigs in China.
+Virus Genes. 2018 Feb;54(1):145-148. doi: 10.1007/s11262-017-1512-5. Epub 2017
+Nov 27. PMID: 29181630.
+
+2: Van Borm S, Vanneste K, Fu Q, Maes D, Schoos A, Vallaey E, Vandenbussche F.
+Increased viral read counts and metagenomic full genome characterization of
+porcine astrovirus 4 and Posavirus 1 in sows in a swine farm with unexplained
+neonatal piglet diarrhea. Virus Genes. 2020 Dec;56(6):696-704. doi:
+10.1007/s11262-020-01791-z. Epub 2020 Sep 3. PMID: 32880793.
