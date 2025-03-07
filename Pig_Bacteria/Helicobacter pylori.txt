@@ -1,0 +1,87 @@
+1: Nishiyama K, Mukai T. Adhesion Inhibition Assay for Helicobacter pylori to
+Mucin by Lactobacillus. Methods Mol Biol. 2024;2763:353-358. doi:
+10.1007/978-1-0716-3670-1_30. PMID: 38347425.
+
+2: Ansari S, Yamaoka Y. Animal Models and <i>Helicobacter pylori</i> Infection.
+J Clin Med. 2022 May 31;11(11):3141. doi: 10.3390/jcm11113141. PMID: 35683528;
+PMCID: PMC9181647.
+
+3: Cortez Nunes F, Letra Mateus T, Teixeira S, Barradas P, de Witte C,
+Haesebrouck F, Amorim I, Gärtner F. Presence of <i>Helicobacter pylori</i> and
+<i>H. suis</i> DNA in Free-Range Wild Boars. Animals (Basel). 2021 Apr
+28;11(5):1269. doi: 10.3390/ani11051269. PMID: 33925029; PMCID: PMC8146769.
+
+4: Yang JY, Kim P, Jeong SH, Lee SW, Myung YS, Baeg MK, Kim JB. The Effects of
+Sulglycotide on the Adhesion and the Inflammation of <i>Helicobacter Pylori</i>.
+Int J Environ Res Public Health. 2020 Apr 23;17(8):2918. doi:
+10.3390/ijerph17082918. PMID: 32340212; PMCID: PMC7215434.
+
+5: Gonciarz W, Chyb M, Chmiela M. Diminishing of Helicobacter pylori adhesion to
+Cavia porcellus gastric epithelial cells by BCG vaccine mycobacteria. Sci Rep.
+2023 Sep 28;13(1):16305. doi: 10.1038/s41598-023-43571-3. PMID: 37770504; PMCID:
+PMC10539345.
+
+6: Kingkaew E, Woraprayote W, Booncharoen A, Niwasabutra K, Janyaphisan T,
+Vilaichone RK, Yamaoka Y, Visessanguan W, Tanasupawat S. Functional genome
+analysis and anti-Helicobacter pylori activity of a novel bacteriocinogenic
+Lactococcus sp. NH2-7C from Thai fermented pork (Nham). Sci Rep. 2023 Nov
+21;13(1):20362. doi: 10.1038/s41598-023-47687-4. PMID: 37990119; PMCID:
+PMC10663479.
+
+7: Gottesmann M, Goycoolea FM, Steinbacher T, Menogni T, Hensel A. Smart drug
+delivery against Helicobacter pylori: pectin-coated, mucoadhesive liposomes with
+antiadhesive activity and antibiotic cargo. Appl Microbiol Biotechnol. 2020
+Jul;104(13):5943-5957. doi: 10.1007/s00253-020-10647-3. Epub 2020 May 12. PMID:
+32399588.
+
+8: Su-Arcaro C, Liao W, Bieniek K, Constantino MA, Decker SM, Turner BS, Bansil
+R. Unraveling the Intertwined Effect of pH on <i>Helicobacter pylori</i>
+Motility and the Microrheology of the Mucin-Based Medium It Swims in.
+Microorganisms. 2023 Nov 10;11(11):2745. doi: 10.3390/microorganisms11112745.
+PMID: 38004756; PMCID: PMC10673263.
+
+9: Do AD, Su CH, Hsu YM. Antagonistic Activities of <i>Lactobacillus
+rhamnosus</i> JB3 Against <i>Helicobacter pylori</i> Infection Through Lipid
+Raft Formation. Front Immunol. 2022 Jan 14;12:796177. doi:
+10.3389/fimmu.2021.796177. PMID: 35095872; PMCID: PMC8794797.
+
+10: Cortez Nunes F, Taillieu E, Letra Mateus T, Teixeira S, Haesebrouck F,
+Amorim I. Molecular Detection of Metronidazole and Tetracycline Resistance Genes
+in <i>Helicobacter pylori</i>-Like Positive Gastric Samples from Pigs.
+Antibiotics (Basel). 2023 May 13;12(5):906. doi: 10.3390/antibiotics12050906.
+PMID: 37237809; PMCID: PMC10215371.
+
+11: Gonciarz W, Lechowicz Ł, Urbaniak M, Kaca W, Chmiela M. Use of Fourier-
+Transform Infrared Spectroscopy (FT-IR) for Monitoring Experimental
+<i>Helicobacter pylori</i> Infection and Related Inflammatory Response in Guinea
+Pig Model. Int J Mol Sci. 2020 Dec 30;22(1):281. doi: 10.3390/ijms22010281.
+PMID: 33396581; PMCID: PMC7795336.
+
+12: Krupa A, Gonciarz W, Rusek-Wala P, Rechciński T, Gajewski A, Samsel Z,
+Dziuba A, Śmiech A, Chmiela M. <i>Helicobacter pylori</i> Infection Acts
+Synergistically with a High-Fat Diet in the Development of a Proinflammatory and
+Potentially Proatherogenic Endothelial Cell Environment in an Experimental
+Model. Int J Mol Sci. 2021 Mar 25;22(7):3394. doi: 10.3390/ijms22073394. PMID:
+33806236; PMCID: PMC8037564.
+
+13: Gonciarz W, Chmiela M, Kost B, Piątczak E, Brzeziński M. Stereocomplexed
+microparticles loaded with Salvia cadmica Boiss. extracts for enhancement of
+immune response towards Helicobacter pylori. Sci Rep. 2023 Apr 29;13(1):7039.
+doi: 10.1038/s41598-023-34321-6. PMID: 37120681; PMCID: PMC10148839.
+
+14: Tomaszewska A, Gonciarz W, Rechcinski T, Chmiela M, Kurdowska AK, Krupa A.
+Helicobacter pylori components increase the severity of metabolic syndrome and
+its hepatic manifestations induced by a high fat diet. Sci Rep. 2024 Mar
+8;14(1):5764. doi: 10.1038/s41598-024-56308-7. PMID: 38459219; PMCID:
+PMC10923818.
+
+15: Gonciarz W, Krupa A, Chmiela M. Proregenerative Activity of IL-33 in Gastric
+Tissue Cells Undergoing <i>Helicobacter Pylori</i>-Induced Apoptosis. Int J Mol
+Sci. 2020 Mar 5;21(5):1801. doi: 10.3390/ijms21051801. PMID: 32151084; PMCID:
+PMC7084496.
+
+16: Gonciarz W, Brzeziński M, Orłowska W, Wawrzyniak P, Lewandowski A, Narayanan
+VHB, Chmiela M. Spray-dried pH-sensitive chitosan microparticles loaded with
+Mycobacterium bovis BCG intended for supporting treatment of Helicobacter pylori
+infection. Sci Rep. 2024 Feb 27;14(1):4747. doi: 10.1038/s41598-024-55353-6.
+PMID: 38413775; PMCID: PMC10899647.

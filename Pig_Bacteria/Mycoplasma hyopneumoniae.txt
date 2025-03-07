@@ -1,0 +1,527 @@
+1: Clavijo MJ, Hu D, Krantz S, Cano JP, Pereira Maróstica T, Henao-Diaz A, Poeta
+Silva APS, Hemker D, Tapia E, Zimmerman S, Fano E, Polson D, Fitzgerald R,
+Tucker A, Main R, Wang C, Zimmerman JJ, Rotolo ML. Mycoplasma hyopneumoniae
+Surveillance in Pig Populations: Establishing Sampling Guidelines for Detection
+in Growing Pigs. J Clin Microbiol. 2021 Apr 20;59(5):e03051-20. doi:
+10.1128/JCM.03051-20. PMID: 33597256; PMCID: PMC8091834.
+
+2: Seitz J, Vissio C, Bertone J, Marques L, Parada J, Carranza A, Di Cola G,
+Ambrogi R, Tamiozzo P. Ureaplasma diversum-Ureaplasma sp. alone or concomitantly
+with Mycoplasma hyopneumoniae in pig lungs with and without pneumonia: A
+descriptive exploratory study in abattoirs. Rev Argent Microbiol. 2023 Jul-
+Sep;55(3):272-277. doi: 10.1016/j.ram.2023.02.003. Epub 2023 Apr 22. PMID:
+37095057.
+
+3: Maes D, Boyen F, Devriendt B, Kuhnert P, Summerfield A, Haesebrouck F.
+Perspectives for improvement of Mycoplasma hyopneumoniae vaccines in pigs. Vet
+Res. 2021 May 8;52(1):67. doi: 10.1186/s13567-021-00941-x. PMID: 33964969;
+PMCID: PMC8106180.
+
+4: Sibila M, Guevara G, Cuadrado R, Pleguezuelos P, Pérez D, Pérez de Rozas A,
+Huerta E, Llorens A, Valero O, Pérez M, López C, Krejci R, Segalés J. Comparison
+of <i>Mycoplasma hyopneumoniae</i> and porcine circovirus 2 commercial vaccines
+efficacy when applied separate or combined under experimental conditions.
+Porcine Health Manag. 2020 May 4;6:11. doi: 10.1186/s40813-020-00148-0. PMID:
+32391165; PMCID: PMC7197127.
+
+5: McDowell E, Pieters M, Spronk T, Nerem J, Fano E, Dee S, Sponheim A. Duration
+of Mycoplasma hyopneumoniae detection in pigs following purposeful aerosol
+exposure. Vet Microbiol. 2023 Jul;282:109758. doi: 10.1016/j.vetmic.2023.109758.
+Epub 2023 Apr 24. PMID: 37167891.
+
+6: Rodriguez AL, Fowler VL, Huether M, Reddick D, Tait-Burkard C, O'Shea M,
+Perkins S, Dias N, Buterbaugh R, Benchaoui HA. Effects of a water-soluble
+formulation of tylvalosin on disease caused by porcine reproductive and
+respiratory syndrome virus alone in sows or in combination with Mycoplasma
+hyopneumoniae in piglets. BMC Vet Res. 2023 Feb 1;19(1):31. doi:
+10.1186/s12917-023-03571-x. PMID: 36726139; PMCID: PMC9890818.
+
+7: Oh T, Cho H, Suh J, Chae C. Virulence Comparison of Four Porcine Circovirus
+Type 2 (PCV2) Genotypes (2a, 2b, 2d and 2e) in Pigs Single-Infected with PCV2
+and Pigs Dual-Infected with PCV2 and Mycoplasma hyopneumoniae. J Comp Pathol.
+2022 Nov;199:88-98. doi: 10.1016/j.jcpa.2022.09.012. Epub 2022 Nov 5. PMID:
+36347182.
+
+8: Lim J, Jin M, Yoon I, Yoo HS. Efficacy of bivalent vaccines of porcine
+circovirus type 2 and <i>Mycoplasma hyopneumoniae</i> in specific pathogen-free
+pigs challenged with porcine circovirus type 2d. J Vet Sci. 2022 May;23(3):e49.
+doi: 10.4142/jvs.21287. PMID: 35618321; PMCID: PMC9149493.
+
+9: Pageaut H, Lacouture S, Lehoux M, Marois-Créhan C, Segura M, Gottschalk M.
+Interactions of <i>Mycoplasma hyopneumoniae</i> and/or <i>Mycoplasma
+hyorhinis</i> with <i>Streptococcus suis</i> Serotype 2 Using In Vitro Co-
+Infection Models with Swine Cells. Pathogens. 2023 Jun 22;12(7):866. doi:
+10.3390/pathogens12070866. PMID: 37513713; PMCID: PMC10383509.
+
+10: Biebaut E, Beuckelaere L, Boyen F, Haesebrouck F, Gomez-Duran CO, Devriendt
+B, Maes D. Long-term follow-up of Mycoplasma hyopneumoniae-specific immunity in
+vaccinated pigs. Vet Res. 2023 Mar 1;54(1):16. doi: 10.1186/s13567-023-01145-1.
+PMID: 36859402; PMCID: PMC9979462.
+
+11: Sonalio K, Almeida HMS, Mechler-Dreibi ML, Storino GY, Haesebrouck F, Maes
+D, de Oliveira LG. Influence of Mycoplasma hyopneumoniae natural infection on
+the respiratory microbiome diversity of finishing pigs. Vet Res. 2022 Mar
+18;53(1):20. doi: 10.1186/s13567-022-01038-9. PMID: 35303928; PMCID: PMC8932171.
+
+12: Oh T, Park KH, Yang S, Cho H, Suh J, Chae C. Pathogenicity of Porcine
+Circovirus Type 2d (PCV2d) in Pigs Infected with PCV2d or Co-infected with
+Mycoplasma hyopneumoniae and PCV2d or with Porcine Reproductive and Respiratory
+Syndrome Virus and PCV2d. J Comp Pathol. 2021 Aug;187:75-82. doi:
+10.1016/j.jcpa.2021.07.004. Epub 2021 Aug 13. PMID: 34503658.
+
+13: Almeida HMS, Mechler-Dreibi ML, Sonálio K, Ferreira MM, Martinelli PEB,
+Gatto IRH, Maes D, Montassier HJ, Oliveira LG. Dynamics and chronology of
+Mycoplasma hyopneumoniae strain 232 infection in experimentally inoculated
+swine. Porcine Health Manag. 2021 Jun 30;7(1):42. doi:
+10.1186/s40813-021-00221-2. PMID: 34193314; PMCID: PMC8243732.
+
+14: Tonni M, Boniotti MB, Gasparrini S, Guarneri F, Formenti N, Pieters M,
+Pasquali P, Alborali GL. Genomic variability of Mycoplasma hyopneumoniae within
+pig lung lobes. Porcine Health Manag. 2021 Jan 28;7(1):14. doi:
+10.1186/s40813-021-00195-1. PMID: 33509284; PMCID: PMC7842051.
+
+15: Horsington J, Witvliet M, Jacobs AAC, Segers RPAM. Efficacy of Simultaneous
+Intradermal Vaccination of Swine against Porcine Circovirus 2, Porcine
+Reproductive and Respiratory Syndrome Virus, <i>Mycoplasma hyopneumoniae</i> and
+<i>Lawsonia intracellularis</i>. Animals (Basel). 2021 Jul 28;11(8):2225. doi:
+10.3390/ani11082225. PMID: 34438683; PMCID: PMC8388483.
+
+16: Boulbria G, Brilland S, Teixeira-Costa C, Brissonnier M, Charles M,
+Capdevielle N, Normand V, Bouchet F, Berton P, Krejci R, Lebret A. Effectiveness
+of two intramuscular combined vaccines for the control of Mycoplasma
+hyopneumoniae and porcine circovirus type 2 in growing pigs: a randomized field
+trial. Porcine Health Manag. 2021 Jun 27;7(1):41. doi:
+10.1186/s40813-021-00220-3. PMID: 34176520; PMCID: PMC8237417.
+
+17: Lee SI, Jeong CG, Ul Salam Mattoo S, Nazki S, Prasad Aganja R, Kim SC,
+Khatun A, Oh Y, Noh SH, Lee SM, Kim WI. Protective immunity induced by
+concurrent intradermal injection of porcine circovirus type 2 and Mycoplasma
+hyopneumoniae inactivated vaccines in pigs. Vaccine. 2021 Oct
+29;39(45):6691-6699. doi: 10.1016/j.vaccine.2021.07.043. Epub 2021 Sep 15. PMID:
+34538524.
+
+18: Lee JY, Park KH, Oh T, Yang S, Suh J, Ham HJ, Chae C. Experimental
+reproduction of porcine respiratory disease complex in pigs inoculated porcine
+reproductive and respiratory syndrome virus and Mycoplasma hyopneumoniae and
+followed by inoculation with porcine circovirus type 2. J Vet Med Sci. 2021 Mar
+11;83(3):427-430. doi: 10.1292/jvms.20-0577. Epub 2021 Jan 19. PMID: 33473060;
+PMCID: PMC8025419.
+
+19: Raaphorst E, Farzan A, Friendship RM, Lillie BN. Antibody responses to
+porcine reproductive and respiratory syndrome virus, influenza A virus, and
+Mycoplasma hyopneumoniae from weaning to the end of the finisher stage in
+fourteen groups of pigs in Ontario, Canada. BMC Vet Res. 2021 Feb 17;17(1):82.
+doi: 10.1186/s12917-021-02756-6. PMID: 33596907; PMCID: PMC7887834.
+
+20: Gulliksen SM, Baustad B, Framstad T, Jørgensen A, Skomsøy A, Kjelvik O,
+Gjestvang M, Grøntvedt CA, Lium B. Successful eradication of Mycoplasma
+hyopneumoniae from the Norwegian pig population - 10 years later. Porcine Health
+Manag. 2021 May 17;7(1):37. doi: 10.1186/s40813-021-00216-z. PMID: 34001280;
+PMCID: PMC8127255.
+
+21: Stingelin GM, Mechler-Dreibi ML, Storino GY, Sonalio K, Almeida HMS, Petri
+FAM, de Oliveira LG. Chemotherapeutic Strategies with Valnemulin, Tilmicosin,
+and Tulathromycin to Control <i>Mycoplasma hyopneumoniae</i> Infection in Pigs.
+Antibiotics (Basel). 2022 Jul 4;11(7):893. doi: 10.3390/antibiotics11070893.
+PMID: 35884148; PMCID: PMC9311983.
+
+22: Oh T, Suh J, Park KH, Yang S, Cho H, Chae C. A Comparison of Pathogenicity
+and Virulence of Three Porcine Circovirus Type 2 (PCV2) Genotypes (a, b, and d)
+in Pigs Singularly Inoculated with PCV2 and Dually Inoculated with <i>Mycoplasma
+hyopneumoniae</i> and PCV2. Pathogens. 2021 Aug 3;10(8):979. doi:
+10.3390/pathogens10080979. PMID: 34451444; PMCID: PMC8400386.
+
+23: Almeida HMS, Mechler-Dreibi ML, Sonálio K, Ferraz MES, Storino GY, Barbosa
+FO, Maes D, Montassier HJ, de Oliveira LG. Cytokine expression and Mycoplasma
+hyopneumoniae burden in the development of lung lesions in experimentally
+inoculated pigs. Vet Microbiol. 2020 May;244:108647. doi:
+10.1016/j.vetmic.2020.108647. Epub 2020 Mar 24. Erratum in: Vet Microbiol. 2020
+Oct;249:108782. doi: 10.1016/j.vetmic.2020.108782. PMID: 32402328.
+
+24: Sousa KRS, de Melo Ferreira Dantas W, de Oliveira LL, Cardoso SA, Dos Santos
+Araújo R, Guimarães SEF. Effect of vaccination against Mycoplasma hyopneumoniae
+on divergent pig genetic groups. Res Vet Sci. 2024 Nov;180:105417. doi:
+10.1016/j.rvsc.2024.105417. Epub 2024 Sep 14. PMID: 39288683.
+
+25: Yang S, Ahn Y, Oh T, Cho H, Park KH, Chae C. Field evaluation of a sing-dose
+bivalent vaccine of porcine circovirus type 2b and Mycoplasma hyopneumoniae. Vet
+Med Sci. 2021 May;7(3):755-765. doi: 10.1002/vms3.420. Epub 2021 Jan 2. PMID:
+33386664; PMCID: PMC8136929.
+
+26: Wen Y, Chen Z, Tian Y, Yang M, Dong Q, Yang Y, Ding H. Incomplete autophagy
+promotes the proliferation of Mycoplasma hyopneumoniae through the JNK and Akt
+pathways in porcine alveolar macrophages. Vet Res. 2022 Aug 4;53(1):62. doi:
+10.1186/s13567-022-01074-5. PMID: 35927699; PMCID: PMC9351181.
+
+27: Garcia-Morante B, De Abreu C, Underwood G, Lara Puente JH, Pieters M.
+Characterization of a Mycoplasma hyopneumoniae aerosol infection model in pigs.
+Vet Microbiol. 2024 Dec;299:110296. doi: 10.1016/j.vetmic.2024.110296. Epub 2024
+Nov 4. PMID: 39581076.
+
+28: Zhang H, Wang Y, Gao L, Wang Y, Wei R. Genotype diversity of Mycoplasma
+Hyopneumoniae in Chinese swine herds based on multilocus sequence typing. BMC
+Vet Res. 2021 Nov 8;17(1):347. doi: 10.1186/s12917-021-03059-6. PMID: 34749727;
+PMCID: PMC8574025.
+
+29: Nueangphuet P, Suwanruengsri M, Fuke N, Uemura R, Hirai T, Yamaguchi R.
+Neutrophil and M2-polarized Macrophage Infiltration, Expression of IL-8 and
+Apoptosis in Mycoplasma hyopneumoniae Pneumonia in Swine. J Comp Pathol. 2021
+Nov;189:31-44. doi: 10.1016/j.jcpa.2021.09.004. Epub 2021 Oct 25. PMID:
+34886984.
+
+30: Pan Q, Wang X, Liu T, Yu Y, Li L, Zhou R, Li G, Xin J. Mycoplasma
+hyopneumoniae Inhibits Porcine Beta-Defensin 2 Production by Blocking the
+Unfolded Protein Response To Facilitate Epithelial Adhesion and Infection.
+Infect Immun. 2020 Jun 22;88(7):e00164-20. doi: 10.1128/IAI.00164-20. PMID:
+32312764; PMCID: PMC7309629.
+
+31: Calderón Díaz JA, Fitzgerald RM, Shalloo L, Rodrigues da Costa M, Niemi J,
+Leonard FC, Kyriazakis I, García Manzanilla E. Financial Analysis of Herd Status
+and Vaccination Practices for Porcine Reproductive and Respiratory Syndrome
+Virus, Swine Influenza Virus, and <i>Mycoplasma hyopneumoniae</i> in Farrow-to-
+Finish Pig Farms Using a Bio-Economic Simulation Model. Front Vet Sci. 2020 Nov
+9;7:556674. doi: 10.3389/fvets.2020.556674. PMID: 33240946; PMCID: PMC7680737.
+
+32: Betlach AM, Fano E, Sponheim A, Valeris-Chacin R, Dalquist L, Singer RS,
+Pieters M. <i>Mycoplasma hyopneumoniae</i> genetic variability within swine
+production flows. Can J Vet Res. 2020 Oct;84(4):310-313. PMID: 33012980; PMCID:
+PMC7490998.
+
+33: Li G, Obeng E, Shu J, Shu J, Chen J, Wu Y, He Y. Genomic Variability and
+Post-translational Protein Processing Enhance the Immune Evasion of
+<i>Mycoplasma hyopneumoniae</i> and Its Interaction With the Porcine Immune
+System. Front Immunol. 2020 Oct 7;11:510943. doi: 10.3389/fimmu.2020.510943.
+PMID: 33117335; PMCID: PMC7575705.
+
+34: Zhang Y, Liu B, Said A, Xie J, Tian F, Cao Z, Chao Z, Li F, Li X, Li S, Liu
+H, Wang W. Regulatory functional role of NLRP3 inflammasome during Mycoplasma
+hyopneumoniae infection in swine. J Anim Sci. 2023 Jan 3;101:skad216. doi:
+10.1093/jas/skad216. PMID: 37351955; PMCID: PMC10406421.
+
+35: Ferreira MM, Mechler-Dreibi ML, Sonalio K, Almeida HMS, Ferraz MES, Jacintho
+APP, Maes D, de Oliveira LG. Co-infections by Mycoplasma hyopneumoniae,
+Mycoplasma hyorhinis and Mycoplasma flocculare in macroscopic lesions of lung
+consolidation of pigs at slaughter. Vet Microbiol. 2021 Jul;258:109123. doi:
+10.1016/j.vetmic.2021.109123. Epub 2021 May 15. PMID: 34023636.
+
+36: Ning Y, Yang Y, Tian Y, Zhang Y, Luo W, Wen Y, Zhou Y, Ding H. Porcine
+antibody profiles of 33 Mycoplasma hyopneumoniae fusion proteins from M.
+hyopneumoniae natural infection but not vaccination. Vet Med Sci. 2023
+Jan;9(1):203-216. doi: 10.1002/vms3.1053. Epub 2022 Dec 15. PMID: 36520664;
+PMCID: PMC9857121.
+
+37: Zong B, Zhu Y, Liu M, Wang X, Chen H, Zhang Y, Tan C. Characteristics of
+<i>Mycoplasma hyopneumoniae</i> Strain ES-2 Isolated From Chinese Native Black
+Pig Lungs. Front Vet Sci. 2022 Jun 30;9:883416. doi: 10.3389/fvets.2022.883416.
+PMID: 35847655; PMCID: PMC9280346.
+
+38: Panneitz AK, Braga ER, Petri FAM, Menegatt JCO, Driemeier D, Maes D,
+Oliveira LG. Exploring the Genetic Diversity of <i>Mycoplasma hyopneumoniae</i>
+in Pigs with Pneumonia and Pleurisy at Slaughter. Microorganisms. 2024 Sep
+30;12(10):1988. doi: 10.3390/microorganisms12101988. PMID: 39458297; PMCID:
+PMC11509837.
+
+39: Blanc F, Maroilley T, Revilla M, Lemonnier G, Leplat JJ, Billon Y, Ravon L,
+Bouchez O, Bidanel JP, Bed'Hom B, Pinard-van der Laan MH, Estellé J, Rogel-
+Gaillard C. Influence of genetics and the pre-vaccination blood transcriptome on
+the variability of antibody levels after vaccination against Mycoplasma
+hyopneumoniae in pigs. Genet Sel Evol. 2021 Mar 18;53(1):24. doi:
+10.1186/s12711-021-00614-5. PMID: 33731010; PMCID: PMC7972226.
+
+40: Yang S, Oh T, Park KH, Cho H, Chae C. A Dual Swine Challenge With Porcine
+Circovirus Type 2 (PCV2) and <i>Mycoplasma hyopneumoniae</i> Used to Compare a
+Combination of Mixable Monovalent PCV2 and Monovalent <i>M. hyopneumoniae</i>
+Vaccines With a Ready-to Use PCV2 and <i>M. hyopneumoniae</i> Bivalent Vaccine.
+Front Vet Sci. 2020 Sep 2;7:579. doi: 10.3389/fvets.2020.00579. PMID: 32984414;
+PMCID: PMC7492382.
+
+41: Tameling A, Könighoff P, Beilage EG, Menrath A, Heimann M, Köhrmann A,
+Hennig-Pauka I. Leistungsparameter und Erregernachweise in unterschiedlich
+geimpften Tiergruppen in Bezug auf das Porzine Circovirus Typ 2 und Mycoplasma
+hyopneumoniae [Performance parameters and pathogen detection in pig groups
+differently vaccinated with respect to Porcine Circovirus Type 2 and Mycoplasma
+hyopneumoniae]. Tierarztl Prax Ausg G Grosstiere Nutztiere. 2022
+Feb;50(1):21-29. German. doi: 10.1055/a-1696-1578. Epub 2022 Mar 2. PMID:
+35235980.
+
+42: Lima ACA, Braga ER, Panneitz AK, Petri FAM, Castro JHT, Dias RG, de Oliveira
+LG. Detection of anti-<i>Mycoplasma hyopneumoniae</i> antibodies in backyard
+pigs in the state of Paraná, Brazil. J Vet Diagn Invest. 2024 Nov;36(6):907-909.
+doi: 10.1177/10406387241265986. Epub 2024 Aug 22. PMID: 39175302; PMCID:
+PMC11529050.
+
+43: Suh J, Oh T, Chae C. An evaluation of intradermal all-in-one vaccine based
+on an inactivated recombinant Mycoplasma hyopneumoniae strain expressing porcine
+circovirus type 2 (PCV2) capsid protein against Korean stains of PCV2d and M.
+hyopneumoniae challenge. Comp Immunol Microbiol Infect Dis. 2022 Nov-
+Dec;90-91:101911. doi: 10.1016/j.cimid.2022.101911. Epub 2022 Nov 11. PMID:
+36410070.
+
+44: Yang S, Lee JY, Oh T, Park KH, Cho H, Suh J, Min KD, Ham HJ, Chae C.
+Comparative growth performance of 3 types of combination vaccines containing
+porcine circovirus 2 and <i>Mycoplasma hyopneumoniae</i> under field conditions.
+Can J Vet Res. 2022 Apr;86(2):93-101. PMID: 35388232; PMCID: PMC8978288.
+
+45: Vangroenweghe FACJ, Thas O. Seasonal Variation in Prevalence of
+<i>Mycoplasma hyopneumoniae</i> and Other Respiratory Pathogens in Peri-Weaned,
+Post-Weaned, and Fattening Pigs with Clinical Signs of Respiratory Diseases in
+Belgian and Dutch Pig Herds, Using a Tracheobronchial Swab Sampling Technique,
+and Their Associations with Local Weather Conditions. Pathogens. 2021 Sep
+16;10(9):1202. doi: 10.3390/pathogens10091202. PMID: 34578234; PMCID:
+PMC8471121.
+
+46: Ham S, Suh J, Oh T, Kim C, Seo BJ, Chae C. Efficacy of a novel bivalent
+vaccine containing porcine circovirus type 2d and <i>Mycoplasma
+hyopneumoniae</i> against a dual PCV2d and <i>Mycoplasma hyopneumoniae</i>
+challenge. Front Vet Sci. 2023 Jul 26;10:1176091. doi:
+10.3389/fvets.2023.1176091. PMID: 37565086; PMCID: PMC10410152.
+
+47: Suh J, Ham S, Oh T, Chae C. Cross-protection of a porcine circovirus types
+2a/b (PCV-2a/b) and <i>Mycoplasma hyopneumoniae</i> trivalent vaccine against a
+dual PCV-2e and <i>Mycoplasma hyopneumoniae</i> challenge. Can J Vet Res. 2023
+Oct;87(4):297-302. PMID: 37790269; PMCID: PMC10542952.
+
+48: Suh J, Ham S, Chae C. Divergent clinical outcomes depending on the
+sequential infection order of porcine circovirus type 2 and Mycoplasma
+hyopneumoniae. Vet Microbiol. 2024 May;292:110060. doi:
+10.1016/j.vetmic.2024.110060. Epub 2024 Mar 17. PMID: 38520754.
+
+49: Canturri A, Pieters M. Characterizing the detection of inactivated
+Mycoplasma hyopneumoniae DNA in the respiratory tract of pigs. Vet Res. 2024 Feb
+15;55(1):19. doi: 10.1186/s13567-024-01273-2. PMID: 38360700; PMCID:
+PMC10870464.
+
+50: Puig A, Bernal I, Sabaté D, Ballarà I, Montané J, Nodar L, Angelats D, Jordà
+R. Comparison of effects of a single dose of MHYOSPHERE® PCV ID with three
+commercial porcine vaccine associations against Mycoplasma hyopneumoniae (Mhyo)
+and porcine circovirus type 2 (PCV2) on piglet growth during the nursery period
+under field conditions. Vet Res Commun. 2022 Dec;46(4):1167-1173. doi:
+10.1007/s11259-022-09971-y. Epub 2022 Jul 13. PMID: 35829861; PMCID: PMC9684222.
+
+51: Takeuti KL, Michaelsen TR, Sabedot C, Nagae RY, Forner RAN, Mazzarollo A, de
+Barcellos DESN, Pieters M. Mycoplasma hyopneumoniae detection by PCR in
+naturally infected finishing pigs. J Microbiol Methods. 2022 Jun;197:106475.
+doi: 10.1016/j.mimet.2022.106475. Epub 2022 Apr 26. PMID: 35487292.
+
+52: Gao Z, Chen L, Song T, Pan X, Li X, Lu G, Tang Y, Wu X, Zhao B, Zhang R. A
+candidate multi-epitope vaccine against porcine reproductive and respiratory
+syndrome virus and Mycoplasma hyopneumoniae induces robust humoral and cellular
+response in mice. Vaccine. 2022 Apr 6;40(16):2370-2378. doi:
+10.1016/j.vaccine.2022.03.021. Epub 2022 Mar 17. PMID: 35307227.
+
+53: Wang H, Zhang Z, Xie X, Liu B, Wei Y, Gan Y, Yuan T, Ni B, Wang J, Zhang L,
+Xiong Q, Shao G, Feng Z. Paracellular Pathway-Mediated Mycoplasma hyopneumoniae
+Migration across Porcine Airway Epithelial Barrier under Air-Liquid Interface
+Conditions. Infect Immun. 2020 Sep 18;88(10):e00470-20. doi:
+10.1128/IAI.00470-20. PMID: 32747599; PMCID: PMC7504950.
+
+54: Um H, Yang S, Oh T, Cho H, Park KH, Suh J, Chae C. A field efficacy trial of
+a trivalent vaccine containing porcine circovirus type 2a and 2b, and Mycoplasma
+hyopneumoniae in three herds. Vet Med Sci. 2022 Mar;8(2):578-590. doi:
+10.1002/vms3.657. Epub 2021 Oct 22. PMID: 34687172; PMCID: PMC8959324.
+
+55: Deffner P, Maurer R, Cvjetković V, Sipos W, Krejci R, Ritzmann M, Eddicks M.
+Cross-sectional study on the in-herd prevalence of Mycoplasma hyopneumoniae at
+different stages of pig production. Vet Rec. 2022 Oct;191(7):e1317. doi:
+10.1002/vetr.1317. Epub 2022 Jan 15. PMID: 35032397.
+
+56: Rosales RS, Risco D, García-Nicolás O, Pallarés FJ, Ramírez AS, Poveda JB,
+Nicholas RAJ, Salguero FJ. Differential Gene Expression in Porcine Lung
+Compartments after Experimental Infection with <i>Mycoplasma hyopneumoniae</i>.
+Animals (Basel). 2024 Apr 25;14(9):1290. doi: 10.3390/ani14091290. PMID:
+38731294; PMCID: PMC11083927.
+
+57: Jafari Jozani R, Khallawi MFHA, Nguyen HTH, Mohammed MH, Petrovski K, Ren Y,
+Trott D, Hemmatzadeh F, Low WY. Phenotypic and Genotypic Analysis of
+Antimicrobial Resistance in <i>Mycoplasma hyopneumoniae</i> Isolated from Pigs
+with Enzootic Pneumonia in Australia. Pathogens. 2024 Nov 28;13(12):1044. doi:
+10.3390/pathogens13121044. PMID: 39770304; PMCID: PMC11728671.
+
+58: Silva CA, Callegari MA, Dias CP, de Souza KL, Romano GS, Hernig LF, Lippke
+RT, Jansen R, Leite FL, Filipe F, de Carvalho RH. Well-Being and Performance of
+Nursery Pigs Subjected to Different Commercial Vaccines Against Porcine
+Circovirus Type 2, <i>Mycoplasma hyopneumoniae</i> and <i>Lawsonia
+intracellularis</i>. Vaccines (Basel). 2024 Oct 31;12(11):1242. doi:
+10.3390/vaccines12111242. PMID: 39591145; PMCID: PMC11598480.
+
+59: Rodríguez F, Rosales RS, Ramírez AS, Poveda JB. Vaccination Upregulates Th1
+Cytokines in the Lung of Pigs Experimentally Infected with <i>Mycoplasma
+hyopneumoniae</i>. Animals (Basel). 2023 Feb 1;13(3):520. doi:
+10.3390/ani13030520. PMID: 36766408; PMCID: PMC9913433.
+
+60: Ham S, Suh J, Kim C, Seo BJ, Park GS, Chae C. A field evaluation of a new
+porcine circovirus type 2d and Mycoplasma hyopneumoniae bivalent vaccine in
+herds suffering from subclinical PCV2d infection and enzootic pneumonia. Vet Med
+Sci. 2024 Sep;10(5):e70001. doi: 10.1002/vms3.70001. PMID: 39189840; PMCID:
+PMC11348503.
+
+61: Yang S, Oh T, Park KH, Cho H, Suh J, Chae C. Experimental efficacy of a
+trivalent vaccine containing porcine circovirus types 2a/b (PCV2a/b) and
+Mycoplasma hyopneumoniae against PCV2d and M. hyopneumoniae challenges. Vet
+Microbiol. 2021 Jul;258:109100. doi: 10.1016/j.vetmic.2021.109100. Epub 2021 May
+4. PMID: 33984792.
+
+62: Almeida HMS, Sonalio K, Mechler-Dreibi ML, Petri FAM, Storino GY, Maes D, de
+Oliveira LG. Experimental Infection with <i>Mycoplasma hyopneumoniae</i> Strain
+232 in Swine Influences the Lower Respiratory Microbiota. Vet Sci. 2022 Dec
+5;9(12):674. doi: 10.3390/vetsci9120674. PMID: 36548835; PMCID: PMC9788024.
+
+63: Biebaut E, Chantziaras I, Boyen F, Devriendt B, Haesebrouck F, Gomez-Duran
+CO, Maes D. Influence of parity and reproductive stage on the prevalence of
+Mycoplasma hyopneumoniae in breeding animals in belgian farrow-to-finish pig
+herds. Porcine Health Manag. 2022 Jun 9;8(1):26. doi:
+10.1186/s40813-022-00267-w. PMID: 35681230; PMCID: PMC9178894.
+
+64: Cho H, Ahn Y, Oh T, Suh J, Chae C. Non-Inferiority Field Study Comparing the
+Administrations by Conventional Needle-Syringe and Needle-Free Injectors of a
+Trivalent Vaccine Containing Porcine Circovirus Types 2a/2b and <i>Mycoplasma
+hyopneumoniae</i>. Vaccines (Basel). 2022 Feb 24;10(3):358. doi:
+10.3390/vaccines10030358. PMID: 35334988; PMCID: PMC8952852.
+
+65: Ferraz MES, Almeida HMS, Storino GY, Sonálio K, Souza MR, Moura CAA, Costa
+WMT, Lunardi L, Linhares DCL, de Oliveira LG. Lung consolidation caused by
+Mycoplasma hyopneumoniae has a negative effect on productive performance and
+economic revenue in finishing pigs. Prev Vet Med. 2020 Sep;182:105091. doi:
+10.1016/j.prevetmed.2020.105091. Epub 2020 Jul 13. PMID: 32683190.
+
+66: Yang S, Park SJ, Oh T, Cho H, Chae C. Efficacy comparison of commercial
+porcine circovirus type 2 (PCV2) and <i>Mycoplasma hyopneumoniae</i> monovalent
+and bivalent vaccines against a dual challenge. Can J Vet Res. 2020
+Oct;84(4):272-282. Erratum in: Can J Vet Res. 2021 Jan;85(1):67. PMID: 33012976;
+PMCID: PMC7491006.
+
+67: Tao Y, Yang R, Shu J, Zheng W, Chen J, Wu Y, He Y. Immune responses induced
+by a combined vaccination with a recombinant chimera of Mycoplasma hyopneumoniae
+antigens and capsid virus-like particles of porcine circovirus type 2. BMC Vet
+Res. 2020 Sep 16;16(1):342. doi: 10.1186/s12917-020-02560-8. PMID: 32938456;
+PMCID: PMC7493066.
+
+68: Yang S, Oh T, Mago J, Iwakuma A, Chae C. Optimal vaccination strategy
+against Mycoplasma hyopneumoniae, porcine reproductive and respiratory syndrome
+virus, and porcine circovirus type 2 in case of early M. hyopneumoniae
+infection. Vet Med Sci. 2020 Nov;6(4):860-874. doi: 10.1002/vms3.284. Epub 2020
+May 28. PMID: 32462794; PMCID: PMC7738734.
+
+69: Cho H, Oh T, Suh J, Chae C. A Comparative Field Evaluation of the Effect of
+Growth Performance Between Porcine Circovirus Type 2a (PCV2a)- and PCV2b-Based
+Bivalent Vaccines Containing PCV2 and <i>Mycoplasma hyopneumoniae</i>. Front Vet
+Sci. 2022 Jun 24;9:859344. doi: 10.3389/fvets.2022.859344. PMID: 35812885;
+PMCID: PMC9263624.
+
+70: Mucha SG, Ferrarini MG, Moraga C, Di Genova A, Guyon L, Tardy F, Rome S,
+Sagot MF, Zaha A. Mycoplasma hyopneumoniae J elicits an antioxidant response and
+decreases the expression of ciliary genes in infected swine epithelial cells.
+Sci Rep. 2020 Aug 13;10(1):13707. doi: 10.1038/s41598-020-70040-y. PMID:
+32792522; PMCID: PMC7426424.
+
+71: Vega-Munguía G, Vargas Sánchez A, Camacho-Medina JE, Suárez-Vélez L,
+Bárcenas-Morales G, Quintar Guerrero D, Ciprian-Carrasco A, Mendoza Elvira S.
+Effect of Live and Fragmented <i>Saccharomyces cerevisiae</i> in the Feed of
+Pigs Challenged with <i>Mycoplasma hyopneumoniae</i>. Pathogens. 2024 Apr
+14;13(4):322. doi: 10.3390/pathogens13040322. PMID: 38668277; PMCID:
+PMC11054539.
+
+72: Ahn Y, Yang S, Oh T, Park KH, Cho H, Suh J, Chae C. Efficacy Evaluation of a
+Bivalent Vaccine Containing Porcine Circovirus Type 2b and <i>Mycoplasma
+hyopneumoniae</i> Against an Experimental Dual Challenge. Front Vet Sci. 2021
+Apr 30;8:652313. doi: 10.3389/fvets.2021.652313. PMID: 33996979; PMCID:
+PMC8119751.
+
+73: Yang X, Xing F, Wang L, Zhao W, Fu Y, Tu F, Li B, Fang X, Ren S. Effect of
+Pregnane X Receptor on <i>CYP3A29</i> Expression in Porcine Alveolar Macrophages
+during <i>Mycoplasma hyopneumoniae</i> Infection. Animals (Basel). 2021 Jan
+30;11(2):349. doi: 10.3390/ani11020349. PMID: 33573311; PMCID: PMC7911243.
+
+74: Um H, Yang S, Oh T, Park K, Cho H, Suh J, Min KD, Chae C. Comparative
+Evaluation of Growth Performance between Bivalent and Trivalent Vaccines
+Containing Porcine Circovirus Type 2 (PCV2) and <i>Mycoplasma hyopneumoniae</i>
+in a Herd with Subclinical PCV2d Infection and Enzootic Pneumonia. Vaccines
+(Basel). 2021 May 3;9(5):450. doi: 10.3390/vaccines9050450. PMID: 34063582;
+PMCID: PMC8147604.
+
+75: Lopez Rodriguez A, Berge AC, Ramage C, Saltzman R, Domangue RJ, Gnozzio MJ,
+Muller A, Sierra P, Benchaoui HA. Evaluation of the clinical efficacy of a water
+soluble formulation of tylvalosin in the control of enzootic pneumonia
+associated with Mycoplasma hyopneumoniae and Pasteurella multocida in pigs.
+Porcine Health Manag. 2020 Dec 4;6(1):39. doi: 10.1186/s40813-020-00177-9. PMID:
+33292620; PMCID: PMC7716473.
+
+76: Pleguezuelos P, Sibila M, Cuadrado-Matías R, López-Jiménez R, Pérez D,
+Huerta E, Pérez M, Correa-Fiz F, Mancera-Gracia JC, Taylor LP, Borowski S,
+Saunders G, Segalés J, López-Soria S, Balasch M. Efficacy Studies of a Trivalent
+Vaccine Containing PCV-2a, PCV-2b Genotypes and <i>Mycoplasma hyopneumoniae</i>
+When Administered at 3 Days of Age and 3 Weeks Later against Porcine Circovirus
+2 (PCV-2) Infection. Vaccines (Basel). 2022 Aug 1;10(8):1234. doi:
+10.3390/vaccines10081234. PMID: 36016122; PMCID: PMC9414577.
+
+77: Mancera Gracia JC, Smutzer M, Taylor L, Balasch M, Bandrick M. One Dose of a
+Novel Vaccine Containing Two Genotypes of Porcine Circovirus (PCV2a and PCV2b)
+and <i>Mycoplasma hyopneumoniae</i> Conferred a Duration of Immunity of 23
+Weeks. Vaccines (Basel). 2021 Jul 29;9(8):834. doi: 10.3390/vaccines9080834.
+PMID: 34451959; PMCID: PMC8402335.
+
+78: Storino GY, Petri FAM, Mechler-Dreibi ML, Aguiar GA, Toledo LT, Arruda LP,
+Malcher CS, Martins TS, Montassier HJ, Sant'Anna OA, Fantini MCA, de Oliveira
+LG. Use of Nanostructured Silica SBA-15 as an Oral Vaccine Adjuvant to Control
+<i>Mycoplasma hyopneumoniae</i> in Swine Production. Int J Mol Sci. 2023 Apr
+1;24(7):6591. doi: 10.3390/ijms24076591. PMID: 37047564; PMCID: PMC10095401.
+
+79: Son K, Lee R, Lee D, Kim Y, Sung J, Jeong H, Lee S, Oem JK. Prevalence of
+four infectious diseases (Porcine Circovirus Type 2, Aujeszky's Disease, Porcine
+Reproductive and Respiratory Syndrome, Mycoplasma hyopneumoniae) in wild boars
+in South Korea. J Vet Med Sci. 2025 Jan 10;87(1):115-118. doi:
+10.1292/jvms.24-0205. Epub 2024 Dec 2. PMID: 39617439.
+
+80: Kamminga T, Benis N, Martins Dos Santos V, Bijlsma JJE, Schaap PJ. Combined
+Transcriptome Sequencing of <i>Mycoplasma hyopneumoniae</i> and Infected Pig
+Lung Tissue Reveals Up-Regulation of Bacterial F1-Like ATPase and Down-
+Regulation of the P102 Cilium Adhesin <i>in vivo</i>. Front Microbiol. 2020 Jul
+20;11:1679. doi: 10.3389/fmicb.2020.01679. PMID: 32765473; PMCID: PMC7379848.
+
+81: Almeida HMS, Mechler-Dreibi ML, Sonálio K, Ferraz MES, Storino GY, Barbosa
+FO, Maes D, Montassier HJ, de Oliveira LG. Corrigendum to "Cytokine expression
+and Mycoplasma hyopneumoniae burden in the development of lung lesions in
+experimentally inoculated pigs" [Vet. Microbiol. 244 (2020) 108647]. Vet
+Microbiol. 2020 Oct;249:108782. doi: 10.1016/j.vetmic.2020.108782. Epub 2020 Jul
+4. Erratum for: Vet Microbiol. 2020 May;244:108647. doi:
+10.1016/j.vetmic.2020.108647. PMID: 32636081.
+
+82: Ding H, Wen Y, Xu Z, Zhou B, Tlili C, Tian Y, Wang Z, Ning Y, Xin J.
+Development of an ELISA for distinguishing convalescent sera with Mycoplasma
+hyopneumoniae infection from hyperimmune sera responses to bacterin vaccination
+in pigs. Vet Med Sci. 2021 Sep;7(5):1831-1840. doi: 10.1002/vms3.539. Epub 2021
+May 22. PMID: 34021737; PMCID: PMC8464267.
+
+83: Sonalio K, Boyen F, Devriendt B, Chantziaras I, Beuckelaere L, Biebaut E,
+Haesebrouck F, Santamarta I, de Oliveira LG, Maes D. Rationalizing the use of
+common parameters and technological tools to follow up Mycoplasma hyopneumoniae
+infections in pigs. Porcine Health Manag. 2024 Aug 23;10(1):31. doi:
+10.1186/s40813-024-00381-x. PMID: 39180129; PMCID: PMC11342468.
+
+84: Sponheim A, Alvarez J, Fano E, Schmaling E, Dee S, Hanson D, Wetzell T,
+Pieters M. Comparison of the sensitivity of laryngeal swabs and deep tracheal
+catheters for detection of Mycoplasma hyopneumoniae in experimentally and
+naturally infected pigs early and late after infection. Vet Microbiol. 2020
+Feb;241:108500. doi: 10.1016/j.vetmic.2019.108500. Epub 2019 Nov 5. PMID:
+31767388.
+
+85: Qin Z, Zhao P, Chen L, Han Z, Zhang Y, Zhao J. Evaluation of the Effect of
+the <i>Mycoplasma hyopneumoniae</i> Live Vaccine (Strain 168) in Ningxiang Pigs.
+Vaccines (Basel). 2024 Nov 27;12(12):1332. doi: 10.3390/vaccines12121332. PMID:
+39771994; PMCID: PMC11679368.
+
+86: Sipos W, Sipos S. Clinical Efficacy of Two Novel, Differentially
+Administered (IM, ID) Vaccines against <i>Mycoplasma hyopneumoniae</i> and PCV2
+in Swine under Field Conditions. Animals (Basel). 2022 Dec 8;12(24):3467. doi:
+10.3390/ani12243467. PMID: 36552387; PMCID: PMC9774315.
+
+87: Wang G, Li J, Liu Y. Integrated analysis of differential gene expression
+profiles in porcine alveolar macrophages induced by Mycoplasma hyopneumoniae
+strain 232. Pol J Vet Sci. 2024 Sep;27(3):419-430. doi:
+10.24425/pjvs.2024.151735. PMID: 39736123.
+
+88: Munyaka PM, Blanc F, Estellé J, Lemonnier G, Leplat JJ, Rossignol MN, Jardet
+D, Plastow G, Billon Y, Willing BP, Rogel-Gaillard C. Discovery of Predictors of
+<i>Mycoplasma hyopneumoniae</i> Vaccine Response Efficiency in Pigs: 16S rRNA
+Gene Fecal Microbiota Analysis. Microorganisms. 2020 Jul 29;8(8):1151. doi:
+10.3390/microorganisms8081151. PMID: 32751315; PMCID: PMC7464067.

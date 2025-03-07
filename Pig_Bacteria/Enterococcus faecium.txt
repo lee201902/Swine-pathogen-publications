@@ -1,0 +1,180 @@
+1: Sycheva MV, Popova EV, Khlopko YA, Pashkova TM, Kartashova OL, Kataev VY,
+Gerasimenko VV, Vasilchenko AV. Genome Analysis of the Probiotic Strain
+Enterococcus faecium Ef79OSAU. Microbiol Resour Announc. 2021 Oct
+21;10(42):e0069121. doi: 10.1128/MRA.00691-21. Epub 2021 Oct 21. PMID: 34672706;
+PMCID: PMC8530028.
+
+2: Makarov DA, Ivanova OE, Pomazkova AV, Egoreva MA, Prasolova OV, Lenev SV,
+Gergel MA, Bukova NK, Karabanov SY. Antimicrobial resistance of commensal
+<i>Enterococcus faecalis</i> and <i>Enterococcus faecium</i> from food-producing
+animals in Russia. Vet World. 2022 Mar;15(3):611-621. doi:
+10.14202/vetworld.2022.611-621. Epub 2022 Mar 18. PMID: 35497972; PMCID:
+PMC9047118.
+
+3: Wang L, Li A, Fang J, Wang Y, Chen L, Qiao L, Wang W. Enhanced Cell Wall and
+Cell Membrane Activity Promotes Heat Adaptation of <i>Enterococcus faecium</i>.
+Int J Mol Sci. 2023 Jul 23;24(14):11822. doi: 10.3390/ijms241411822. PMID:
+37511581; PMCID: PMC10380804.
+
+4: Wang C, Wei S, Xu B, Hao L, Su W, Jin M, Wang Y. Bacillus subtilis and
+Enterococcus faecium co-fermented feed regulates lactating sow's performance,
+immune status and gut microbiota. Microb Biotechnol. 2021 Mar;14(2):614-627.
+doi: 10.1111/1751-7915.13672. Epub 2020 Oct 7. PMID: 33026173; PMCID:
+PMC7936319.
+
+5: Xuan H, Yao X, Pan R, Gao Y, Wei J, Shao D, Liu K, Li Z, Qiu Y, Ma Z, Li B,
+Xia L. Antimicrobial resistance in Enterococcus faecium and Enterococcus
+faecalis isolates of swine origin from eighteen provinces in China. J Vet Med
+Sci. 2021 Dec 23;83(12):1952-1958. doi: 10.1292/jvms.21-0413. Epub 2021 Nov 16.
+PMID: 34789595; PMCID: PMC8762417.
+
+6: Mishra B, Felix L, Basu A, Kollala SS, Chhonker YS, Ganesan N, Murry DJ,
+Mylonakis E. Design and Evaluation of Short Bovine Lactoferrin-Derived
+Antimicrobial Peptides against Multidrug-Resistant <i>Enterococcus faecium</i>.
+Antibiotics (Basel). 2022 Aug 10;11(8):1085. doi: 10.3390/antibiotics11081085.
+PMID: 36009954; PMCID: PMC9404989.
+
+7: Dong J, Jiang Y, Li Z, Liu K, Guo L, Cui L, Wang H, Li J. Enterococcus
+faecium supplementation prevents enteritis caused by Escherichia coli in goats.
+Benef Microbes. 2023 Oct 30;14(5):477-491. doi: 10.1163/18762891-20220133. PMID:
+38656096.
+
+8: Ladyhina V, Sternberg-Lewerin S, Andersson L, Rajala E. Antimicrobial
+resistance among indicator Enterococcus faecium and Escherichia coli in Swedish
+pig farms. Acta Vet Scand. 2024 Jul 17;66(1):34. doi:
+10.1186/s13028-024-00756-8. Erratum in: Acta Vet Scand. 2024 Aug 13;66(1):37.
+doi: 10.1186/s13028-024-00758-6. PMID: 39020377; PMCID: PMC11256653.
+
+9: Sureshkumar S, Park JH, Kim IH. Effects of <i>Enterococcus faecium</i>
+SLB 130 probiotic on the performance of weaning pigs. Vet Med (Praha). 2022 Oct
+24;67(11):562-568. doi: 10.17221/41/2022-VETMED. PMID: 38623479; PMCID:
+PMC11016298.
+
+10: Ekore DO, Onanga R, Nguema PPM, Lozano C, Kumulungui BS. The Antibiotics
+Used in Livestock and Their Impact on Resistance in <i>Enterococcus faecium</i>
+and <i>Enterococcus hirae</i> on Farms in Gabon. Antibiotics (Basel). 2022 Feb
+10;11(2):224. doi: 10.3390/antibiotics11020224. PMID: 35203826; PMCID:
+PMC8868485.
+
+11: Xuan H, Xia L, Schwarz S, Jia H, Yao X, Wang S, Li R, Wei J, Li Z, Shao D,
+Liu K, Qiu Y, Ma Z, Li B. Various mobile genetic elements carrying optrA in
+Enterococcus faecium and Enterococcus faecalis isolates from swine within the
+same farm. J Antimicrob Chemother. 2023 Feb 1;78(2):504-511. doi:
+10.1093/jac/dkac421. PMID: 36508313.
+
+12: Piazentin ACM, Mendonça CMN, Vallejo M, Mussatto SI, de Souza Oliveira RP.
+Bacteriocin-like inhibitory substances production by Enterococcus faecium 135 in
+co-culture with Ligilactobacillus salivarius and Limosilactobacillus reuteri.
+Braz J Microbiol. 2022 Mar;53(1):131-141. doi: 10.1007/s42770-021-00661-6. Epub
+2022 Jan 6. PMID: 34988936; PMCID: PMC8882487.
+
+13: Zhang Y, Wang C, Su W, Jiang Z, He H, Gong T, Kai L, Xu H, Wang Y, Lu Z. Co-
+fermented yellow wine lees by <i>Bacillus subtilis</i> and <i>Enterococcus
+faecium</i> regulates growth performance and gut microbiota in finishing pigs.
+Front Microbiol. 2022 Oct 21;13:1003498. doi: 10.3389/fmicb.2022.1003498. PMID:
+36338073; PMCID: PMC9633856.
+
+14: Cui Y, Huang L, Li J, Wang G, Shi Y. An Attempt of a New Strategy in PRV
+Prevention: Co-Injection with Inactivated <i>Enterococcus faecium</i> and
+Inactivated Pseudorabies Virus Intravenously. Viruses. 2023 Aug 17;15(8):1755.
+doi: 10.3390/v15081755. PMID: 37632097; PMCID: PMC10459850.
+
+15: Siddique A, Azim S, Ali A, Adnan F, Arif M, Imran M, Ganda E, Rahman A.
+<i>Lactobacillus reuteri</i> and <i>Enterococcus faecium</i> from Poultry Gut
+Reduce Mucin Adhesion and Biofilm Formation of Cephalosporin and
+Fluoroquinolone-Resistant <i>Salmonella enterica</i>. Animals (Basel). 2021 Dec
+1;11(12):3435. doi: 10.3390/ani11123435. PMID: 34944212; PMCID: PMC8697943.
+
+16: Oh SH, Jang JC, Lee CY, Han JH, Park BC. Direct-fed Enterococcus faecium
+plus bacteriophages as substitutes for pharmacological zinc oxide in weanling
+pigs: effects on diarrheal score and growth. Anim Biosci. 2022
+Nov;35(11):1752-1759. doi: 10.5713/ab.22.0262. Epub 2022 Oct 11. PMID: 36229021;
+PMCID: PMC9659466.
+
+17: Shridhar PB, Amachawadi RG, Tokach M, Patel I, Gangiredla J, Mammel M,
+Nagaraja TG. Whole genome sequence analyses-based assessment of virulence
+potential and antimicrobial susceptibilities and resistance of Enterococcus
+faecium strains isolated from commercial swine and cattle probiotic products. J
+Anim Sci. 2022 Mar 1;100(3):skac030. doi: 10.1093/jas/skac030. PMID: 35150575;
+PMCID: PMC8908542.
+
+18: Palkovicsné Pézsa N, Kovács D, Gálfi P, Rácz B, Farkas O. Effect of
+<i>Enterococcus faecium</i> NCIMB 10415 on Gut Barrier Function, Internal Redox
+State, Proinflammatory Response and Pathogen Inhibition Properties in Porcine
+Intestinal Epithelial Cells. Nutrients. 2022 Apr 2;14(7):1486. doi:
+10.3390/nu14071486. PMID: 35406099; PMCID: PMC9002907.
+
+19: Myhill LJ, Stolzenbach S, Mejer H, Krych L, Jakobsen SR, Kot W, Skovgaard K,
+Canibe N, Nejsum P, Nielsen DS, Thamsborg SM, Williams AR. Parasite-Probiotic
+Interactions in the Gut: <i>Bacillus</i> sp. and <i>Enterococcus faecium</i>
+Regulate Type-2 Inflammatory Responses and Modify the Gut Microbiota of Pigs
+During Helminth Infection. Front Immunol. 2022 Jan 5;12:793260. doi:
+10.3389/fimmu.2021.793260. PMID: 35069576; PMCID: PMC8766631.
+
+20: Biggel M, Nüesch-Inderbinen M, Raschle S, Stevens MJA, Stephan R. Spread of
+vancomycin-resistant Enterococcus faecium ST133 in the aquatic environment in
+Switzerland. J Glob Antimicrob Resist. 2021 Dec;27:31-36. doi:
+10.1016/j.jgar.2021.08.002. Epub 2021 Aug 21. PMID: 34428595.
+
+21: Kim MH, Moon DC, Kim SJ, Mechesso AF, Song HJ, Kang HY, Choi JH, Yoon SS,
+Lim SK. Nationwide Surveillance on Antimicrobial Resistance Profiles of
+<i>Enterococcus faecium</i> and <i>Enterococcus faecalis</i> Isolated from
+Healthy Food Animals in South Korea, 2010 to 2019. Microorganisms. 2021 Apr
+26;9(5):925. doi: 10.3390/microorganisms9050925. PMID: 33925822; PMCID:
+PMC8144984.
+
+22: Liu S, Du M, Sun J, Tu Y, Gu X, Cai P, Lu Z, Wang Y, Shan T. <i>Bacillus
+subtilis</i> and <i>Enterococcus faecium</i> co-fermented feed alters
+antioxidant capacity, muscle fibre characteristics and lipid profiles of
+finishing pigs. Br J Nutr. 2024 Apr 28;131(8):1298-1307. doi:
+10.1017/S000711452300291X. Epub 2023 Dec 15. PMID: 38098370.
+
+23: Lan R, Kim I. Enterococcus faecium supplementation in sows during gestation
+and lactation improves the performance of sucking piglets. Vet Med Sci. 2020
+Feb;6(1):92-99. doi: 10.1002/vms3.215. Epub 2019 Nov 25. PMID: 31769224; PMCID:
+PMC7036309.
+
+24: Kim E, Shin SW, Kwak HS, Cha MH, Yang SM, Gwak YS, Woo GJ, Kim HY.
+Prevalence and Characteristics of Phenicol-Oxazolidinone Resistance Genes in
+<i>Enterococcus Faecalis</i> and <i>Enterococcus Faecium</i> Isolated from Food-
+Producing Animals and Meat in Korea. Int J Mol Sci. 2021 Oct 20;22(21):11335.
+doi: 10.3390/ijms222111335. PMID: 34768762; PMCID: PMC8583520.
+
+25: Kang ZZ, Lei CW, Kong LH, Wang YL, Ye XL, Ma BH, Wang XC, Li C, Zhang Y,
+Wang HN. Detection of transferable oxazolidinone resistance determinants in
+Enterococcus faecalis and Enterococcus faecium of swine origin in Sichuan
+Province, China. J Glob Antimicrob Resist. 2019 Dec;19:333-337. doi:
+10.1016/j.jgar.2019.05.021. Epub 2019 May 25. PMID: 31136832.
+
+26: Lopes J, de Lencastre H, Conceição T. Genomic analysis of <i>Enterococcus
+faecium</i> from non-clinical settings: antimicrobial resistance, virulence, and
+clonal population in livestock and the urban environment. Front Microbiol. 2024
+Sep 11;15:1466990. doi: 10.3389/fmicb.2024.1466990. PMID: 39323892; PMCID:
+PMC11422121.
+
+27: Zhou C, Chang X, Zou Y, Zhao F, Zhou G, Ye K. The mechanism of Enterococcus
+faecium on the virulence of Listeria monocytogenes during the storage of
+fermented sausages by whole genome analysis. Int J Food Microbiol. 2024 Sep
+16;422:110826. doi: 10.1016/j.ijfoodmicro.2024.110826. Epub 2024 Jul 14. PMID:
+39024730.
+
+28: Cinthi M, Coccitto SN, Simoni S, Garofalo C, Cesaro C, Vignaroli C,
+Brenciani A, Giovanetti E. <i>Letter to the Editor</i>: A Porcine
+<i>Enterococcus hirae</i> Shares a <i>poxtA</i>-Carrying Plasmid with a Human
+<i>Enterococcus faecium</i> Isolate. Microb Drug Resist. 2023 Jun;29(6):271-272.
+doi: 10.1089/mdr.2022.0201. Epub 2023 Jan 25. PMID: 36695758.
+
+29: Huang J, Wang M, Gao Y, Chen L, Wang L. Emergence of plasmid-mediated
+oxazolidinone resistance gene poxtA from CC17 Enterococcus faecium of pig
+origin-authors' response. J Antimicrob Chemother. 2020 May 1;75(5):1359-1361.
+doi: 10.1093/jac/dkaa054. PMID: 32097468.
+
+30: Feng Y, Yin N, Zhou Z, Han Y. Physical and antibacterial properties of
+bacterial cellulose films supplemented with cell-free supernatant enterocin-
+producing Enterococcus faecium TJUQ1. Food Microbiol. 2021 Oct;99:103828. doi:
+10.1016/j.fm.2021.103828. Epub 2021 May 14. PMID: 34119113.
+
+31: Freitas AR, Novais C, Coque TM, Peixe L. Comment on: Emergence of plasmid-
+mediated oxazolidinone resistance gene poxtA from CC17 Enterococcus faecium of
+pig origin. J Antimicrob Chemother. 2020 May 1;75(5):1358-1359. doi:
+10.1093/jac/dkz432. PMID: 31617898.

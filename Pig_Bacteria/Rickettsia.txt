@@ -1,0 +1,119 @@
+1: Zaldívar Y, Hernández M, Domínguez L, Saénz L, Montilla S, de Antinori MEB,
+Krawczak FS, Bermúdez S. Isolation of Rickettsia rickettsii in Rocky Mountain
+Spotted Fever Outbreak, Panama. Emerg Infect Dis. 2021 Apr;27(4):1245-1247. doi:
+10.3201/eid2704.201606. PMID: 33755006; PMCID: PMC8007289.
+
+2: Ramírez-Hernández A, Uchoa F, de Azevedo Serpa MC, Binder LC, Rodrigues AC,
+Szabó MPJ, Fogaça A, Souza CE, Labruna MB. Clinical and serological evaluation
+of capybaras (Hydrochoerus hydrochaeris) successively exposed to an Amblyomma
+sculptum-derived strain of Rickettsia rickettsii. Sci Rep. 2020 Jan
+22;10(1):924. doi: 10.1038/s41598-020-57607-5. Erratum in: Sci Rep. 2020 Mar
+11;10(1):4848. doi: 10.1038/s41598-020-61342-2. PMID: 31969607; PMCID:
+PMC6976648.
+
+3: Ross AL, Stokes JV, Cross CE, Alugubelly N, Varela-Stokes AS. Multiplex
+TaqMan<sup>®</sup> Quantitative PCR Assays for Host-Tick-Pathogen Studies Using
+the Guinea Pig-Tick-<i>Rickettsia</i> System. Pathogens. 2022 May 18;11(5):594.
+doi: 10.3390/pathogens11050594. PMID: 35631115; PMCID: PMC9147651.
+
+4: López-Pérez AM, Sánchez-Montes S, Maya-Badillo BA, Orta-Pineda G, Reveles-
+Félix S, Becker I, Bárcenas-Barreto K, Torres-Monroy A, Ojeda-Flores R, Sánchez-
+Betancourt JI. Molecular detection of Rickettsia amblyommatis and Rickettsia
+parkeri in ticks collected from wild pigs in Campeche, Mexico. Ticks Tick Borne
+Dis. 2022 Jan;13(1):101844. doi: 10.1016/j.ttbdis.2021.101844. Epub 2021 Oct 10.
+PMID: 34670190.
+
+5: Stokes JV, Levin ML, Cross CE, Ross AL, Snellgrove AN, Willeford BV,
+Alugubelly N, Varela-Stokes AS. Evaluating the Clinical and Immune Responses to
+Spotted Fever Rickettsioses in the Guinea Pig-Tick-Rickettsia System. Curr
+Protoc. 2022 Nov;2(11):e584. doi: 10.1002/cpz1.584. PMID: 36383032; PMCID:
+PMC9828190.
+
+6: Ruiz M, Acosta DB, Baricalla A, Sánchez JP. Molecular detection of Rickettsia
+in ectoparasites (Siphonaptera and Phthiraptera) of domestic and feral pigs from
+Argentina. Parasitol Res. 2021 Oct;120(10):3611-3618. doi:
+10.1007/s00436-021-07291-9. Epub 2021 Aug 26. PMID: 34435254.
+
+7: Snellgrove AN, Krapiunaya I, Scott P, Levin ML. Assessment of the
+Pathogenicity of <i>Rickettsia amblyommatis</i>, <i>Rickettsia bellii</i>, and
+<i>Rickettsia montanensis</i> in a Guinea Pig Model. Vector Borne Zoonotic Dis.
+2021 Apr;21(4):232-241. doi: 10.1089/vbz.2020.2695. Epub 2021 Feb 17. PMID:
+33600263; PMCID: PMC8875296.
+
+8: Galletti MFBM, Paddock CD, Hecht JA, Biggerstaff BJ, Ritter JM, Karpathy SE.
+Isolate-Dependent Differences in Clinical, Pathological, and Transcriptional
+Profiles following <i>In Vitro</i> and <i>In Vivo</i> Infections with Rickettsia
+rickettsii. Infect Immun. 2021 Mar 17;89(4):e00626-20. doi:
+10.1128/IAI.00626-20. PMID: 33495273; PMCID: PMC8090960.
+
+9: Nock AM, Clark TR, Hackstadt T. Regulator of Actin-Based Motility (RoaM)
+Downregulates Actin Tail Formation by Rickettsia rickettsii and Is Negatively
+Selected in Mammalian Cell Culture. mBio. 2022 Apr 26;13(2):e0035322. doi:
+10.1128/mbio.00353-22. Epub 2022 Mar 14. PMID: 35285700; PMCID: PMC9040884.
+
+10: Alugubelly N, Stokes JV, Cross CE, Ross AL, Crawford AE, Fiihr GF, Varela-
+Stokes AS. Beyond the IFA: Revisiting the ELISA as a More Sensitive, Objective,
+and Quantitative Evaluation of Spotted Fever Group <i>Rickettsia</i> Exposure.
+Pathogens. 2021 Jan 20;10(2):88. doi: 10.3390/pathogens10020088. PMID: 33498380;
+PMCID: PMC7909427.
+
+11: Gauthier DT, Karpathy SE, Grizzard SL, Batra D, Rowe LA, Paddock CD.
+Characterization of a novel transitional group <i>Rickettsia</i> species
+(<i>Rickettsia tillamookensis</i> sp. nov.) from the western black-legged tick,
+<i>Ixodes pacificus</i>. Int J Syst Evol Microbiol. 2021 Jul;71(7):004880. doi:
+10.1099/ijsem.0.004880. PMID: 34214027; PMCID: PMC8489840.
+
+12: Costa FB, Gerardi M, Binder LC, Benatti HR, Serpa MCA, Lopes B, Luz HR,
+Ferraz KMPMB, Labruna MB. Rickettsia rickettsii (Rickettsiales: Rickettsiaceae)
+Infecting Amblyomma sculptum (Acari: Ixodidae) Ticks and Capybaras in a
+Brazilian Spotted Fever-Endemic Area of Brazil. J Med Entomol. 2020 Jan
+9;57(1):308-311. doi: 10.1093/jme/tjz141. PMID: 31504641.
+
+13: Fitzsimmons L, Bublitz D, Clark T, Hackstadt T. <i>Rickettsia rickettsii</i>
+virulence determinants RARP2 and RapL mitigate IFN-<b>β</b> signaling in primary
+human dermal microvascular endothelial cells. mBio. 2024 Apr 10;15(4):e0345023.
+doi: 10.1128/mbio.03450-23. Epub 2024 Mar 6. PMID: 38445878; PMCID: PMC11005427.
+
+14: Martínez-Diaz HC, Forero-Becerra E, Hidalgo M, Labruna MB. Experimental
+infection and vector competence of Amblyomma patinoi, a member of the Amblyomma
+cajennense species complex, for the human pathogen Rickettsia rickettsii. Ticks
+Tick Borne Dis. 2021 Sep;12(5):101751. doi: 10.1016/j.ttbdis.2021.101751. Epub
+2021 May 29. PMID: 34130146.
+
+15: Torres-Bustamante M, Cantillo-Barraza O, Ko AI, Wunder EA, Quintero-Vélez
+JC. Eco-epidemiological study of seropositivity against Rickettsia and
+Leptospira agents in rural areas of Urabá, Colombia. Res Sq [Preprint]. 2024 Jan
+4:rs.3.rs-3760267. doi: 10.21203/rs.3.rs-3760267/v1. PMID: 38260656; PMCID:
+PMC10802693.
+
+16: Benatti HR, Binder LC, Costa FB, Soares HS, Luz HR, Labruna MB. Maintenance
+of the infection by Rickettsia amblyommatis in Amblyomma cajennense sensu
+stricto ticks and evaluation of vector competence. Exp Appl Acarol. 2020
+Sep;82(1):151-159. doi: 10.1007/s10493-020-00537-8. Epub 2020 Aug 31. PMID:
+32869112.
+
+17: Levin ML, Ford SL, Hartzer K, Krapiunaya L, Stanley H, Snellgrove AN.
+Minimal Duration of Tick Attachment Sufficient for Transmission of Infectious
+Rickettsia rickettsii (Rickettsiales: Rickettsiaceae) by Its Primary Vector
+Dermacentor variabilis (Acari: Ixodidae): Duration of Rickettsial Reactivation
+in the Vector Revisited. J Med Entomol. 2020 Feb 27;57(2):585-594. doi:
+10.1093/jme/tjz191. PMID: 31687749; PMCID: PMC7171694.
+
+18: Binder LC, Ramírez-Hernández A, Serpa MCA, Moraes-Filho J, Pinter A,
+Scinachi CA, Labruna MB. Domestic dogs as amplifying hosts of Rickettsia
+rickettsii for Amblyomma aureolatum ticks. Ticks Tick Borne Dis. 2021
+Nov;12(6):101824. doi: 10.1016/j.ttbdis.2021.101824. Epub 2021 Sep 4. PMID:
+34520994.
+
+19: Matei IA, Kalmár Z, Balea A, Mihaiu M, Sándor AD, Cocian A, Crăciun S,
+Bouari C, Briciu VT, Fiț N. The Role of Wild Boars in the Circulation of Tick-
+Borne Pathogens: The First Evidence of <i>Rickettsia monacensis</i> Presence.
+Animals (Basel). 2023 May 24;13(11):1743. doi: 10.3390/ani13111743. PMID:
+37402208; PMCID: PMC10252030.
+
+20: Stanley HM, Ford SL, Snellgrove AN, Hartzer K, Smith EB, Krapiunaya I, Levin
+ML. The Ability of the Invasive Asian Longhorned Tick Haemaphysalis longicornis
+(Acari: Ixodidae) to Acquire and Transmit Rickettsia rickettsii (Rickettsiales:
+Rickettsiaceae), the Agent of Rocky Mountain Spotted Fever, Under Laboratory
+Conditions. J Med Entomol. 2020 Sep 7;57(5):1635-1639. doi: 10.1093/jme/tjaa076.
+PMID: 32338290.

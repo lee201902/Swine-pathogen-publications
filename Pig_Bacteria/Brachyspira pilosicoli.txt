@@ -1,0 +1,46 @@
+1: Hampson DJ. The Spirochete Brachyspira pilosicoli, Enteric Pathogen of
+Animals and Humans. Clin Microbiol Rev. 2017 Nov 29;31(1):e00087-17. doi:
+10.1128/CMR.00087-17. PMID: 29187397; PMCID: PMC5740978.
+
+2: Arnold M, Schmitt S, Collaud A, Rossano A, Hübschke E, Zeeh F, Nathues H,
+Perreten V. Distribution, genetic heterogeneity, and antimicrobial
+susceptibility of Brachyspira pilosicoli in Swiss pig herds. Vet Microbiol. 2022
+Jun;269:109421. doi: 10.1016/j.vetmic.2022.109421. Epub 2022 Apr 14. PMID:
+35429815.
+
+3: Dors A, Czyżewska-Dors E, Woźniakowski G. A survey on the occurrence of
+<i>Brachyspira pilosicoli</i> and <i>Brachyspira hyodysenteriae</i> in growing-
+finishing pigs. F1000Res. 2019 Sep 30;8:1702. doi:
+10.12688/f1000research.20639.3. PMID: 33824718; PMCID: PMC7993403.
+
+4: Gothe J, Horn M, Baums CG, Heilmann RM, Schrödl W. Detection of Serum IgG
+Specific for <i>Brachyspira pilosicoli</i> and "<i>Brachyspira canis</i>" in
+Dogs. Vet Sci. 2024 Jul 3;11(7):302. doi: 10.3390/vetsci11070302. PMID:
+39057986; PMCID: PMC11281529.
+
+5: Musse SL, Nielsen GB, Stege H, Weber NR, Houe H. Prevalences and excretion
+levels of Lawsonia intracellularis, Brachyspira pilosicoli and Escherichia coli
+F4 and F18 in fecal sock samples from Danish weaner and finisher pig batches and
+the association with diarrhea. Porcine Health Manag. 2022 Oct 28;8(1):44. doi:
+10.1186/s40813-022-00290-x. PMID: 36307895; PMCID: PMC9617295.
+
+6: Illanes NV, Tamiozzo PJ, Cabral A, Bertone J, Romanini S, Yaciuk R, Vázquez
+M, Pelliza BR. Detección de Brachyspira pilosicoli y otras especies de
+Brachyspira en granjas avícolas argentinas [Detection of Brachyspira pilosicoli
+and other Brachyspira species in Argentine poultry farms]. Rev Argent Microbiol.
+2016 Jan-Mar;48(1):67-70. Spanish. doi: 10.1016/j.ram.2015.12.002. Epub 2016 Mar
+5. PMID: 26952690.
+
+7: Stubberfield E, Pringle M, Landén A, Veldman KT, Geurts Y, Jouy E, Le
+Devendec L, Rubin JE, Kulathunga DGRS, Kristensen KA, Chanter J, Bollard A,
+Johnson P, Maycock J, Habighorst-Blome K, Rohde J, Card RM. Validation of an
+antimicrobial susceptibility testing protocol for Brachyspira hyodysenteriae and
+Brachyspira pilosicoli in an international ring trial. Vet Microbiol. 2020
+May;244:108645. doi: 10.1016/j.vetmic.2020.108645. Epub 2020 Mar 20. PMID:
+32402332.
+
+8: Le Roy CI, Passey JL, Woodward MJ, La Ragione RM, Claus SP. Metabonomics-
+based analysis of Brachyspira pilosicoli's response to tiamulin reveals
+metabolic activity despite significant growth inhibition. Anaerobe. 2017
+Jun;45:71-77. doi: 10.1016/j.anaerobe.2017.03.018. Epub 2017 Mar 31. PMID:
+28373121.

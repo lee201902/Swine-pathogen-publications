@@ -1,0 +1,30 @@
+1: Fan R, Li D, Feßler AT, Wu C, Schwarz S, Wang Y. Distribution of optrA and
+cfr in florfenicol-resistant Staphylococcus sciuri of pig origin. Vet Microbiol.
+2017 Oct;210:43-48. doi: 10.1016/j.vetmic.2017.07.030. Epub 2017 Sep 1. PMID:
+29103695.
+
+2: Khan A, Sohail S, Yaseen S, Fatima S, Wisal A, Ahmed S, Nasir M, Irfan M,
+Karim A, Basharat Z, Khan Y, Aurongzeb M, Raza SK, Alshahrani MY, Morel CM,
+Hassan SS. Exploring and targeting potential druggable antimicrobial resistance
+targets ArgS, SecY, and MurA in Staphylococcus sciuri with TCM inhibitors
+through a subtractive genomics strategy. Funct Integr Genomics. 2023 Jul
+26;23(3):254. doi: 10.1007/s10142-023-01179-w. PMID: 37495774.
+
+3: Kumar D, Pornsukarom S, Sivaraman GK, Thakur S. Environmental Dissemination
+of Multidrug Methicillin-Resistant Staphylococcus sciuri After Application of
+Manure from Commercial Swine Production Systems. Foodborne Pathog Dis. 2018
+Apr;15(4):210-217. doi: 10.1089/fpd.2017.2354. Epub 2017 Dec 21. PMID: 29266969.
+
+4: Fan R, Li D, Wang Y, He T, Feßler AT, Schwarz S, Wu C. Presence of the optrA
+Gene in Methicillin-Resistant Staphylococcus sciuri of Porcine Origin.
+Antimicrob Agents Chemother. 2016 Nov 21;60(12):7200-7205. doi:
+10.1128/AAC.01591-16. PMID: 27671067; PMCID: PMC5118999.
+
+5: Li D, Wang Y, Schwarz S, Cai J, Fan R, Li J, Feßler AT, Zhang R, Wu C, Shen
+J. Co-location of the oxazolidinone resistance genes optrA and cfr on a
+multiresistance plasmid from Staphylococcus sciuri. J Antimicrob Chemother. 2016
+Jun;71(6):1474-8. doi: 10.1093/jac/dkw040. Epub 2016 Mar 6. PMID: 26953332.
+
+6: Lu L, He K, Ni Y, Yu Z, Mao A. Exudative epidermitis of piglets caused by
+non-toxigenic Staphylococcus sciuri. Vet Microbiol. 2017 Feb;199:79-84. doi:
+10.1016/j.vetmic.2016.12.016. Epub 2016 Dec 23. PMID: 28110789.

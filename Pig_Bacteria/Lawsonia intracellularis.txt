@@ -1,0 +1,852 @@
+1: Obradovic MR, Wilson HL. Immune response and protection against Lawsonia
+intracellularis infections in pigs. Vet Immunol Immunopathol. 2020
+Jan;219:109959. doi: 10.1016/j.vetimm.2019.109959. Epub 2019 Oct 31. PMID:
+31710909.
+
+2: Karuppannan AK, Opriessnig T. <i>Lawsonia intracellularis</i>: Revisiting the
+Disease Ecology and Control of This Fastidious Pathogen in Pigs. Front Vet Sci.
+2018 Aug 9;5:181. doi: 10.3389/fvets.2018.00181. PMID: 30140680; PMCID:
+PMC6095029.
+
+3: Campillo M, Smith SH, Gally DL, Opriessnig T. Review of methods for the
+detection of <i>Lawsonia intracellularis</i> infection in pigs. J Vet Diagn
+Invest. 2021 Jul;33(4):621-631. doi: 10.1177/10406387211003551. Epub 2021 Mar
+19. PMID: 33739176; PMCID: PMC8225690.
+
+4: Hansen MS, Jensen TK, Hjulsager CK, Angen Ø, Riber U, Nielsen J, Heegaard
+PMH, Larsen LE. Experimental infection of high health pigs with porcine
+circovirus type 2 (PCV2) and <i>Lawsonia intracellularis</i>. Front Vet Sci.
+2022 Oct 6;9:994147. doi: 10.3389/fvets.2022.994147. PMID: 36277064; PMCID:
+PMC9583870.
+
+5: D'Annunzio G, Ostanello F, Muscatello LV, Orioles M, Bacci B, Jacumin N,
+Leotti G, Tommasini N, Alborali GL, Luppi A, Vio D, Mandrioli L, Sarli G.
+Porcine <i>Lawsonia intracellularis</i> Ileitis in Italy and Its Association
+with Porcine Circovirus Type 2 (PCV2) Infection. Animals (Basel). 2023 Mar
+26;13(7):1170. doi: 10.3390/ani13071170. PMID: 37048426; PMCID: PMC10093578.
+
+6: Guedes RMC, Machuca MA, Quiroga MA, Pereira CER, Resende TP, Gebhart CJ.
+Lawsonia intracellularis in Pigs: Progression of Lesions and Involvement of
+Apoptosis. Vet Pathol. 2017 Jul;54(4):620-628. doi: 10.1177/0300985817698206.
+Epub 2017 Mar 24. PMID: 28622490.
+
+7: Järveots T, Saar T, Põdersoo D, Rüütel-Boudinot S, Sütt S, Tummeleht L,
+Suuroja T, Lindjärv R. Lawsonia intracellularis and Porcine Circovirus type-2
+infection in Estonia. Pol J Vet Sci. 2016;19(2):291-301. doi:
+10.1515/pjvs-2016-0036. PMID: 27487502.
+
+8: Arnold M, Crienen A, Swam H, Berg SV, Jolie R, Nathues H. Correlation of
+Lawsonia intracellularis positivity in quantitative PCR and herd factors in
+European pig herds. Porcine Health Manag. 2021 Jan 22;7(1):13. doi:
+10.1186/s40813-021-00192-4. PMID: 33482877; PMCID: PMC7821494.
+
+9: Luo W, Qin H, Chen D, Wu M, Meng K, Zhang A, Pan Y, Qu W, Xie S. The dose
+regimen formulation of tilmicosin against Lawsonia intracellularis in pigs by
+pharmacokinetic-pharmacodynamic (PK-PD) model. Microb Pathog. 2020
+Oct;147:104389. doi: 10.1016/j.micpath.2020.104389. Epub 2020 Jul 21. PMID:
+32707311.
+
+10: Barbosa JCR, Nicolino RR, Gabardo MP, Gonçalves JPM, Suarez-Duarte ME, Laub
+RP, Daniel AGS, Mariano GHS, Costa CM, Correia PA, Araújo MD, Guedes RMC.
+Subsistence swine farming: seroprevalence and risk factors associated with
+Lawsonia intracellularis infection in the state of Minas Gerais Brazil in 2016.
+Trop Anim Health Prod. 2023 Sep 22;55(5):314. doi: 10.1007/s11250-023-03755-5.
+PMID: 37736780.
+
+11: Horsington J, Witvliet M, Jacobs AAC, Segers RPAM. Efficacy of Simultaneous
+Intradermal Vaccination of Swine against Porcine Circovirus 2, Porcine
+Reproductive and Respiratory Syndrome Virus, <i>Mycoplasma hyopneumoniae</i> and
+<i>Lawsonia intracellularis</i>. Animals (Basel). 2021 Jul 28;11(8):2225. doi:
+10.3390/ani11082225. PMID: 34438683; PMCID: PMC8388483.
+
+12: Pereira CER, Resende TP, Armién AG, Laub RP, Vannucci FA, Santos RL, Gebhart
+CJ, Guedes RMC. Survival of Lawsonia intracellularis in porcine peripheral blood
+monocyte-derived macrophages. PLoS One. 2020 Jul 31;15(7):e0236887. doi:
+10.1371/journal.pone.0236887. PMID: 32735621; PMCID: PMC7394435.
+
+13: Sampieri F, Vannucci FA, Allen AL, Pusterla N, Antonopoulos AJ, Ball KR,
+Thompson J, Dowling PM, Hamilton DL, Gebhart CJ. Species-specificity of equine
+and porcine Lawsonia intracellularis isolates in laboratory animals. Can J Vet
+Res. 2013 Oct;77(4):261-72. PMID: 24124268; PMCID: PMC3788657.
+
+14: Wattanaphansak S, Pereira CER, Kaenson W, Assavacheep P, Tantilertcharoen R,
+Resende TP, Barrera-Zarate JA, de Oliveira-Lee JSV, Klein U, Gebhart CJ, Guedes
+RMC. Isolation and in vitro antimicrobial susceptibility of porcine Lawsonia
+intracellularis from Brazil and Thailand. BMC Microbiol. 2019 Jan 31;19(1):27.
+doi: 10.1186/s12866-019-1397-7. PMID: 30704407; PMCID: PMC6357443.
+
+15: Helm ET, Outhouse AC, Schwartz KJ, Lonergan SM, Curry SM, Dekkers JCM,
+Gabler NK. Metabolic adaptation of pigs to a Mycoplasma hyopneumoniae and
+Lawsonia intracellularis dual challenge. J Anim Sci. 2018 Jul
+28;96(8):3196-3207. doi: 10.1093/jas/sky220. PMID: 29860328; PMCID: PMC6095249.
+
+16: Pérez Gaudio DS, Martínez G, Fernández Paggi MB, Decundo JM, Romanelli A,
+Dieguez SN, Soraci AL. Ex vivo penetration of fosfomycin into healthy and
+Lawsonia intracellularis-colonized swine intestinal mucosa. J Vet Pharmacol
+Ther. 2018 Dec;41(6):878-886. doi: 10.1111/jvp.12687. Epub 2018 Jul 5. PMID:
+29974968.
+
+17: Arnold M, Crienen A, Swam H, von Berg S, Jolie R, Nathues H. Prevalence of
+<i>Lawsonia intracellularis</i> in pig herds in different European countries.
+Porcine Health Manag. 2019 Dec 17;5:31. doi: 10.1186/s40813-019-0137-6. PMID:
+31890255; PMCID: PMC6918559.
+
+18: Resende TP, Medida RL, Vannucci FA, Saqui-Salces M, Gebhart C. Evaluation of
+swine enteroids as in vitro models for Lawsonia intracellularis infection1,2. J
+Anim Sci. 2020 Feb 1;98(2):skaa011. doi: 10.1093/jas/skaa011. PMID: 31943029;
+PMCID: PMC7007770.
+
+19: Won G, Chi NK, Park Y. The Effectiveness of Commercial Vaccination against
+<i>Lawsonia intracellularis</i> in Mitigating the Reduction in ADWG, the
+Increased Mortality and Fecal Shedding of the Vaccinated Pigs: A Systematic
+Review and Meta-Analysis. Vet Sci. 2022 Sep 28;9(10):536. doi:
+10.3390/vetsci9100536. PMID: 36288149; PMCID: PMC9607650.
+
+20: Friedman M, Bednár V, Klimes J, Smola J, Mrlík V, Literák I. Lawsonia
+intracellularis in rodents from pig farms with the occurrence of porcine
+proliferative enteropathy. Lett Appl Microbiol. 2008 Aug;47(2):117-21. doi:
+10.1111/j.1472-765X.2008.02394.x. Epub 2008 Jul 31. PMID: 18673433.
+
+21: Tassis P, Symeonidou I, Gelasakis AI, Kargaridis M, Aretis G, Arsenopoulos
+KV, Tzika E, Papadopoulos E. Serological Assessment of <i>Ascaris suum</i>
+Exposure in Greek Pig Farms and Associated Risk Factors Including <i>Lawsonia
+intracellularis</i>. Pathogens. 2022 Aug 23;11(9):959. doi:
+10.3390/pathogens11090959. PMID: 36145391; PMCID: PMC9503870.
+
+22: Helm ET, Burrough ER, Leite FL, Gabler NK. Lawsonia intracellularis infected
+enterocytes lack sucrase-isomaltase which contributes to reduced pig digestive
+capacity. Vet Res. 2021 Jun 19;52(1):90. doi: 10.1186/s13567-021-00958-2. PMID:
+34147126; PMCID: PMC8214296.
+
+23: Salvesen HA, Sargison FA, Archibald AL, Ait-Ali T. Characterisation of
+autophagy disruption in the ileum of pigs infected with Lawsonia
+intracellularis. Vet Res Commun. 2022 Jun;46(2):585-592. doi:
+10.1007/s11259-021-09847-7. Epub 2021 Oct 20. PMID: 34669106; PMCID: PMC9165227.
+
+24: Kroll JJ, Roof MB, Hoffman LJ, Dickson JS, Harris DL. Proliferative
+enteropathy: a global enteric disease of pigs caused by Lawsonia
+intracellularis. Anim Health Res Rev. 2005 Dec;6(2):173-97. doi:
+10.1079/ahr2005109. PMID: 16583781.
+
+25: Leite FL, Abrahante JE, Vasquez E, Vannucci F, Gebhart CJ, Winkelman N,
+Mueller A, Torrison J, Rambo Z, Isaacson RE. A Cell Proliferation and
+Inflammatory Signature Is Induced by Lawsonia intracellularis Infection in
+Swine. mBio. 2019 Jan 29;10(1):e01605-18. doi: 10.1128/mBio.01605-18. PMID:
+30696739; PMCID: PMC6355989.
+
+26: Johansen M, Nielsen M, Dahl J, Svensmark B, Bækbo P, Kristensen CS,
+Hjulsager CK, Jensen TK, Ståhl M, Larsen LE, Angen O. Investigation of the
+association of growth rate in grower-finishing pigs with the quantification of
+Lawsonia intracellularis and porcine circovirus type 2. Prev Vet Med. 2013 Jan
+1;108(1):63-72. doi: 10.1016/j.prevetmed.2012.07.004. Epub 2012 Jul 31. PMID:
+22854321.
+
+27: Järveots T, Saar T, Lepp E, Suuroja T, Lindjärv R, Nathues H, Sütt S,
+Põdersoo D. Porcine proliferative enteropathy in Estonian pig herds:
+histopathology and detection of Lawsonia intracellularis by PCR. Berl Munch
+Tierarztl Wochenschr. 2011 Jan-Feb;124(1-2):65-70. PMID: 21306056.
+
+28: Watarai M, Yoshiya M, Sato A, Furuoka H. Cultivation and characterization of
+Lawsonia intracellularis isolated from rabbit and pig. J Vet Med Sci. 2008
+Jul;70(7):731-3. doi: 10.1292/jvms.70.731. PMID: 18685249.
+
+29: Musse SL, Nielsen GB, Stege H, Weber NR, Houe H. Effect of intramuscular
+vaccination against Lawsonia intracellularis on production parameters, diarrhea
+occurrence, antimicrobial treatment, bacterial shedding, and lean meat
+percentage in two Danish naturally infected finisher pig herds. Prev Vet Med.
+2023 Mar;212:105837. doi: 10.1016/j.prevetmed.2023.105837. Epub 2023 Jan 6.
+PMID: 36680993.
+
+30: Silva CA, Callegari MA, Dias CP, de Souza KL, Romano GS, Hernig LF, Lippke
+RT, Jansen R, Leite FL, Filipe F, de Carvalho RH. Well-Being and Performance of
+Nursery Pigs Subjected to Different Commercial Vaccines Against Porcine
+Circovirus Type 2, <i>Mycoplasma hyopneumoniae</i> and <i>Lawsonia
+intracellularis</i>. Vaccines (Basel). 2024 Oct 31;12(11):1242. doi:
+10.3390/vaccines12111242. PMID: 39591145; PMCID: PMC11598480.
+
+31: Musse SL, Nielsen GB, Stege H, Weber NR, Houe H. Productivity parameters,
+antimicrobial consumption, and prevalence of enteric pathogens before and after
+intramuscular vaccination against Lawsonia intracellularis in naturally infected
+Danish weaner and finisher pig herds. Prev Vet Med. 2023 Aug;217:105973. doi:
+10.1016/j.prevetmed.2023.105973. Epub 2023 Jul 1. PMID: 37451064.
+
+32: Helm ET, Outhouse AC, Schwartz KJ, Dekkers JCM, Lonergan SM, Rauw WM, Gabler
+NK. Impact of Mycoplasma hyopneumoniae and Lawsonia intracellularis on the
+performance of pigs divergently selected for feed efficiency. J Anim Sci. 2018
+Mar 6;96(2):462-472. doi: 10.1093/jas/skx074. PMID: 29385478; PMCID: PMC6140898.
+
+33: Dors A, Pomorska-Mól M, Czyżewska E, Wasyl D, Pejsak Z. Prevalence and risk
+factors for Lawsonia intracellularis, Brachyspira hyodysenteriae and Salmonella
+spp. in finishing pigs in Polish farrow-to-finish swine herds. Pol J Vet Sci.
+2015;18(4):825-31. doi: 10.1515/pjvs-2015-0107. PMID: 26812826.
+
+34: Kukushkin S, Okovytaya T. Seroprevalence of Lawsonia intracellularis,
+Mycoplasma hyopneumoniae and PCV2 in commercial pig farms in Russia. Vet Rec.
+2012 Aug 4;171(5):126. doi: 10.1136/vr.100874. Epub 2012 Jul 11. PMID: 22791518.
+
+35: van der Heijden HM, Bakker J, Elbers AR, Vos JH, Weyns A, de Smet M, McOrist
+S. Prevalence of exposure and infection of Lawsonia intracellularis among
+slaughter-age pigs. Res Vet Sci. 2004 Dec;77(3):197-202. doi:
+10.1016/j.rvsc.2004.04.007. PMID: 15276770.
+
+36: Leite FL, Winfield B, Miller EA, Weber BP, Johnson TJ, Sylvia F, Vasquez E,
+Vannucci F, Beckler D, Isaacson RE. Oral Vaccination Reduces the Effects of
+<i>Lawsonia intracellularis</i> Challenge on the Swine Small and Large Intestine
+Microbiome. Front Vet Sci. 2021 Jul 16;8:692521. doi: 10.3389/fvets.2021.692521.
+PMID: 34336979; PMCID: PMC8322526.
+
+37: Draskovic V, Bosnjak-Neumuller J, Vasiljevic M, Petrujkic B, Aleksic N,
+Kukolj V, Stanimirovic Z. Influence of phytogenic feed additive on Lawsonia
+intracellularis infection in pigs. Prev Vet Med. 2018 Mar 1;151:46-51. doi:
+10.1016/j.prevetmed.2018.01.002. Epub 2018 Jan 10. Erratum in: Prev Vet Med.
+2018 Jun 1;154:29. doi: 10.1016/j.prevetmed.2018.03.007. PMID: 29496105.
+
+38: Opriessnig T, Madson DM, Roof M, Layton SM, Ramamoorthy S, Meng XJ, Halbur
+PG. Experimental reproduction of porcine circovirus type 2 (PCV2)-associated
+enteritis in pigs infected with PCV2 alone or concurrently with Lawsonia
+intracellularis or Salmonella typhimurium. J Comp Pathol. 2011 Aug-
+Oct;145(2-3):261-70. doi: 10.1016/j.jcpa.2010.12.016. Epub 2011 Feb 18. PMID:
+21334002.
+
+39: Wu Z, Ling Y, Tian D, Pan Q, Heegaard PM, He C. Seroprevalence of Lawsonia
+intracellularis antibodies in intensive pig farms in China. BMC Vet Res. 2014
+Apr 28;10:100. doi: 10.1186/1746-6148-10-100. PMID: 24774304; PMCID: PMC4012184.
+
+40: Grützner N, Gebhart CJ, Lawhorn BD, Suchodolski JS, Steiner JM. Serum
+folate, cobalamin, homocysteine and methylmalonic acid concentrations in pigs
+with acute, chronic or subclinical Lawsonia intracellularis infection. Vet J.
+2015 Mar;203(3):320-5. doi: 10.1016/j.tvjl.2014.12.022. Epub 2014 Dec 29. PMID:
+25618855.
+
+41: Jacobs AAC, Harks F, Hazenberg L, Hoeijmakers MJH, Nell T, Pel S, Segers
+RPAM. Efficacy of a novel inactivated Lawsonia intracellularis vaccine in pigs
+against experimental infection and under field conditions. Vaccine. 2019 Apr
+3;37(15):2149-2157. doi: 10.1016/j.vaccine.2019.02.067. Epub 2019 Mar 11. PMID:
+30867100.
+
+42: Collins AM, Fell S, Pearson H, Toribio JA. Colonisation and shedding of
+Lawsonia intracellularis in experimentally inoculated rodents and in wild
+rodents on pig farms. Vet Microbiol. 2011 Jun 2;150(3-4):384-8. doi:
+10.1016/j.vetmic.2011.01.020. Epub 2011 Feb 1. PMID: 21349664.
+
+43: Peiponen KS, Tirkkonen BT, Junnila JJT, Heinonen ML. Effect of a live
+attenuated vaccine against Lawsonia intracellularis in weaned and finishing pig
+settings in Finland. Acta Vet Scand. 2018 Mar 23;60(1):18. doi:
+10.1186/s13028-018-0374-8. PMID: 29566718; PMCID: PMC5865362.
+
+44: Musse SL, Nielsen GB, Stege H, Weber NR, Houe H. Prevalences and excretion
+levels of Lawsonia intracellularis, Brachyspira pilosicoli and Escherichia coli
+F4 and F18 in fecal sock samples from Danish weaner and finisher pig batches and
+the association with diarrhea. Porcine Health Manag. 2022 Oct 28;8(1):44. doi:
+10.1186/s40813-022-00290-x. PMID: 36307895; PMCID: PMC9617295.
+
+45: Borewicz KA, Kim HB, Singer RS, Gebhart CJ, Sreevatsan S, Johnson T,
+Isaacson RE. Changes in the Porcine Intestinal Microbiome in Response to
+Infection with Salmonella enterica and Lawsonia intracellularis. PLoS One. 2015
+Oct 13;10(10):e0139106. doi: 10.1371/journal.pone.0139106. PMID: 26461107;
+PMCID: PMC4604083.
+
+46: Jacobs AAC, Harks F, Pauwels R, Cao Q, Holtslag H, Pel S, Segers RPAM.
+Efficacy of a novel intradermal <i>Lawsonia intracellularis</i> vaccine in pigs
+against experimental infection and under field conditions. Porcine Health Manag.
+2020 Oct 1;6:25. doi: 10.1186/s40813-020-00164-0. PMID: 33014411; PMCID:
+PMC7528468.
+
+47: Vannucci FA, Foster DN, Gebhart CJ. Comparative transcriptional analysis of
+homologous pathogenic and non-pathogenic Lawsonia intracellularis isolates in
+infected porcine cells. PLoS One. 2012;7(10):e46708. doi:
+10.1371/journal.pone.0046708. Epub 2012 Oct 3. PMID: 23056413; PMCID:
+PMC3463550.
+
+48: Jensen TK, Vigre H, Svensmark B, Bille-Hansen V. Distinction between porcine
+circovirus type 2 enteritis and porcine proliferative enteropathy caused by
+Lawsonia intracellularis. J Comp Pathol. 2006 Nov;135(4):176-82. doi:
+10.1016/j.jcpa.2006.08.006. Epub 2006 Oct 27. PMID: 17070535.
+
+49: Yeh JY, Kim TJ, Park SY, Song CS, Yoon YD, Kim SK, Lee JB, Choi IS.
+Isolation of Lawsonia intracellularis in Korea and reproduction of proliferative
+enteropathy in pigs and hamsters. J Vet Med Sci. 2006 May;68(5):499-501. doi:
+10.1292/jvms.68.499. PMID: 16757895.
+
+50: Segalés J, Fernández-Salguero JM, Fructuoso G, Quintana J, Rosell C, Pozo J,
+De Arriba ML, Rubio P, Domingo M. Granulomatous enteritis and lymphadenitis in
+Iberian pigs naturally infected with Lawsonia intracellularis. Vet Pathol. 2001
+May;38(3):343-6. doi: 10.1354/vp.38-3-343. PMID: 11355669.
+
+51: Bae JK, Wieland B, Sait M, Longbottom D, Smith DG, Alarcon P, Wheelhouse N.
+Risk factors associated with Lawsonia intracellularis in English pig farms. Vet
+J. 2013 Sep;197(3):707-11. doi: 10.1016/j.tvjl.2013.03.020. Epub 2013 May 14.
+PMID: 23683854.
+
+52: Pedersen KS, Ståhl M, Guedes RM, Angen Ø, Nielsen JP, Jensen TK. Association
+between faecal load of lawsonia intracellularis and pathological findings of
+proliferative enteropathy in pigs with diarrhoea. BMC Vet Res. 2012 Oct
+23;8:198. doi: 10.1186/1746-6148-8-198. PMID: 23092367; PMCID: PMC3514390.
+
+53: Resende TP, Pereira CE, Gabardo Mde P, Haddad JP, Lobato ZI, Guedes RM.
+Serological profile, seroprevalence and risk factors related to Lawsonia
+intracellularis infection in swine herds from Minas Gerais State, Brazil. BMC
+Vet Res. 2015 Dec 23;11:306. doi: 10.1186/s12917-015-0618-z. PMID: 26695404;
+PMCID: PMC4688965.
+
+54: Li H, Zhang M, Zheng E. Comprehensive miRNA expression profiles in the ilea
+of Lawsonia intracellularis-infected pigs. J Vet Med Sci. 2017 Feb
+14;79(2):282-289. doi: 10.1292/jvms.16-0423. Epub 2016 Dec 4. PMID: 27916787;
+PMCID: PMC5326932.
+
+55: Jensen TK, Møller K, Lindecrona R, Jorsal SE. Detection of Lawsonia
+intracellularis in the tonsils of pigs with proliferative enteropathy. Res Vet
+Sci. 2000 Feb;68(1):23-6. doi: 10.1053/rvsc.1999.0330. PMID: 10684754.
+
+56: Nathues H, grosse Beilage E. Diagnosis of Lawsonia intracellularis infection
+in pigs after vaccination or antimicrobial treatment. Dtsch Tierarztl
+Wochenschr. 2008 Nov;115(11):404-9. PMID: 19024547.
+
+57: Luo W, Meng K, Zhao Y, Liu J, Chen D, Xu C, Algharib SA, Dawood AS, Xie S.
+Guar gum modified tilmicosin-loaded sodium alginate/gelatin composite nanogels
+for effective therapy of porcine proliferative enteritis caused by Lawsonia
+intracellularis. Int J Biol Macromol. 2023 Jul 1;242(Pt 3):125084. doi:
+10.1016/j.ijbiomac.2023.125084. Epub 2023 May 27. PMID: 37245769.
+
+58: Riber U, Cordes H, Boutrup TS, Jensen TK, Heegaard PM, Jungersen G. Primary
+infection protects pigs against re-infection with Lawsonia intracellularis in
+experimental challenge studies. Vet Microbiol. 2011 May 5;149(3-4):406-14. doi:
+10.1016/j.vetmic.2010.11.028. Epub 2010 Nov 26. PMID: 21168983.
+
+59: Szczotka A, Stadejek T, Zmudzki J, Nowak A, Osiński Z, Pejsak Z.
+Immunohistochemical detection of Lawsonia intracellularis in tissue sections
+from pigs. Pol J Vet Sci. 2011;14(4):531-8. doi: 10.2478/v10181-011-0079-7.
+PMID: 22439321.
+
+60: Hidalgo-Gajardo A, Gutiérrez N, Lamazares E, Espinoza F, Escobar-Riquelme F,
+Leiva MJ, Villavicencio C, Mena-Ulecia K, Montesino R, Altamirano C, Sánchez O,
+Rivas CI, Ruíz Á, Toledo JR. Co-Formulation of Recombinant Porcine IL-18
+Enhances the Onset of Immune Response in a New <i>Lawsonia intracellularis</i>
+Vaccine. Vaccines (Basel). 2023 Nov 30;11(12):1788. doi:
+10.3390/vaccines11121788. PMID: 38140192; PMCID: PMC10747595.
+
+61: Vannucci FA, Beckler D, Pusterla N, Mapes SM, Gebhart CJ. Attenuation of
+virulence of Lawsonia intracellularis after in vitro passages and its effects on
+the experimental reproduction of porcine proliferative enteropathy. Vet
+Microbiol. 2013 Feb 22;162(1):265-9. doi: 10.1016/j.vetmic.2012.08.002. Epub
+2012 Aug 13. PMID: 22939985.
+
+62: Chiriboga AE, Guimarães WV, Vanetti MC, Araújo EF. Detection of Lawsonia
+intracellularis in faeces of swine from the main producing regions in Brazil.
+Can J Microbiol. 1999 Mar;45(3):230-4. doi: 10.1139/w98-234. PMID: 10408095.
+
+63: Whitney MH, Shurson GC, Guedes RC. Effect of including distillers dried
+grains with solubles in the diet, with or without antimicrobial regimen, on the
+ability of growing pigs to resist a Lawsonia intracellularis challenge. J Anim
+Sci. 2006 Jul;84(7):1870-9. doi: 10.2527/jas.2004-575. PMID: 16775071.
+
+64: Mølbak L, Johnsen K, Boye M, Jensen TK, Johansen M, Møller K, Leser TD. The
+microbiota of pigs influenced by diet texture and severity of Lawsonia
+intracellularis infection. Vet Microbiol. 2008 Apr 1;128(1-2):96-107. doi:
+10.1016/j.vetmic.2007.09.012. Epub 2007 Sep 29. PMID: 17996403.
+
+65: Montesino R, Gutiérrez N, Camacho F, Farnós O, Andrades S, González A,
+Acosta J, Cortez-San Martín M, Sánchez O, Ruiz A, Toledo JR. Multi-antigenic
+recombinant subunit vaccine against Lawsonia intracellularis: The etiological
+agent of porcine proliferative enteropathy. Vaccine. 2019 Feb
+28;37(10):1340-1349. doi: 10.1016/j.vaccine.2019.01.029. Epub 2019 Jan 30. PMID:
+30711318.
+
+66: Pławińska J, Jakubowski T, Rzewuska M, Binek M. Occurrence of Lawsonia
+Intracellularis and Brachyspira spp. infection in swine suffering from
+diarrhoea. Pol J Vet Sci. 2004;7(3):203-6. PMID: 15478867.
+
+67: Cordes H, Riber U, Jensen TK, Jungersen G. Cell-mediated and humoral immune
+responses in pigs following primary and challenge-exposure to Lawsonia
+intracellularis. Vet Res. 2012 Feb 8;43(1):9. doi: 10.1186/1297-9716-43-9. PMID:
+22316065; PMCID: PMC3313852.
+
+68: Guedes RM, Winkelman NL, Gebhart CJ. Relationship between the severity of
+porcine proliferative enteropathy and the infectious dose of Lawsonia
+intracellularis. Vet Rec. 2003 Oct 4;153(14):432-3. doi: 10.1136/vr.153.14.432.
+PMID: 14582733.
+
+69: Paradis MA, Gottschalk M, Rajic A, Ravel A, Wilson JB, Aramini J, McClure
+CA, Dick CP. Seroprevalence of Lawsonia intracellularis in different swine
+populations in 3 provinces in Canada. Can Vet J. 2007 Jan;48(1):57-62. doi:
+10.4141/cjas68-008. PMID: 17310623; PMCID: PMC1716739.
+
+70: Dittmar M, Hoelzle LE, Hoelzle K, Sydler T, Corboz L, Miserez R, Wittenbrink
+MM. Diagnosis of porcine proliferative enteropathy: detection of Lawsonia
+intracellularis by pathological examinations, polymerase chain reaction and cell
+culture inoculation. J Vet Med B Infect Dis Vet Public Health. 2003
+Sep;50(7):332-8. doi: 10.1046/j.1439-0450.2003.00691.x. PMID: 14535931.
+
+71: Suh DK, Song JC. Prevalence of Lawsonia intracellularis, Brachyspira
+hyodysenteriae and Salmonella in swine herds. J Vet Sci. 2005 Dec;6(4):289-93.
+PMID: 16293991.
+
+72: Jensen TK, Christensen BB, Boye M. Lawsonia intracellularis infection in the
+large intestines of pigs. APMIS. 2006 Apr;114(4):255-64. doi:
+10.1111/j.1600-0463.2006.apm_53.x. PMID: 16689824.
+
+73: Smith SH, Wilson AD, Van Ettinger I, MacIntyre N, Archibald AL, Ait-Ali T.
+Down-regulation of mechanisms involved in cell transport and maintenance of
+mucosal integrity in pigs infected with Lawsonia intracellularis. Vet Res. 2014
+May 20;45(1):55. doi: 10.1186/1297-9716-45-55. PMID: 24885874; PMCID:
+PMC4031155.
+
+74: Park S, Won G, Lee JH. An attenuated <i>Salmonella</i> vaccine secreting
+<i>Lawsonia intracellularis</i> immunogenic antigens confers dual protection
+against porcine proliferative enteropathy and salmonellosis in a murine model. J
+Vet Sci. 2019 May;20(3):e24. doi: 10.4142/jvs.2019.20.e24. PMID: 31161742;
+PMCID: PMC6538521.
+
+75: Holyoake PK, Emery D, Gonsalves J, Donahoo M, Collins A. Prevalence of
+antibodies to Lawsonia intracellularis in pig herds in Australia. Aust Vet J.
+2010 May;88(5):186-8. doi: 10.1111/j.1751-0813.2010.00558.x. PMID: 20529028.
+
+76: Riber U, Heegaard PM, Cordes H, Ståhl M, Jensen TK, Jungersen G. Vaccination
+of pigs with attenuated Lawsonia intracellularis induced acute phase protein
+responses and primed cell-mediated immunity without reduction in bacterial
+shedding after challenge. Vaccine. 2015 Jan 1;33(1):156-62. doi:
+10.1016/j.vaccine.2014.10.084. Epub 2014 Nov 11. PMID: 25444804.
+
+77: Zmudzki J, Szczotka A, Podgórska K, Nowak A, Grzesiak A, Dors A, Pejsak Z.
+Application of real-time PCR for detection of Lawsonia intracellularis and
+Brachyspira hyodysenteriae in fecal samples from pigs. Pol J Vet Sci.
+2012;15(2):267-73. doi: 10.2478/v10181-011-0144-2. PMID: 22844704.
+
+78: Collins AM, Love RJ, Jasni S, McOrist S. Attempted infection of mice, rats
+and chickens by porcine strains of Lawsonia intracellularis. Aust Vet J. 1999
+Feb;77(2):120-2. doi: 10.1111/j.1751-0813.1999.tb11680.x. PMID: 10078360.
+
+79: Yeh JY, Ga AR. Systemic cytokine response in pigs infected orally with a
+Lawsonia intracellularis isolate of South Korean origin. J Vet Med Sci. 2018 Jan
+1;80(1):13-19. doi: 10.1292/jvms.17-0036. Epub 2017 Nov 15. PMID: 29142159;
+PMCID: PMC5797853.
+
+80: Møller K, Jensen TK, Jorsal SE, Leser TD, Carstensen B. Detection of
+Lawsonia intracellularis, Serpulina hyodysenteriae, weakly beta-haemolytic
+intestinal spirochaetes, Salmonella enterica, and haemolytic Escherichia coli
+from swine herds with and without diarrhoea among growing pigs. Vet Microbiol.
+1998 Apr 30;62(1):59-72. doi: 10.1016/s0378-1135(98)00199-0. PMID: 9659692.
+
+81: Guedes RM, Gebhart CJ. Onset and duration of fecal shedding, cell-mediated
+and humoral immune responses in pigs after challenge with a pathogenic isolate
+or attenuated vaccine strain of Lawsonia intracellularis. Vet Microbiol. 2003
+Feb 2;91(2-3):135-45. doi: 10.1016/s0378-1135(02)00301-2. PMID: 12458163.
+
+82: Nogueira MG, Collins AM, Donahoo M, Emery D. Immunological responses to
+vaccination following experimental Lawsonia intracellularis virulent challenge
+in pigs. Vet Microbiol. 2013 May 31;164(1-2):131-8. doi:
+10.1016/j.vetmic.2013.02.004. Epub 2013 Feb 19. PMID: 23478250.
+
+83: Jordan DM, Knittel JP, Roof MB, Schwartz K, Larson D, Hoffman LJ. Detection
+of Lawsonia intracellularis in swine using polymerase chain reaction
+methodology. J Vet Diagn Invest. 1999 Jan;11(1):45-9. doi:
+10.1177/104063879901100107. PMID: 9925211.
+
+84: Brandt D, Kaim U, Baumgärtner W, Wendt M. Evaluation of Lawsonia
+intracellularis infection in a group of pigs in a subclinically affected herd
+from weaning to slaughter. Vet Microbiol. 2010 Dec 15;146(3-4):361-5. doi:
+10.1016/j.vetmic.2010.05.021. Epub 2010 May 15. PMID: 20605375.
+
+85: Yeh JY, Lee JH, Yeh HR, Kim A, Lee JY, Hwang JM, Kang BK, Kim JM, Choi IS,
+Lee JB. Antimicrobial susceptibility testing of two Lawsonia intracellularis
+isolates associated with proliferative hemorrhagic enteropathy and porcine
+intestinal adenomatosis in South Korea. Antimicrob Agents Chemother. 2011
+Sep;55(9):4451-3. doi: 10.1128/AAC.00408-11. Epub 2011 Jun 20. PMID: 21690283;
+PMCID: PMC3165349.
+
+86: Larsen I, Nielsen SS, Olsen JE, Nielsen JP. The efficacy of oxytetracycline
+treatment at batch, pen and individual level on Lawsonia intracellularis
+infection in nursery pigs in a randomised clinical trial. Prev Vet Med. 2016 Feb
+1;124:25-33. doi: 10.1016/j.prevetmed.2015.12.018. Epub 2015 Dec 30. PMID:
+26774445.
+
+87: Boutrup TS, Schauser K, Agerholm JS, Jensen TK. Application of a pig ligated
+intestinal loop model for early Lawsonia intracellularis infection. Acta Vet
+Scand. 2010 Feb 24;52(1):17. doi: 10.1186/1751-0147-52-17. PMID: 20181246;
+PMCID: PMC2843685.
+
+88: Ståhl M, Kokotovic B, Hjulsager CK, Breum SØ, Angen Ø. The use of
+quantitative PCR for identification and quantification of Brachyspira
+pilosicoli, Lawsonia intracellularis and Escherichia coli fimbrial types F4 and
+F18 in pig feces. Vet Microbiol. 2011 Aug 5;151(3-4):307-14. doi:
+10.1016/j.vetmic.2011.03.013. Epub 2011 Mar 25. PMID: 21530108.
+
+89: Nathues H, Oliveira CJ, Wurm M, Grosse Beilage E, Givisiez PE. Simultaneous
+detection of Brachyspira hyodysenteriae, Brachyspira pilosicoli and Lawsonia
+intracellularis in porcine faeces and tissue samples by multiplex-PCR. J Vet Med
+A Physiol Pathol Clin Med. 2007 Nov;54(9):532-8. doi:
+10.1111/j.1439-0442.2007.00995.x. PMID: 17931231.
+
+90: Phillips ND, La T, Adams PJ, Harland BL, Fenwick SG, Hampson DJ. Detection
+of Brachyspira hyodysenteriae, Lawsonia intracellularis and Brachyspira
+pilosicoli in feral pigs. Vet Microbiol. 2009 Mar 2;134(3-4):294-9. doi:
+10.1016/j.vetmic.2008.08.006. Epub 2008 Aug 22. PMID: 18818030.
+
+91: Nathues H, Holthaus K, grosse Beilage E. Quantification of Lawsonia
+intracellularis in porcine faeces by real-time PCR. J Appl Microbiol. 2009 Dec
+1;107(6):2009-16. doi: 10.1111/j.1365-2672.2009.04389.x. Epub 2009 May 20. PMID:
+19548889.
+
+92: Jacobson M, Wallgren P, Nordengrahn A, Merza M, Emanuelson U. Evaluation of
+a blocking ELISA for the detection of antibodies against Lawsonia
+intracellularis in pig sera. Acta Vet Scand. 2011 Apr 1;53(1):23. doi:
+10.1186/1751-0147-53-23. PMID: 21453555; PMCID: PMC3080824.
+
+93: Chang WL, Wu CF, Wu Y, Kao YM, Pan MJ. Prevalence of Lawsonia
+intracellularis in swine herds in Taiwan. Vet Rec. 1997 Jul 26;141(4):103-4.
+doi: 10.1136/vr.141.4.103. PMID: 9265712.
+
+94: Kim J, Choi C, Cho WS, Chae C. Immunohistochemistry and polymerase chain
+reaction for the detection of Lawsonia intracellularis in porcine intestinal
+tissues with proliferative enteropathy. J Vet Med Sci. 2000 Jul;62(7):771-3.
+doi: 10.1292/jvms.62.771. PMID: 10945299.
+
+95: Li Y, Wang J, Wang J, Liu L, Zhang R, Shi R, Han Q, Sun J, Yuan W. A real-
+time loop-mediated isothermal amplification method for rapid detection of
+Lawsonia intracellularis in porcine fecal samples. J Microbiol Methods. 2018
+Aug;151:62-65. doi: 10.1016/j.mimet.2018.06.002. Epub 2018 Jun 13. PMID:
+29908206.
+
+96: Jordan DM, Knittel JP, Schwartz KJ, Roof MB, Hoffman LJ. A Lawsonia
+intracellularis transmission study using a pure culture inoculated seeder-pig
+sentinel model. Vet Microbiol. 2004 Nov 30;104(1-2):83-90. doi:
+10.1016/j.vetmic.2004.09.004. Erratum in: Vet Microbiol. 2005 May
+20;107(3-4):313. Knitted, Jeffrey P [corrected to Knittel, Jeffrey P]. PMID:
+15530742.
+
+97: Collins AM, Barchia IM. The critical threshold of Lawsonia intracellularis
+in pig faeces that causes reduced average daily weight gains in experimentally
+challenged pigs. Vet Microbiol. 2014 Jan 31;168(2-4):455-8. doi:
+10.1016/j.vetmic.2013.12.003. Epub 2013 Dec 14. PMID: 24388631.
+
+98: McOrist S, Gebhart CJ, Bosworth BT. Evaluation of porcine ileum models of
+enterocyte infection by Lawsonia intracellularis. Can J Vet Res. 2006
+Apr;70(2):155-9. PMID: 16639950; PMCID: PMC1410719.
+
+99: Nogueira MG, Collins AM, Dunlop RH, Emery D. Effect of the route of
+administration on the mucosal and systemic immune responses to Lawsonia
+intracellularis vaccine in pigs. Aust Vet J. 2015 Apr;93(4):124-6. doi:
+10.1111/avj.12305. PMID: 25817978.
+
+100: Ren J, Li F, Yu X, Li Y, Li M, Sha Y, Li X. Development of a TaqMan-based
+multiplex real-time PCR for simultaneous detection of porcine epidemic diarrhea
+virus, <i>Brachyspira hyodysenteriae</i>, and <i>Lawsonia intracellularis</i>.
+Front Vet Sci. 2024 Aug 14;11:1450066. doi: 10.3389/fvets.2024.1450066. PMID:
+39205809; PMCID: PMC11349621.
+
+101: Larsen I, Hjulsager CK, Holm A, Olsen JE, Nielsen SS, Nielsen JP. A
+randomised clinical trial on the efficacy of oxytetracycline dose through water
+medication of nursery pigs on diarrhoea, faecal shedding of Lawsonia
+intracellularis and average daily weight gain. Prev Vet Med. 2016 Jan
+1;123:52-59. doi: 10.1016/j.prevetmed.2015.12.004. Epub 2015 Dec 14. PMID:
+26718056.
+
+102: Chouet S, Prieto C, Mieli L, Veenhuizen MF, McOrist S. Patterns of exposure
+to Lawsonia intracellularis infection on European pig farms. Vet Rec. 2003 Jan
+4;152(1):14-7. doi: 10.1136/vr.152.1.14. PMID: 12542268.
+
+103: Jensen TK, Boesen HT, Vigre H, Boye M. Detection of Lawsonia
+intracellularis in formalin-fixed porcine intestinal tissue samples: comparison
+of immunofluorescence and in-situ hybridization, and evaluation of the effects
+of controlled autolysis. J Comp Pathol. 2010 Jan;142(1):1-8. doi:
+10.1016/j.jcpa.2009.04.001. Epub 2009 Nov 11. PMID: 19909968.
+
+104: Bengtsson RJ, Wee BA, Yebra G, Bacigalupe R, Watson E, Guedes RMC, Jacobson
+M, Stadejek T, Archibald AL, Fitzgerald JR, Ait-Ali T. Metagenomic sequencing of
+clinical samples reveals a single widespread clone of <i>Lawsonia
+intracellularis</i> responsible for porcine proliferative enteropathy. Microb
+Genom. 2020 Apr;6(4):e000358. doi: 10.1099/mgen.0.000358. Epub 2020 Apr 2. PMID:
+32238228; PMCID: PMC7276710.
+
+105: Stege H, Jensen TK, Møller K, Vestergaard K, Baekbo P, Jorsal SE. Infection
+dynamics of Lawsonia intracellularis in pig herds. Vet Microbiol. 2004 Dec
+9;104(3-4):197-206. doi: 10.1016/j.vetmic.2004.09.015. PMID: 15564028.
+
+106: Guedes RM, Gebhart CJ. Comparison of intestinal mucosa homogenate and pure
+culture of the homologous Lawsonia intracellularis isolate in reproducing
+proliferative enteropathy in swine. Vet Microbiol. 2003 May 19;93(2):159-66.
+doi: 10.1016/s0378-1135(03)00013-0. PMID: 12637004.
+
+107: Joens LA, Nibbelink S, Glock RD. Induction of gross and microscopic lesions
+of porcine proliferative enteritis by Lawsonia intracellularis. Am J Vet Res.
+1997 Oct;58(10):1125-31. PMID: 9328666.
+
+108: La T, Collins AM, Phillips ND, Oksa A, Hampson DJ. Development of a
+multiplex-PCR for rapid detection of the enteric pathogens Lawsonia
+intracellularis, Brachyspira hyodysenteriae, and Brachyspira pilosicoli in
+porcine faeces. Lett Appl Microbiol. 2006 Mar;42(3):284-8. doi:
+10.1111/j.1472-765X.2005.01831.x. PMID: 16478518.
+
+109: McOrist S, Gebhart CJ, Boid R, Barns SM. Characterization of Lawsonia
+intracellularis gen. nov., sp. nov., the obligately intracellular bacterium of
+porcine proliferative enteropathy. Int J Syst Bacteriol. 1995 Oct;45(4):820-5.
+doi: 10.1099/00207713-45-4-820. PMID: 7547305.
+
+110: Le Bourgot C, Le Normand L, Formal M, Respondek F, Blat S, Apper E, Ferret-
+Bernard S, Le Huërou-Luron I. Maternal short-chain fructo-oligosaccharide
+supplementation increases intestinal cytokine secretion, goblet cell number,
+butyrate concentration and Lawsonia intracellularis humoral vaccine response in
+weaned pigs. Br J Nutr. 2017 Jan;117(1):83-92. doi: 10.1017/S0007114516004268.
+Epub 2017 Jan 24. PMID: 28115029.
+
+111: Knittel JP, Jordan DM, Schwartz KJ, Janke BH, Roof MB, McOrist S, Harris
+DL. Evaluation of antemortem polymerase chain reaction and serologic methods for
+detection of Lawsonia intracellularis-exposed pigs. Am J Vet Res. 1998
+Jun;59(6):722-6. PMID: 9622741.
+
+112: Barrera-Zarate JA, Andrade MR, Pereira CER, Vasconcellos A, Wagatsuma MM,
+Sato JPH, Daniel AGS, Rezende LA, Otoni LAV, Laub RP, Macedo NR, Costa CM,
+Haddad JPA, Guedes RMC. Oral fluid for detection of exposure to Lawsonia
+intracellularis in naturally infected pigs. Vet J. 2019 Feb;244:34-36. doi:
+10.1016/j.tvjl.2018.12.003. Epub 2018 Dec 7. PMID: 30825892.
+
+113: Boutrup TS, Boesen HT, Boye M, Agerholm JS, Jensen TK. Early pathogenesis
+in porcine proliferative enteropathy caused by Lawsonia intracellularis. J Comp
+Pathol. 2010 Aug-Oct;143(2-3):101-9. doi: 10.1016/j.jcpa.2010.01.006. Epub 2010
+Feb 18. PMID: 20167332.
+
+114: Pedersen KS, Pedersen KH, Hjulsager C, Larsen LE, Ståhl M, Stege H, Angen
+Ø, Nielsen JP. Within-day repeatability for absolute quantification of Lawsonia
+intracellularis bacteria in feces from growing pigs. J Vet Diagn Invest. 2012
+Sep;24(5):968-70. doi: 10.1177/1040638712452111. Epub 2012 Jul 11. PMID:
+22786973.
+
+115: Whitney MH, Shurson GC, Guedes RC. Effect of dietary inclusion of
+distillers dried grains with solubles, soybean hulls, or a polyclonal antibody
+product on the ability of growing pigs to resist a Lawsonia intracellularis
+challenge. J Anim Sci. 2006 Jul;84(7):1880-9. doi: 10.2527/jas.2004-578. PMID:
+16775072.
+
+116: Koyama T, Hirai T, Nagai S. In vitro cultivation and partial
+characterization of Lawsonia intracellularis from a Japanese field case of
+porcine proliferative enteropathy. J Vet Med Sci. 2006 Jun;68(6):609-13. doi:
+10.1292/jvms.68.609. PMID: 16820719.
+
+117: Lebret A, Auvigne V, Morel Saives A. Longitudinal evaluation of three
+commercial diagnostic assays for Lawsonia intracellularis infection in pigs. Vet
+Rec. 2013 Mar 30;172(13):341. doi: 10.1136/vr.100773. Epub 2013 Feb 21. PMID:
+23428424.
+
+118: Hagen B, Bilkei G. Seroprevalence of Lawsonia intracellularis in large pig
+production units. Acta Vet Hung. 2003;51(2):165-70. doi:
+10.1556/AVet.51.2003.2.4. PMID: 12737043.
+
+119: Lindecrona RH, Jensen TK, Andersen PH, Møller K. Application of a 5'
+nuclease assay for detection of Lawsonia intracellularis in fecal samples from
+pigs. J Clin Microbiol. 2002 Mar;40(3):984-7. doi:
+10.1128/JCM.40.3.984-987.2002. PMID: 11880427; PMCID: PMC120237.
+
+120: Leite FLL, Singer RS, Ward T, Gebhart CJ, Isaacson RE. Vaccination Against
+Lawsonia intracellularis Decreases Shedding of Salmonella enterica serovar
+Typhimurium in Co-Infected Pigs and Alters the Gut Microbiome. Sci Rep. 2018 Feb
+12;8(1):2857. doi: 10.1038/s41598-018-21255-7. PMID: 29434295; PMCID:
+PMC5809363.
+
+121: Guedes RM, Gebhart CJ. Evidence of cell-mediated immune response and
+specific local mucosal immunoglobulin (Ig) A production against Lawsonia
+intracellularis in experimentally infected swine. Can J Vet Res. 2010
+Apr;74(2):97-101. PMID: 20592838; PMCID: PMC2851731.
+
+122: Boye M, Jensen TK, Møller K, Leser TD, Jorsal SE. Specific detection of
+Lawsonia intracellularis in porcine proliferative enteropathy inferred from
+fluorescent rRNA in situ hybridization. Vet Pathol. 1998 Mar;35(2):153-6. doi:
+10.1177/030098589803500212. PMID: 9539372.
+
+123: Leite FL, Vasquez E, Vannucci FA, Gebhart CJ, Rendahl A, Torrison J,
+Mueller A, Winkelman NL, Rambo ZJ, Isaacson RE. The effects of zinc amino acid
+complex supplementation on the porcine host response to Lawsonia intracellularis
+infection. Vet Res. 2018 Sep 10;49(1):88. doi: 10.1186/s13567-018-0581-3. PMID:
+30201036; PMCID: PMC6131730.
+
+124: Reiner G, Hillen S, von Berg S, Kixmöller M, Willems H. Analysis of
+bacterial load and prevalence of mixed infections with Lawsonia intracellularis,
+Brachyspira hyodysenteriae and/or Brachyspira pilosicoli in German pigs with
+diarrhoea. Berl Munch Tierarztl Wochenschr. 2011 May-Jun;124(5-6):236-41. PMID:
+22059295.
+
+125: Almond PK, Bilkei G. Effects of oral vaccination against Lawsonia
+intracellularis on growing-finishing pig's performance in a pig production unit
+with endemic porcine proliferative enteropathy (PPE). Dtsch Tierarztl
+Wochenschr. 2006 Jun;113(6):232-5. PMID: 16856610.
+
+126: Willems H, Reiner G. A multiplex real-time PCR for the simultaneous
+detection and quantitation of Brachyspira hyodysenteriae, Brachyspira pilosicoli
+and Lawsonia intracellularis in pig faeces. Berl Munch Tierarztl Wochenschr.
+2010 May-Jun;123(5-6):205-9. PMID: 20496826.
+
+127: Pedersen KS, Johansen M, Jorsal SE, Nielsen JP, Bækbo P, Angen O. Pooling
+of porcine fecal samples for quantification of Lawsonia intracellularis by real-
+time polymerase chain reaction. J Vet Diagn Invest. 2014 May;26(3):342-345. doi:
+10.1177/1040638714524572. Epub 2014 Mar 12. PMID: 24621847.
+
+128: Pearce GP. Interactions between dietary fibre, endo-parasites and Lawsonia
+intracellularis bacteria in grower-finisher pigs. Vet Parasitol. 1999
+Nov;87(1):51-61. doi: 10.1016/s0304-4017(99)00157-0. PMID: 10628700.
+
+129: McOrist S, Smits RJ. Field evaluation of an oral attenuated Lawsonia
+intracellularis vaccine for porcine proliferative enteropathy (ileitis). Vet
+Rec. 2007 Jul 7;161(1):26-8. doi: 10.1136/vr.161.1.26. PMID: 17617542.
+
+130: Murakata K, Sato A, Yoshiya M, Kim S, Watarai M, Omata Y, Furuoka H.
+Infection of different strains of mice with Lawsonia intracellularis derived
+from rabbit or porcine proliferative enteropathy. J Comp Pathol. 2008
+Jul;139(1):8-15. doi: 10.1016/j.jcpa.2008.03.001. Epub 2008 May 13. PMID:
+18479698.
+
+131: Bona B, Bilkei G. The effect of outdoor production on the seroprevalence of
+Lawsonia intracellularis in growing-finishing pigs in a large pig production
+unit infected with endemic porcine proliferative enteropathy. Dtsch Tierarztl
+Wochenschr. 2003 Feb;110(2):73-5. PMID: 12666503.
+
+132: Marsteller T, Winkelman N, Gebhart C, Armbruster G, Weldon W, Muller PR,
+Weatherford PJ, Symanowski J. Efficacy of intramuscular tylosin for the
+treatment and control of porcine proliferative enteropathy caused by Lawsonia
+intracellularis. Vet Ther. 2001 Winter;2(1):51-60. PMID: 19753698.
+
+133: Elder RO, Duhamel GE, Mathiesen MR, Erickson ED, Gebhart CJ, Oberst RD.
+Multiplex polymerase chain reaction for simultaneous detection of Lawsonia
+intracellularis, Serpulina hyodysenteriae, and salmonellae in porcine intestinal
+specimens. J Vet Diagn Invest. 1997 Jul;9(3):281-6. doi:
+10.1177/104063879700900309. PMID: 9249167.
+
+134: Herbst W, Willems H, Baljer G. Verbreitung von Brachyspira hyodysenteriae
+und Lawsonia intracellularis bei gesunden und durchfallkranken Schweinen
+[Distribution of Brachyspira hyodysenteriae and Lawsonia intracellularis in
+healthy and diarrhoeic pigs]. Berl Munch Tierarztl Wochenschr. 2004 Nov-
+Dec;117(11-12):493-8. German. PMID: 15584431.
+
+135: Pedersen KS, Holyoake P, Stege H, Nielsen JP. Diagnostic performance of
+different fecal Lawsonia intracellularis-specific polymerase chain reaction
+assays as diagnostic tests for proliferative enteropathy in pigs: a review. J
+Vet Diagn Invest. 2010 Jul;22(4):487-94. doi: 10.1177/104063871002200401. PMID:
+20622217.
+
+136: Boesen HT, Jensen TK, Schmidt AS, Jensen BB, Jensen SM, Møller K. The
+influence of diet on Lawsonia intracellularis colonization in pigs upon
+experimental challenge. Vet Microbiol. 2004 Oct 5;103(1-2):35-45. doi:
+10.1016/j.vetmic.2004.06.008. PMID: 15381264.
+
+137: Jensen TK, Vigre H, Sørensen V, Møller K. Naturally acquired Lawsonia
+intracellularis infection in pigs studied from weaning to slaughter by indirect
+immunofluorescence antibody test and polymerase chain reaction on faeces. Res
+Vet Sci. 2005 Oct;79(2):93-8. doi: 10.1016/j.rvsc.2004.08.001. PMID: 15885725.
+
+138: Vannucci FA, Foster DN, Gebhart CJ. Laser microdissection coupled with RNA-
+seq analysis of porcine enterocytes infected with an obligate intracellular
+pathogen (Lawsonia intracellularis). BMC Genomics. 2013 Jun 24;14:421. doi:
+10.1186/1471-2164-14-421. PMID: 23800029; PMCID: PMC3718617.
+
+139: Huerta B, Arenas A, Carrasco L, Maldonado A, Tarradas C, Carbonero A, Perea
+A. Comparison of diagnostic techniques for porcine proliferative enteropathy
+(Lawsonia intracellularis infection). J Comp Pathol. 2003 Aug-
+Oct;129(2-3):179-85. doi: 10.1016/s0021-9975(03)00030-6. PMID: 12921724.
+
+140: Cooper DM, Swanson DL, Barns SM, Gebhart CJ. Comparison of the 16S
+ribosomal DNA sequences from the intracellular agents of proliferative enteritis
+in a hamster, deer, and ostrich with the sequence of a porcine isolate of
+Lawsonia intracellularis. Int J Syst Bacteriol. 1997 Jul;47(3):635-9. doi:
+10.1099/00207713-47-3-635. PMID: 9226893.
+
+141: Herbst W, Hertrampf B, Schmitt T, Weiss R, Baljer G. Diagnostik von
+Lawsonia intracellularis mittels Polymerasekettenreaktion (PCR) bei Schweinen
+mit und ohne Diarrhoe und anderen Tierarten [Diagnosis of Lawsonia
+intracellularis using the polymerase chain reaction (PCR) in pigs with and
+without diarrhea and other animal species]. Dtsch Tierarztl Wochenschr. 2003
+Sep;110(9):361-4. German. PMID: 14560442.
+
+142: Ladinig A, Sommerfeld-Stur I, Weissenböck H. Comparative evaluation of
+diagnostic methods for Lawsonia intracellularis infection in pigs, with emphasis
+on cases lacking characteristic lesions. J Comp Pathol. 2009 Feb-
+Apr;140(2-3):140-8. doi: 10.1016/j.jcpa.2008.09.011. Epub 2008 Dec 23. PMID:
+19108850.
+
+143: Whitney MH, Shurson GC, Guedes RC. Effect of dietary inclusion of
+distillers dried grains with solubles on the ability of growing pigs to resist a
+Lawsonia intracellularis challenge. J Anim Sci. 2006 Jul;84(7):1860-9. doi:
+10.2527/jas.2004-574. PMID: 16775070.
+
+144: Biksi I, Kacskovics I, Mándoki M, Iván J, Horváth-Papp I, Makay G, Vetési
+F. Detection of Lawsonia intracellularis in Hungarian swine herds by polymerase
+chain reaction. Acta Vet Hung. 1998;46(4):415-20. PMID: 9713142.
+
+145: Kroll JJ, Roof MB, McOrist S. Evaluation of protective immunity in pigs
+following oral administration of an avirulent live vaccine of Lawsonia
+intracellularis. Am J Vet Res. 2004 May;65(5):559-65. doi:
+10.2460/ajvr.2004.65.559. PMID: 15141873.
+
+146: Kim O, Kim B, Chae C. Prevalence of Lawsonia intracellularis in selected
+pig herds in Korea as determined by PCR. Vet Rec. 1998 Nov 21;143(21):587-9.
+doi: 10.1136/vr.143.21.587. PMID: 9854771.
+
+147: Nishikawa S, Ogawa Y, Eguchi M, Rambukkana A, Shimoji Y. Draft Genome
+Sequences of Lawsonia intracellularis Swine Strains Causing Proliferative
+Enteropathy in Japan. Microbiol Resour Announc. 2018 Sep 6;7(9):e01021-18. doi:
+10.1128/MRA.01021-18. PMID: 30533927; PMCID: PMC6256519.
+
+148: Kroll JJ, Eichmeyer MA, Schaeffer ML, McOrist S, Harris DL, Roof MB.
+Lipopolysaccharide-based enzyme-linked immunosorbent assay for experimental use
+in detection of antibodies to Lawsonia intracellularis in pigs. Clin Diagn Lab
+Immunol. 2005 Jun;12(6):693-9. doi: 10.1128/CDLI.12.6.693-699.2005. PMID:
+15939742; PMCID: PMC1151981.
+
+149: Richter B, Ladinig A, Nedorost N, Weissenböck H. A TaqMan quantitative
+polymerase chain reaction assay for the detection of Lawsonia intracellularis in
+fecal and tissue samples from pigs. J Vet Diagn Invest. 2010 Jan;22(1):70-3.
+doi: 10.1177/104063871002200112. PMID: 20093686.
+
+150: Jacobson M, Råsbäck T, Flöistrup H, Benz M, Braun-Fahrländer C, Riedler J,
+Schram-Bijkerk D, Fellström C. Survey on the occurrence of Brachyspira species
+and Lawsonia intracellularis in children living on pig farms. Epidemiol Infect.
+2007 Aug;135(6):1043-5. doi: 10.1017/S0950268806007606. Epub 2006 Nov 30. PMID:
+17134531; PMCID: PMC2870646.
+
+151: Meschede J, Holtrup S, Deitmer R, Mesu AP, Kraft C. Reduction of
+<i>Salmonella</i> prevalence at slaughter in <i>Lawsonia intracellularis</i> co-
+infected swine herds by Enterisol® Ileitis vaccination. Heliyon. 2021 Apr
+14;7(4):e06714. doi: 10.1016/j.heliyon.2021.e06714. PMID: 33912707; PMCID:
+PMC8066352.
+
+152: Class M, Bilkei G. Seroprevalence of antibodies against Lawsonia
+intracellularis among growing pigs raised in indoor versus outdoor units. J Am
+Vet Med Assoc. 2004 Dec 15;225(12):1905-7. doi: 10.2460/javma.2004.225.1905.
+PMID: 15643842.
+
+153: Pedersen KS, Stege H, Jensen TK, Guedes R, Ståhl M, Nielsen JP, Hjulsager
+C, Larsen LE, Angen Ø. Diagnostic performance of fecal quantitative real-time
+polymerase chain reaction for detection of Lawsonia intracellularis-associated
+proliferative enteropathy in nursery pigs. J Vet Diagn Invest. 2013
+May;25(3):336-40. doi: 10.1177/1040638713480499. Epub 2013 Mar 27. PMID:
+23536614.
+
+154: Suh DK, Song JC. Simultaneous detection of Lawsonia intracellularis,
+Brachyspira hyodysenteriae and Salmonella spp. in swine intestinal specimens by
+multiplex polymerase chain reaction. J Vet Sci. 2005 Sep;6(3):231-7. PMID:
+16131827.
+
+155: Collins A, Gonsalves J, Fell S, Barchia I. Comparison of a commercial ELISA
+with an indirect fluorescent antibody test to detect antibodies to Lawsonia
+intracellularis in experimentally challenged pigs. Aust Vet J. 2012
+Mar;90(3):97-9. doi: 10.1111/j.1751-0813.2011.00865.x. PMID: 22339121.
+
+156: Riber U, Boesen HT, Jakobsen JT, Nguyen LT, Jungersen G. Co-incubation with
+IL-18 potentiates antigen-specific IFN-γ response in a whole-blood stimulation
+assay for measurement of cell-mediated immune responses in pigs experimentally
+infected with Lawsonia intracellularis. Vet Immunol Immunopathol. 2011 Feb
+15;139(2-4):257-63. doi: 10.1016/j.vetimm.2010.09.001. Epub 2010 Sep 21. PMID:
+20889217.
+
+157: Draskovic V, Bosnjak-Neumuller J, Vasiljevic M, Petrujkic B, Aleksic N,
+Kukolj V, Stanimirovic Z. Corrigendum to "Influence of phytogenic feed additive
+on Lawsonia intracellularis infection in pigs" [Preventive Vet. Med. (151)
+46-51]. Prev Vet Med. 2018 Jun 1;154:29. doi: 10.1016/j.prevetmed.2018.03.007.
+Epub 2018 Apr 5. Erratum for: Prev Vet Med. 2018 Mar 1;151:46-51. doi:
+10.1016/j.prevetmed.2018.01.002. PMID: 29685442.
+
+158: Zhang P, Gebhart CJ, Burden D, Duhamel GE. Improved diagnosis of porcine
+proliferative enteropathy caused by Lawsonia intracellularis using polymerase
+chain reaction-enzyme-linked oligosorbent assay (PCR-ELOSA). Mol Cell Probes.
+2000 Apr;14(2):101-8. doi: 10.1006/mcpr.2000.0296. PMID: 10799271.
+
+159: Tomanová K, Barták P, Smola J. Detection of Lawsonia intracellularis in
+wild pigs in the Czech Republic. Vet Rec. 2002 Dec 21-28;151(25):765-7. PMID:
+12521249.

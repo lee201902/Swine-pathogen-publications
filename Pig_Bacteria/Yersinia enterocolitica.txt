@@ -1,0 +1,159 @@
+1: Platt-Samoraj A, Żmudzki J, Pajdak-Czaus J, Szczerba-Turek A, Bancerz-Kisiel
+A, Procajło Z, Łabuć S, Szweda W. The Prevalence of <i>Yersinia
+enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> in Small Wild Rodents
+in Poland. Vector Borne Zoonotic Dis. 2020 Aug;20(8):586-592. doi:
+10.1089/vbz.2019.2586. Epub 2020 Apr 28. PMID: 32349633.
+
+2: Terentjeva M, Ķibilds J, Gradovska S, Alksne L, Streikiša M, Meistere I,
+Valciņa O. Prevalence, virulence determinants, and genetic diversity in Yersinia
+enterocolitica isolated from slaughtered pigs and pig carcasses. Int J Food
+Microbiol. 2022 Sep 2;376:109756. doi: 10.1016/j.ijfoodmicro.2022.109756. Epub
+2022 May 28. PMID: 35661554.
+
+3: Yue Y, Zheng J, Sheng M, Liu X, Hao Q, Zhang S, Xu S, Liu Z, Hou X, Jing H,
+Liu Y, Zhou X, Li Z. Public health implications of Yersinia enterocolitica
+investigation: an ecological modeling and molecular epidemiology study. Infect
+Dis Poverty. 2023 Apr 21;12(1):41. doi: 10.1186/s40249-023-01063-6. PMID:
+37085902; PMCID: PMC10120104.
+
+4: Yue Y, Shen M, Liu X, Hao Q, Kang Y, Che Y, Li F, Chen S, Xu S, Jing H, Li
+ZJ, Zhou XZ. Whole-genome sequencing-based prediction and analysis of
+antimicrobial resistance in <i>Yersinia enterocolitica</i> from Ningxia, China.
+Front Microbiol. 2022 Jul 22;13:936425. doi: 10.3389/fmicb.2022.936425. PMID:
+35942314; PMCID: PMC9356307.
+
+5: Zdolec N, Kiš M, Jankuloski D, Blagoevska K, Kazazić S, Pavlak M, Blagojević
+B, Antić D, Fredriksson-Ahomaa M, Pažin V. Prevalence and Persistence of
+Multidrug-Resistant <i>Yersinia enterocolitica</i> 4/O:3 in Tonsils of Slaughter
+Pigs from Different Housing Systems in Croatia. Foods. 2022 May 18;11(10):1459.
+doi: 10.3390/foods11101459. PMID: 35627029; PMCID: PMC9140555.
+
+6: Bonardi S, Brémont S, Vismarra A, Poli I, Diegoli G, Bolzoni L, Corradi M,
+Gilioli S, Le Guern AS. Is Yersinia bercovieri Surpassing Yersinia
+enterocolitica in Wild Boars (Sus scrofa)? Ecohealth. 2020 Sep;17(3):388-392.
+doi: 10.1007/s10393-020-01492-x. Epub 2020 Oct 15. PMID: 33057833.
+
+7: Nguyen SV, Muthappa DM, Eshwar AK, Buckley JF, Murphy BP, Stephan R, Lehner
+A, Fanning S. Comparative genomic insights into <i>Yersinia hibernica</i> - a
+commonly misidentified <i>Yersinia enterocolitica</i>-like organism. Microb
+Genom. 2020 Sep;6(9):mgen000411. doi: 10.1099/mgen.0.000411. Epub 2020 Jul 23.
+PMID: 32701425; PMCID: PMC7643974.
+
+8: Angelovska M, Zaharieva MM, Dimitrova LL, Dimova T, Gotova I, Urshev Z,
+Ilieva Y, Kaleva MD, Kim TC, Naydenska S, Dimitrov Z, Najdenski H. Prevalence,
+Genetic Homogeneity, and Antibiotic Resistance of Pathogenic <i>Yersinia
+enterocolitica</i> Strains Isolated from Slaughtered Pigs in Bulgaria.
+Antibiotics (Basel). 2023 Apr 6;12(4):716. doi: 10.3390/antibiotics12040716.
+PMID: 37107078; PMCID: PMC10134977.
+
+9: Reichel J, Kehrenberg C, Krischek C. Inactivation of Yersinia enterocolitica
+and Brochothrix thermosphacta on pork by UV-C irradiation. Meat Sci. 2019
+Dec;158:107909. doi: 10.1016/j.meatsci.2019.107909. Epub 2019 Aug 7. PMID:
+31415919.
+
+10: Hulankova R. Higher Resistance of <i>Yersinia enterocolitica</i> in
+Comparison to <i>Yersinia pseudotuberculosis</i> to Antibiotics and Cinnamon,
+Oregano and Thyme Essential Oils. Pathogens. 2022 Dec 1;11(12):1456. doi:
+10.3390/pathogens11121456. PMID: 36558790; PMCID: PMC9784965.
+
+11: Tian L, Fu J, Wu M, Liao S, Jia X, Wang J, Yang S, Liu Z, Liu Z, Xue Z, Wang
+Y, Li H, Gong G. Evaluation of gallic acid on membrane damage of Yersinia
+enterocolitica and its application as a food preservative in pork. Int J Food
+Microbiol. 2022 Aug 2;374:109720. doi: 10.1016/j.ijfoodmicro.2022.109720. Epub
+2022 May 13. PMID: 35617741.
+
+12: Pegoraro K, Sereno MJ, Viana C, Martins BTF, Yamatogi RS, Nero LA, Bersot
+LDS. Pathogenic potential and antibiotic resistance of Yersinia enterocolitica,
+a foodborne pathogen limited to swine tonsils in a pork production chain from
+Southern Brazil. Braz J Microbiol. 2021 Dec;52(4):2335-2342. doi:
+10.1007/s42770-021-00591-3. Epub 2021 Aug 18. PMID: 34406639; PMCID: PMC8578270.
+
+13: Esnault E, Rouaud A, Labbé A, Houdayer C, Bailly Y, Houard E, Bougeard S,
+Paboeuf F, Eterradossi N, Chemaly M, Denis M. Controlled Experimental Infection
+in Pigs with a Strain of Yersinia enterocolitica Harboring Genetic Markers for
+Human Pathogenicity: Colonization and Stability. Infect Immun. 2023 Jul
+18;91(7):e0015723. doi: 10.1128/iai.00157-23. Epub 2023 May 31. PMID: 37255474;
+PMCID: PMC10353419.
+
+14: Koskinen J, Keto-Timonen R, Virtanen S, Vilar MJ, Korkeala H. Prevalence and
+Dynamics of Pathogenic <i>Yersinia enterocolitica</i> 4/O:3 Among Finnish
+Piglets, Fattening Pigs, and Sows. Foodborne Pathog Dis. 2019
+Dec;16(12):831-839. doi: 10.1089/fpd.2019.2632. Epub 2019 Jul 29. PMID:
+31355682.
+
+15: Martins BTF, Meirelles JL, Omori WP, Oliveira RR, Yamatogi RS, Call DR, Nero
+LA. Comparative genomics and antibiotic resistance of Yersinia enterocolitica
+obtained from a pork production chain and human clinical cases in Brazil. Food
+Res Int. 2022 Feb;152:110917. doi: 10.1016/j.foodres.2021.110917. Epub 2021 Dec
+23. PMID: 35181088.
+
+16: Arsić M, Vićić I, Galić N, Dmitrić M, Kureljušić J, Dimitrijević M, Petrović
+M, Šarić L, Karabasil N. Risk factors and the overall characterization of
+Yersinia enterocolitica as an initial model of pathogen surveillance in the pig
+production system in Serbia. Res Vet Sci. 2022 Dec 20;152:167-174. doi:
+10.1016/j.rvsc.2022.08.007. Epub 2022 Aug 10. PMID: 35987101.
+
+17: Koskinen J, Ortiz-Martínez P, Keto-Timonen R, Joutsen S, Fredriksson-Ahomaa
+M, Korkeala H. Prudent Antimicrobial Use Is Essential to Prevent the Emergence
+of Antimicrobial Resistance in <i>Yersinia enterocolitica</i> 4/O:3 Strains in
+Pigs. Front Microbiol. 2022 Mar 10;13:841841. doi: 10.3389/fmicb.2022.841841.
+PMID: 35369517; PMCID: PMC8967395.
+
+18: Touloudi A, McGiven J, Cawthraw S, Valiakos G, Kostoulas P, Duncombe L,
+Gortázar C, Boadella M, Sofia M, Athanasakopoulou Z, Chatzopoulos DC, Spyrou V,
+Petrovska L, Billinis C. Development of a Multiplex Bead Assay to Detect
+Serological Responses to <i>Brucella</i> Species in Domestic Pigs and Wild Boar
+with the Potential to Overcome Cross-Reactivity with <i>Yersinia
+enterocolitica</i> O:9. Microorganisms. 2022 Jul 6;10(7):1362. doi:
+10.3390/microorganisms10071362. PMID: 35889081; PMCID: PMC9324436.
+
+19: Peruzy MF, Aponte M, Proroga YTR, Capuano F, Cristiano D, Delibato E, Houf
+K, Murru N. Yersinia enterocolitica detection in pork products: Evaluation of
+isolation protocols. Food Microbiol. 2020 Dec;92:103593. doi:
+10.1016/j.fm.2020.103593. Epub 2020 Jul 5. PMID: 32950135.
+
+20: Tian L, Wang X, Zhang D, Wu M, Xue Z, Liu Z, Yang S, Li H, Gong G.
+Evaluation of the membrane damage mechanism of protocatechualdehyde against
+Yersinia enterocolitica and simulation of growth inhibition in pork. Food Chem.
+2021 Nov 30;363:130340. doi: 10.1016/j.foodchem.2021.130340. Epub 2021 Jun 9.
+Erratum in: Food Chem. 2022 Mar 30;373(Pt A):131203. doi:
+10.1016/j.foodchem.2021.131203. PMID: 34144416.
+
+21: Grabowska-Grucza K, Bancerz-Kisiel A. Comparison of <i>Yersinia
+enterocolitica</i> DNA Isolation from Swabs Without Pre-Enrichment on Selective
+Media With Isolation Preceded by Warm and Cold Enrichment. Foodborne Pathog Dis.
+2022 Jul;19(7):505-507. doi: 10.1089/fpd.2021.0074. Epub 2022 Feb 16. PMID:
+35172117.
+
+22: Razzuoli E, Vencia W, Modesto P, Franzoni G, Giudici SD, Parisi E, Ferrari
+A, Amadori M. Yersinia enterocolitica-specific modulation of innate immune
+responses in jejunal epithelial cells. Vet Microbiol. 2020 Mar;242:108596. doi:
+10.1016/j.vetmic.2020.108596. Epub 2020 Jan 24. PMID: 32122600.
+
+23: Martins BTF, Azevedo EC, Yamatogi RS, Call DR, Nero LA. Persistence of
+Yersinia enterocolitica bio-serotype 4/O:3 in a pork production chain in Minas
+Gerais, Brazil. Food Microbiol. 2021 Apr;94:103660. doi:
+10.1016/j.fm.2020.103660. Epub 2020 Oct 22. PMID: 33279085.
+
+24: Filik K, Szermer-Olearnik B, Niedziółka-Jönson J, Roźniecka E, Ciekot J,
+Pyra A, Matyjaszczyk I, Skurnik M, Brzozowska E. φYeO3-12 phage tail fiber Gp17
+as a promising high specific tool for recognition of Yersinia enterocolitica
+pathogenic serotype O:3. AMB Express. 2022 Jan 6;12(1):1. doi:
+10.1186/s13568-021-01341-2. PMID: 34989907; PMCID: PMC8739404.
+
+25: Chen C, Dai Y, Yang Y, Zhu Z, Zhang Q, An X, Lai F. Lawsonia intracellularis
+LI0666 is a new EPIYA effector exported by the Yersinia enterocolitica type III
+secretion system. Vet Res. 2022 Jun 4;53(1):39. doi: 10.1186/s13567-022-01054-9.
+PMID: 35659762; PMCID: PMC9167531.
+
+26: Imnadze T, Natradze I, Zhgenti E, Malania L, Abazashvili N, Sidamonidze K,
+Khmaladze E, Zakalashvili M, Imnadze P, Arner RJ, Motin V, Kosoy M.
+Identification of a Novel <i>Yersinia enterocolitica</i> Strain from Bats in
+Association with a Bat Die-Off That Occurred in Georgia (Caucasus).
+Microorganisms. 2020 Jul 4;8(7):1000. doi: 10.3390/microorganisms8071000. PMID:
+32635480; PMCID: PMC7409352.
+
+27: Martrenchar P, Samargandi R. Total Hip Arthroplasty Infection Due to
+<i>Yersinia enterocolitica</i>: Report of Two Cases and Comprehensive Review of
+the Literature. J Orthop Case Rep. 2024 Aug;14(8):55-60. doi:
+10.13107/jocr.2024.v14.i08.4644. PMID: 39157498; PMCID: PMC11327687.

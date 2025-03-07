@@ -1,0 +1,119 @@
+1: Barton P, Robinson N, Middleton S, O'Brien A, Clarke J, Dominguez M, Gillgan
+S, Selmes J, Rhodes S. Evaluation of Antibody Tests for <i>Mycobacterium
+bovis</i> Infection in Pigs and Deer. Vet Sci. 2023 Jul 27;10(8):489. doi:
+10.3390/vetsci10080489. PMID: 37624276; PMCID: PMC10458400.
+
+2: Niroula N, Lim ZL, Walker S, Huang Y, Gerdts V, Zriba S, Drever K, Chen JM.
+Domestic pigs experimentally infected with Mycobacterium bovis and Mycobacterium
+tuberculosis exhibit different disease outcomes. Tuberculosis (Edinb). 2022
+Mar;133:102167. doi: 10.1016/j.tube.2022.102167. Epub 2022 Jan 20. PMID:
+35151010.
+
+3: Vaz-Rodrigues R, Ferreras-Colino E, Ugarte-Ruíz M, Pesciaroli M, Thomas J,
+García-Seco T, Sevilla IA, Pérez-Sancho M, Mateo R, Domínguez L, Gortazar C,
+Risalde MA. Nonspecific protection of heat-inactivated Mycobacterium bovis
+against Salmonella Choleraesuis infection in pigs. Vet Res. 2022 Apr
+18;53(1):31. doi: 10.1186/s13567-022-01047-8. PMID: 35436975; PMCID: PMC9014587.
+
+4: Sridhara AA, Johnathan-Lee A, Elahi R, Risalde MA, Gortazar C, Ray Waters W,
+Lyashchenko KP, Miller MA. Strong antibody responses to Mycobacterium bovis
+infection in domestic pigs and potential for reliable serodiagnostics. Vet
+Immunol Immunopathol. 2021 Jan;231:110161. doi: 10.1016/j.vetimm.2020.110161.
+Epub 2020 Nov 19. PMID: 33276278.
+
+5: Marianelli C, Verrubbi V, Pruiti Ciarello F, Ippolito D, Pacciarini ML, Di
+Marco Lo Presti V. Geo-epidemiology of animal tuberculosis and <i>Mycobacterium
+bovis</i> genotypes in livestock in a small, high-incidence area in Sicily,
+Italy. Front Microbiol. 2023 Mar 17;14:1107396. doi: 10.3389/fmicb.2023.1107396.
+PMID: 37007490; PMCID: PMC10063800.
+
+6: Tkachenko O, Kozak N, Bilan M, Hlebeniuk V, Alekseeva N, Kovaleva L,
+Nedosekov V, Galatiuk O. The Effect of Long-Term Storage on <i>Mycobacterium
+bovis</i>. Pol J Microbiol. 2021 Sep;70(3):327-337. doi: 10.33073/pjm-2021-031.
+Epub 2021 Sep 17. PMID: 34584527; PMCID: PMC8459005.
+
+7: Kim TW, Jang YH, Jeong MK, Seo Y, Park CH, Kang S, Lee YJ, Choi JS, Yoon SS,
+Kim JM. Single-nucleotide polymorphism-based epidemiological analysis of Korean
+<i>Mycobacterium bovis</i> isolates. J Vet Sci. 2021 Mar;22(2):e24. doi:
+10.4142/jvs.2021.22.e24. PMID: 33774940; PMCID: PMC8007439.
+
+8: Ippolito D, Boniotti MB, Fiasconaro M, Fontana S, Boifava M, Pruiti Ciarello
+F, Amato B, Pacciarini M, Di Marco Lo Presti V. Development and evaluation of a
+multi-antigen serological assay for the intra-vitam diagnosis of Tuberculosis
+caused by Mycobacterium bovis in pigs. J Immunol Methods. 2022 Apr;503:113234.
+doi: 10.1016/j.jim.2022.113234. Epub 2022 Feb 8. PMID: 35149055.
+
+9: Pereira AC, Reis AC, Cunha MV. Genomic epidemiology sheds light on the
+emergence and spread of <i>Mycobacterium bovis</i> Eu2 Clonal Complex in
+Portugal. Emerg Microbes Infect. 2023 Dec;12(2):2253340. doi:
+10.1080/22221751.2023.2253340. PMID: 37640285; PMCID: PMC10484045.
+
+10: Perea C, Ciaravino G, Stuber T, Thacker TC, Robbe-Austerman S, Allepuz A,
+Val BP. Whole-Genome SNP Analysis Identifies Putative <i>Mycobacterium bovis</i>
+Transmission Clusters in Livestock and Wildlife in Catalonia, Spain.
+Microorganisms. 2021 Jul 30;9(8):1629. doi: 10.3390/microorganisms9081629. PMID:
+34442709; PMCID: PMC8401651.
+
+11: Nol P, Wehtje ME, Bowen RA, Robbe-Austerman S, Thacker TC, Lantz K, Rhyan
+JC, Baeten LA, Juste RA, Sevilla IA, Gortázar C, Vicente J. Effects of
+Inactivated <i>Mycobacterium bovis</i> Vaccination on Molokai-Origin Wild Pigs
+Experimentally Infected with Virulent <i>M. bovis</i>. Pathogens. 2020 Mar
+7;9(3):199. doi: 10.3390/pathogens9030199. PMID: 32156028; PMCID: PMC7157231.
+
+12: Neiffer D, Hewlett J, Buss P, Rossouw L, Hausler G, deKlerk-Lorist LM, Roos
+E, Olea-Popelka F, Lubisi B, Heath L, Miller M. ANTIBODY PREVALENCE TO AFRICAN
+SWINE FEVER VIRUS, MYCOBACTERIUM BOVIS, FOOT-AND-MOUTH DISEASE VIRUS, RIFT
+VALLEY FEVER VIRUS, INFLUENZA A VIRUS, AND BRUCELLA AND LEPTOSPIRA SPP. IN FREE-
+RANGING WARTHOG (PHACOCHOERUS AFRICANUS) POPULATIONS IN SOUTH AFRICA. J Wildl
+Dis. 2021 Jan 6;57(1):60-70. doi: 10.7589/JWD-D-20-00011. PMID: 33635986.
+
+13: Lopes BC, Vidaletti MR, Loiko MR, Andrade JDS, Maciel ALG, Doyle RL,
+Bertagnolli AC, Rodrigues RO, Driemeier D, Mayer FQ. Investigation of
+Mycobacterium bovis and Metastrongylus sp. co-infection and its relationship to
+tuberculosis lesions' occurrence in wild boars. Comp Immunol Microbiol Infect
+Dis. 2021 Aug;77:101674. doi: 10.1016/j.cimid.2021.101674. Epub 2021 May 24.
+PMID: 34051650.
+
+14: Pereira AC, Lourenço J, Themudo G, Botelho A, Cunha MV. Population structure
+and history of <i>Mycobacterium bovis</i> European 3 clonal complex reveal
+transmission across ecological corridors of unrecognized importance in Portugal.
+Microbiol Spectr. 2024 Jul 2;12(7):e0382923. doi: 10.1128/spectrum.03829-23.
+Epub 2024 May 21. PMID: 38771094; PMCID: PMC11218495.
+
+15: Bigi M, Vazquez CL, Castelão ABC, García EA, Cataldi AA, Jackson M, McNeil
+M, Soria M, Zumárraga MJ, Cabruja M, Gago G, Blanco FC, Nishibe C, Almeida NF,
+de Araújo FR, Bigi F. Analysing nonsynonymous mutations between two
+Mycobacterium bovis strains with contrasting pathogenic profiles. Vet Microbiol.
+2019 Dec;239:108482. doi: 10.1016/j.vetmic.2019.108482. Epub 2019 Nov 4. PMID:
+31759775.
+
+16: Reis AC, Tenreiro R, Albuquerque T, Botelho A, Cunha MV. Long-term molecular
+surveillance provides clues on a cattle origin for Mycobacterium bovis in
+Portugal. Sci Rep. 2020 Nov 30;10(1):20856. doi: 10.1038/s41598-020-77713-8.
+Erratum in: Sci Rep. 2021 Mar 24;11(1):7140. doi: 10.1038/s41598-021-86047-y.
+PMID: 33257726; PMCID: PMC7705689.
+
+17: Scaltriti E, Iyad K, Boniotti MB, Menozzi I, Bolzoni L, Ippolito D, Ciarello
+FP, Loda D, D'Incau M, Zanoni M, Presti VDML, Mazzone P, Gavaudan S, Pacciarini
+ML. Inside <i>Mycobacterium bovis</i> SB0120 spoligotype circulating in Italy:
+analysis of the most frequent genotypes by whole genome sequencing. Front
+Microbiol. 2024 Jul 26;15:1416605. doi: 10.3389/fmicb.2024.1416605. PMID:
+39132144; PMCID: PMC11310128.
+
+18: Ortega J, Infantes-Lorenzo JA, Bezos J, Roy Á, de Juan L, Romero B, Moreno
+I, Gómez-Buendía A, Agulló-Ros I, Domínguez L, Domínguez M. Evaluation of P22
+ELISA for the Detection of <i>Mycobacterium bovis</i>-Specific Antibody in the
+Oral Fluid of Goats. Front Vet Sci. 2021 Aug 11;8:674636. doi:
+10.3389/fvets.2021.674636. PMID: 34458351; PMCID: PMC8385241.
+
+19: Gonciarz W, Brzeziński M, Orłowska W, Wawrzyniak P, Lewandowski A, Narayanan
+VHB, Chmiela M. Spray-dried pH-sensitive chitosan microparticles loaded with
+Mycobacterium bovis BCG intended for supporting treatment of Helicobacter pylori
+infection. Sci Rep. 2024 Feb 27;14(1):4747. doi: 10.1038/s41598-024-55353-6.
+PMID: 38413775; PMCID: PMC10899647.
+
+20: Galvagno MI, Donato ML, Buscio M, Aguirre J, Pérez G, Ceballos V, Arpí L.
+Infección por Mycobacterium bovis en una adolescente con síndrome febril
+prolongado [Mycobacterium bovis infection in an adolescent with prolonged
+febrile syndrome]. Arch Argent Pediatr. 2021 Oct;119(5):e522-e525. Spanish. doi:
+10.5546/aap.2021.e522. PMID: 34569755.

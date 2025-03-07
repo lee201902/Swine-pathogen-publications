@@ -1,0 +1,63 @@
+1: Wang H, Wang X, Cao Y, Chen Y, Zou Z, Lu X, Shan F, Tu J, Liu J, Liu J, Sa J,
+Zhou N, Peng S-M, Zou J-J, Shen X, Zhai J, Chen Z, Holmes EC, Chen W, Shen Y.
+Identification of <i>Corynebacterium ulcerans</i> and <i>Erysipelothrix</i> sp.
+in Malayan pangolins-a potential threat to public health? mSphere. 2024 Oct
+29;9(10):e0055124. doi: 10.1128/msphere.00551-24. Epub 2024 Sep 30. PMID:
+39345123; PMCID: PMC11520285.
+
+2: Contzen M, Sting R, Blazey B, Rau J. Corynebacterium ulcerans from diseased
+wild boars. Zoonoses Public Health. 2011 Nov;58(7):479-88. doi:
+10.1111/j.1863-2378.2011.01396.x. Epub 2011 Feb 15. PMID: 21824349.
+
+3: May BD. Corynebacterium ulcerans infections in monkeys. Lab Anim Sci. 1972
+Aug;22(4):509-13. PMID: 4340291.
+
+4: Derendiaeva TN, Kostiukova NN. Corynebacterium ulcerans i ego biologicheskie
+svoĭstva [Corynebacterium ulcerans and its biological properties]. Zh Mikrobiol
+Epidemiol Immunobiol. 1980 Sep;(9):3-8. Russian. PMID: 7004030.
+
+5: Schuhegger R, Schoerner C, Dlugaiczyk J, Lichtenfeld I, Trouillier A, Zeller-
+Peronnet V, Busch U, Berger A, Kugler R, Hörmansdorfer S, Sing A. Pigs as source
+for toxigenic Corynebacterium ulcerans. Emerg Infect Dis. 2009 Aug;15(8):1314-5.
+doi: 10.3201/eid1508.081568. PMID: 19751602; PMCID: PMC2815964.
+
+6: Busch A, Möller J, Burkovski A, Hotzel H. Genome sequence of a pathogenic
+Corynebacterium ulcerans strain isolated from a wild boar with necrotizing
+lymphadenitis. BMC Res Notes. 2019 Oct 25;12(1):692. doi:
+10.1186/s13104-019-4704-3. PMID: 31653224; PMCID: PMC6815020.
+
+7: Rau J, Eisenberg T, Peters M, Berger A, Kutzer P, Lassnig H, Hotzel H, Sing
+A, Sting R, Contzen M. Reliable differentiation of a non-toxigenic tox gene-
+bearing Corynebacterium ulcerans variant frequently isolated from game animals
+using MALDI-TOF MS. Vet Microbiol. 2019 Oct;237:108399. doi:
+10.1016/j.vetmic.2019.108399. Epub 2019 Aug 23. PMID: 31585651.
+
+8: Vertiev YuV, Ezepchuk YuV, Souckova A, Soucek A. Purification and some
+properties of exotoxin from Corynebacterium ulcerans strain ATCC 9015. Zentralbl
+Bakteriol Mikrobiol Hyg A Med Mikrobiol Infekt Parasitol. 1981;249(4):527-37.
+PMID: 7198352.
+
+9: Abrehem K, Zamiri I. Purification and characterization of a Corynebacterium
+ulcerans bacteriocin (ulceracin 378). J Gen Microbiol. 1985 Apr;131(4):707-13.
+doi: 10.1099/00221287-131-4-707. PMID: 3921657.
+
+10: Jebb WH, Martin TD. A non-starch-fermenting variant of Corynebacterium
+ulcerans. J Clin Pathol. 1965 Nov;18(6):757-8. doi: 10.1136/jcp.18.6.757. PMID:
+5844203; PMCID: PMC473126.
+
+11: Maximesco P, Pop A, Oprişan A, Potorac E. Relations biologiques entre
+Corynebacterium ulcerans, Corynebacterium ovis et Corynebacterium diphtheriae.
+(Etude expérimentale) [Biological relationship between Corynebacterium ulcerans,
+Corynebacterium ovis and Corynebacterium diphtheriae. (Experimental study)].
+Arch Roum Pathol Exp Microbiol. 1968 Dec;27(4):733-50. French. PMID: 4987379.
+
+12: Fox JG, Frost WW. Corynebacterium ulcerans mastitis in a bonnet macaque
+(Macaca radiata). Lab Anim Sci. 1974 Oct;24(5):820-2. PMID: 4371288.
+
+13: Soucková A, Soucek A. Two distinct toxic proteins in Corynebacterium
+ulcerans. J Hyg Epidemiol Microbiol Immunol. 1974;18(3):336-41. PMID: 4370843.
+
+14: Vertiev YuV, Ezepchuk YuV, Souckova A, Soucek A. Proof for the lack of
+diphtheria toxin in culture filtrates of Corynebacterium ulcerans strain ATCC
+9015. Zentralbl Bakteriol Mikrobiol Hyg A Med Mikrobiol Infekt Parasitol.
+1981;249(4):520-6. PMID: 6797150.

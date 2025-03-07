@@ -1,0 +1,151 @@
+1: Osek J, Wieczorek K. Porcine carcasses as an underestimated source of
+antimicrobial resistant <i>Campylobacter coli</i>. J Vet Res. 2023 Sep
+20;67(3):389-395. doi: 10.2478/jvetres-2023-0047. PMID: 37786840; PMCID:
+PMC10541655.
+
+2: Tedersoo T, Roasto M, Mäesaar M, Fredriksson-Ahomaa M, Meremäe K.
+Antimicrobial Resistance of <i>Campylobacter coli</i> Isolated from Caecal
+Samples of Fattening Pigs at Slaughter. Microorganisms. 2023 Jun 9;11(6):1540.
+doi: 10.3390/microorganisms11061540. PMID: 37375042; PMCID: PMC10302734.
+
+3: Linn KZ, Furuta M, Nakayama M, Masuda Y, Honjoh KI, Miyamoto T.
+Characterization and antimicrobial resistance of Campylobacter jejuni and
+Campylobacter coli isolated from chicken and pork. Int J Food Microbiol. 2021
+Dec 16;360:109440. doi: 10.1016/j.ijfoodmicro.2021.109440. Epub 2021 Oct 16.
+PMID: 34673329.
+
+4: An JU, Lee S, Guk JH, Woo J, Song H, Cho S. Circular intermediate-mediated
+horizontal transfer of the chromosome-encoded <i>cfr(C)</i> gene in multi-drug
+resistant <i>Campylobacter coli</i> from swine sources. Front Microbiol. 2023
+Dec 22;14:1274245. doi: 10.3389/fmicb.2023.1274245. PMID: 38188581; PMCID:
+PMC10770853.
+
+5: Wieczorek K, Bocian Ł, Osek J. Bovine and Pig Carcasses as a Source of
+<i>Campylobacter</i> in Poland: A Reservoir for Antimicrobial-Resistant
+<i>Campylobacter coli</i>. Foodborne Pathog Dis. 2021 Jul;18(7):462-468. doi:
+10.1089/fpd.2020.2914. Epub 2021 Apr 21. PMID: 33887151.
+
+6: Choi JH, Moon DC, Mechesso AF, Kang HY, Kim SJ, Song HJ, Yoon SS, Lim SK.
+Antimicrobial Resistance Profiles and Macrolide Resistance Mechanisms of
+<i>Campylobacter coli</i> Isolated from Pigs and Chickens. Microorganisms. 2021
+May 17;9(5):1077. doi: 10.3390/microorganisms9051077. PMID: 34067855; PMCID:
+PMC8156767.
+
+7: Di Donato G, Marotta F, Nuvoloni R, Zilli K, Neri D, Di Sabatino D, Calistri
+P, Di Giannatale E. Prevalence, Population Diversity and Antimicrobial
+Resistance of <i>Campylobacter</i><i>coli</i> Isolated in Italian Swine at
+Slaughterhouse. Microorganisms. 2020 Feb 7;8(2):222. doi:
+10.3390/microorganisms8020222. PMID: 32046038; PMCID: PMC7074678.
+
+8: Papadopoulos D, Petridou E, Papageorgiou K, Giantsis IA, Delis G, Economou V,
+Frydas I, Papadopoulos G, Hatzistylianou M, Kritas SK. Phenotypic and Molecular
+Patterns of Resistance among <i>Campylobacter coli</i> and <i>Campylobacter
+jejuni</i> Isolates, from Pig Farms. Animals (Basel). 2021 Aug 13;11(8):2394.
+doi: 10.3390/ani11082394. PMID: 34438851; PMCID: PMC8388618.
+
+9: Hull DM, Harrel E, Harden L, Thakur S. Detection of resistance and virulence
+plasmids in Campylobacter coli and Campylobacter jejuni isolated from North
+Carolina food animal production, 2018-2019. Food Microbiol. 2023 Dec;116:104348.
+doi: 10.1016/j.fm.2023.104348. Epub 2023 Aug 11. PMID: 37689422.
+
+10: Mulder AC, Franz E, de Rijk S, Versluis MAJ, Coipan C, Buij R, Müskens G,
+Koene M, Pijnacker R, Duim B, Bloois LVG, Veldman K, Wagenaar JA, Zomer AL,
+Schets FM, Blaak H, Mughini-Gras L. Tracing the animal sources of surface water
+contamination with Campylobacter jejuni and Campylobacter coli. Water Res. 2020
+Dec 15;187:116421. doi: 10.1016/j.watres.2020.116421. Epub 2020 Sep 20. PMID:
+32992147.
+
+11: Harrison L, Mukherjee S, Hsu CH, Young S, Strain E, Zhang Q, Tillman GE,
+Morales C, Haro J, Zhao S. Core Genome MLST for Source Attribution of
+<i>Campylobacter coli</i>. Front Microbiol. 2021 Jul 13;12:703890. doi:
+10.3389/fmicb.2021.703890. PMID: 34326828; PMCID: PMC8313984.
+
+12: Rzeznitzeck J, Breves G, Rychlik I, Hoerr FJ, von Altrock A, Rath A,
+Rautenschlein S.  The effect of Campylobacter jejuni and Campylobacter coli
+colonization on the gut morphology, functional integrity, and microbiota
+composition of female turkeys. Gut Pathog. 2022 Aug 3;14(1):33. doi:
+10.1186/s13099-022-00508-x. PMID: 35922874; PMCID: PMC9347085.
+
+13: Guk JH, Woo J, Song H, Kim WH, Kim J, Ryu S, Cho S. Hyper-aerotolerant
+Campylobacter coli, an emerging foodborne pathogen, shows differential
+expressions of oxidative stress-related genes. Vet Microbiol. 2022
+Jan;264:109308. doi: 10.1016/j.vetmic.2021.109308. Epub 2021 Dec 14. PMID:
+34922150.
+
+14: Walker LJ, Wallace RL, Smith JJ, Graham T, Saputra T, Symes S,
+Stylianopoulos A, Polkinghorne BG, Kirk MD, Glass K. Prevalence of
+<i>Campylobacter coli</i> and <i>Campylobacter jejuni</i> in Retail Chicken,
+Beef, Lamb, and Pork Products in Three Australian States. J Food Prot. 2019
+Dec;82(12):2126-2134. doi: 10.4315/0362-028X.JFP-19-146. PMID: 31729918.
+
+15: Dias TS, Costa GA, de Almeida Figueira A, Dos Santos Machado L, da Cunha NC,
+do Nascimento ER, de Almeida Pereira VL, de Aquino MHC. Molecular markers
+associated with antimicrobial resistance and genotypes of Campylobacter jejuni
+and Campylobacter coli isolated from broiler and swine flocks in southeast
+Brazil. Comp Immunol Microbiol Infect Dis. 2022 Sep;88:101866. doi:
+10.1016/j.cimid.2022.101866. Epub 2022 Aug 18. PMID: 36027679.
+
+16: Dawson P, Buyukyavuz A, Ionita C, Northcutt J. Effects of DNA extraction
+methods on the real time PCR quantification of Campylobacter jejuni,
+Campylobacter coli, and Campylobacter lari in chicken feces and ceca contents.
+Poult Sci. 2023 Feb;102(2):102369. doi: 10.1016/j.psj.2022.102369. Epub 2022 Dec
+6. PMID: 36565641; PMCID: PMC9800320.
+
+17: Guk JH, Song H, Yi S, An JU, Lee S, Kim WH, Cho S. Hyper-Aerotolerant
+<i>Campylobacter coli</i> From Swine May Pose a Potential Threat to Public
+Health Based on Its Quinolone Resistance, Virulence Potential, and Genetic
+Relatedness. Front Microbiol. 2021 Jul 16;12:703993. doi:
+10.3389/fmicb.2021.703993. PMID: 34381431; PMCID: PMC8352582.
+
+18: Zhang P, Zhang X, Liu Y, Cui Q, Qin X, Niu Y, Wang C, Wang T, Chen Q, Ding
+S, Ma X, Shen Z. Genomic Insights into the Increased Occurrence of
+Campylobacteriosis Caused by Antimicrobial-Resistant Campylobacter coli. mBio.
+2022 Dec 20;13(6):e0283522. doi: 10.1128/mbio.02835-22. Epub 2022 Dec 6. PMID:
+36472434; PMCID: PMC9765411.
+
+19: Milton AAP, Momin KM, Priya GB, Das S, Angappan M, Sen A, Sinha DK, Kumar A,
+Ghatak S. Development and evaluation of a novel polymerase spiral reaction based
+testing technique for same-day visual detection of Campylobacter coli in pork.
+Food Microbiol. 2022 Oct;107:104066. doi: 10.1016/j.fm.2022.104066. Epub 2022
+Jun 8. PMID: 35953186.
+
+20: Wen R, Li C, Zhao M, Wang H, Tang Y. Withdrawal of antibiotic growth
+promoters in China and its impact on the foodborne pathogen <i>Campylobacter
+coli</i> of swine origin. Front Microbiol. 2022 Sep 8;13:1004725. doi:
+10.3389/fmicb.2022.1004725. PMID: 36160189; PMCID: PMC9495300.
+
+21: Lopez-Chavarrias V, Ugarte-Ruiz M, Barcena C, Olarra A, Garcia M, Saez JL,
+de Frutos C, Serrano T, Perez I, Moreno MA, Dominguez L, Alvarez J. Monitoring
+of Antimicrobial Resistance to Aminoglycosides and Macrolides in
+<i>Campylobacter coli</i> and <i>Campylobacter jejuni</i> From Healthy Livestock
+in Spain (2002-2018). Front Microbiol. 2021 Jul 2;12:689262. doi:
+10.3389/fmicb.2021.689262. PMID: 34276619; PMCID: PMC8283307.
+
+22: Ghatak S, Milton AAP, Das S, Momin KM, Srinivas K, Pyngrope DA, Priya GB.
+<i>Campylobacter coli</i> of porcine origin exhibits an open pan-genome within a
+single clonal complex: insights from comparative genomic analysis. Front Cell
+Infect Microbiol. 2024 Oct 2;14:1449856. doi: 10.3389/fcimb.2024.1449856. PMID:
+39415896; PMCID: PMC11480030.
+
+23: Tang Y, Lai Y, Wang X, Lei C, Li C, Kong L, Wang Y, Wang H. Novel insertion
+sequence ISChh1-like mediating acquisition of optrA gene in foodborne pathogen
+Campylobacter coli of swine origin. Vet Microbiol. 2020 Nov 25;252:108934. doi:
+10.1016/j.vetmic.2020.108934. Epub ahead of print. PMID: 33249367.
+
+24: Tang Y, Lai Y, Yang X, Cao X, Hu Y, Wang X, Wang H. Genetic environments and
+related transposable elements of novel cfr(C) variants in Campylobacter coli
+isolates of swine origin. Vet Microbiol. 2020 Aug;247:108792. doi:
+10.1016/j.vetmic.2020.108792. Epub 2020 Jul 8. PMID: 32768235.
+
+25: Ruiz MJ, Sirini NE, Signorini ML, Etcheverría A, Zbrun MV, Soto LP,
+Zimmermann JA, Frizzo LS. Protective effect of <i>Lactiplantibacillus
+plantarum</i> LP5 in a murine model of colonisation by <i>Campylobacter coli</i>
+DSPV458. Benef Microbes. 2021 Nov 16;12(6):553-565. doi: 10.3920/BM2021.0010.
+Epub 2021 Sep 30. PMID: 34590533.
+
+26: Jehanne Q, Pascoe B, Bénéjat L, Ducournau A, Buissonnière A, Mourkas E,
+Mégraud F, Bessède E, Sheppard SK, Lehours P. Genome-Wide Identification of
+Host-Segregating Single-Nucleotide Polymorphisms for Source Attribution of
+Clinical Campylobacter coli Isolates. Appl Environ Microbiol. 2020 Nov
+24;86(24):e01787-20. doi: 10.1128/AEM.01787-20. PMID: 33036986; PMCID:
+PMC7688228.

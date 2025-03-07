@@ -1,0 +1,145 @@
+1: Pillman D, Surendran Nair M, Schwartz J, Pieters M. Detection of Mycoplasma
+hyorhinis and Mycoplasma hyosynoviae in oral fluids and correlation with pig
+lameness scores. Vet Microbiol. 2019 Dec;239:108448. doi:
+10.1016/j.vetmic.2019.108448. Epub 2019 Oct 11. PMID: 31767090.
+
+2: Friis NF, Ahrens P, Larsen H. Mycoplasma hyosynoviae isolation from the upper
+respiratory tract and tonsils of pigs. Acta Vet Scand. 1991;32(4):425-9. doi:
+10.1186/BF03546943. PMID: 1818502; PMCID: PMC8127903.
+
+3: Nielsen EO, Lauritsen KT, Friis NF, Enøe C, Hagedorn-Olsen T, Jungersen G.
+Use of a novel serum ELISA method and the tonsil-carrier state for evaluation of
+Mycoplasma hyosynoviae distributions in pig herds with or without clinical
+arthritis. Vet Microbiol. 2005 Nov 30;111(1-2):41-50. doi:
+10.1016/j.vetmic.2005.08.009. Epub 2005 Sep 19. PMID: 16171955.
+
+4: Gomes-Neto JC, Raymond M, Bower L, Ramirez A, Madson DM, Strait EL, Rosey EL,
+Rapp-Gabrielson VJ. Two clinical isolates of <i>Mycoplasma hyosynoviae</i>
+showed differing pattern of lameness and pathogen detection in experimentally
+challenged pigs. J Vet Sci. 2016 Dec 30;17(4):489-496. doi:
+10.4142/jvs.2016.17.4.489. PMID: 27297416; PMCID: PMC5204026.
+
+5: Wegner B, Tenhündfeld J, Vogels J, Beumer M, Kamphues J, Hansmann F, Rieger
+H, Grosse Beilage E, Hennig-Pauka I. Lameness in fattening pigs - Mycoplasma
+hyosynoviae, osteochondropathy and reduced dietary phosphorus level as three
+influencing factors: a case report. Porcine Health Manag. 2020 Dec 15;6(1):41.
+doi: 10.1186/s40813-020-00184-w. PMID: 33323132; PMCID: PMC7739479.
+
+6: Bünger M, Blümlinger M, Loncaric I, Rosel AC, Ruppitsch W, Teich K, Kübber-
+Heiss A, Hennig-Pauka I, Ladinig A, Spergser J. Multilocus sequence typing
+schemes for the emerging swine pathogen Mycoplasma hyosynoviae. Vet Microbiol.
+2024 Mar;290:109997. doi: 10.1016/j.vetmic.2024.109997. Epub 2024 Jan 15. PMID:
+38237446.
+
+7: Blank WA, Erickson BZ, Stemke GW. Phylogenetic relationships of the porcine
+mycoplasmas Mycoplasma hyosynoviae and Mycoplasma hyopharyngis. Int J Syst
+Bacteriol. 1996 Oct;46(4):1181-2. doi: 10.1099/00207713-46-4-1181. PMID:
+8863455.
+
+8: Madeiros CA. Mycoplasma hyosynoviae treatment in pigs. Vet Rec. 1984 Oct
+27;115(17):446. doi: 10.1136/vr.115.17.446-a. PMID: 6506436.
+
+9: Lawrisuk LS, Rothschild MF, Ross RF, Christian LL. Relationship between
+Mycoplasma hyosynoviae infection and front limb weakness in Duroc swine. Am J
+Vet Res. 1987 Sep;48(9):1395-7. PMID: 3662208.
+
+10: Lauritsen KT, Hagedorn-Olsen T, Friis NF, Lind P, Jungersen G. Absence of
+strictly age-related resistance to Mycoplasma hyosynoviae infection in 6-week-
+old pigs. Vet Microbiol. 2008 Aug 25;130(3-4):385-90. doi:
+10.1016/j.vetmic.2008.02.002. Epub 2008 Feb 15. PMID: 18534787.
+
+11: Aarestrup FM, Friis NF. Antimicrobial susceptibility testing of Mycoplasma
+hyosynoviae isolated from pigs during 1968 to 1971 and during 1995 and 1996. Vet
+Microbiol. 1998 Mar 15;61(1-2):33-9. doi: 10.1016/s0378-1135(98)00169-2. PMID:
+9646463.
+
+12: Hagedorn-Olsen T, Nielsen NC, Friis NF, Nielsen J. Progression of Mycoplasma
+hyosynoviae infection in three pig herds. Development of tonsillar carrier
+state, arthritis and antibodies in serum and synovial fluid in pigs from birth
+to slaughter. Zentralbl Veterinarmed A. 1999 Nov;46(9):555-64. doi:
+10.1046/j.1439-0442.1999.00246.x. PMID: 10605365.
+
+13: Sanford SE, Fruhner L, Ruhnke L. Canada. Arthritis caused by Mycoplasma
+hyosynoviae in grower pigs. Can Vet J. 1992 Sep;33(9):616. PMID: 17424081;
+PMCID: PMC1481337.
+
+14: Hagedorn-Olsen T, Nielsen NC, Friis NF. Induction of arthritis with
+Mycoplasma hyosynoviae in pigs: clinical response and re-isolation of the
+organism from body fluids and organs. Zentralbl Veterinarmed A. 1999
+Aug;46(6):317-25. doi: 10.1046/j.1439-0442.1999.00217.x. PMID: 10481610.
+
+15: Jensen TK, Aalboek B, Buttenschøn J, Friis NF, Kyrval J, Rønsholt L.
+Mycoplasma hyponeumoniae and Mycoplasma hyosynoviae infection in cases of
+fibrinous pericarditis in slaughter pigs. Acta Vet Scand. 1995;36(4):575-7. doi:
+10.1186/BF03547672. PMID: 8669385; PMCID: PMC8095410.
+
+16: Makhanon M, Tummaruk P, Thongkamkoon P, Thanawongnuwech R, Prapasarakul N.
+Comparison of detection procedures of Mycoplasma hyopneumoniae, Mycoplasma
+hyosynoviae, and Mycoplasma hyorhinis in lungs, tonsils, and synovial fluid of
+slaughtered pigs and their distributions in Thailand. Trop Anim Health Prod.
+2012 Feb;44(2):313-8. doi: 10.1007/s11250-011-0022-z. Epub 2011 Nov 25. PMID:
+22116666.
+
+17: Nielsen EO, Nielsen NC, Friis NF. Mycoplasma hyosynoviae arthritis in
+grower-finisher pigs. J Vet Med A Physiol Pathol Clin Med. 2001
+Oct;48(8):475-86. doi: 10.1046/j.1439-0442.2001.00378.x. PMID: 11710673.
+
+18: Hagedorn-Olsen T, Basse A, Jensen TK, Nielsen NC. Gross and
+histopathological findings in synovial membranes of pigs with experimentally
+induced Mycoplasma hyosynoviae arthritis. APMIS. 1999 Feb;107(2):201-10. PMID:
+10225318.
+
+19: Potgieter LN, Ross RF. Demonostration of Mycoplasma hyorhinis and Mycoplasma
+hyosynoviae in lesions of experimentally infected swine by immunofluorescence.
+Am J Vet Res. 1972 Jan;33(1):99-105. PMID: 4550844.
+
+20: Potgieter LN, Frey ML, Ross RF. Chronological development of Mycoplasma
+hyorhinis and Mycoplasma hyosynoviae infections in cultures of a swine synovial
+cell strain. Can J Comp Med. 1972 Apr;36(2):145-9. PMID: 4259928; PMCID:
+PMC1319634.
+
+21: Boye M, Jensen TK, Ahrens P, Hagedorn-Olsen T, Friis NF. In situ
+hybridisation for identification and differentiation of Mycoplasma
+hyopneumoniae, Mycoplasma hyosynoviae and Mycoplasma hyorhinis in formalin-fixed
+porcine tissue sections. APMIS. 2001 Oct;109(10):656-64. doi:
+10.1034/j.1600-0463.2001.d01-129.x. PMID: 11890568.
+
+22: Ross RF. Predisposing factors in Mycoplasma hyosynoviae arthritis in swine.
+J Infect Dis. 1973 Mar;127:Suppl:S84-6. doi:
+10.1093/infdis/127.supplement_1.s84. PMID: 4689633.
+
+23: Burch DG, Goodwin RF. Use of tiamulin in a herd of pigs seriously affected
+with Mycoplasma hyosynoviae arthritis. Vet Rec. 1984 Dec 8;115(23):594-5. doi:
+10.1136/vr.115.23.594. PMID: 6523689.
+
+24: Dahlia H, Tan LJ, Zarrahimah Z, Maria J. Isolation of Mycoplasma hyosynoviae
+from pneumonic lung of swine. Trop Biomed. 2009 Dec;26(3):341-5. PMID: 20237449.
+
+25: Ross RF, Duncan JR. Mycoplasma hyosynoviae arthritis of swine. J Am Vet Med
+Assoc. 1970 Dec 1;157(11):1515-8. PMID: 5530355.
+
+26: Zimmermann BJ, Ross RF. Antibody response of swine experimentally infected
+with Mycoplasma hyosynoviae. Vet Microbiol. 1982 May;7(2):135-46. doi:
+10.1016/0378-1135(82)90025-6. PMID: 7112893.
+
+27: Bumgardner E, Bey RF, Kittichotirat W, Bumgarner RE, Lawrence PK. Genome
+Sequences of Seven Mycoplasma hyosynoviae Strains Isolated from the Joint Tissue
+of Infected Swine (Sus scrofa). Genome Announc. 2014 Jun 5;2(3):e00552-14. doi:
+10.1128/genomeA.00552-14. PMID: 24903877; PMCID: PMC4047456.
+
+28: Kawamura S, Yamamoto K, Ogata M. Isolation of Mycoplasma hyosynoviae and
+other mycoplasmas from the respiratory tracts of pigs by aerobic and anaerobic
+cultivation. Nihon Juigaku Zasshi. 1982 Oct;44(5):811-4. doi:
+10.1292/jvms1939.44.811. PMID: 6761482.
+
+29: Ross RF, Switzer WP, Duncan JR. Experimental production of Mycoplasma
+hyosynoviae arthritis in swine. Am J Vet Res. 1971 Nov;32(11):1743-9. PMID:
+4941436.
+
+30: Imura S, Hirohata K, McDuffie FC. An immunoelectron microscopic study of
+Mycoplasma hyosynoviae in primary swine kidney cell culture. Kobe J Med Sci.
+1983 Feb;29(1):1-15. PMID: 6865277.
+
+31: Zimmermann BJ, Ross RF. Modified metabolic-inhibition test for detection of
+antibodies to Mycoplasma hyosynoviae in swine serum. Am J Vet Res. 1977
+Dec;38(12):2075-6. PMID: 596706.

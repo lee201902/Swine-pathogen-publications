@@ -1,0 +1,11 @@
+1: Prapong S, Tansiri Y, Sritrakul T, Sripattanakul S, Sopitthummakhun A,
+Katzenmeier G, Hsieh CL, McDonough SP, Prapong T, Chang YF. <i>Leptospira
+borgpetersenii</i> Leucine-Rich Repeat Proteins Provide Strong Protective
+Efficacy as Novel Leptospiral Vaccine Candidates. Trop Med Infect Dis. 2022 Dec
+22;8(1):6. doi: 10.3390/tropicalmed8010006. PMID: 36668913; PMCID: PMC9863753.
+
+2: Zuerner RL, Ellis WA, Bolin CA, Montgomery JM. Restriction fragment length
+polymorphisms distinguish Leptospira borgpetersenii serovar hardjo type hardjo-
+bovis isolates from different geographical locations. J Clin Microbiol. 1993
+Mar;31(3):578-83. doi: 10.1128/jcm.31.3.578-583.1993. PMID: 7681437; PMCID:
+PMC262823.

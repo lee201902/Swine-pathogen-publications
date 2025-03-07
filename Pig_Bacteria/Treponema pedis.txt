@@ -1,0 +1,15 @@
+1: Karlsson F, Rosander A, Fellström C, Backhans A. Experimental inoculation of
+<i>Treponema pedis</i> T A4 failed to induce ear necrosis in pigs. Porcine
+Health Manag. 2017 Dec 19;3:26. doi: 10.1186/s40813-017-0073-2. PMID: 29270310;
+PMCID: PMC5735808.
+
+2: Karlsson F, Klitgaard K, Jensen TK. Identification of Treponema pedis as the
+predominant Treponema species in porcine skin ulcers by fluorescence in situ
+hybridization and high-throughput sequencing. Vet Microbiol. 2014 Jun
+25;171(1-2):122-31. doi: 10.1016/j.vetmic.2014.03.019. Epub 2014 Mar 25. PMID:
+24725449.
+
+3: Svartström O, Mushtaq M, Pringle M, Segerman B. Genome-wide relatedness of
+Treponema pedis, from gingiva and necrotic skin lesions of pigs, with the human
+oral pathogen Treponema denticola. PLoS One. 2013 Aug 19;8(8):e71281. doi:
+10.1371/journal.pone.0071281. PMID: 23977007; PMCID: PMC3747143.

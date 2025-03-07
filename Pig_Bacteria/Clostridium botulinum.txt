@@ -1,0 +1,354 @@
+1: Munir MT, Mtimet N, Guillier L, Meurens F, Fravalo P, Federighi M, Kooh P.
+Physical Treatments to Control <i>Clostridium botulinum</i> Hazards in Food.
+Foods. 2023 Apr 7;12(8):1580. doi: 10.3390/foods12081580. PMID: 37107375; PMCID:
+PMC10137509.
+
+2: Pierson MD, Smoot LA. Nitrite, nitrite alternatives, and the control of
+Clostridium botulinum in cured meats. Crit Rev Food Sci Nutr. 1982;17(2):141-87.
+doi: 10.1080/10408398209527346. PMID: 6751698.
+
+3: Yamakawa K, Kamiya S, Yoshimura K, Nakamura S. Clostridium botulinum type C
+in healthy swine in Japan. Microbiol Immunol. 1992;36(1):29-34. doi:
+10.1111/j.1348-0421.1992.tb01639.x. PMID: 1584070.
+
+4: Myllykoski J, Nevas M, Lindström M, Korkeala H. The detection and prevalence
+of Clostridium botulinum in pig intestinal samples. Int J Food Microbiol. 2006
+Jul 15;110(2):172-7. doi: 10.1016/j.ijfoodmicro.2006.04.017. Epub 2006 Jun 27.
+PMID: 16806550.
+
+5: Glass KA, Golden MC, Wanless BJ, Conklin T, Schweihofer JP, Schill KM.
+Inhibition of Listeria monocytogenes and Clostridium botulinum in Uncured
+Shredded Pork and Turkey Packaged Under Reduced Oxygen Conditions. J Food Prot.
+2024 Jun;87(6):100271. doi: 10.1016/j.jfp.2024.100271. Epub 2024 Mar 30. PMID:
+38561027.
+
+6: ANELLIS A, GRECZ N, BERKOWITZ D. SURVIVAL OF CLOSTRIDIUM BOTULINUM SPORES.
+Appl Microbiol. 1965 May;13(3):397-401. doi: 10.1128/am.13.3.397-401.1965. PMID:
+14325280; PMCID: PMC1058263.
+
+7: Hospital XF, Hierro E, Stringer S, Fernández M. A study on the toxigenesis by
+Clostridium botulinum in nitrate and nitrite-reduced dry fermented sausages. Int
+J Food Microbiol. 2016 Feb 2;218:66-70. doi: 10.1016/j.ijfoodmicro.2015.11.009.
+Epub 2015 Nov 17. PMID: 26619314.
+
+8: Gil LA, da Cunha CE, Moreira GM, Salvarani FM, Assis RA, Lobato FC, Mendonça
+M, Dellagostin OA, Conceição FR. Production and evaluation of a recombinant
+chimeric vaccine against clostridium botulinum neurotoxin types C and D. PLoS
+One. 2013 Jul 31;8(7):e69692. doi: 10.1371/journal.pone.0069692. PMID: 23936080;
+PMCID: PMC3729698.
+
+9: Mbhele Z, Thwala L, Khoza T, Ramagoma F. Evaluation of Aluminium Hydroxide
+Nanoparticles as an Efficient Adjuvant to Potentiate the Immune Response against
+<i>Clostridium botulinum</i> Serotypes C and D Toxoid Vaccines. Vaccines
+(Basel). 2023 Sep 10;11(9):1473. doi: 10.3390/vaccines11091473. PMID: 37766149;
+PMCID: PMC10535070.
+
+10: Golden MC, Wanless BJ, David JRD, Kottapalli B, Lineback DS, Talley RJ,
+Glass KA. Effect of Cultured Celery Juice, Temperature, and Product Composition
+on the Inhibition of Proteolytic Clostridium botulinum Toxin Production. J Food
+Prot. 2017 Aug;80(8):1259-1265. doi: 10.4315/0362-028X.JFP-17-011. PMID:
+28686493.
+
+11: Hatheway CL. Toxoid of Clostridium botulinum type F: purification and
+immunogenicity studies. Appl Environ Microbiol. 1976 Feb;31(2):234-42. doi:
+10.1128/aem.31.2.234-242.1976. PMID: 793522; PMCID: PMC169753.
+
+12: Ciccarelli AS, Whaley DN, McCroskey LM, Gimenez DF, Dowell VR Jr, Hatheway
+CL. Cultural and physiological characteristics of Clostridium botulinum type G
+and the susceptibility of certain animals to its toxin. Appl Environ Microbiol.
+1977 Dec;34(6):843-8. doi: 10.1128/aem.34.6.843-848.1977. PMID: 74236; PMCID:
+PMC242758.
+
+13: Le Maréchal C, Denis M, Vanlemmens L, Jambou L, Delvallez G, Poezevara T,
+Abed-Zahar M, Diancourt L, Baudouard MA, Eveno E, Bayon-Auboyer MH, Fellag M,
+Rouxel S, Amenna N, Mazuet C, Guéguen JM, Rose N. An outbreak of botulism on a
+pig farm due to the newly described Clostridium botulinum type C. Anaerobe. 2024
+Oct;89:102885. doi: 10.1016/j.anaerobe.2024.102885. Epub 2024 Jul 24. PMID:
+39059624.
+
+14: Aranda E, Rodríguez MM, Asensio MA, Córdoba JJ. Detection of Clostridium
+botulinum types A, B, E and F in foods by PCR and DNA probe. Lett Appl
+Microbiol. 1997 Sep;25(3):186-90. doi: 10.1046/j.1472-765x.1997.00204.x. PMID:
+9351261.
+
+15: Haque A, Sugimoto N, Horiguchi Y, Okabe T, Miyata T, Iwanaga S, Matsuda M.
+Production, purification, and characterization of botulinolysin, a thiol-
+activated hemolysin of Clostridium botulinum. Infect Immun. 1992 Jan;60(1):71-8.
+doi: 10.1128/iai.60.1.71-78.1992. PMID: 1729198; PMCID: PMC257504.
+
+16: FIOCK MA, YARINSKY A, DUFF JT. Studies on immunity to toxins of Clostridium
+botulinum. VII. Purification and detoxification of trypsin-activated type E
+toxin. J Bacteriol. 1961 Jul;82(1):66-71. doi: 10.1128/jb.82.1.66-71.1961. PMID:
+13699727; PMCID: PMC279115.
+
+17: Oguma K, Iida H, Shiozaki M. Phage conversion to hemagglutinin production in
+Clostridium botulinum types C and D. Infect Immun. 1976 Sep;14(3):597-602. doi:
+10.1128/iai.14.3.597-602.1976. PMID: 786888; PMCID: PMC420926.
+
+18: Lindström M, Keto R, Markkula A, Nevas M, Hielm S, Korkeala H. Multiplex PCR
+assay for detection and identification of Clostridium botulinum types A, B, E,
+and F in food and fecal material. Appl Environ Microbiol. 2001
+Dec;67(12):5694-9. doi: 10.1128/AEM.67.12.5694-5699.2001. PMID: 11722924; PMCID:
+PMC93361.
+
+19: Habermann B, Mohr C, Just I, Aktories K. ADP-ribosylation and de-ADP-
+ribosylation of the rho protein by Clostridium botulinum exoenzyme C3.
+Regulation by EDTA, guanine nucleotides and pH. Biochim Biophys Acta. 1991 Apr
+29;1077(3):253-8. doi: 10.1016/0167-4838(91)90537-a. PMID: 1827595.
+
+20: Dahlenborg M, Borch E, Rådström P. Development of a combined selection and
+enrichment PCR procedure for Clostridium botulinum Types B, E, and F and its use
+to determine prevalence in fecal samples from slaughtered pigs. Appl Environ
+Microbiol. 2001 Oct;67(10):4781-8. doi: 10.1128/AEM.67.10.4781-4788.2001. PMID:
+11571185; PMCID: PMC93232.
+
+21: Ellis CE, Hamman M, Harris H, de Bruin R. In vitro evaluation methods for
+Clostridium botulinum type C and D vaccines. FEMS Immunol Med Microbiol. 1999
+Jul;24(3):369-72. doi: 10.1111/j.1574-695X.1999.tb01307.x. PMID: 10397324.
+
+22: Kondo H, Kondo S, Murata R, Sakaguchi G. Antigenicity of Clostridium
+botulinum type-E formol toxoid. Jpn J Med Sci Biol. 1969 Apr;22(2):75-85. doi:
+10.7883/yoken1952.22.75. PMID: 4899485.
+
+23: Lindström M, Mokkila M, Skyttä E, Hyytiä-Trees E, Lähteenmäki L, Hielm S,
+Ahvenainen R, Korkeala H. Inhibition of growth of nonproteolytic Clostridium
+botulinum type B in sous vide cooked meat products is achieved by using thermal
+processing but not nisin. J Food Prot. 2001 Jun;64(6):838-44. doi:
+10.4315/0362-028x-64.6.838. PMID: 11403135.
+
+24: Gibson AM, Bratchell N, Roberts TA. The effect of sodium chloride and
+temperature on the rate and extent of growth of Clostridium botulinum type A in
+pasteurized pork slurry. J Appl Bacteriol. 1987 Jun;62(6):479-90. doi:
+10.1111/j.1365-2672.1987.tb02680.x. PMID: 3305458.
+
+25: Fujinaga Y, Inoue K, Nomura T, Sasaki J, Marvaud JC, Popoff MR, Kozaki S,
+Oguma K. Identification and characterization of functional subunits of
+Clostridium botulinum type A progenitor toxin involved in binding to intestinal
+microvilli and erythrocytes. FEBS Lett. 2000 Feb 11;467(2-3):179-83. doi:
+10.1016/s0014-5793(00)01147-9. PMID: 10675534.
+
+26: Nakamura T, Takada N, Tonozuka T, Sakano Y, Oguma K, Nishikawa A. Binding
+properties of Clostridium botulinum type C progenitor toxin to mucins. Biochim
+Biophys Acta. 2007 Apr;1770(4):551-5. doi: 10.1016/j.bbagen.2006.11.006. Epub
+2006 Nov 23. PMID: 17196748.
+
+27: Mahmut N, Inoue K, Fujinaga Y, Hughes L, Arimitsu H, Sakaguchi Y, Ohtsuka A,
+Murakami T, Yokota K, Oguma K. Characterisation of monoclonal antibodies against
+haemagglutinin associated with Clostridium botulinum type C neurotoxin. J Med
+Microbiol. 2002 Apr;51(4):286-294. doi: 10.1099/0022-1317-51-4-286. PMID:
+11926732.
+
+28: Alsallami AA, Kotłowski R. Selection of primers for specific detection of
+Clostridium botulinum types B and E neurotoxin genes using PCR method. Int J
+Food Microbiol. 2001 Sep 28;69(3):247-53. doi: 10.1016/s0168-1605(01)00499-8.
+PMID: 11603862.
+
+29: Balding P, Gold ER, Boroff DA, Roberts TA. Observations on receptor specific
+proteins. II. Haemagglutination and haemagglutination-inhibition reactions of
+Clostridium botulinum types A, C, D and E haemagglutinins. Immunology. 1973
+Nov;25(5):773-82. PMID: 4586739; PMCID: PMC1423032.
+
+30: Fujinaga Y, Inoue K, Watarai S, Sakaguchi Y, Arimitsu H, Lee JC, Jin Y,
+Matsumura T, Kabumoto Y, Watanabe T, Ohyama T, Nishikawa A, Oguma K. Molecular
+characterization of binding subcomponents of Clostridium botulinum type C
+progenitor toxin for intestinal epithelial cells and erythrocytes. Microbiology
+(Reading). 2004 May;150(Pt 5):1529-1538. doi: 10.1099/mic.0.26805-0. PMID:
+15133114.
+
+31: Simpson LL. A comparison of the pharmacological properties of Clostridium
+botulinum type C1 and C2 toxins. J Pharmacol Exp Ther. 1982 Dec;223(3):695-701.
+PMID: 6292397.
+
+32: Gibson AM, Modi NK, Roberts TA, Shone CC, Hambleton P, Melling J. Evaluation
+of a monoclonal antibody-based immunoassay for detecting type A Clostridium
+botulinum toxin produced in pure culture and an inoculated model cured meat
+system. J Appl Bacteriol. 1987 Sep;63(3):217-26. doi:
+10.1111/j.1365-2672.1987.tb04939.x. PMID: 3323154.
+
+33: Fujinaga Y, Inoue K, Watanabe S, Yokota K, Hirai Y, Nagamachi E, Oguma K.
+The haemagglutinin of Clostridium botulinum type C progenitor toxin plays an
+essential role in binding of toxin to the epithelial cells of guinea pig small
+intestine, leading to the efficient absorption of the toxin. Microbiology
+(Reading). 1997 Dec;143 ( Pt 12):3841-3847. doi: 10.1099/00221287-143-12-3841.
+PMID: 9421908.
+
+34: Christiansen LN, Johnston RW, Kautter DA, Howard JW, Aunan WJ. Effect of
+nitrite and nitrate on toxin production by Clostridium botulinum and on
+nitrosamine formation in perishable canned comminuted cured meat. Appl
+Microbiol. 1973 Mar;25(3):357-62. doi: 10.1128/am.25.3.357-362.1973. PMID:
+4572891; PMCID: PMC380811.
+
+35: Anellis A, Shattuck E, Morin M, Srisara B, Qvale S, Rowley DB, Ross EW Jr.
+Cryogenic gamma irradiation of prototype pork and chicken and antagonistic
+effect between Clostridium botulinum types A and B. Appl Environ Microbiol. 1977
+Dec;34(6):823-31. doi: 10.1128/aem.34.6.823-831.1977. PMID: 339839; PMCID:
+PMC242755.
+
+36: Suzuki JB, Booth R, Benedik A, Grecz N. Pathogenesis of Clostridium
+botulinum Type A: Study of In Vivo Toxin Release by Implantation of Diffusion
+Chambers Containing Spores, Vegetative Cells, and Free Toxin. Infect Immun. 1971
+May;3(5):659-63. doi: 10.1128/iai.3.5.659-663.1971. PMID: 16558033; PMCID:
+PMC416213.
+
+37: Odlaug TE, Pflug IJ. Recovery of spores of Clostridium botulinum in yeast
+extract agar and pork infusion agar after heat treatment. Appl Environ
+Microbiol. 1977 Oct;34(4):377-81. doi: 10.1128/aem.34.4.377-381.1977. PMID:
+335970; PMCID: PMC242666.
+
+38: Fach P, Hauser D, Guillou JP, Popoff MR. Polymerase chain reaction for the
+rapid identification of Clostridium botulinum type A strains and detection in
+food samples. J Appl Bacteriol. 1993 Sep;75(3):234-9. doi:
+10.1111/j.1365-2672.1993.tb02771.x. PMID: 8244901.
+
+39: Thomas RJ, Rosenthal DV, Rogers RJ. A Clostridium botulinum type B vaccine
+for prevention of shaker foal syndrome. Aust Vet J. 1988 Mar;65(3):78-80. doi:
+10.1111/j.1751-0813.1988.tb07364.x. PMID: 3041951.
+
+40: Gibson AM, Modi NK, Roberts TA, Hambleton P, Melling J. Evaluation of a
+monoclonal antibody-based immunoassay for detecting type B Clostridium botulinum
+toxin produced in pure culture and an inoculated model cured meat system. J Appl
+Bacteriol. 1988 Apr;64(4):285-91. doi: 10.1111/j.1365-2672.1988.tb01873.x. PMID:
+3049499.
+
+41: Christiansen LN, Tompkin RB, Shaparis AB, Kueper TV, Johnston RW, Kautter
+DA, Kolari OJ. Effect of sodium nitrite on toxin production by Clostridium
+botulinum in bacon. Appl Microbiol. 1974 Apr;27(4):733-7. doi:
+10.1128/am.27.4.733-737.1974. PMID: 4596753; PMCID: PMC380125.
+
+42: Suzuki JB, Booth RR, Grecz N. Pathogenesis of Clostridium botulinum type A:
+release of toxin from C. botulinum spores in vitro by leucocytes. Res Commun
+Chem Pathol Pharmacol. 1970 Sep;1(5):691-711. PMID: 4944551.
+
+43: Nakamura T, Tonozuka T, Ito S, Takeda Y, Sato R, Matsuo I, Ito Y, Oguma K,
+Nishikawa A. Molecular diversity of the two sugar-binding sites of the β-trefoil
+lectin HA33/C (HA1) from Clostridium botulinum type C neurotoxin. Arch Biochem
+Biophys. 2011 Aug 1;512(1):69-77. doi: 10.1016/j.abb.2011.05.012. Epub 2011 May
+26. PMID: 21640703.
+
+44: Westwood DA, Whaler BC. Postganglionic paralysis of the guinea-pig
+hypogastric nerve-vas deferens preparation by Clostridium botulinum type D
+toxin. Br J Pharmacol Chemother. 1968 May;33(1):21-31. doi:
+10.1111/j.1476-5381.1968.tb00470.x. PMID: 4873188; PMCID: PMC1570261.
+
+45: Giménez DF, Ciccarelli AS. Another type of Clostridium botulinum. Zentralbl
+Bakteriol Orig. 1970;215(2):221-4. PMID: 4922309.
+
+46: Shigehisa T, Kozaki S, Sakaguchi G. Toxin production by Clostridium
+botulinum types A and B in unpasteurized cured meat products held at 15 and 27
+degrees C. Nihon Juigaku Zasshi. 1984 Dec;46(6):917-20. doi:
+10.1292/jvms1939.46.917. PMID: 6394862.
+
+47: Oguma K, Iida H, Shiozaki M. Phage-conversion to hemagglutinin production in
+Clostridium botulinum types C and D. Jpn J Med Sci Biol. 1977 Feb;30(1):40-3.
+PMID: 406437.
+
+48: Itagaki M, Komori S, Unno T, Syuto B, Ohashi H. Possible involvement of a
+small G-protein sensitive to exoenzyme C3 of Clostridium botulinum in the
+regulation of myofilament Ca2+ sensitivity in beta-escin skinned smooth muscle
+of guinea pig ileum. Jpn J Pharmacol. 1995 Jan;67(1):1-7. doi: 10.1254/jjp.67.1.
+PMID: 7745839.
+
+49: Suzuki JB, Grecz N. In-vivo and in-vitro studies of the effect of specific
+antitoxin on the phagocytosis of cells of Clostridium botulinum type A. J Med
+Microbiol. 1973 May;6(2):155-67. doi: 10.1099/00222615-6-2-155. PMID: 4575273.
+
+50: Anosov IIa, Bulatova TI. Morfologicheskaia i gistokhimicheskaia
+kharakteristika reaktsii organizma na vvedenie toksina Clostridium botulinum.
+Soobshchenie VIII. Gistokhimicheskoe izuchenie katekholaminov i nekotorykh
+énzimov v verkhnem sheĭnom simpaticheskom uzle posle vvedeniia toksina Cl.
+botulinum tipa B [Morphologic and histochemical characteristics of the body's
+response to the administration of Clostridium botulinum toxin. VIII.
+Histochemical study of catecholamines and various enzymes in the superior
+cervical sympathetic ganglion following administration of Cl. botulinum type B
+toxin]. Zh Mikrobiol Epidemiol Immunobiol. 1981 Oct;(10):41-5. Russian. PMID:
+7331607.
+
+51: Just I, Mohr C, Habermann B, Koch G, Aktories K. Enhancement of Clostridium
+botulinum C3-catalysed ADP-ribosylation of recombinant rhoA by sodium dodecyl
+sulfate. Biochem Pharmacol. 1993 Apr 6;45(7):1409-16. doi:
+10.1016/0006-2952(93)90039-y. PMID: 8385945.
+
+52: Klarmann D. Nachweis von Clostridium botulinum in Kotproben von Rind und
+Schwein sowie in Rohmaterialien und Tiermehlen verschiedener
+Tierkörperbeseitigungsanstalten [The detection of Clostridium botulinum in fecal
+samples of cattle and swine and in the raw material and animal meal of different
+animal body rendering plants]. Berl Munch Tierarztl Wochenschr. 1989 Mar
+1;102(3):84-6. German. PMID: 2655574.
+
+53: BOROFF DA, FLECK U. STUDIES OF THE TOXIN OF CLOSTRIDIUM BOTULINUM. 8.
+PROCEDURE FOR RAPID DIAGNOSIS OF BOTULINUM INTOXICATION AND ESTABLISHMENT OF THE
+TYPE OF OFFENDING TOXIN. Int Arch Allergy Appl Immunol. 1965;27:1-5. doi:
+10.1159/000229593. PMID: 14296892.
+
+54: Suzuki JB, Booth R, Grecz N. In vivo and in vitro release of Ca 45 from
+spores of clostridium botulinum type A as further evidence for spore
+germination. Res Commun Chem Pathol Pharmacol. 1971 Jan;2(1):16-23. PMID:
+4948430.
+
+55: Anosov IIa, Bulatova TI. Morfologicheskaia i gistokhimicheskaia
+kharakteristika reaktsii organizma na vvedenie toksina Clostridium botulinum.
+Soobshchenie IX. Reaktsiia neĭronov iadra otvodiashchego nerva i iadra
+Darkshevicha na vvedenie toksina C. botulinum tipa B [Morphological and
+histochemical reactions of an organism to the administration of Clostridium
+botulinum toxin. IX. Reactions of the neurons of the abducens nerve nucleus and
+of the Darkshevich's nucleus to the administration of C. botulinum type B
+toxin]. Zh Mikrobiol Epidemiol Immunobiol. 1983 Feb;(2):101-5. Russian. PMID:
+6340386.
+
+56: Hoffenberg SI, Rybin VO, Efimenko AN, Kurochkin IN, Tkachuk VA. The 65-kDa
+protein from pig heart. A new substrate for Clostridium botulinum ADP-
+ribosyltransferase (exoenzyme C3). FEBS Lett. 1991 Nov 18;293(1-2):59-61. doi:
+10.1016/0014-5793(91)81152-x. PMID: 1959672.
+
+57: Toshkov A, Karadzhov Ia. Namnozhenieto i virulentnostta na septitsemiĭnite i
+kruvnite infekti v organizma za zarazenite i tekhnite trupove. IX. Prouchvaniia
+na model eksperimentalni infektsii s Clostridium botulinum [Multiplication and
+virulence of septicemic and blood pathogenens in the body of infected animals
+and their cadavers. IX. Studies on the model of experimental infection with
+Clostridium botulinum]. Izv Mikrobiol Inst (Sofiia). 1967;19:187-91. Bulgarian.
+PMID: 4879241.
+
+58: Jansen BC, Knoetze PC, Visser F. The antigenicity of Clostridium botulinum
+type C toxin administered per os. Onderstepoort J Vet Res. 1970
+Sep;37(3):169-71. PMID: 4949136.
+
+59: Suzuki JB, Grecz N, Windhorst D. Reduced germination of Clostridium
+botulinum type A spores in vitro by polymorphonuclear leukocytes from chronic
+granulomatous disease. Infect Immun. 1971 Sep;4(3):232-6. doi:
+10.1128/iai.4.3.232-236.1971. PMID: 4949488; PMCID: PMC416293.
+
+60: Müller J. On the occurrence of Clostridium botulinum type C beta in the
+livers of slaughter animals in Denmark. Bull Off Int Epizoot. 1967 Nov-
+Dec;67(11):1473-8. PMID: 4898202.
+
+61: Palec W. Toxin occurrence time in relation to sensorial changes in meat cans
+contaminated with Clostridium botulinum type B endospores. Acta Microbiol Pol.
+1996;45(1):75-83. PMID: 8795258.
+
+62: Giménez DF, Ciccarelli AS. Studies on strain 84 of Clostridium botulinum.
+Zentralbl Bakteriol Orig. 1970;215(2):212-20. PMID: 4992024.
+
+63: Shimizu T, Kondo H, Sakaguchi G. Immunological heterogeneity of Clostridium
+botulinum type B toxins. Jpn J Med Sci Biol. 1974 Apr;27(2):99-100. PMID:
+4134872.
+
+64: Roberts TA, Jarvis B. Predictive modelling of food safety with particular
+reference to Clostridium botulinum in model cured meat systems. Soc Appl
+Bacteriol Symp Ser. 1983;11:85-95. PMID: 6359448.
+
+65: Suzuki JB, Benedik A, Grecz N. Relationships of leukocyte metabolism to
+Clostridium botulinum pathogenicity. Res Commun Chem Pathol Pharmacol. 1971 Jul-
+Sep;2(4):633-48. PMID: 4945072.
+
+66: Giménez DF, Ciccarelli AS. Clostridium botulinum type F in the soil of
+Argentina. Appl Microbiol. 1968 May;16(5):732-4. doi:
+10.1128/am.16.5.732-734.1968. PMID: 4872996; PMCID: PMC547508.
+
+67: Brantner H, Dohmen H. Untersuchungen zum Nachweis von Clostridium Botulinum
+in Erdproben mittels Immuno-Diffusion [Determination of Clostridium botulinum in
+soil samples by means of immunodiffusion]. Arch Hyg Bakteriol. 1969
+Jun;153(3):239-43. German. PMID: 4985401.
+
+68: González C, Gutiérrez C. Intoxication botulique humaine par "Clostridum
+botulinum" [Human botulinic intoxication due to Clostridium botulinum B]. Ann
+Inst Pasteur (Paris). 1972 Dec;123(6):799-803. French. PMID: 4570334.

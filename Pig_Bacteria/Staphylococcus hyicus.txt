@@ -1,0 +1,67 @@
+1: Moreno AM, Moreno LZ, Poor AP, Matajira CEC, Moreno M, Gomes VTM, da Silva
+GFR, Takeuti KL, Barcellos DE. Antimicrobial Resistance Profile of
+<i>Staphylococcus hyicus</i> Strains Isolated from Brazilian Swine Herds.
+Antibiotics (Basel). 2022 Feb 6;11(2):205. doi: 10.3390/antibiotics11020205.
+PMID: 35203808; PMCID: PMC8868439.
+
+2: Leekitcharoenphon P, Pamp SJ, Andresen LO, Aarestrup FM. Comparative genomics
+of toxigenic and non-toxigenic Staphylococcus hyicus. Vet Microbiol. 2016 Mar
+15;185:34-40. doi: 10.1016/j.vetmic.2016.01.018. Epub 2016 Jan 25. PMID:
+26931389.
+
+3: Ma X, Yang N, Mao R, Hao Y, Yan X, Teng D, Wang J. The Pharmacodynamics Study
+of Insect Defensin DLP4 Against Toxigenic <i>Staphylococcus hyicus</i> ACCC
+61734 <i>in Vitro</i> and <i>Vivo</i>. Front Cell Infect Microbiol. 2021 May
+5;11:638598. doi: 10.3389/fcimb.2021.638598. PMID: 34026659; PMCID: PMC8131865.
+
+4: Li Y, Gou H, Chu P, Zhang K, Jiang Z, Cai R, Song S, Bian Z, Li C. Comparison
+of Host Cytokine Response in Piglets Infected With Toxigenic and Non-toxigenic
+<i>Staphylococcus hyicus</i>. Front Vet Sci. 2021 Feb 16;8:639141. doi:
+10.3389/fvets.2021.639141. PMID: 33665221; PMCID: PMC7920954.
+
+5: Wang L, Wu ZW, Li Y, Dong JG, Zhang LY, Liang PS, Liu YL, Zhao YH, Song CX.
+Profiling and Identification of Novel Immunogenic Proteins of Staphylococcus
+hyicus ZC-4 by Immunoproteomic Assay. PLoS One. 2016 Dec 8;11(12):e0167686. doi:
+10.1371/journal.pone.0167686. PMID: 27930728; PMCID: PMC5145190.
+
+6: Mencía-Ares O, Ramos-Calvo E, González-Fernández A, Aguarón-Turrientes Á,
+Pastor-Calonge AI, Miguélez-Pérez R, Gutiérrez-Martín CB, Martínez-Martínez S.
+Insights into the Virulence and Antimicrobial Resistance of <i>Staphylococcus
+hyicus</i> Isolates from Spanish Swine Farms. Antibiotics (Basel). 2024 Sep
+11;13(9):871. doi: 10.3390/antibiotics13090871. PMID: 39335044; PMCID:
+PMC11428503.
+
+7: Liu H, Yang N, Teng D, Mao R, Hao Y, Ma X, Wang J. Design and
+Pharmacodynamics of Recombinant Fungus Defensin NZL with Improved Activity
+against <i>Staphylococcus hyicus</i> In Vitro and In Vivo. Int J Mol Sci. 2021
+May 21;22(11):5435. doi: 10.3390/ijms22115435. PMID: 34063982; PMCID:
+PMC8196787.
+
+8: Gagné-Thivierge C, Vincent AT, Paquet VE, Gauthier M-L, Denicourt M, Lambert
+M-È, Charette SJ. Draft genome sequences of four <i>Staphylococcus hyicus</i>
+strains, SC302, SC304, SC306, and SC310, isolated from swine from Eastern
+Canada. Microbiol Resour Announc. 2023 Oct 19;12(10):e0062623. doi:
+10.1128/MRA.00626-23. Epub 2023 Sep 29. PMID: 37772837; PMCID: PMC10586159.
+
+9: Vaillancourt K, LeBel G, Yi L, Grenier D. In vitro antibacterial activity of
+plant essential oils against Staphylococcus hyicus and Staphylococcus aureus,
+the causative agents of exudative epidermitis in pigs. Arch Microbiol. 2018
+Sep;200(7):1001-1007. doi: 10.1007/s00203-018-1512-4. Epub 2018 Apr 5. PMID:
+29623386.
+
+10: Wang M, Hu J, Zhu L, Guo C, Lu H, Guo C, Li X, Wang X. A fatal suppurative
+pneumonia in piglets caused by a pathogenic coagulase-positive strain of
+Staphylococcus hyicus. Vet Res Commun. 2017 Jun;41(2):139-146. doi:
+10.1007/s11259-017-9682-0. Epub 2017 Feb 16. PMID: 28210926.
+
+11: Ludwig Takeuti K, Bernardi ML, Micke Moreno A, Emilio Santos Neves de
+Barcellos D. Assessment of different storage conditions for Staphylococcus
+hyicus survival. J Infect Dev Ctries. 2018 Jul 31;12(7):514-519. doi:
+10.3855/jidc.9886. PMID: 31953999.
+
+12: Calcutt MJ, Foecking MF, Hsieh HY, Adkins PR, Stewart GC, Middleton JR.
+Sequence Analysis of Staphylococcus hyicus ATCC 11249T, an Etiological Agent of
+Exudative Epidermitis in Swine, Reveals a Type VII Secretion System Locus and a
+Novel 116-Kilobase Genomic Island Harboring Toxin-Encoding Genes. Genome
+Announc. 2015 Feb 19;3(1):e01525-14. doi: 10.1128/genomeA.01525-14. PMID:
+25700402; PMCID: PMC4335327.

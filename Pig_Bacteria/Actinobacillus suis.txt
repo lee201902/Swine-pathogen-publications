@@ -1,0 +1,18 @@
+1: Silva APSP, Almeida M, Michael A, Rahe MC, Siepker C, Magstadt DR, Piñeyro P,
+Arruda BL, Macedo NR, Sahin O, Gauger PC, Krueger KM, Mugabi R, Streauslin JS,
+Trevisan G, Linhares DCL, Silva GS, Fano E, Main RG, Schwartz KJ, Burrough ER,
+Derscheid RJ, Sitthicharoenchai P, Clavijo MJ. Detection and disease diagnosis
+trends (2017-2022) for Streptococcus suis, Glaesserella parasuis, Mycoplasma
+hyorhinis, Actinobacillus suis and Mycoplasma hyosynoviae at Iowa State
+University Veterinary Diagnostic Laboratory. BMC Vet Res. 2023 Dec 12;19(1):268.
+doi: 10.1186/s12917-023-03807-w. PMID: 38087358; PMCID: PMC10714645.
+
+2: Kulathunga DGRS, Fakher AA, Costa MO. <i>Actinobacillus suis</i> isolated
+from diseased pigs are phylogenetically related but harbour different number of
+toxin gene copies in their genomes. Vet Rec Open. 2022 Oct 3;9(1):e45. doi:
+10.1002/vro2.45. PMID: 36213600; PMCID: PMC9528957.
+
+3: Ishihara M, Yamazaki Y, Katsuda K, Ito H. Phenotypic and genotypic
+characterization of Actinobacillus suis sensu stricto isolated from a dairy
+calf. J Vet Med Sci. 2022 May 1;84(5):624-627. doi: 10.1292/jvms.22-0044. Epub
+2022 Apr 5. PMID: 35387957; PMCID: PMC9177398.

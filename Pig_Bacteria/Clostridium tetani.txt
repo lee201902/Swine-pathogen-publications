@@ -1,0 +1,51 @@
+1: Rumiantsev SN. K voprosu biologicheskoĭ funktsii toksina Clostridium tetani
+(ékologicheskie i évolutsionnye aspekty [Biological function of Clostridium
+tetani toxin (ecological and evolutionary aspects)]. Zh Evol Biokhim Fiziol.
+1973 Sep-Oct;9(5):474-80. Russian. PMID: 4203684.
+
+2: Patris S, Vandeput M, Kenfack GM, Mertens D, Dejaegher B, Kauffmann JM. An
+experimental design approach to optimize an amperometric immunoassay on a screen
+printed electrode for Clostridium tetani antibody determination. Biosens
+Bioelectron. 2016 Mar 15;77:457-63. doi: 10.1016/j.bios.2015.09.064. Epub 2015
+Sep 30. PMID: 26454827.
+
+3: Ebert E, Abu Karim A, Kayser T, Wenig R, Weibetaer K, Wirz M, Pisani G,
+Schäffner G, Cubetaler K. Optimisation and establishing of serological methods
+for the potency testing of immunglobulins against Clostridium tetani-toxin.
+ALTEX. 1998;15(5):30-32. English. PMID: 11178535.
+
+4: Klose F, Schallehn G. Ein Beitrag zur aktiven und passiven Schutzimpfung
+gegen Clostridium novyi und Clostridium tetani. 2 [The active and passive
+vaccination against Clostridium novyi and Clostridium tetani. 2]. Z
+Immunitatsforsch Allerg Klin Immunol. 1969 Nov;138(5):480-7. German. PMID:
+4244400.
+
+5: Hendriksen C, van der Gun J, Winsnes R, Urdal T, Rautmann G, Esposito-Farese
+ME. Collaborative study for the establishment of a European Pharmacopoeia
+Biological Reference Preparation for serological potency testing of tetanus
+vaccines for human use: Clostridium tetani guinea pig antiserum (human).
+Pharmeuropa Spec Issue Biol. 2001 Aug;2001(1):7-11. PMID: 11705101.
+
+6: Klose F, Schallehn G. Ein Beitrag zur aktiven und passiven Schutzimpfung
+gegen Clostridium novyi und Clostridium tetani [A contribution on the active and
+passive vaccination against Clostridium novyi and Clostridium tetani]. Z
+Immunitatsforsch Allerg Klin Immunol. 1967 Dec;134(4):350-6. German. PMID:
+4233547.
+
+7: Podgornaia LG, Dziuban NF, Kalinichenko NF, Isaeva SIa. Preventivnye svoĭstva
+kompleksa anatoksinov sinegnoĭnoĭ i stolbniachnoĭ palochek v éksperimente
+[Experimental preventive properties of a complex of Pseudomonas aeruginosa and
+Clostridium tetani anatoxins]. Mikrobiol Zh (1978). 1987 Sep-Oct;49(5):55-8.
+Russian. PMID: 3150503.
+
+8: Shvarts SA, Stovbun SF, Bukova VE, Anisimova LA. Kharakteristika immunnogo
+otveta privitykh i intaktnykh éksperimental'nykh zhivotnykh na vvedenie
+toksigennogo i netoksigennogo shtammov Clostridium tetani [Characteristics of
+the immune response of inoculated and intact animals to the administration of
+toxigenic and nontoxigenic strains of Clostridium tetani]. Zh Mikrobiol
+Epidemiol Immunobiol. 1986 Mar;(3):82-6. Russian. PMID: 3518309.
+
+9: Stovbun SF, Bukova VE. Vliianie kul'tur Clostridium tetani na immunizatsiiu
+stolbniachnym anatoksinom v éksperimente [The effect of Clostridium tetani
+cultures on immunization with tetanus anatoxin in an experiment]. Zh Mikrobiol
+Epidemiol Immunobiol. 1995 Mar-Apr;(2):68-72. Russian. PMID: 7653141.

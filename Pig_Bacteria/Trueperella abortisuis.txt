@@ -1,0 +1,19 @@
+1: <i>Trueperella abortisuis</i> causing abortion in pigs in Scotland. Vet Rec.
+2019 Aug 10;185(6):162-165. doi: 10.1136/vr.l5083. PMID: 31395715.
+
+2: Alssahen M, Hassan AA, Wickhorst JP, Sammra O, Lämmler C, Glaeser SP, Kämpfer
+P, Timke M, Prenger-Berninghoff E, Abdulmawjood A. Epidemiological analysis of
+Trueperella abortisuis isolated from cases of pig abortion of a single farm.
+Folia Microbiol (Praha). 2020 Jun;65(3):491-496. doi:
+10.1007/s12223-019-00753-9. Epub 2019 Oct 29. PMID: 31664640.
+
+3: Ahmed MFE, Alssahen M, Lämmler C, Foster G, Kreitlow A, Hennig-Pauka I, Plötz
+M, Abdulmawjood A. Development of a loop-mediated isothermal amplification
+(LAMP) assay for molecular identification of Trueperella abortisuis isolated
+from pigs. Mol Cell Probes. 2022 Apr;62:101795. doi: 10.1016/j.mcp.2022.101795.
+Epub 2022 Feb 4. PMID: 35131429.
+
+4: Metzner M, Erhard M, Sammra O, Nagib S, Hijazin M, Alber J, Lämmler C,
+Abdulmawjood A, Prenger-Berninghoff E, Zschöck M, Hassan AA. Trueperella
+abortisuis, an emerging pathogen isolated from pigs in Germany. Berl Munch
+Tierarztl Wochenschr. 2013 Sep-Oct;126(9-10):423-6. PMID: 24199385.

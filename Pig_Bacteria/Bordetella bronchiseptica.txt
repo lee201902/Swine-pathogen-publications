@@ -1,0 +1,83 @@
+1: Nicholson TL, Bayles DO, Shore SM. Complete Genome Sequence of Bordetella
+bronchiseptica Strain KM22. Microbiol Resour Announc. 2020 Jan
+23;9(4):e01207-19. doi: 10.1128/MRA.01207-19. PMID: 31974149; PMCID: PMC6979298.
+
+2: Hosseindoust A, Choi Y, Ha S, Tajudeen H, Mun J, Kinara E, Kim Y, Kim J.
+Anti-Bordetella bronchiseptica effects of targeted bacteriophages via microbiome
+and metabolic mediated mechanisms. Sci Rep. 2023 Dec 8;13(1):21755. doi:
+10.1038/s41598-023-49248-1. PMID: 38066337; PMCID: PMC10709636.
+
+3: Hau SJ, Nielsen DW, Brockmeier SL. Prior infection with Bordetella
+bronchiseptica enhanced colonization but not disease with Streptococcus suis.
+Vet Microbiol. 2023 Sep;284:109841. doi: 10.1016/j.vetmic.2023.109841. Epub 2023
+Aug 1. PMID: 37542929.
+
+4: Kameyama H, Fujimoto Y, Tomioka Y, Yamamoto S, Suyama H, Inoue H, Takahashi
+E, Ono E. Pathogenicity of Bordetella bronchiseptica isolated from apparently
+healthy rabbits in guinea pig, rat, and mouse. J Vet Med Sci. 2022 Apr
+15;84(4):574-581. doi: 10.1292/jvms.21-0494. Epub 2022 Feb 11. PMID: 35153249;
+PMCID: PMC9096051.
+
+5: Nielsen DW, Hau SJ, Mou KT, Alt DP, Brockmeier SL. Shifts in the swine nasal
+microbiota following <i>Bordetella bronchiseptica</i> challenge in a
+longitudinal study. Front Microbiol. 2023 Sep 29;14:1260465. doi:
+10.3389/fmicb.2023.1260465. PMID: 37840723; PMCID: PMC10574184.
+
+6: Vötsch D, Willenborg M, Baumgärtner W, Rohde M, Valentin-Weigand P.
+Bordetella bronchiseptica promotes adherence, colonization, and cytotoxicity of
+Streptococcus suis in a porcine precision-cut lung slice model. Virulence. 2021
+Dec;12(1):84-95. doi: 10.1080/21505594.2020.1858604. PMID: 33372837; PMCID:
+PMC7781633.
+
+7: Barcala Salido JM, Mora-Delgado J, Lojo-Cruz C. <i>Bordetella
+bronchiseptica</i> pneumonia in an immunocompetent pig farmer. IDCases. 2022 Feb
+1;27:e01435. doi: 10.1016/j.idcr.2022.e01435. PMID: 35145865; PMCID: PMC8819078.
+
+8: Zhang Y, Yang H, Guo L, Zhao M, Wang F, Song W, Hua L, Wang L, Liang W, Tang
+X, Peng Z, Wu B. Isolation, Antimicrobial Resistance Phenotypes, and Virulence
+Genes of <i>Bordetella bronchiseptica</i> From Pigs in China, 2018-2020. Front
+Vet Sci. 2021 Jun 8;8:672716. doi: 10.3389/fvets.2021.672716. PMID: 34169108;
+PMCID: PMC8217433.
+
+9: Gupta A, Cortes-Dubly ML, Buellet P, Richard-Mazet A, Merdy O, Targa NL,
+Dumont P. Bordetella bronchiseptica experimental model development in pigs and
+efficacy evaluation of a single intramuscular injection of gamithromycin
+(Zactran® for Swine) against Bordetella bronchiseptica-associated respiratory
+disease in experimentally infected piglets. J Vet Pharmacol Ther. 2020
+Mar;43(2):197-207. doi: 10.1111/jvp.12834. Epub 2019 Dec 24. PMID: 31872885.
+
+10: Park GY, Yu HJ, Son JS, Park SJ, Cha HJ, Song KS. Specific bacteriophage of
+Bordetella bronchiseptica regulates B. bronchiseptica-induced microRNA
+expression profiles to decrease inflammation in swine nasal turbinate cells.
+Genes Genomics. 2020 Apr;42(4):441-447. doi: 10.1007/s13258-019-00906-7. Epub
+2020 Feb 7. PMID: 32034667; PMCID: PMC7095298.
+
+11: Wang Z, Zhang Y, Wang L, Wei J, Liu K, Shao D, Li B, Liu L, Widén F, Ma Z,
+Qiu Y. Comparative genomic analysis of Bordetella bronchiseptica isolates from
+the lungs of pigs with porcine respiratory disease complex (PRDC). Infect Genet
+Evol. 2020 Jul;81:104258. doi: 10.1016/j.meegid.2020.104258. Epub 2020 Feb 19.
+PMID: 32087347.
+
+12: Pérez-Ortega J, Van Harten RM, Van Boxtel R, Plisnier M, Louckx M, Ingels D,
+Haagsman HP, Tommassen J. Reduction of endotoxicity in Bordetella bronchiseptica
+by lipid A engineering: Characterization of lpxL1 and pagP mutants. Virulence.
+2021 Dec;12(1):1452-1468. doi: 10.1080/21505594.2021.1929037. PMID: 34053396;
+PMCID: PMC8168481.
+
+13: Lichterfeld H, Trittmacher S, Gerdes K, Schmies K, Miguel J, Galé I,
+Puigredon Fontanet A, Ballarà I, Tenbrink KM, Hennig-Pauka I. Porcine Nose
+Atrophy Assessed by Automatic Imaging and Detection of <i>Bordetella
+bronchiseptica</i> and Other Respiratory Pathogens in Lung and Nose. Animals
+(Basel). 2024 Oct 29;14(21):3113. doi: 10.3390/ani14213113. PMID: 39518836.
+
+14: Balhuizen MD, Versluis CM, van Harten RM, de Jonge EF, Brouwers JF, van de
+Lest CHA, Veldhuizen EJA, Tommassen J, Haagsman HP. PMAP-36 reduces the innate
+immune response induced by <i>Bordetella bronchiseptica</i>-derived outer
+membrane vesicles. Curr Res Microb Sci. 2020 Sep 25;2:100010. doi:
+10.1016/j.crmicr.2020.100010. PMID: 34841304; PMCID: PMC8610334.
+
+15: Yi L, Fan H, Yuan S, Li R, Wang H, Quan Y, Zhang H, Wang Y, Wang Y.
+Antimicrobial Resistance and Biofilm Formation of <i>Bordetella
+bronchiseptica</i> in Central China, with Evidence of a Rare Heteroresistance
+Strain to Gentamicin. Animals (Basel). 2024 Apr 25;14(9):1301. doi:
+10.3390/ani14091301. PMID: 38731305; PMCID: PMC11083638.

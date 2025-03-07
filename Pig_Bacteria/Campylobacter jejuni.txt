@@ -1,0 +1,148 @@
+1: Parker CT, Cooper KK, Schiaffino F, Miller WG, Huynh S, Gray HK, Olortegui
+MP, Bardales PG, Trigoso DR, Penataro-Yori P, Kosek MN. Genomic Characterization
+of <i>Campylobacter jejuni</i> Adapted to the Guinea Pig (<i>Cavia
+porcellus</i>) Host. Front Cell Infect Microbiol. 2021 Mar 18;11:607747. doi:
+10.3389/fcimb.2021.607747. PMID: 33816330; PMCID: PMC8012767.
+
+2: Vogt NA, Pearl DL, Taboada EN, Mutschall SK, Bondo KJ, Jardine CM.
+Epidemiology of Campylobacter jejuni in raccoons (Procyon lotor) on swine farms
+and in conservation areas in southern Ontario. Zoonoses Public Health. 2021
+Feb;68(1):19-28. doi: 10.1111/zph.12786. Epub 2020 Nov 23. PMID: 33226196.
+
+3: Linn KZ, Furuta M, Nakayama M, Masuda Y, Honjoh KI, Miyamoto T.
+Characterization and antimicrobial resistance of Campylobacter jejuni and
+Campylobacter coli isolated from chicken and pork. Int J Food Microbiol. 2021
+Dec 16;360:109440. doi: 10.1016/j.ijfoodmicro.2021.109440. Epub 2021 Oct 16.
+PMID: 34673329.
+
+4: Rzeznitzeck J, Breves G, Rychlik I, Hoerr FJ, von Altrock A, Rath A,
+Rautenschlein S.  The effect of Campylobacter jejuni and Campylobacter coli
+colonization on the gut morphology, functional integrity, and microbiota
+composition of female turkeys. Gut Pathog. 2022 Aug 3;14(1):33. doi:
+10.1186/s13099-022-00508-x. PMID: 35922874; PMCID: PMC9347085.
+
+5: Chagneau S, Gaucher ML, Thériault WP, Fravalo P, Thibodeau A. Observations
+supporting hypothetical commensalism and competition between two
+<i>Campylobacter jejuni</i> strains colonizing the broiler chicken gut. Front
+Microbiol. 2023 Jan 26;13:1071175. doi: 10.3389/fmicb.2022.1071175. PMID:
+36817113; PMCID: PMC9937062.
+
+6: Chagneau S, Gaucher ML, Fravalo P, Thériault WP, Thibodeau A. Intestinal
+Colonization of <i>Campylobacter jejuni</i> and Its Hepatic Dissemination Are
+Associated with Local and Systemic Immune Responses in Broiler Chickens.
+Microorganisms. 2023 Jun 28;11(7):1677. doi: 10.3390/microorganisms11071677.
+PMID: 37512849; PMCID: PMC10385864.
+
+7: Islam MS, Hasib FMY, Nath C, Ara J, Logno TA, Uddin MH, Khalil MI, Dutta P,
+Das T, Chowdhury S. Molecular detection and risk factors associated with
+multidrug-resistant Campylobacter jejuni from broiler cloacal and meat samples
+in Bangladesh. Zoonoses Public Health. 2022 Nov;69(7):843-855. doi:
+10.1111/zph.12975. Epub 2022 May 26. PMID: 35619326.
+
+8: Mulder AC, Franz E, de Rijk S, Versluis MAJ, Coipan C, Buij R, Müskens G,
+Koene M, Pijnacker R, Duim B, Bloois LVG, Veldman K, Wagenaar JA, Zomer AL,
+Schets FM, Blaak H, Mughini-Gras L. Tracing the animal sources of surface water
+contamination with Campylobacter jejuni and Campylobacter coli. Water Res. 2020
+Dec 15;187:116421. doi: 10.1016/j.watres.2020.116421. Epub 2020 Sep 20. PMID:
+32992147.
+
+9: Papadopoulos D, Petridou E, Papageorgiou K, Giantsis IA, Delis G, Economou V,
+Frydas I, Papadopoulos G, Hatzistylianou M, Kritas SK. Phenotypic and Molecular
+Patterns of Resistance among <i>Campylobacter coli</i> and <i>Campylobacter
+jejuni</i> Isolates, from Pig Farms. Animals (Basel). 2021 Aug 13;11(8):2394.
+doi: 10.3390/ani11082394. PMID: 34438851; PMCID: PMC8388618.
+
+10: Dias TS, Costa GA, de Almeida Figueira A, Dos Santos Machado L, da Cunha NC,
+do Nascimento ER, de Almeida Pereira VL, de Aquino MHC. Molecular markers
+associated with antimicrobial resistance and genotypes of Campylobacter jejuni
+and Campylobacter coli isolated from broiler and swine flocks in southeast
+Brazil. Comp Immunol Microbiol Infect Dis. 2022 Sep;88:101866. doi:
+10.1016/j.cimid.2022.101866. Epub 2022 Aug 18. PMID: 36027679.
+
+11: Hull DM, Harrel E, Harden L, Thakur S. Detection of resistance and virulence
+plasmids in Campylobacter coli and Campylobacter jejuni isolated from North
+Carolina food animal production, 2018-2019. Food Microbiol. 2023 Dec;116:104348.
+doi: 10.1016/j.fm.2023.104348. Epub 2023 Aug 11. PMID: 37689422.
+
+12: Denis M, Rose V, Nagard B, Thépault A, Lucas P, Meunier M, Benoit F, Wilhem
+A, Gassilloud B, Cauvin E, Rincé A, Gourmelon M. Comparative Analysis of
+<i>Campylobacter jejuni</i> and <i>C. coli</i> Isolated from Livestock Animals
+to <i>C. jejuni</i> and <i>C. coli</i> Isolated from Surface Water Using DNA
+Sequencing and MALDI-TOF. Pathogens. 2023 Aug 22;12(9):1069. doi:
+10.3390/pathogens12091069. PMID: 37764877; PMCID: PMC10535298.
+
+13: Dawson P, Buyukyavuz A, Ionita C, Northcutt J. Effects of DNA extraction
+methods on the real time PCR quantification of Campylobacter jejuni,
+Campylobacter coli, and Campylobacter lari in chicken feces and ceca contents.
+Poult Sci. 2023 Feb;102(2):102369. doi: 10.1016/j.psj.2022.102369. Epub 2022 Dec
+6. PMID: 36565641; PMCID: PMC9800320.
+
+14: Marotta F, Di Marcantonio L, Janowicz A, Pedonese F, Di Donato G, Ardelean
+A, Nuvoloni R, Di Giannatale E, Garofolo G. Genotyping and Antibiotic Resistance
+Traits in <i>Campylobacter jejuni</i> and <i>coli</i> From Pigs and Wild Boars
+in Italy. Front Cell Infect Microbiol. 2020 Oct 15;10:592512. doi:
+10.3389/fcimb.2020.592512. PMID: 33178635; PMCID: PMC7593542.
+
+15: Walker LJ, Wallace RL, Smith JJ, Graham T, Saputra T, Symes S,
+Stylianopoulos A, Polkinghorne BG, Kirk MD, Glass K. Prevalence of
+<i>Campylobacter coli</i> and <i>Campylobacter jejuni</i> in Retail Chicken,
+Beef, Lamb, and Pork Products in Three Australian States. J Food Prot. 2019
+Dec;82(12):2126-2134. doi: 10.4315/0362-028X.JFP-19-146. PMID: 31729918.
+
+16: Joensen KG, Kiil K, Gantzhorn MR, Nauerby B, Engberg J, Holt HM, Nielsen HL,
+Petersen AM, Kuhn KG, Sandø G, Ethelberg S, Nielsen EM. Whole-Genome Sequencing
+to Detect Numerous Campylobacter jejuni Outbreaks and Match Patient Isolates to
+Sources, Denmark, 2015-2017. Emerg Infect Dis. 2020 Mar;26(3):523-532. doi:
+10.3201/eid2603.190947. PMID: 32091364; PMCID: PMC7045838.
+
+17: Negretti NM, Ye Y, Malavasi LM, Pokharel SM, Huynh S, Noh S, Klima CL,
+Gourley CR, Ragle CA, Bose S, Looft T, Parker CT, Clair G, Adkins JN, Konkel ME.
+A porcine ligated loop model reveals new insight into the host immune response
+against <i>Campylobacter jejuni</i>. Gut Microbes. 2020 Nov 9;12(1):1-25. doi:
+10.1080/19490976.2020.1814121. PMID: 32887530; PMCID: PMC7524355.
+
+18: Lopez-Chavarrias V, Ugarte-Ruiz M, Barcena C, Olarra A, Garcia M, Saez JL,
+de Frutos C, Serrano T, Perez I, Moreno MA, Dominguez L, Alvarez J. Monitoring
+of Antimicrobial Resistance to Aminoglycosides and Macrolides in
+<i>Campylobacter coli</i> and <i>Campylobacter jejuni</i> From Healthy Livestock
+in Spain (2002-2018). Front Microbiol. 2021 Jul 2;12:689262. doi:
+10.3389/fmicb.2021.689262. PMID: 34276619; PMCID: PMC8283307.
+
+19: Šikić Pogačar M, Langerholc T, Mičetić-Turk D, Možina SS, Klančnik A. Effect
+of Lactobacillus spp. on adhesion, invasion, and translocation of Campylobacter
+jejuni in chicken and pig small-intestinal epithelial cell lines. BMC Vet Res.
+2020 Feb 3;16(1):34. doi: 10.1186/s12917-020-2238-5. PMID: 32013961; PMCID:
+PMC6998324.
+
+20: Yeh HY, Awad A, Rothrock MJ. Detection of Campylobacter jejuni diversity by
+clustered regularly interspaced short palindromic repeats (CRISPR) from an
+animal farm. Vet Med Sci. 2021 Nov;7(6):2381-2388. doi: 10.1002/vms3.622. Epub
+2021 Sep 12. PMID: 34510794; PMCID: PMC8604122.
+
+21: Mutschall SK, Hetman BM, Bondo KJ, Gannon VPJ, Jardine CM, Taboada EN.
+<i>Campylobacter jejuni</i> Strain Dynamics in a Raccoon (<i>Procyon lotor</i>)
+Population in Southern Ontario, Canada: High Prevalence and Rapid Subtype
+Turnover. Front Vet Sci. 2020 Feb 11;7:27. doi: 10.3389/fvets.2020.00027. PMID:
+32118057; PMCID: PMC7026257.
+
+22: Ruhnau D, Hess C, Grenier B, Doupovec B, Schatzmayr D, Hess M, Awad WA. The
+Mycotoxin Deoxynivalenol (DON) Promotes <i>Campylobacter jejuni</i>
+Multiplication in the Intestine of Broiler Chickens With Consequences on
+Bacterial Translocation and Gut Integrity. Front Vet Sci. 2020 Dec 9;7:573894.
+doi: 10.3389/fvets.2020.573894. PMID: 33363229; PMCID: PMC7756001.
+
+23: Dai L, Wu Z, Xu C, Sahin O, Yaeger M, Plummer PJ, Zhang Q. The Rho-
+Independent Transcription Terminator for the <i>porA</i> Gene Enhances
+Expression of the Major Outer Membrane Protein and Campylobacter jejuni
+Virulence in Abortion Induction. Infect Immun. 2019 Nov 18;87(12):e00687-19.
+doi: 10.1128/IAI.00687-19. PMID: 31570559; PMCID: PMC6867836.
+
+24: Hsu CH, Harrison L, Mukherjee S, Strain E, McDermott P, Zhang Q, Zhao S.
+Core Genome Multilocus Sequence Typing for Food Animal Source Attribution of
+Human <i>Campylobacter jejuni</i> Infections. Pathogens. 2020 Jul 2;9(7):532.
+doi: 10.3390/pathogens9070532. PMID: 32630646; PMCID: PMC7400327.
+
+25: Christanseen S, Walls D, White B, Murphy R, Horgan K. The Efficacy of a
+Ferric Sillen Core-Linked Polymer in Suppressing the Pathogenicity of
+<i>Campylobacter jejuni</i>. Animals (Basel). 2024 Nov 2;14(21):3150. doi:
+10.3390/ani14213150. PMID: 39518873.

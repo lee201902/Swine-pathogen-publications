@@ -1,0 +1,256 @@
+1: Mayer FQ, Bertagnolli AC. Finding factors associated with nasal shedding of
+<i>Mycobacterium tuberculosis</i> variant <i>bovis</i> in wild boar. Vet Rec.
+2019 Nov 23;185(20):627-628. doi: 10.1136/vr.l6355. PMID: 31757914.
+
+2: Creissen E, Izzo L, Dawson C, Izzo AA. Guinea Pig Model of Mycobacterium
+tuberculosis Infection. Curr Protoc. 2021 Dec;1(12):e312. doi: 10.1002/cpz1.312.
+Erratum in: Curr Protoc. 2022 Aug;2(8):e554. doi: 10.1002/cpz1.554. PMID:
+34941021.
+
+3: Manganelli R, Cioetto-Mazzabò L, Segafreddo G, Boldrin F, Sorze D, Conflitti
+M, Serafini A, Provvedi R. SigE: A master regulator of <i>Mycobacterium
+tuberculosis</i>. Front Microbiol. 2023 Mar 7;14:1075143. doi:
+10.3389/fmicb.2023.1075143. PMID: 36960291; PMCID: PMC10027907.
+
+4: Ruhl CR, Pasko BL, Khan HS, Kindt LM, Stamm CE, Franco LH, Hsia CC, Zhou M,
+Davis CR, Qin T, Gautron L, Burton MD, Mejia GL, Naik DK, Dussor G, Price TJ,
+Shiloh MU. Mycobacterium tuberculosis Sulfolipid-1 Activates Nociceptive Neurons
+and Induces Cough. Cell. 2020 Apr 16;181(2):293-305.e11. doi:
+10.1016/j.cell.2020.02.026. Epub 2020 Mar 5. PMID: 32142653; PMCID: PMC7102531.
+
+5: Tiwari P, Gosain TP, Chugh S, Singh M, Sankhe GD, Arora G, Kidwai S, Agarwal
+S, Saini DK, Singh R. Exopolyphosphatases PPX1 and PPX2 from Mycobacterium
+tuberculosis regulate dormancy response and pathogenesis. Microb Pathog. 2022
+Dec;173(Pt B):105885. doi: 10.1016/j.micpath.2022.105885. Epub 2022 Nov 18.
+PMID: 36403711.
+
+6: Larenas-Muñoz F, Ruedas-Torres I, Hunter L, Bird A, Agulló-Ros I, Winsbury R,
+Clark S, Rayner E, Salguero FJ. Characterisation and development of
+histopathological lesions in a guinea pig model of <i>Mycobacterium
+tuberculosis</i> infection. Front Vet Sci. 2023 Sep 22;10:1264200. doi:
+10.3389/fvets.2023.1264200. PMID: 37808110; PMCID: PMC10556493.
+
+7: Niroula N, Lim ZL, Walker S, Huang Y, Gerdts V, Zriba S, Drever K, Chen JM.
+Domestic pigs experimentally infected with Mycobacterium bovis and Mycobacterium
+tuberculosis exhibit different disease outcomes. Tuberculosis (Edinb). 2022
+Mar;133:102167. doi: 10.1016/j.tube.2022.102167. Epub 2022 Jan 20. PMID:
+35151010.
+
+8: Sarathy JP, Dartois V. Caseum: a Niche for Mycobacterium tuberculosis Drug-
+Tolerant Persisters. Clin Microbiol Rev. 2020 Apr 1;33(3):e00159-19. doi:
+10.1128/CMR.00159-19. PMID: 32238365; PMCID: PMC7117546.
+
+9: Kolloli A, Kumar R, Venketaraman V, Subbian S. Immunopathology of Pulmonary
+<i>Mycobacterium tuberculosis</i> Infection in a Humanized Mouse Model. Int J
+Mol Sci. 2024 Jan 29;25(3):1656. doi: 10.3390/ijms25031656. PMID: 38338937;
+PMCID: PMC10855034.
+
+10: Chauhan NK, Anand A, Sharma A, Dhiman K, Gosain TP, Singh P, Singh P, Khan
+E, Chattopadhyay G, Kumar A, Sharma D, Ashish, Sharma TK, Singh R. Structural
+and Functional Characterization of Rv0792c from Mycobacterium tuberculosis:
+Identifying Small Molecule Inhibitor against HutC Protein. Microbiol Spectr.
+2023 Feb 14;11(1):e0197322. doi: 10.1128/spectrum.01973-22. Epub 2022 Dec 12.
+PMID: 36507689; PMCID: PMC9927256.
+
+11: Davuluri KS, Singh SV, Chauhan DS. Bacterial dissemination in
+<i>Mycobacterium tuberculosis</i> by CD+ T-cells & proinflammatory cytokines.
+Indian J Med Res. 2023 Jan;158(1):40-46. doi: 10.4103/ijmr.ijmr_2143_21. PMID:
+37602585; PMCID: PMC10550058.
+
+12: Harris MC, Gary HE, Cooper SK, Ackart DF, Dilisio JE, Basaraba RJ, Cheng TY,
+van Rhijn I, Moody DB, Podell BK. Establishment of CD1b-restricted immunity to
+lipid antigens in the pulmonary response to <i>Mycobacterium tuberculosis</i>
+infection. bioRxiv [Preprint]. 2023 May 24:2023.05.23.541963. doi:
+10.1101/2023.05.23.541963. Update in: Infect Immun. 2024 Nov 4:e0038024. doi:
+10.1128/iai.00380-24. PMID: 37292852; PMCID: PMC10245897.
+
+13: Levillain F, Kim H, Woong Kwon K, Clark S, Cia F, Malaga W, Lanni F, Brodin
+P, Gicquel B, Guilhot C, Bancroft GJ, Williams A, Jae Shin S, Poquet Y,
+Neyrolles O. Preclinical assessment of a new live attenuated Mycobacterium
+tuberculosis Beijing-based vaccine for tuberculosis. Vaccine. 2020 Feb
+5;38(6):1416-1423. doi: 10.1016/j.vaccine.2019.11.085. Epub 2019 Dec 18. PMID:
+31862194.
+
+14: Guo X, Du W, Li J, Dong J, Shen X, Su C, Zhao A, Wu Y, Xu M. A Comparative
+Study on the Mechanism of Delayed-Type Hypersensitivity Mediated by the
+Recombinant <i>Mycobacterium tuberculosis</i> Fusion Protein ESAT6-CFP10 and
+Purified Protein Derivative. Int J Mol Sci. 2023 Nov 22;24(23):16612. doi:
+10.3390/ijms242316612. PMID: 38068935; PMCID: PMC10706316.
+
+15: Naz S, Paritosh K, Sanyal P, Khan S, Singh Y, Varshney U, Nandicoori VK.
+GWAS and functional studies suggest a role for altered DNA repair in the
+evolution of drug resistance in <i>Mycobacterium tuberculosis</i>. Elife. 2023
+Jan 25;12:e75860. doi: 10.7554/eLife.75860. PMID: 36695572; PMCID: PMC9876569.
+
+16: Mondal R, Dusthackeer V N A, Kannan P, Singh AK, Thiruvengadam K, Manikkam
+R, A S S, Balasubramanian M, Elango P, Ebenezer Rajadas S, Bharadwaj D, Arumugam
+GS, Ganesan S, Kumar A K H, Singh M, Patil S, U C A J, Doble M, R B, Tripathy
+SP, Kumar V. In-vivo studies on Transitmycin, a potent Mycobacterium
+tuberculosis inhibitor. PLoS One. 2023 Mar 3;18(3):e0282454. doi:
+10.1371/journal.pone.0282454. PMID: 36867599; PMCID: PMC9983862.
+
+17: Davuluri KS, Singh AK, Yadav VK, Singh AV, Singh SV, Chauhan DS. Dominant
+negative biologics normalise the tumour necrosis factor (TNF-α) induced
+angiogenesis which exploits the Mycobacterium tuberculosis dissemination. BMC
+Immunol. 2023 Nov 30;24(1):49. doi: 10.1186/s12865-023-00576-x. PMID: 38036985;
+PMCID: PMC10691138.
+
+18: Hernandez-Pando R, Shin SJ, Clark S, Casonato S, Becerril-Zambrano M, Kim H,
+Boldrin F, Mata-Espinoza D, Provvedi R, Arbues A, Marquina-Castillo B, Cioetto
+Mazzabò L, Barrios-Payan J, Martin C, Cho SN, Williams A, Manganelli R.
+Construction and Characterization of the Mycobacterium tuberculosis <i>sigE
+fadD26</i> Unmarked Double Mutant as a Vaccine Candidate. Infect Immun. 2019 Dec
+17;88(1):e00496-19. doi: 10.1128/IAI.00496-19. PMID: 31591165; PMCID:
+PMC6921654.
+
+19: Jia Q, Masleša-Galić S, Nava S, Horwitz MA. <i>Listeria</i>-Vectored
+Multiantigenic Tuberculosis Vaccine Enhances Protective Immunity against Aerosol
+Challenge with Virulent Mycobacterium tuberculosis in BCG-Immunized C57BL/6 and
+BALB/c Mice. mBio. 2022 Jun 28;13(3):e0068722. doi: 10.1128/mbio.00687-22. Epub
+2022 Jun 1. PMID: 35642945; PMCID: PMC9239278.
+
+20: Kandasamy S, Palaniyandi K, Gupta UD, Narayanan S. Double deletion of
+PknI/DacB2 leads to attenuation of Mycobacterium tuberculosis for growth and
+virulence. Tuberculosis (Edinb). 2020 Jul;123:101957. doi:
+10.1016/j.tube.2020.101957. Epub 2020 Jun 27. PMID: 32741534.
+
+21: Larenas-Muñoz F, Hamed MG, Ruedas-Torres I, María Sánchez-Carvajal J,
+Domínguez J, José Pallarés F, Carrasco L, Rodríguez-Gómez IM, Gómez-Laguna J.
+Macrophage polarization in lymph node granulomas from cattle and pigs naturally
+infected with <i>Mycobacterium tuberculosis</i> complex. Vet Pathol. 2024
+Sep;61(5):792-802. doi: 10.1177/03009858241231606. Epub 2024 Mar 1. PMID:
+38425277.
+
+22: Orgeur M, Frigui W, Pawlik A, Clark S, Williams A, Ates LS, Ma L, Bouchier
+C, Parkhill J, Brodin P, Brosch R. Pathogenomic analyses of <i>Mycobacterium
+microti,</i> an ESX-1-deleted member of the <i>Mycobacterium tuberculosis</i>
+complex causing disease in various hosts. Microb Genom. 2021 Feb;7(2):000505.
+doi: 10.1099/mgen.0.000505. PMID: 33529148; PMCID: PMC8208694.
+
+23: Agarwal S, Sharma A, Bouzeyen R, Deep A, Sharma H, Mangalaparthi KK, Datta
+KK, Kidwai S, Gowda H, Varadarajan R, Sharma RD, Thakur KG, Singh R. VapBC22
+toxin-antitoxin system from <i>Mycobacterium tuberculosis</i> is required for
+pathogenesis and modulation of host immune response. Sci Adv. 2020 Jun
+3;6(23):eaba6944. doi: 10.1126/sciadv.aba6944. PMID: 32537511; PMCID:
+PMC7269643.
+
+24: Fox GJ, Redwood L, Chang V, Ho J. The Effectiveness of Individual and
+Environmental Infection Control Measures in Reducing the Transmission of
+Mycobacterium tuberculosis: A Systematic Review. Clin Infect Dis. 2021 Jan
+23;72(1):15-26. doi: 10.1093/cid/ciaa719. PMID: 32502271.
+
+25: Lekko YM, Che-Amat A, Ooi PT, Omar S, Mohd-Hamdan DT, Linazah LS, Zakaria Z,
+Ramanoon SZ, Mazlan M, Jesse FFA, Abdul-Razak MFA, Jasni S, Abdul-Hamid N.
+Detection of Mycobacterium tuberculosis complex antibodies in free-ranged wild
+boar and wild macaques in selected districts in Selangor and reevaluation of
+tuberculosis serodetection in captive Asian elephants in Pahang, Peninsular
+Malaysia. J Vet Med Sci. 2021 Oct 31;83(11):1702-1707. doi:
+10.1292/jvms.21-0144. Epub 2021 Sep 20. PMID: 34544936; PMCID: PMC8636890.
+
+26: Risco D, Martínez R, Bravo M, Fernández Llario P, Cerrato R, Garcia-Jiménez
+WL, Gonçalves P, García A, Barquero-Pérez Ó, Quesada A, Hermoso de Mendoza J.
+Nasal shedding of <i>Mycobacterium tuberculosis</i> in wild boar is related to
+generalised tuberculosis and concomitant infections. Vet Rec. 2019 Nov
+23;185(20):629. doi: 10.1136/vr.105511. Epub 2019 Sep 12. PMID: 31515441.
+
+27: Aagaard C, Knudsen NPH, Sohn I, Izzo AA, Kim H, Kristiansen EH, Lindenstrøm
+T, Agger EM, Rasmussen M, Shin SJ, Rosenkrands I, Andersen P, Mortensen R.
+Immunization with <i>Mycobacterium tuberculosis</i>-Specific Antigens Bypasses T
+Cell Differentiation from Prior Bacillus Calmette-Guérin Vaccination and
+Improves Protection in Mice. J Immunol. 2020 Oct 15;205(8):2146-2155. doi:
+10.4049/jimmunol.2000563. Epub 2020 Sep 4. PMID: 32887748; PMCID: PMC7533711.
+
+28: Lee Y, Seo H, Kim S, Rahim MDA, Yoon Y, Jung J, Lee S, Beom Ryu C, Song HY.
+Activity of Lactobacillus crispatus isolated from vaginal microbiota against
+Mycobacterium tuberculosis. J Microbiol. 2021 Nov;59(11):1019-1030. doi:
+10.1007/s12275-021-1332-0. Epub 2021 Nov 1. PMID: 34724180.
+
+29: Pahari S, Negi S, Aqdas M, Arnett E, Schlesinger LS, Agrewala JN. Induction
+of autophagy through CLEC4E in combination with TLR4: an innovative strategy to
+restrict the survival of <i>Mycobacterium tuberculosis</i>. Autophagy. 2020
+Jun;16(6):1021-1043. doi: 10.1080/15548627.2019.1658436. Epub 2019 Sep 8. PMID:
+31462144; PMCID: PMC7469444.
+
+30: Larenas-Muñoz F, Sánchez-Carvajal JM, Ruedas-Torres I, Álvarez-Delgado C,
+Fristiková K, Pallarés FJ, Carrasco L, Chicano-Gálvez E, Rodríguez-Gómez IM,
+Gómez-Laguna J. Proteomic analysis of granulomas from cattle and pigs naturally
+infected with <i>Mycobacterium tuberculosis</i> complex by MALDI imaging. Front
+Immunol. 2024 Jul 3;15:1369278. doi: 10.3389/fimmu.2024.1369278. PMID: 39021575;
+PMCID: PMC11252589.
+
+31: Harris MC, Gary HE, Cooper SK, Ackart DF, DiLisio JE, Basaraba RJ, Cheng
+T-Y, van Rhijn I, Branch Moody D, Podell BK. Establishment of CD1b-restricted
+immunity to lipid antigens in the pulmonary response to <i>Mycobacterium
+tuberculosis</i> infection. Infect Immun. 2024 Nov 4:e0038024. doi:
+10.1128/iai.00380-24. Epub ahead of print. PMID: 39494875.
+
+32: Hilpert K, Munshi T, López-Pérez PM, Sequeira-Garcia J, Hofmann S, Bull TJ.
+Discovery of Antimicrobial Peptides That Can Accelerate Culture Diagnostics of
+Slow-Growing Mycobacteria Including <i>Mycobacterium tuberculosis</i>.
+Microorganisms. 2023 Sep 2;11(9):2225. doi: 10.3390/microorganisms11092225.
+PMID: 37764069; PMCID: PMC10536189.
+
+33: Nol P, Ionescu R, Geremariam Welearegay T, Barasona JA, Vicente J, de Jesus
+Beleño-Sáenz K, Barrenetxea I, Jose Torres M, Ionescu F, Rhyan J. Evaluation of
+Volatile Organic Compounds Obtained from Breath and Feces to Detect
+<i>Mycobacterium tuberculosis</i> Complex in Wild Boar (<i>Sus scrofa</i>) in
+Doñana National Park, Spain. Pathogens. 2020 May 2;9(5):346. doi:
+10.3390/pathogens9050346. PMID: 32370281; PMCID: PMC7281121.
+
+34: Sharma A, Singh N, Bhasin M, Tiwari P, Chopra P, Varadarajan R, Singh R.
+Deciphering the role of VapBC13 and VapBC26 toxin antitoxin systems in the
+pathophysiology of Mycobacterium tuberculosis. Commun Biol. 2024 Oct
+30;7(1):1417. doi: 10.1038/s42003-024-06998-6. PMID: 39478197; PMCID:
+PMC11525840.
+
+35: Juste RA, Fernández-Veiga L, Fuertes M, Fernández-Ortiz de Murua I, Cardona
+G, Geijo MV, Garrido JM, Sevilla IA. A humoral diagnostic test outperforms
+cellular tests in a farm with a latent tuberculosis outbreak caused by a new
+<i>Mycobacterium tuberculosis</i> complex spoligotype that affected sheep but
+not goats. Front Vet Sci. 2024 Jan 22;10:1310205. doi:
+10.3389/fvets.2023.1310205. PMID: 38317788; PMCID: PMC10839146.
+
+36: Naz S, Dabral S, Nagarajan SN, Arora D, Singh LV, Kumar P, Singh Y, Kumar D,
+Varshney U, Nandicoori VK. Compromised base excision repair pathway in
+Mycobacterium tuberculosis imparts superior adaptability in the host. PLoS
+Pathog. 2021 Mar 19;17(3):e1009452. doi: 10.1371/journal.ppat.1009452. PMID:
+33740020; PMCID: PMC8011731.
+
+37: Tiwari S, Dutt TS, Chen B, Chen M, Kim J, Dai AZ, Lukose R, Shanley C, Fox
+A, Karger BR, Porcelli SA, Chan J, Podell BK, Obregon-Henao A, Orme IM, Jacobs
+WR Jr, Henao-Tamayo M. BCG-Prime and boost with Esx-5 secretion system deletion
+mutant leads to better protection against clinical strains of Mycobacterium
+tuberculosis. Vaccine. 2020 Oct 21;38(45):7156-7165. doi:
+10.1016/j.vaccine.2020.08.004. Epub 2020 Sep 23. PMID: 32978002; PMCID:
+PMC7755135.
+
+38: Aarthi Y, Anjana A, Tejal G, Shanmugaraja M, Ramadevi S, Princess R. A
+Simple and Rapid Method of Probiotic Bacterial Ghost Cell Preparation to Deliver
+Mycobacterium tuberculosis Antigen. Mol Biotechnol. 2024 Aug 20. doi:
+10.1007/s12033-024-01260-0. Epub ahead of print. PMID: 39162910.
+
+39: Orłowska B, Didkowska A, Krajewska-Wędzina M, Welz M, Anusz K. No evidence
+of <i>Mycobacterium tuberculosis</i> complex infection in samples from cervids
+in various regions of Poland. Ann Agric Environ Med. 2023 Jun 26;30(2):390-393.
+doi: 10.26444/aaem/161287. Epub 2023 Mar 15. PMID: 37387392.
+
+40: Varela-Castro L, Alvarez V, Sevilla IA, Barral M. Risk factors associated to
+a high Mycobacterium tuberculosis complex seroprevalence in wild boar (Sus
+scrofa) from a low bovine tuberculosis prevalence area. PLoS One. 2020 Apr
+17;15(4):e0231559. doi: 10.1371/journal.pone.0231559. PMID: 32302328; PMCID:
+PMC7164644.
+
+41: Bottai D, Frigui W, Sayes F, Di Luca M, Spadoni D, Pawlik A, Zoppo M, Orgeur
+M, Khanna V, Hardy D, Mangenot S, Barbe V, Medigue C, Ma L, Bouchier C, Tavanti
+A, Larrouy-Maumus G, Brosch R. TbD1 deletion as a driver of the evolutionary
+success of modern epidemic Mycobacterium tuberculosis lineages. Nat Commun. 2020
+Feb 4;11(1):684. doi: 10.1038/s41467-020-14508-5. PMID: 32019932; PMCID:
+PMC7000671.
+
+42: de Jesús Beleño-Sáenz K, Cáceres-Tarazona JM, Nol P, Jaimes-Mogollón AL,
+Gualdrón-Guerrero OE, Durán-Acevedo CM, Barasona JA, Vicente J, Torres MJ,
+Welearegay TG, Österlund L, Rhyan J, Ionescu R. Non-Invasive Method to Detect
+Infection with <i>Mycobacterium tuberculosis</i> Complex in Wild Boar by
+Measurement of Volatile Organic Compounds Obtained from Feces with an Electronic
+Nose System. Sensors (Basel). 2021 Jan 15;21(2):584. doi: 10.3390/s21020584.
+PMID: 33467480; PMCID: PMC7829825.

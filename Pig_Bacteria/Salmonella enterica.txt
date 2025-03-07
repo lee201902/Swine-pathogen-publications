@@ -1,0 +1,626 @@
+1: Richards AK, Kue S, Norris CG, Shariat NW. Genomic and phenotypic
+characterization of <i>Salmonella enterica</i> serovar Kentucky. Microb Genom.
+2023 Sep;9(9):001089. doi: 10.1099/mgen.0.001089. PMID: 37750759; PMCID:
+PMC10569734.
+
+2: Siddi G, Piras F, Spanu V, Demontis M, Meloni MP, Sanna R, Cibin V, De Santis
+EPL, Scarano C. Trend of <i>Salmonella enterica</i> occurrence and serotypes in
+Sardinian pig slaughterhouses. Ital J Food Saf. 2021 Aug 25;10(2):9362. doi:
+10.4081/ijfs.2021.9362. PMID: 34532301; PMCID: PMC8419715.
+
+3: Mao Y, Zeineldin M, Usmani M, Jutla A, Shisler JL, Whitaker RJ, Nguyen TH.
+Local and Environmental Reservoirs of <i>Salmonella enterica</i> After Hurricane
+Florence Flooding. Geohealth. 2023 Nov 3;7(11):e2023GH000877. doi:
+10.1029/2023GH000877. PMID: 37928215; PMCID: PMC10624599.
+
+4: Rocha MD, Chaves RD, Freire L, Pia AKR, Furtado MM, Alvarenga VO, Crucello A,
+Lopes LS, Santos AFM, Rodrigues DP, Sant'Ana AS. Salmonella enterica in soybean
+production chain: Occurrence, characterization, and survival during soybean
+storage. Int J Food Microbiol. 2022 Jul 2;372:109695. doi:
+10.1016/j.ijfoodmicro.2022.109695. Epub 2022 Apr 29. PMID: 35509145.
+
+5: Harrison OL, Rensing S, Jones CK, Trinetta V. Salmonella enterica
+4,[5],12:i:-, an Emerging Threat for the Swine Feed and Pork Production
+Industry. J Food Prot. 2022 Apr 1;85(4):660-663. doi: 10.4315/JFP-21-400. PMID:
+34936694.
+
+6: Bearson SMD, Trachsel JM, Bearson BL, Loving CL, Kerr BJ, Shippy DC, Kiros
+TG. Effects of β-glucan on Salmonella enterica serovar Typhimurium swine
+colonization and microbiota alterations. Porcine Health Manag. 2023 Feb
+14;9(1):7. doi: 10.1186/s40813-023-00302-4. PMID: 36782292; PMCID: PMC9926856.
+
+7: Fjelkner J, Hultén C, Jacobson M, Nörregård E, Young B. Salmonella enterica
+subspecies enterica serovar Choleraesuis in a Swedish gilt-producing herd, a
+case report. Porcine Health Manag. 2023 Jul 28;9(1):35. doi:
+10.1186/s40813-023-00329-7. PMID: 37507796; PMCID: PMC10375609.
+
+8: Poomchuchit S, Kerdsin A, Chopjitt P, Boueroy P, Hatrongjit R, Akeda Y,
+Tomono K, Nuanualsuwan S, Hamada S. Fluoroquinolone resistance in non-typhoidal
+<i>Salmonella enterica</i> isolated from slaughtered pigs in Thailand. J Med
+Microbiol. 2021 Jul;70(7). doi: 10.1099/jmm.0.001386. PMID: 34319224.
+
+9: Harrison OL, Gebhardt JT, Paulk CB, Plattner BL, Woodworth JC, Rensing S,
+Jones CK, Trinetta V. Inoculation of Weaned Pigs by Feed, Water, and Airborne
+Transmission of Salmonella enterica Serotype 4,[5],12:i: J Food Prot. 2022 Apr
+1;85(4):693-700. doi: 10.4315/JFP-21-418. PMID: 35076710.
+
+10: Gomes-Neto JC, Pavlovikj N, Korth N, Naberhaus SA, Arruda B, Benson AK,
+Kreuder AJ. <i>Salmonella enterica</i> induces biogeography-specific changes in
+the gut microbiome of pigs. Front Vet Sci. 2023 Sep 14;10:1186554. doi:
+10.3389/fvets.2023.1186554. PMID: 37781286; PMCID: PMC10537282.
+
+11: Zhang K, Wang Z, Wang P, Xu H, Jiao X, Li Q. Prevalence and genetic
+characteristics of Salmonella enterica serovar Meleagridis from animals and
+humans. Vet Microbiol. 2024 Mar;290:109993. doi: 10.1016/j.vetmic.2024.109993.
+Epub 2024 Jan 15. PMID: 38278043.
+
+12: Kuus K, Kramarenko T, Sõgel J, Mäesaar M, Fredriksson-Ahomaa M, Roasto M.
+Prevalence and Serotype Diversity of <i>Salmonella enterica</i> in the Estonian
+Meat Production Chain in 2016-2020. Pathogens. 2021 Dec 14;10(12):1622. doi:
+10.3390/pathogens10121622. PMID: 34959577; PMCID: PMC8708786.
+
+13: Zhou A, Li J, Xu Z, Ni J, Guo J, Yao YF, Wu W. Whole-Genome Comparative and
+Pathogenicity Analysis of <i>Salmonella enterica</i> subsp. <i>enterica</i>
+Serovar Rissen. G3 (Bethesda). 2020 Jul 7;10(7):2159-2170. doi:
+10.1534/g3.120.401201. PMID: 32358017; PMCID: PMC7341144.
+
+14: Puangseree J, Prathan R, Srisanga S, Angkittitrakul S, Chuanchuen R. Plasmid
+profile analysis of <i>Escherichia coli</i> and <i>Salmonella enterica</i>
+isolated from pigs, pork and humans. Epidemiol Infect. 2022 May 10;150:e110.
+doi: 10.1017/S0950268822000814. PMID: 35535461; PMCID: PMC9214845.
+
+15: Li H, Wu Y, Feng D, Jiang Q, Li S, Rong J, Zhong L, Methner U, Baxter L, Ott
+S, Falush D, Li Z, Deng X, Lu X, Ren Y, Kan B, Zhou Z. Centralized
+industrialization of pork in Europe and America contributes to the global spread
+of Salmonella enterica. Nat Food. 2024 May;5(5):413-422. doi:
+10.1038/s43016-024-00968-1. Epub 2024 May 9. PMID: 38724686; PMCID: PMC11132987.
+
+16: Lai J, Mu H, Zhou B, He J, Cheng X, Gan Y, Zhao M, Xie M, Zhang Y, He Y,
+Yang Y, Wang J, Wang H, Ding H. <i>Bla</i><sub>TEM</sub>-positive <i>Salmonella
+enterica</i> serovars Agona and Derby are prevalent among food-producing animals
+in Chongqing, China. Front Microbiol. 2023 May 25;14:1011719. doi:
+10.3389/fmicb.2023.1011719. PMID: 37303807; PMCID: PMC10248161.
+
+17: Ofori LA, Fosu D, Ofori S, Akenten CW, Flieger A, Simon S, Jaeger A,
+Lamshöft M, May J, Obiri-Danso K, Phillips R, Chercos DH, Paintsil EK, Dekker D.
+Salmonella enterica in farm environments in the Ashanti Region of Ghana. BMC
+Microbiol. 2023 Nov 29;23(1):370. doi: 10.1186/s12866-023-03121-3. PMID:
+38030982; PMCID: PMC10685596.
+
+18: Qin W, Ren Z, Xu C, Cao YN, Sun MA, Huang R, Bao W. Chromatin Accessibility
+and Transcriptional Landscape during Inhibition of <i>Salmonella enterica</i> by
+<i>Lactobacillus reuteri</i> in IPEC-J2 Cells. Cells. 2023 Mar 22;12(6):968.
+doi: 10.3390/cells12060968. PMID: 36980306; PMCID: PMC10046971.
+
+19: Retamal P, Gaspar J, Benavides MB, Saenz L, Galarce N, Aravena T, Cornejo J,
+Lapierre L. Virulence and antimicrobial resistance factors in <i>Salmonella
+enterica</i> serotypes isolated from pigs and chickens in central Chile. Front
+Vet Sci. 2022 Sep 20;9:971246. doi: 10.3389/fvets.2022.971246. PMID: 36204291;
+PMCID: PMC9530323.
+
+20: Trachsel JM, Bearson BL, Brunelle BW, Bearson SMD. Relationship and
+distribution of Salmonella enterica serovar I 4,[5],12:i:- strain sequences in
+the NCBI Pathogen Detection database. BMC Genomics. 2022 Apr 6;23(1):268. doi:
+10.1186/s12864-022-08458-z. PMID: 35387579; PMCID: PMC8985322.
+
+21: Kongsoi S, Chumsing S, Satorn D, Noourai P. Serotypes and antimicrobial
+resistance profiles of <i>Salmonella enterica</i> recovered from clinical swine
+samples. Vet World. 2020 Nov;13(11):2312-2318. doi:
+10.14202/vetworld.2020.2312-2318. Epub 2020 Nov 3. PMID: 33363320; PMCID:
+PMC7750222.
+
+22: Trinetta V, Magossi G, Allard MW, Tallent SM, Brown EW, Lomonaco S.
+Characterization of <i>Salmonella enterica</i> Isolates from Selected U.S. Swine
+Feed Mills by Whole-Genome Sequencing. Foodborne Pathog Dis. 2020
+Feb;17(2):126-136. doi: 10.1089/fpd.2019.2701. Epub 2019 Nov 8. PMID: 31702400.
+
+23: Wottlin LR, Harvey RB, Norman KN, Burciaga S, Loneragan GH, Droleskey RE,
+Anderson RC. Prevalence and Antimicrobial Resistance of Nontyphoidal Salmonella
+enterica from Head Meat and Trim for Ground Product at Pork Processing
+Facilities. J Food Prot. 2022 Jul 1;85(7):1008-1016. doi: 10.4315/JFP-22-049.
+PMID: 35499403.
+
+24: Lin Y, Liu Y, Zhang Y, Yuan W, Wang D, Zhu W. Biological and genomic
+characterization of a polyvalent bacteriophage (S19cd) strongly inhibiting
+Salmonella enterica serovar Choleraesuis. Vet Microbiol. 2023 Sep;284:109822.
+doi: 10.1016/j.vetmic.2023.109822. Epub 2023 Jun 29. PMID: 37437367.
+
+25: Berri M, Hogan D, Saade G, Roche S, Velge P, Virlogeux-Payant I, Meurens F.
+IPEC-1 variable immune response to different serovars of Salmonella enterica
+subsp. enterica. Vet Immunol Immunopathol. 2020 Feb;220:109989. doi:
+10.1016/j.vetimm.2019.109989. Epub 2019 Dec 2. PMID: 31841890.
+
+26: Savic B, Zdravkovic N, Radanovic O, Jezdimirovic N, Kureljusic B,
+Stevancevic O. A <i>Salmonella enterica</i> subspecies <i>enterica</i> serovar
+Choleraesuis outbreak in weaned piglets in Serbia: clinical signs, pathologic
+changes, and microbiologic features. J Vet Diagn Invest. 2021 Sep;33(5):993-996.
+doi: 10.1177/10406387211025507. Epub 2021 Jul 8. PMID: 34238070; PMCID:
+PMC8366251.
+
+27: Parada J, Galas M, Faccone D, Tamiozzo P, Carranza A. Antibiotic resistance
+and associated resistance determinants in different <i>Salmonella enterica</i>
+serovars isolated from pigs in Argentina. Vet World. 2022 May;15(5):1215-1220.
+doi: 10.14202/vetworld.2022.1215-1220. Epub 2022 May 20. PMID: 35765497; PMCID:
+PMC9210835.
+
+28: Tang B, Elbediwi M, Nambiar RB, Yang H, Lin J, Yue M. Genomic
+Characterization of Antimicrobial-Resistant Salmonella enterica in Duck,
+Chicken, and Pig Farms and Retail Markets in Eastern China. Microbiol Spectr.
+2022 Oct 26;10(5):e0125722. doi: 10.1128/spectrum.01257-22. Epub 2022 Sep 1.
+PMID: 36047803; PMCID: PMC9603869.
+
+29: Vilela FP, Rodrigues DDP, Ferreira JC, Darini ALDC, Allard MW, Falcão JP.
+Genomic characterization of Salmonella enterica serovar Choleraesuis from Brazil
+reveals a swine gallbladder isolate harboring colistin resistance gene mcr-1.1.
+Braz J Microbiol. 2022 Dec;53(4):1799-1806. doi: 10.1007/s42770-022-00812-3.
+Epub 2022 Aug 19. PMID: 35984599; PMCID: PMC9679059.
+
+30: Larivière-Gauthier G, Thibodeau A, Yergeau É, Fravalo P. Sows affect their
+piglets' faecal microbiota until fattening but not their Salmonella enterica
+shedding status. Lett Appl Microbiol. 2021 Feb;72(2):113-120. doi:
+10.1111/lam.13406. Epub 2020 Nov 9. PMID: 33030230.
+
+31: Emond-Rheault JG, Hamel J, Jeukens J, Freschi L, Kukavica-Ibrulj I, Boyle B,
+Tamber S, Malo D, Franz E, Burnett E, Daigle F, Arya G, Sanderson K, Wiedmann M,
+Slawson RM, Weadge JT, Stephan R, Bekal S, Gruenheid S, Goodridge LD, Levesque
+RC. The <i>Salmonella enterica</i> Plasmidome as a Reservoir of Antibiotic
+Resistance. Microorganisms. 2020 Jul 8;8(7):1016. doi:
+10.3390/microorganisms8071016. PMID: 32650601; PMCID: PMC7409225.
+
+32: Slowey R, Kim SW, Prendergast D, Madigan G, Van Kessel JAS, Haley BJ.
+Genomic diversity and resistome profiles of Salmonella enterica subsp. enterica
+serovar Kentucky isolated from food and animal sources in Ireland. Zoonoses
+Public Health. 2022 Feb;69(1):1-12. doi: 10.1111/zph.12884. Epub 2021 Oct 30.
+PMID: 34716745.
+
+33: Calayag AMB, Widmer KW, Rivera WL. Antimicrobial Susceptibility and
+Frequency of <i>bla</i> and <i>qnr</i> Genes in <i>Salmonella enterica</i>
+Isolated from Slaughtered Pigs. Antibiotics (Basel). 2021 Nov 24;10(12):1442.
+doi: 10.3390/antibiotics10121442. PMID: 34943653; PMCID: PMC8698178.
+
+34: Abrahão CR, Moreno LZ, Silva JCR, Benites NR, Matajira CEC, Ferreira F,
+Moreno AM, Dias RA. <i>Salmonella enterica</i> in Invasive Lizard from Fernando
+de Noronha Archipelago: Serotyping, Antimicrobial Resistance and Molecular
+Epidemiology. Microorganisms. 2020 Dec 17;8(12):2017. doi:
+10.3390/microorganisms8122017. PMID: 33348534; PMCID: PMC7766374.
+
+35: Prasertsee T, Pascoe B, Patchanee P. Colistin resistance and resistance
+determinants are mobile among <i>Salmonella enterica</i> isolates from diseased
+and healthy pigs in Thailand. bioRxiv [Preprint]. 2023 Feb 1:2023.01.31.526471.
+doi: 10.1101/2023.01.31.526471. PMID: 36778303; PMCID: PMC9915662.
+
+36: Plumb ID, Brown AC, Stokes EK, Chen JC, Carleton H, Tolar B, Sundararaman P,
+Saupe A, Payne DC, Shah HJ, Folster JP, Friedman CR. Increased Multidrug-
+Resistant Salmonella enterica I Serotype 4,[5],12:i:- Infections Associated with
+Pork, United States, 2009-2018. Emerg Infect Dis. 2023 Feb;29(2):314–22. doi:
+10.3201/eid2902.220950. PMID: 36692335; PMCID: PMC9881761.
+
+37: Flórez NY, Arévalo SA, Rodríguez EC, Guerrero J, Valverde KP, Díaz PL,
+Montaño LA, Gartner DM, Duarte C, Moreno JE. An outbreak of Salmonella enterica
+subsp. enterica serovar Give associated with foodborne illness in the department
+of Vichada, Colombia, 2015. Biomedica. 2021 Mar 19;41(1):41-51. English,
+Spanish. doi: 10.7705/biomedica.5206. PMID: 33761188; PMCID: PMC8055591.
+
+38: Merlotti A, Manfreda G, Munck N, Hald T, Litrup E, Nielsen EM, Remondini D,
+Pasquali F. Network Approach to Source Attribution of <i>Salmonella enterica</i>
+Serovar Typhimurium and Its Monophasic Variant. Front Microbiol. 2020 Jun
+16;11:1205. doi: 10.3389/fmicb.2020.01205. PMID: 34354676; PMCID: PMC8335978.
+
+39: Zuckermann FA, Husmann R, Chen W, Roady P, Pfeiff J, Leistikow KR,
+Duersteler M, Son S, King MR, Augspurger NR. <i>Bacillus</i>-Based Direct-Fed
+Microbial Reduces the Pathogenic Synergy of a Coinfection with Salmonella
+enterica Serovar Choleraesuis and Porcine Reproductive and Respiratory Syndrome
+Virus. Infect Immun. 2022 Apr 21;90(4):e0057421. doi: 10.1128/iai.00574-21. Epub
+2022 Mar 7. PMID: 35254092; PMCID: PMC9022502.
+
+40: Vázquez X, García-Fierro R, Fernández J, Bances M, Herrero-Fresno A, Olsen
+JE, Rodicio R, Ladero V, García V, Rodicio MR. Incidence and Genomic Background
+of Antibiotic Resistance in Food-Borne and Clinical Isolates of <i>Salmonella
+enterica</i> Serovar Derby from Spain. Antibiotics (Basel). 2023 Jul
+19;12(7):1204. doi: 10.3390/antibiotics12071204. PMID: 37508300; PMCID:
+PMC10376468.
+
+41: Cruzen SM, Cetin-Karaca H, Tarté R, Sebranek JG, Dickson JS. Survival of
+Clostridium perfringens, Staphylococcus aureus and Salmonella enterica in
+alternatively cured bacon during cooking and process deviations. Meat Sci. 2022
+Feb;184:108687. doi: 10.1016/j.meatsci.2021.108687. Epub 2021 Sep 30. PMID:
+34656001.
+
+42: Bescucci DM, Moote PE, Ortega Polo R, Uwiera RRE, Inglis GD. Salmonella
+enterica Serovar Typhimurium Temporally Modulates the Enteric Microbiota and
+Host Responses To Overcome Colonization Resistance in Swine. Appl Environ
+Microbiol. 2020 Oct 15;86(21):e01569-20. doi: 10.1128/AEM.01569-20. PMID:
+32859592; PMCID: PMC7580545.
+
+43: Trachsel JM, Bearson BL, Kerr BJ, Shippy DC, Byrne KA, Loving CL, Bearson
+SMD. Short Chain Fatty Acids and Bacterial Taxa Associated with Reduced
+Salmonella enterica serovar I 4,[5],12:i:- Shedding in Swine Fed a Diet
+Supplemented with Resistant Potato Starch. Microbiol Spectr. 2022 Jun
+29;10(3):e0220221. doi: 10.1128/spectrum.02202-21. Epub 2022 May 9. PMID:
+35532355; PMCID: PMC9241843.
+
+44: Hong Y, Ji R, Wang Z, Gu J, Jiao X, Li Q. Development and application of a
+multiplex PCR method to differentiate Salmonella enterica serovar Typhimurium
+from its monophasic variants in pig farms. Food Microbiol. 2023 Feb;109:104135.
+doi: 10.1016/j.fm.2022.104135. Epub 2022 Sep 12. PMID: 36309455.
+
+45: Berger SS, Riber U, Jensen VF, Lauritsen KT, Andresen LO. Development and
+evaluation of a bead-based Multiplexed Fluorescent ImmunoAssay (MFIA) for
+detection of antibodies to Salmonella enterica serogroup B and C<sub>1</sub> in
+pigs. BMC Vet Res. 2022 Jul 5;18(1):259. doi: 10.1186/s12917-022-03362-w. PMID:
+35791012; PMCID: PMC9254579.
+
+46: Mechesso AF, Na SH, Moon DC, Kim SJ, Choi JH, Song HJ, Yoon SS, Lim SK.
+Antibiotic Resistance Profiles and Molecular Characteristics of
+<i>bla</i><sub>CTX-M-15</sub>-Carrying <i>Salmonella enterica</i> Serovar
+Enteritidis Isolates from Healthy and Diseased Chickens in Korea. Foodborne
+Pathog Dis. 2022 Oct;19(10):663-674. doi: 10.1089/fpd.2022.0033. Epub 2022 Sep
+19. PMID: 36125409.
+
+47: Xie X, Wang Z, Zhang K, Li Y, Hu Y, Pan Z, Chen X, Li Q, Jiao X. Pig as a
+reservoir of CRISPR type TST4 <i>Salmonella enterica</i> serovar Typhimurium
+monophasic variant during 2009-2017 in China. Emerg Microbes Infect. 2019 Dec
+20;9(1):1-4. doi: 10.1080/22221751.2019.1699450. PMID: 31859589; PMCID:
+PMC6968585.
+
+48: Schwan CL, Bastos LM, Young S, Domesle K, Ge B, Hsu CH, Li C, Strain E,
+Vipham J, Jones C, Amachawadi R, Nagaraja TG, Trinetta V. Genotypic and
+Phenotypic Characterization of Antimicrobial and Heavy Metal Tolerance in
+Salmonella enterica and Escherichia coli Isolates from Swine Feed Mills. J Food
+Prot. 2023 Aug;86(8):100113. doi: 10.1016/j.jfp.2023.100113. Epub 2023 Jun 7.
+PMID: 37290750.
+
+49: Awosile B, Rahman MK, Levent G, Botero Y, Ajulo S, Ojasanya R, Williams RB,
+Loneragan GH. Comparing individual antimicrobial resistant and multi-drug
+resistant Salmonella enterica across serotypes, sampling sources, sampling
+periods, and food animal types in the United States (2014-2018). Prev Vet Med.
+2023 Oct;219:106008. doi: 10.1016/j.prevetmed.2023.106008. Epub 2023 Aug 26.
+PMID: 37651892.
+
+50: Wang Z, Zhang Y, Xu H, Chu C, Wang J, Jiao X, Li Q. Whole-genome sequencing
+analysis reveals pig as the main reservoir for persistent evolution of
+Salmonella enterica serovar Rissen causing human salmonellosis. Food Res Int.
+2022 Apr;154:111007. doi: 10.1016/j.foodres.2022.111007. Epub 2022 Feb 22. PMID:
+35337567.
+
+51: Merkushova AV, Shikov AE, Nizhnikov AA, Antonets KS. For Someone, You Are
+the Whole World: Host-Specificity of <i>Salmonella enterica</i>. Int J Mol Sci.
+2023 Sep 5;24(18):13670. doi: 10.3390/ijms241813670. PMID: 37761974; PMCID:
+PMC10530738.
+
+52: Shen C, Ma F, Deng S, Zhong LL, El-Sayed Ahmed MAE, Zhang G, Yan B, Dai M,
+Yang F, Xia Y, Tian GB. Prevalence, genomic characteristics, and transmission
+dynamics of mcr-1-positive Salmonella enterica Typhimurium from patients with
+infectious diarrhea. Int J Med Microbiol. 2021 May;311(4):151501. doi:
+10.1016/j.ijmm.2021.151501. Epub 2021 Apr 1. PMID: 33866091.
+
+53: Hull DM, Harrell E, Harden L, Thakur S. Multidrug resistance and virulence
+genes carried by mobile genomic elements in Salmonella enterica isolated from
+live food animals, processed, and retail meat in North Carolina, 2018-2019. Int
+J Food Microbiol. 2022 Oct 2;378:109821. doi: 10.1016/j.ijfoodmicro.2022.109821.
+Epub 2022 Jun 23. PMID: 35816956.
+
+54: Liu G, Li C, Liao S, Guo A, Wu B, Chen H. C500 variants conveying complete
+mucosal immunity against fatal infections of pigs with <i>Salmonella
+enterica</i> serovar Choleraesuis C78-1 or F18+ Shiga toxin-producing
+<i>Escherichia coli</i>. Front Microbiol. 2023 Sep 14;14:1210358. doi:
+10.3389/fmicb.2023.1210358. PMID: 37779705; PMCID: PMC10536267.
+
+55: Gonzalez SV, Nair MN, Belk KE, Geornaras I. Efficacy of Antimicrobial Spray
+Treatments in Reducing Salmonella enterica Populations on Chilled Pork. J Food
+Prot. 2023 Apr;86(4):100068. doi: 10.1016/j.jfp.2023.100068. Epub 2023 Feb 23.
+PMID: 36940659.
+
+56: Fu Y, M'ikanatha NM, Dudley EG. Comparative Genomic Analysis of Salmonella
+enterica Serovar Typhimurium Isolates from Passerines Reveals Two Lineages
+Circulating in Europe, New Zealand, and the United States. Appl Environ
+Microbiol. 2022 May 10;88(9):e0020522. doi: 10.1128/aem.00205-22. Epub 2022 Apr
+18. PMID: 35435718; PMCID: PMC9088394.
+
+57: Marin C, Chinillac MC, Cerdà-Cuéllar M, Montoro-Dasi L, Sevilla-Navarro S,
+Ayats T, Marco-Jimenez F, Vega S. Contamination of pig carcass with Salmonella
+enterica serovar Typhimurium monophasic variant 1,4[5],12:i:- originates mainly
+in live animals. Sci Total Environ. 2020 Feb 10;703:134609. doi:
+10.1016/j.scitotenv.2019.134609. Epub 2019 Nov 3. PMID: 31753504.
+
+58: de Groot N, Meneguzzi M, de Souza B, de O Costa M. In Vitro Screening of
+Non-Antibiotic Components to Mitigate Intestinal Lesions Caused by
+<i>Brachyspira hyodysenteriae</i>, <i>Lawsonia intracellularis</i> and
+<i>Salmonella enterica</i> Serovar Typhimurium. Animals (Basel). 2022 Sep
+9;12(18):2356. doi: 10.3390/ani12182356. PMID: 36139216; PMCID: PMC9494979.
+
+59: Ernholm L, Sternberg-Lewerin S, Ågren E, Ståhl K, Hultén C. First Detection
+of <i>Salmonella enterica</i> Serovar Choleraesuis in Free Ranging European Wild
+Boar in Sweden. Pathogens. 2022 Jun 24;11(7):723. doi:
+10.3390/pathogens11070723. PMID: 35889969; PMCID: PMC9324790.
+
+60: Huang T, Jiang C, Yang M, Xiao H, Huang X, Wu L, Yao M. Salmonella enterica
+serovar Typhimurium inhibits the innate immune response and promotes apoptosis
+in a ribosomal/TRP53-dependent manner in swine neutrophils. Vet Res. 2020 Aug
+27;51(1):105. doi: 10.1186/s13567-020-00828-3. PMID: 32854785; PMCID:
+PMC7450969.
+
+61: Song D, Lee J, Kim K, Oh H, An J, Chang S, Cho H, Park S, Jeon K, Yoon Y,
+Yoo Y, Cho Y, Cho J. Effects of dietary supplementation of <i>Pediococcus
+pentosaceus</i> strains from kimchi in weaned piglet challenged with
+<i>Escherichia coli</i> and <i>Salmonella enterica</i>. J Anim Sci Technol. 2023
+May;65(3):611-626. doi: 10.5187/jast.2023.e31. Epub 2023 May 31. PMID: 37332280;
+PMCID: PMC10271919.
+
+62: Naberhaus SA, Krull AC, Arruda BL, Arruda P, Sahin O, Schwartz KJ, Burrough
+ER, Magstadt DR, Matias Ferreyra F, Gatto IRH, Meiroz de Souza Almeida H, Wang
+C, Kreuder AJ. Pathogenicity and Competitive Fitness of <i>Salmonella
+enterica</i> Serovar 4,[5],12:i:- Compared to <i>Salmonella</i> Typhimurium and
+<i>Salmonella</i> Derby in Swine. Front Vet Sci. 2020 Jan 30;6:502. doi:
+10.3389/fvets.2019.00502. PMID: 32083096; PMCID: PMC7002397.
+
+63: Pavez-Muñoz E, Fernández-Sanhueza B, Urzúa-Encina C, Galarce N, Alegría-
+Morán R. Risk Factors for Positivity to Shiga Toxin-Producing <i>Escherichia
+coli</i> and <i>Salmonella enterica</i> in Backyard Production Systems Animals
+from Metropolitana Region, Chile: A Threat to Public Health? Int J Environ Res
+Public Health. 2021 Oct 13;18(20):10730. doi: 10.3390/ijerph182010730. PMID:
+34682504; PMCID: PMC8535594.
+
+64: Wang J, Wang ZY, Wang Y, Sun F, Li W, Wu H, Shen PC, Pan ZM, Jiao X.
+Emergence of 16S rRNA Methylase Gene <i>rmtB</i> in <i>Salmonella Enterica
+Serovar</i> London and Evolution of RmtB-Producing Plasmid Mediated by
+IS<i>26</i>. Front Microbiol. 2021 Jan 15;11:604278. doi:
+10.3389/fmicb.2020.604278. PMID: 33519749; PMCID: PMC7843705.
+
+65: M GM, García A, Zurita SG, Martín-Cano FE, García-Jiménez W, Risco D, Rey J,
+Fernández-Llario P, Quesada A. Spread of Antimicrobial Resistance by
+<i>Salmonella enterica</i> Serovar Choleraesuis between Close Domestic and Wild
+Environments. Antibiotics (Basel). 2020 Oct 29;9(11):750. doi:
+10.3390/antibiotics9110750. PMID: 33137987; PMCID: PMC7692705.
+
+66: Ali MS, Song HJ, Moon BY, Kim SJ, Kang HY, Moon DC, Lee YH, Kwon DH, Yoon
+SS, Lim SK. Antibiotic Resistance Profiles and Molecular Characteristics of
+<i>bla</i><sub>CMY-2</sub>-Carrying <i>Salmonella enterica</i> Serovar Albany
+Isolated from Chickens During 2013-2020 in South Korea. Foodborne Pathog Dis.
+2023 Nov;20(11):492-501. doi: 10.1089/fpd.2023.0034. Epub 2023 Sep 12. PMID:
+37699238.
+
+67: Elbediwi M, Beibei W, Pan H, Jiang Z, Biswas S, Li Y, Yue M. Genomic
+Characterization of <i>mcr-1-</i>carrying <i>Salmonella enterica</i> Serovar
+4,[5],12:i:- ST 34 Clone Isolated From Pigs in China. Front Bioeng Biotechnol.
+2020 Jun 30;8:663. doi: 10.3389/fbioe.2020.00663. Erratum in: Front Bioeng
+Biotechnol. 2020 Aug 06;8:842. doi: 10.3389/fbioe.2020.00842. PMID: 32714906;
+PMCID: PMC7344297.
+
+68: Tang B, Siddique A, Jia C, Ed-Dra A, Wu J, Lin H, Yue M. Genome-based risk
+assessment for foodborne Salmonella enterica from food animals in China: A One
+Health perspective. Int J Food Microbiol. 2023 Apr 2;390:110120. doi:
+10.1016/j.ijfoodmicro.2023.110120. Epub 2023 Feb 4. PMID: 36758302.
+
+69: Chen CL, Su LH, Janapatla RP, Lin CY, Chiu CH. Genetic analysis of virulence
+and antimicrobial-resistant plasmid pOU7519 in Salmonella enterica serovar
+Choleraesuis. J Microbiol Immunol Infect. 2020 Feb;53(1):49-59. doi:
+10.1016/j.jmii.2017.11.004. Epub 2017 Dec 14. PMID: 29273286.
+
+70: Deng L, Lv LC, Tu J, Yue C, Bai Y, He X, Liao M, Liu JH. Clonal spread of
+blaNDM-1-carrying Salmonella enterica serovar Typhimurium clone ST34 and wide
+spread of IncHI2/ST3-blaNDM-5 plasmid in China. J Antimicrob Chemother. 2024 Aug
+1;79(8):1900-1909. doi: 10.1093/jac/dkae178. PMID: 38943539.
+
+71: Siddique A, Azim S, Ali A, Adnan F, Arif M, Imran M, Ganda E, Rahman A.
+<i>Lactobacillus reuteri</i> and <i>Enterococcus faecium</i> from Poultry Gut
+Reduce Mucin Adhesion and Biofilm Formation of Cephalosporin and
+Fluoroquinolone-Resistant <i>Salmonella enterica</i>. Animals (Basel). 2021 Dec
+1;11(12):3435. doi: 10.3390/ani11123435. PMID: 34944212; PMCID: PMC8697943.
+
+72: Pires AFA, Patterson L, Kukielka EA, Aminabadi P, Navarro-Gonzalez N, Jay-
+Russell MT. Prevalence and risk factors associated with <i>Campylobacter</i>
+spp. and <i>Salmonella enterica</i> in livestock raised on diversified small-
+scale farms in California. Epidemiol Infect. 2019 Dec 12;147:e321. doi:
+10.1017/S095026881900205X. PMID: 31826785; PMCID: PMC7006025.
+
+73: Prasertsee T, Prachantasena S, Tantitaveewattana P, Chuaythammakit P, Pascoe
+B, Patchanee P. Assessing antimicrobial resistance profiles of <i>Salmonella
+enterica</i> in the pork production system. J Med Microbiol. 2024
+Sep;73(9):001894. doi: 10.1099/jmm.0.001894. PMID: 39320348; PMCID: PMC11423857.
+
+74: Kijima M, Shirakawa T, Uchiyama M, Kawanishi M, Ozawa M, Koike R. Trends in
+the serovar and antimicrobial resistance in clinical isolates of Salmonella
+enterica from cattle and pigs between 2002 and 2016 in Japan. J Appl Microbiol.
+2019 Dec;127(6):1869-1875. doi: 10.1111/jam.14431. Epub 2019 Oct 8. PMID:
+31461201.
+
+75: Bearson BL, Trachsel JM, Shippy DC, Sivasankaran SK, Kerr BJ, Loving CL,
+Brunelle BW, Curry SM, Gabler NK, Bearson SMD. The Role of <i>Salmonella</i>
+Genomic Island 4 in Metal Tolerance of <i>Salmonella enterica</i> Serovar I
+4,[5],12:i:- Pork Outbreak Isolate USDA15WA-1. Genes (Basel). 2020 Oct
+30;11(11):1291. doi: 10.3390/genes11111291. PMID: 33142960; PMCID: PMC7716197.
+
+76: Song HJ, Ali S, Moon BY, Kang HY, Noh EJ, Kim TS, Kim SJ, Kim JI, Lee YJ,
+Yoon SS, Lim SK. Antimicrobial Resistance Profiles and Molecular Characteristics
+of <i>Salmonella enterica</i> Serovar Agona Isolated from Food-Producing Animals
+During 2010-2020 in South Korea. Foodborne Pathog Dis. 2024 Mar 5. doi:
+10.1089/fpd.2023.0117. Epub ahead of print. PMID: 38442228.
+
+77: Oransathid W, Sukhchat P, Margulieux K, Wongpatcharamongkol N, Kormanee R,
+Pimsawat T, Preston L, Corey B, Vesely B, Waters N, Demons S, Lurchachaiwong W.
+First Report: Colistin Resistance Gene <i>mcr-3.1</i> in <i>Salmonella
+enterica</i> Serotype Choleraesuis Isolated from Human Blood Sample from
+Thailand. Microb Drug Resist. 2022 Jan;28(1):102-105. doi:
+10.1089/mdr.2020.0553. Epub 2021 Jul 8. PMID: 34242096.
+
+78: Jacqueline C, Samper-Cativiela C, Monzon Fernandez S, Ugarte-Ruiz M, Cuesta
+de la Plaza I, Alvarez J, Herrera-Leon S. Phenotypic and genetic
+characterization of antimicrobial resistance in Salmonella enterica serovar
+Choleraesuis isolates from humans and animals in Spain from 2006 to 2021. J
+Antimicrob Chemother. 2024 Apr 2;79(4):790-800. doi: 10.1093/jac/dkae029. PMID:
+38366818; PMCID: PMC10984937.
+
+79: Le Xuan A, Hsu FY, Hsueh PR, Lin WH, Chen HH, Chiou MT, Lin CN.
+Antimicrobial resistance profile in Salmonella enterica serovar Choleraesuis
+isolates from diseased pigs in Taiwan. J Microbiol Immunol Infect. 2024
+Aug;57(4):660-664. doi: 10.1016/j.jmii.2024.04.005. Epub 2024 Apr 16. PMID:
+38670815.
+
+80: Zhou G, Tian J, Tian Y, Ma Q, Li Q, Wang S, Shi H. Recombinant-attenuated
+Salmonella enterica serovar Choleraesuis vector expressing the PlpE protein of
+Pasteurella multocida protects mice from lethal challenge. BMC Vet Res. 2023 Aug
+19;19(1):128. doi: 10.1186/s12917-023-03679-0. PMID: 37598169; PMCID:
+PMC10439597.
+
+81: Rogovski P, Silva RD, Cadamuro RD, Souza EB, Savi BP, Viancelli A, Michelon
+W, Tápparo DC, Treichel H, Rodríguez-Lazaro D, Fongaro G. <i>Salmonella
+enterica</i> Serovar Enteritidis Control in Poultry Litter Mediated by Lytic
+Bacteriophage Isolated from Swine Manure. Int J Environ Res Public Health. 2021
+Aug 23;18(16):8862. doi: 10.3390/ijerph18168862. PMID: 34444610; PMCID:
+PMC8393653.
+
+82: Mora JFB, Meclat VYB, Calayag AMB, Campino S, Hafalla JCR, Hibberd ML,
+Phelan JE, Clark TG, Rivera WL. Genomic analysis of <i>Salmonella enterica</i>
+from Metropolitan Manila abattoirs and markets reveals insights into circulating
+virulence and antimicrobial resistance genotypes. Front Microbiol. 2024 Jan
+19;14:1304283. doi: 10.3389/fmicb.2023.1304283. PMID: 38312499; PMCID:
+PMC10835624.
+
+83: Mandal RK, Jiang T, Kwon YM. Genetic Determinants in Salmonella enterica
+Serotype Typhimurium Required for Overcoming <i>In Vitro</i> Stressors in the
+Mimicking Host Environment. Microbiol Spectr. 2021 Dec 22;9(3):e0015521. doi:
+10.1128/Spectrum.00155-21. Epub 2021 Dec 8. PMID: 34878334; PMCID: PMC8653844.
+
+84: Cai J, Chen X, Xu C, Zhu X, Wang H, Wu S, Cai D, Fan H. The Metabolic
+Pathway of Bile Secretion Is Vulnerable to <i>Salmonella enterica</i> Exposure
+in Porcine Intestinal Epithelial Cells. Animals (Basel). 2024 Mar 3;14(5):789.
+doi: 10.3390/ani14050789. PMID: 38473174; PMCID: PMC10931422.
+
+85: Karanth S, Tanui CK, Meng J, Pradhan AK. Exploring the predictive capability
+of advanced machine learning in identifying severe disease phenotype in
+Salmonella enterica. Food Res Int. 2022 Jan;151:110817. doi:
+10.1016/j.foodres.2021.110817. Epub 2021 Nov 22. PMID: 34980422.
+
+86: Alarcón Navas SV, Pereira Cardeño EM, Martínez MF, Ortiz Suárez NF, David
+Castro A, Martínez-Vega RA, Navarro Rosado M, González CI, Rincón Cruz G.
+Virulence Profiles of <i>Salmonella enterica</i> Isolated from Three Food
+Matrices Collected from Retail Markets. Foodborne Pathog Dis. 2024 Nov 11. doi:
+10.1089/fpd.2024.0104. Epub ahead of print. PMID: 39527021.
+
+87: Martínez-Puchol S, Pons MJ, Ruiz-Roldán L, Laureano-Adame L, Corujo A, Ochoa
+TJ, Ruiz J. Nitrofuran resistance in Salmonella enterica isolated from meat for
+human consumption. Rev Peru Med Exp Salud Publica. 2020 Jan-Mar;37(1):99-103.
+Spanish, English. doi: 10.17843/rpmesp.2020.371.4745. Epub 2020 Jun 8. PMID:
+32520201.
+
+88: Wiser B, Niebuhr SE, Dickson JS. Impact of Interventions on the Survival of
+Salmonella enterica I 4,[5],1 2:i:- in Pork. J Food Prot. 2022 Jan
+1;85(1):27-30. doi: 10.4315/JFP-21-249. PMID: 34469543.
+
+89: Sun HH, Ling XM, Li Y, Li Y, Cui SH, Bai L. [Research on quantitative method
+and contamination level of <i>Salmonella</i> enterica in raw pork from farmer's
+markets in Chengdu]. Zhonghua Yu Fang Yi Xue Za Zhi. 2021 Aug 6;55(8):999-1005.
+Chinese. doi: 10.3760/cma.j.cn112150-20210302-00209. PMID: 34445840.
+
+90: Li Q, Lv Y, Li YA, Du Y, Guo W, Chu D, Wang X, Wang S, Shi H. Live
+attenuated Salmonella enterica serovar Choleraesuis vector delivering a
+conserved surface protein enolase induces high and broad protection against
+Streptococcus suis serotypes 2, 7, and 9 in mice. Vaccine. 2020 Oct
+14;38(44):6904-6913. doi: 10.1016/j.vaccine.2020.08.062. Epub 2020 Sep 6. PMID:
+32907758.
+
+91: Li YA, Sun Y, Zhang Y, Wang S, Shi H. Live attenuated Salmonella enterica
+serovar Choleraesuis vector delivering a virus-like particles induces a
+protective immune response against porcine circovirus type 2 in mice. Vaccine.
+2022 Aug 5;40(33):4732-4741. doi: 10.1016/j.vaccine.2022.06.046. Epub 2022 Jun
+27. PMID: 35773121.
+
+92: Global spread of Salmonella enterica due to centralized industrialization of
+pig farming. Nat Food. 2024 May;5(5):363-364. doi: 10.1038/s43016-024-00969-0.
+PMID: 38755345.
+
+93: Ali MS, Na SH, Moon BY, Kang HY, Kang HS, Kim SJ, Kim TS, Heo YE, Hwang YJ,
+Yoon SS, Lim SK. Antimicrobial Resistance Profiles and Molecular Characteristics
+of Extended-Spectrum <i>β</i>-Lactamase-Producing <i>Salmonella enterica</i>
+Serovar Typhimurium Isolates from Food Animals During 2010-2021 in South Korea.
+Foodborne Pathog Dis. 2024 Oct;21(10):634-642. doi: 10.1089/fpd.2023.0128. Epub
+2024 Jul 19. PMID: 39029478.
+
+94: Suh J, O'Brien B, Glenn Ii PD, Cai Z, Daigle F, Faucher SP, Ronholm J. Draft
+genome sequences of 13 <i>Salmonella enterica</i> subsp. <i>enterica</i>
+isolates from chickens, cows, and Canadian <i>Salmonella</i> outbreaks.
+Microbiol Resour Announc. 2024 Jun 11;13(6):e0098923. doi: 10.1128/mra.00989-23.
+Epub 2024 Apr 30. PMID: 38682774; PMCID: PMC11237464.
+
+95: Kolenda R, Burdukiewicz M, Wimonć M, Aleksandrowicz A, Ali A, Szabo I, Tedin
+K, Bartholdson Scott J, Pickard D, Schierack P. Identification of Natural
+Mutations Responsible for Altered Infection Phenotypes of Salmonella enterica
+Clinical Isolates by Using Cell Line Infection Screens. Appl Environ Microbiol.
+2021 Jan 4;87(2):e02177-20. doi: 10.1128/AEM.02177-20. PMID: 33127819; PMCID:
+PMC7783345.
+
+96: Xu X, Biswas S, Gu G, Elbediwi M, Li Y, Yue M. Characterization of Multidrug
+Resistance Patterns of Emerging <i>Salmonella enterica</i> Serovar Rissen along
+the Food Chain in China. Antibiotics (Basel). 2020 Sep 30;9(10):660. doi:
+10.3390/antibiotics9100660. PMID: 33007986; PMCID: PMC7600917.
+
+97: Guitart-Matas J, Sánchez-Osuna M, Saez JL, de Frutos C, Giler-Baquerizo N,
+Tort-Miró C, Pich OQ, Migura-Garcia L. Deciphering resistance mechanisms to
+tigecycline and colistin in Salmonella enterica isolates from animal production.
+Int J Antimicrob Agents. 2024 Aug;64(2):107208. doi:
+10.1016/j.ijantimicag.2024.107208. Epub 2024 May 18. PMID: 38763453.
+
+98: Côté-Cyr M, Gauthier L, Zottig X, Bourgault S, Archambault D. Recombinant
+Bacillus subtilis flagellin Hag is a potent immunostimulant with reduced
+proinflammatory properties compared to Salmonella enterica serovar Typhimurium
+FljB. Vaccine. 2022 Jan 3;40(1):11-17. doi: 10.1016/j.vaccine.2021.11.049. Epub
+2021 Nov 26. PMID: 34844822.
+
+99: Eastwood LC, Taylor TM, Savell JW, Gehring KB, Arnold AN. Efficacy of
+antimicrobial interventions in reducing Salmonella enterica, Shiga toxin-
+producing Escherichia coli, Campylobacter, and Escherichia coli biotype I
+surrogates on non-chilled and chilled, skin-on and skinless pork. Meat Sci. 2021
+Feb;172:108309. doi: 10.1016/j.meatsci.2020.108309. Epub 2020 Sep 13. PMID:
+33217667.
+
+100: Kang HS, Ali MS, Na SH, Moon BY, Kim JI, Hwang YJ, Yoon SS, Park SC, Lim
+SK. Nationwide surveillance and characterization of the third-generation
+cephalosporin-resistant <i>Salmonella enterica</i> serovar infantis isolated
+from chickens in South Korea between 2010 and 2022. Heliyon. 2024 Aug
+29;10(17):e37124. doi: 10.1016/j.heliyon.2024.e37124. PMID: 39319126; PMCID:
+PMC11419902.
+
+101: Na SH, Moon DC, Kang HY, Song HJ, Kim SJ, Choi JH, Yoon JW, Yoon SS, Lim
+SK. Molecular characteristics of extended-spectrum β-lactamase/AmpC-producing
+Salmonella enterica serovar Virchow isolated from food-producing animals during
+2010-2017 in South Korea. Int J Food Microbiol. 2020 Jun 2;322:108572. doi:
+10.1016/j.ijfoodmicro.2020.108572. Epub 2020 Feb 24. PMID: 32169770.
+
+102: Tassinari E, Bawn M, Thilliez G, Charity O, Acton L, Kirkwood M, Petrovska
+L, Dallman T, Burgess CM, Hall N, Duffy G, Kingsley RA. Whole-genome
+epidemiology links phage-mediated acquisition of a virulence gene to the clonal
+expansion of a pandemic <i>Salmonella enterica</i> serovar Typhimurium clone.
+Microb Genom. 2020 Nov;6(11):mgen000456. doi: 10.1099/mgen.0.000456. PMID:
+33112226; PMCID: PMC7725340.
+
+103: Ou C, Dozois CM, Daigle F. Differential regulatory control of curli (csg)
+gene expression in Salmonella enterica serovar Typhi requires more than a
+functional CsgD regulator. Sci Rep. 2023 Sep 9;13(1):14905. doi:
+10.1038/s41598-023-42027-y. PMID: 37689734; PMCID: PMC10492818.
+
+104: Pong CH, Hall RM. An X1α plasmid from a Salmonella enterica serovar Ohio
+isolate carrying a novel IS26-bounded tet(C) pseudo-compound transposon.
+Plasmid. 2021 Mar;114:102561. doi: 10.1016/j.plasmid.2021.102561. Epub 2021 Jan
+22. PMID: 33485833.
+
+105: Zając M, Iwan E, Skarżyńska M, Kwit R, Skóra M, Lalak A, Śmiałowska-
+Węglińska A, Kamińska E, Pietruk M, Wasyl D. The first description of the
+complete genome sequence of multidrug-resistant Salmonella enterica serovar
+monophasic Typhimurium (1,4,[5],12:i:-) isolate with the mcr-1.1 gene on IncHI2
+found in pig in Poland. J Glob Antimicrob Resist. 2023 Jun;33:218-220. doi:
+10.1016/j.jgar.2023.04.008. Epub 2023 Apr 20. PMID: 37086889.
+
+106: Gonzalez-Santamarina B, Busch A, Garcia-Soto S, Abdel-Glil MY, Linde J,
+Fries R, Meemken D, Hotzel H, Tomaso H. Draft genome sequence of multi-resistant
+<i>Salmonella enterica</i> subsp. <i>enterica</i> serovar Rissen strain 19CS0416
+isolated from Vietnam reveals <i>mcr-1</i> plasmid mediated resistance to
+colistin already in 2013. J Genomics. 2020 Jul 3;8:76-79. doi:
+10.7150/jgen.42790. PMID: 32817764; PMCID: PMC7425045.
+
+107: Elbediwi M, Wu B, Pan H, Jiang Z, Biswas S, Li Y, Yue M. Corrigendum:
+Genomic Characterization of <i>mcr-1-</i>carrying <i>Salmonella enterica</i>
+Serovar 4,[5],12:i:- ST 34 Clone Isolated From Pigs in China. Front Bioeng
+Biotechnol. 2020 Aug 6;8:842. doi: 10.3389/fbioe.2020.00842. Erratum for: Front
+Bioeng Biotechnol. 2020 Jun 30;8:663. doi: 10.3389/fbioe.2020.00663. PMID:
+32850716; PMCID: PMC7424109.

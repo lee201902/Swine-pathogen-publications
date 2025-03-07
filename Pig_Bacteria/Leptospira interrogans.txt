@@ -1,0 +1,41 @@
+1: Bonhomme D, Werts C. Host and Species-Specificities of Pattern Recognition
+Receptors Upon Infection With <i>Leptospira interrogans</i>. Front Cell Infect
+Microbiol. 2022 Jul 22;12:932137. doi: 10.3389/fcimb.2022.932137. PMID:
+35937697; PMCID: PMC9353586.
+
+2: Piredda I, Bertoldi L, Pedditzi A, Pintore P, Palmas B, Chisu V. Co-Infection
+by <i>Leptospira montravelensis</i> and <i>Leptospira interrogans</i> Serovar
+Pomona in Urine Samples of Donkeys and Pigs in Sardinia, Italy. Animals (Basel).
+2023 May 30;13(11):1803. doi: 10.3390/ani13111803. PMID: 37889694; PMCID:
+PMC10251853.
+
+3: Zubach O, Semenyshyn O, Hatsji L, Demchyshyn M, Zinchuk A. Leptospira
+interrogans in mammals in Lviv Oblast, Ukraine, 2001-2015. PLoS Negl Trop Dis.
+2019 Dec 2;13(12):e0007793. doi: 10.1371/journal.pntd.0007793. PMID: 31790399;
+PMCID: PMC6922445.
+
+4: Steinparzer R, Mair T, Unterweger C, Steinrigl A, Schmoll F. Influence of
+Selective Agents (EMJH-STAFF), Sample Filtration and pH on <i>Leptospira
+interrogans</i> Serovar Icterohaemorrhagiae Cultivation and Isolation from Swine
+Urine. Vet Sci. 2021 May 25;8(6):90. doi: 10.3390/vetsci8060090. PMID: 34070655;
+PMCID: PMC8226611.
+
+5: Steinparzer R, Duerlinger S, Schmoll F, Steinrigl A, Bagó Z, Willixhofer D,
+Al Salem O, Takács S, Knecht C, Renzhammer R, Schwendenwein I, Ladinig A,
+Unterweger C. <i>Leptospira interrogans</i> Serovar Icterohaemorrhagiae Failed
+to Establish Distinct Infection in Naïve Gilts: Lessons Learned from a
+Preliminary Experimental Challenge. Pathogens. 2023 Jan 13;12(1):135. doi:
+10.3390/pathogens12010135. PMID: 36678483; PMCID: PMC9867409.
+
+6: Terayama Y, Maeda M, Hata Y, Kawasaki Y, Koizumi N. A probable cluster of
+premature birth and stillbirth caused by Leptospira interrogans serogroup
+Hebdomadis in an integrated swine farm in Nagasaki Prefecture, Japan. J Vet Med
+Sci. 2024 Oct 1;86(10):1040-1044. doi: 10.1292/jvms.24-0215. Epub 2024 Aug 7.
+PMID: 39111848; PMCID: PMC11442401.
+
+7: Carmona Gasca CA, Martínez González S, Castillo Sánchez LO, Rodríguez Reyes
+EA, Cárdenas Marrufo MF, Vado Solís I, Castañeda Miranda G, López Huitrado LP,
+de la Peña-Moctezuma A. The Presence of a Virulent Clone of <i>Leptospira
+interrogans</i> Serovar Canicola in Confirmed Cases of Asymptomatic Dog Carriers
+in Mexico. Microorganisms. 2024 Mar 28;12(4):674. doi:
+10.3390/microorganisms12040674. PMID: 38674618; PMCID: PMC11052047.

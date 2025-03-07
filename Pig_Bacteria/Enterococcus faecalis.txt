@@ -1,0 +1,135 @@
+1: Makarov DA, Ivanova OE, Pomazkova AV, Egoreva MA, Prasolova OV, Lenev SV,
+Gergel MA, Bukova NK, Karabanov SY. Antimicrobial resistance of commensal
+<i>Enterococcus faecalis</i> and <i>Enterococcus faecium</i> from food-producing
+animals in Russia. Vet World. 2022 Mar;15(3):611-621. doi:
+10.14202/vetworld.2022.611-621. Epub 2022 Mar 18. PMID: 35497972; PMCID:
+PMC9047118.
+
+2: Ha HTA, Nguyen PTL, Hung TTM, Tuan LA, Thuy BT, Lien THM, Thai PD, Thanh NH,
+Bich VTN, Anh TH, Hanh NTH, Minh NT, Thanh DP, Mai ST, The HC, Trung NV, Thu NH,
+Duong TN, Anh DD, Ngoc PT, Bañuls AL, Choisy M, van Doorn HR, Suzuki M, Hoang
+TH. Prevalence and Associated Factors of <i>optrA</i>-Positive-<i>Enterococcus
+faecalis</i> in Different Reservoirs around Farms in Vietnam. Antibiotics
+(Basel). 2023 May 24;12(6):954. doi: 10.3390/antibiotics12060954. PMID:
+37370273; PMCID: PMC10294904.
+
+3: Wang X, Gao Y, Liu X, Sun N, Huang J, Wang L. First Report of the Plasmid-
+mediated <i>fosB</i> Gene in <i>Enterococcus faecalis</i> from Pigs. Genes
+(Basel). 2021 Oct 23;12(11):1684. doi: 10.3390/genes12111684. PMID: 34828290;
+PMCID: PMC8624268.
+
+4: Almeida LM, Lebreton F, Gaca A, Bispo PM, Saavedra JT, Calumby RN, Grillo LM,
+Nascimento TG, Filsner PH, Moreno AM, Gilmore MS. Transferable Resistance Gene
+<i>optrA</i> in Enterococcus faecalis from Swine in Brazil. Antimicrob Agents
+Chemother. 2020 May 21;64(6):e00142-20. doi: 10.1128/AAC.00142-20. PMID:
+32253215; PMCID: PMC7269498.
+
+5: Xuan H, Yao X, Pan R, Gao Y, Wei J, Shao D, Liu K, Li Z, Qiu Y, Ma Z, Li B,
+Xia L. Antimicrobial resistance in Enterococcus faecium and Enterococcus
+faecalis isolates of swine origin from eighteen provinces in China. J Vet Med
+Sci. 2021 Dec 23;83(12):1952-1958. doi: 10.1292/jvms.21-0413. Epub 2021 Nov 16.
+PMID: 34789595; PMCID: PMC8762417.
+
+6: Guo Z, Zhang C, Dong J, Wang Y, Hu H, Chen L. Persistence Infection of TGEV
+Promotes <i>Enterococcus faecalis</i> Infection on IPEC-J2 Cells. Int J Mol Sci.
+2022 Dec 27;24(1):450. doi: 10.3390/ijms24010450. PMID: 36613893; PMCID:
+PMC9820250.
+
+7: Xuan H, Xia L, Schwarz S, Jia H, Yao X, Wang S, Li R, Wei J, Li Z, Shao D,
+Liu K, Qiu Y, Ma Z, Li B. Various mobile genetic elements carrying optrA in
+Enterococcus faecium and Enterococcus faecalis isolates from swine within the
+same farm. J Antimicrob Chemother. 2023 Feb 1;78(2):504-511. doi:
+10.1093/jac/dkac421. PMID: 36508313.
+
+8: Shan X, Li XS, Schwarz S, Chen Y, Xu C, Du XD. Plasmid-Assisted Horizontal
+Transfer of a Large <i>lsa</i>(E)-Carrying Genomic Island in Enterococcus
+faecalis. Microbiol Spectr. 2022 Aug 31;10(4):e0015422. doi:
+10.1128/spectrum.00154-22. Epub 2022 Jul 6. PMID: 35863017; PMCID: PMC9430800.
+
+9: Zhang E, Zong S, Zhou W, Zhou J, Han J, Qu D. Characterization and
+comparative genomics analysis of RepA_N multi-resistance plasmids carrying
+<i>optrA</i> from <i>Enterococcus faecalis</i>. Front Microbiol. 2023 Jan
+27;13:991352. doi: 10.3389/fmicb.2022.991352. PMID: 36777024; PMCID: PMC9911807.
+
+10: Cinthi M, Coccitto SN, Fioriti S, Morroni G, Simoni S, Vignaroli C,
+Magistrali CF, Albini E, Brenciani A, Giovanetti E. Occurrence of a plasmid co-
+carrying cfr(D) and poxtA2 linezolid resistance genes in Enterococcus faecalis
+and Enterococcus casseliflavus from porcine manure, Italy. J Antimicrob
+Chemother. 2022 Feb 23;77(3):598-603. doi: 10.1093/jac/dkab456. PMID: 34910146.
+
+11: Li Y, Li Y, Wang C, Gong Z, Cao M, Chen M, Li P, Qi Y, Xiao C. First
+isolation of vancomycin-resistant Enterococcus faecalis from cattle and swine in
+Xinjiang, China. J Infect. 2021 Jul;83(1):119-145. doi:
+10.1016/j.jinf.2021.04.006. Epub 2021 Apr 16. PMID: 33872668.
+
+12: Cheng S, Chen M, Gao M, Qiu T, Tian S, Li S, Wang X. Effects of Enterococcus
+faecalis administration on the community structure of airborne bacteria in
+weanling piglet and layer hen houses. J Gen Appl Microbiol. 2021 Oct
+22;67(4):162-169. doi: 10.2323/jgam.2020.11.001. Epub 2021 Jun 12. PMID:
+34120995.
+
+13: Segawa T, Hisatsune J, Ishida-Kuroki K, Sugawara Y, Masuda K, Tadera K,
+Kashiyama S, Yokozaki M, Le MN, Kawada-Matsuo M, Ohge H, Komatsuzawa H, Sugai M.
+Complete genome sequence of optrA-carrying Enterococcus faecalis isolated from
+open pus in a Japanese patient. J Glob Antimicrob Resist. 2023 Jun;33:276-278.
+doi: 10.1016/j.jgar.2023.04.006. Epub 2023 Apr 29. PMID: 37127133.
+
+14: Matsumoto H, Miyagawa M, Yin Y, Oosumi T. Effects of organic acid,
+Enterococcus faecalis strain EC-12 and sugar cane extract in feed against
+enterotoxigenic Escherichia coli-induced diarrhea in pigs. AMB Express. 2021 May
+13;11(1):68. doi: 10.1186/s13568-021-01228-2. PMID: 33983462; PMCID: PMC8119551.
+
+15: Kim MH, Moon DC, Kim SJ, Mechesso AF, Song HJ, Kang HY, Choi JH, Yoon SS,
+Lim SK. Nationwide Surveillance on Antimicrobial Resistance Profiles of
+<i>Enterococcus faecium</i> and <i>Enterococcus faecalis</i> Isolated from
+Healthy Food Animals in South Korea, 2010 to 2019. Microorganisms. 2021 Apr
+26;9(5):925. doi: 10.3390/microorganisms9050925. PMID: 33925822; PMCID:
+PMC8144984.
+
+16: Stærk K, Heidtmann CV, Hjelmager JS, Ewald JD, Nielsen CU, Nielsen P,
+Andersen TE. The infectious capacity of Enterococcus faecalis, Staphylococcus
+aureus, and Staphylococcus saprophyticus in a porcine model of urinary tract
+infection. APMIS. 2024 Nov;132(11):807-813. doi: 10.1111/apm.13469. Epub 2024
+Sep 18. PMID: 39295304.
+
+17: Elghaieb H, Tedim AP, Abbassi MS, Novais C, Duarte B, Hassen A, Peixe L,
+Freitas AR. From farm to fork: identical clones and Tn6674-like elements in
+linezolid-resistant Enterococcus faecalis from food-producing animals and retail
+meat. J Antimicrob Chemother. 2020 Jan 1;75(1):30-35. doi: 10.1093/jac/dkz419.
+PMID: 31605129.
+
+18: Almeida LM, Gaca A, Bispo PM, Lebreton F, Saavedra JT, Silva RA, Basílio-
+Júnior ID, Zorzi FM, Filsner PH, Moreno AM, Gilmore MS. Coexistence of the
+Oxazolidinone Resistance-Associated Genes <i>cfr</i> and <i>optrA</i> in
+<i>Enterococcus faecalis</i> From a Healthy Piglet in Brazil. Front Public
+Health. 2020 Sep 24;8:518. doi: 10.3389/fpubh.2020.00518. PMID: 33102417; PMCID:
+PMC7546817.
+
+19: Kim E, Shin SW, Kwak HS, Cha MH, Yang SM, Gwak YS, Woo GJ, Kim HY.
+Prevalence and Characteristics of Phenicol-Oxazolidinone Resistance Genes in
+<i>Enterococcus Faecalis</i> and <i>Enterococcus Faecium</i> Isolated from Food-
+Producing Animals and Meat in Korea. Int J Mol Sci. 2021 Oct 20;22(21):11335.
+doi: 10.3390/ijms222111335. PMID: 34768762; PMCID: PMC8583520.
+
+20: Chen L, Han D, Tang Z, Hao J, Xiong W, Zeng Z. Co-existence of the
+oxazolidinone resistance genes cfr and optrA on two transferable multi-
+resistance plasmids in one Enterococcus faecalis isolate from swine. Int J
+Antimicrob Agents. 2020 Jul;56(1):105993. doi:
+10.1016/j.ijantimicag.2020.105993. Epub 2020 Apr 23. PMID: 32335280.
+
+21: Zhao M, He S, Wen R, Li C, Chen X, Lin X, Wang H, Tang Y. Membrane vesicles
+derived from Enterococcus faecalis promote the co-transfer of important
+antibiotic resistance genes located on both plasmids and chromosomes. J
+Antimicrob Chemother. 2024 Feb 1;79(2):320-326. doi: 10.1093/jac/dkad381. PMID:
+38109479.
+
+22: Kang ZZ, Lei CW, Kong LH, Wang YL, Ye XL, Ma BH, Wang XC, Li C, Zhang Y,
+Wang HN. Detection of transferable oxazolidinone resistance determinants in
+Enterococcus faecalis and Enterococcus faecium of swine origin in Sichuan
+Province, China. J Glob Antimicrob Resist. 2019 Dec;19:333-337. doi:
+10.1016/j.jgar.2019.05.021. Epub 2019 May 25. PMID: 31136832.
+
+23: Wang K , Cao G , Zhang H , Li Q , Yang C . Effects of Clostridium butyricum
+and Enterococcus faecalis on growth performance, immune function, intestinal
+morphology, volatile fatty acids, and intestinal flora in a piglet model. Food
+Funct. 2019 Dec 11;10(12):7844-7854. doi: 10.1039/c9fo01650c. PMID: 31793606.

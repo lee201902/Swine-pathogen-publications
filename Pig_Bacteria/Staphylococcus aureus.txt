@@ -1,0 +1,238 @@
+1: Ma Y, Huang J, Xue J, Liu L, Ouyang H, Guo T, Fu Z. Dual-Mechanism-Driven
+Ratiometric Electrochemiluminescent Biosensor for Methicillin-Resistant
+<i>Staphylococcus aureus</i>. Anal Chem. 2024 Feb 13;96(6):2702-2710. doi:
+10.1021/acs.analchem.3c05620. Epub 2024 Jan 30. PMID: 38289033.
+
+2: Wilkinson HN, Stafford AR, Rudden M, Rocha NDC, Kidd AS, Iveson S, Bell AL,
+Hart J, Duarte A, Frieling J, Janssen F, Röhrig C, de Rooij B, Ekhart PF,
+Hardman MJ. Selective Depletion of Staphylococcus aureus Restores the Skin
+Microbiome and Accelerates Tissue Repair after Injury. J Invest Dermatol. 2024
+Aug;144(8):1865-1876.e3. doi: 10.1016/j.jid.2024.01.018. Epub 2024 Feb 1. PMID:
+38307323.
+
+3: Zhu L, Lai Y, Li X, Ma H, Gong F, Sun X, Cao A, Jiang T, Han Y, Pan Z.
+Molecular and epidemiological characterization of Staphylococcus aureus causing
+bovine mastitis in China. Microb Pathog. 2024 Jun;191:106640. doi:
+10.1016/j.micpath.2024.106640. Epub 2024 Apr 16. PMID: 38614437.
+
+4: Molendijk MM, Boekema BKHL, Lattwein KR, Vlig M, Bode LGM, Koopmans MPG,
+Verbon A, de Graaf M, van Wamel WJB. Bacteriophage therapy reduces
+<i>Staphylococcus aureus</i> in a porcine and human <i>ex vivo</i> burn wound
+infection model. Antimicrob Agents Chemother. 2024 Sep 4;68(9):e0065024. doi:
+10.1128/aac.00650-24. Epub 2024 Aug 13. PMID: 39136463; PMCID: PMC11373223.
+
+5: Liu Y, Wu Y, Leukers L, Schimank K, Wilker J, Wissmann A, Rauen U, Pizanis N,
+Taube C, Koch A, Gulbins E, Kamler M. Treatment of Staphylococcus aureus
+infection with sphingosine in ex vivo perfused and ventilated lungs. J Heart
+Lung Transplant. 2024 Jan;43(1):100-110. doi: 10.1016/j.healun.2023.08.021. Epub
+2023 Sep 4. PMID: 37673383.
+
+6: Kim YG, Lee JH, Kim SH, Park SY, Kim YJ, Ryu CM, Seo HW, Lee JT. Inhibition
+of Biofilm Formation in <i>Cutibacterium acnes</i>, <i>Staphylococcus
+aureus</i>, and <i>Candida albicans</i> by the Phytopigment Shikonin. Int J Mol
+Sci. 2024 Feb 19;25(4):2426. doi: 10.3390/ijms25042426. PMID: 38397101; PMCID:
+PMC10888572.
+
+7: Zhou H, Du W, Ouyang D, Li Y, Gong Y, Yao Z, Zhong M, Zhong X, Ye X. Simple
+and accurate genomic classification model for distinguishing between human and
+pig Staphylococcus aureus. Commun Biol. 2024 Sep 18;7(1):1171. doi:
+10.1038/s42003-024-06883-2. PMID: 39294434; PMCID: PMC11410946.
+
+8: Cao Z, Chen J, Cannon J, Meyer Z, Li Y, Ouyang W, Baker J Jr, Wang SH.
+Nanoemulsion is an effective antimicrobial for methicillin-resistant
+<i>Staphylococcus aureus</i> in infected swine skin burn wounds. Microbiol
+Spectr. 2024 Nov 5;12(11):e0137824. doi: 10.1128/spectrum.01378-24. Epub 2024
+Oct 14. PMID: 39400156; PMCID: PMC11537001.
+
+9: Kawanishi M, Matsuda M, Abo H, Ozawa M, Hosoi Y, Hiraoka Y, Harada S,
+Kumakawa M, Sekiguchi H. Prevalence and Genetic Characterization of Methicillin-
+Resistant <i>Staphylococcus aureus</i> Isolated from Pigs in Japan. Antibiotics
+(Basel). 2024 Feb 4;13(2):155. doi: 10.3390/antibiotics13020155. PMID: 38391541;
+PMCID: PMC10885860.
+
+10: Fernandez JE, Egli A, Overesch G, Perreten V. Time-calibrated phylogenetic
+and chromosomal mobilome analyses of Staphylococcus aureus CC398 reveal
+geographical and host-related evolution. Nat Commun. 2024 Jul 1;15(1):5526. doi:
+10.1038/s41467-024-49644-9. PMID: 38951499; PMCID: PMC11217367.
+
+11: Suzuki Y, Ishitsuka T, Takagi M, Sasaki Y, Kakuda T, Kobayashi K, Kubota H,
+Ono HK, Kabeya H, Irie T, Andoh M, Asakura H, Takai S. Isolation and genetic
+characterization of Staphylococcus aureus from wild animal feces and game meats.
+Folia Microbiol (Praha). 2024 Apr;69(2):347-360. doi:
+10.1007/s12223-023-01071-x. Epub 2023 Jul 5. PMID: 37405631.
+
+12: Narongpun P, Chanchaithong P, Yamagishi J, Thapa J, Nakajima C, Suzuki Y.
+Whole-Genome Investigation of Zoonotic Transmission of Livestock-Associated
+Methicillin-Resistant <i>Staphylococcus aureus</i> Clonal Complex 398 Isolated
+from Pigs and Humans in Thailand. Antibiotics (Basel). 2023 Dec 16;12(12):1745.
+doi: 10.3390/antibiotics12121745. Erratum in: Antibiotics (Basel). 2024 Jul
+23;13(8):681. doi: 10.3390/antibiotics13080681. PMID: 38136779; PMCID:
+PMC10741195.
+
+13: Wan Y, Wang T, Wang X, Ma L, Yang L, Li Q, Wang X. Antibacterial activity of
+juglone @ chitosan nanoemulsion against Staphylococcus aureus and its effect on
+pork shelf life. Int J Biol Macromol. 2023 Dec 31;253(Pt 5):127273. doi:
+10.1016/j.ijbiomac.2023.127273. Epub 2023 Oct 5. PMID: 37804897.
+
+14: Kim E, Yang SM, Kwak HS, Moon BY, Lim SK, Kim HY. Genomic characteristics of
+cfr and fexA carrying Staphylococcus aureus isolated from pig carcasses in
+Korea. Vet Res. 2024 Feb 16;55(1):21. doi: 10.1186/s13567-024-01278-x. PMID:
+38365748; PMCID: PMC10874063.
+
+15: Staphylococcus aureus causing respiratory disease and mastitis in sheep. Vet
+Rec. 2024 Jul 20;195(2):63-66. doi: 10.1002/vetr.4507. PMID: 39031147.
+
+16: Anjum MF, Duggett N, Sheldon E, Sharma M, Smith RP, Teale CJ. Genomics to
+detect transmission of livestock-associated methicillin-resistant Staphylococcus
+aureus from UK pigs in abattoirs during slaughter. J Antimicrob Chemother. 2024
+May 2;79(5):962-967. doi: 10.1093/jac/dkae052. PMID: 38442335.
+
+17: Wei L, Han M, Wang Z, Wang Z, Ruan S, Chen Y. Detection of foodborne
+methicillin-resistant Staphylococcus aureus via fluorescence-encoded microsphere
+and Argonaute-mediated decoding. Food Chem. 2024 Dec 1;460(Pt 3):140615. doi:
+10.1016/j.foodchem.2024.140615. Epub 2024 Jul 24. PMID: 39126941.
+
+18: Talim J, Martins I, Messias C, Sabino H, Oliveira L, Pinto T, Albuquerque J,
+Cerqueira A, Dolores Í, Moreira B, Silveira R, Neves F, Rabello R. Multidrug-
+Resistant <i>Staphylococcus aureus</i> Colonizing Pigs and Farm Workers in Rio
+de Janeiro State, Brazil: Potential Interspecies Transmission of Livestock-
+Associated MRSA (LA-MRSA) ST398. Antibiotics (Basel). 2024 Aug 14;13(8):767.
+doi: 10.3390/antibiotics13080767. PMID: 39200067; PMCID: PMC11350785.
+
+19: Lee JB, Lim JH, Park JH, Lee GY, Park KT, Yang SJ. Genetic characteristics
+and antimicrobial resistance of Staphylococcus aureus isolates from pig farms in
+Korea: emergence of cfr-positive CC398 lineage. BMC Vet Res. 2024 Nov
+1;20(1):503. doi: 10.1186/s12917-024-04360-w. PMID: 39487420; PMCID:
+PMC11529005.
+
+20: Silva V, Silva A, Barbero R, Romero M, Del Campo R, Caniça M, Cordeiro R,
+Igrejas G, Poeta P. Resistome, Virulome, and Clonal Variation in Methicillin-
+Resistant <i>Staphylococcus aureus</i> (MRSA) in Healthy Swine Populations: A
+Cross-Sectional Study. Genes (Basel). 2024 Apr 24;15(5):532. doi:
+10.3390/genes15050532. PMID: 38790161; PMCID: PMC11121583.
+
+21: Ifediora AC, Enya E, Mbajiuka CS. Comparative Evaluation of the Antibiotic
+Resistance Profile of <i>Staphylococcus aureus</i> Isolated From Breeders and
+Livestock. Int J Public Health. 2024 Sep 18;69:1607603. doi:
+10.3389/ijph.2024.1607603. PMID: 39360289; PMCID: PMC11444967.
+
+22: González-Machado C, Alonso-Calleja C, Capita R. Prevalence and types of
+methicillin-resistant Staphylococcus aureus (MRSA) in meat and meat products
+from retail outlets and in samples of animal origin collected in farms,
+slaughterhouses and meat processing facilities. A review. Food Microbiol. 2024
+Oct;123:104580. doi: 10.1016/j.fm.2024.104580. Epub 2024 Jun 3. PMID: 39038886.
+
+23: Stærk K, Heidtmann CV, Hjelmager JS, Ewald JD, Nielsen CU, Nielsen P,
+Andersen TE. The infectious capacity of Enterococcus faecalis, Staphylococcus
+aureus, and Staphylococcus saprophyticus in a porcine model of urinary tract
+infection. APMIS. 2024 Nov;132(11):807-813. doi: 10.1111/apm.13469. Epub 2024
+Sep 18. PMID: 39295304.
+
+24: Abdullahi IN, Lozano C, Zarazaga M, Simón C, Höfle U, Sieber RN, Latorre-
+Fernández J, Stegger M, Torres C. Comparative genomics of Staphylococcus aureus
+strains from wild birds and pig farms elucidates levels of mobilomes, antibiotic
+pressure and host adaptation. J Glob Antimicrob Resist. 2024 Mar;36:142-150.
+doi: 10.1016/j.jgar.2023.12.003. Epub 2023 Dec 19. PMID: 38128728.
+
+25: Vila Nova BG, Silva LDS, Andrade MDS, de Santana AVS, da Silva LCT, Sá GC,
+Zafred IF, Moreira PHA, Monteiro CA, da Silva LCN, Abreu AG. The essential oil
+of Melaleuca alternifolia incorporated into hydrogel induces antimicrobial and
+anti-inflammatory effects on infected wounds by Staphylococcus aureus. Biomed
+Pharmacother. 2024 Apr;173:116389. doi: 10.1016/j.biopha.2024.116389. Epub 2024
+Mar 11. PMID: 38461682.
+
+26: Raška F, Lipový B, Kobzová Š, Vacek L, Jarošová R, Kleknerová D, Matiašková
+K, Makovický P, Vícenová M, Jeklová E, Pantůček R, Faldyna M, Janda L.
+Development of a porcine model of skin and soft-tissue infection caused by
+Staphylococcus aureus, including methicillin-resistant strains suitable for
+testing topical antimicrobial agents. Animal Model Exp Med. 2024 Oct 31. doi:
+10.1002/ame2.12495. Epub ahead of print. PMID: 39482270.
+
+27: Gil J, Solis M, Strong R, Cassagnol R, Jozic I, Davis SC. Antimicrobial
+effects of a multimodal wound matrix against methicillin-resistant
+Staphylococcus aureus and Pseudomonas aeruginosa in an in vitro and an in vivo
+porcine wound model. Int Wound J. 2024 Oct;21(10):e70059. doi:
+10.1111/iwj.70059. PMID: 39359044; PMCID: PMC11447198.
+
+28: Alves LGS, Vila Nova BG, Assunção RG, da Silva LCT, Sá GC, Silva LDS, Silva
+MA, de Santana AVS, de Jesus TR, Lucena FRC, da Silva MADS, da Silva LCN, Serra
+ICPB, Abreu AG. Melaleuca alternifolia essential oil in a natural product-based
+formulation: Antimicrobial and healing effects in Staphylococcus aureus-infected
+wounds. Eur J Pharm Biopharm. 2024 Sep;202:114416. doi:
+10.1016/j.ejpb.2024.114416. Epub 2024 Jul 14. PMID: 39013494.
+
+29: Vacek L, Polaštík Kleknerová D, Lipový B, Holoubek J, Matysková D, Černá E,
+Brtníková J, Jeklová E, Kobzová Š, Janda L, Lišková L, Diabelko D, Botka T,
+Pantůček R, Růžička F, Vojtová L. Phage therapy combined with Gum Karaya
+injectable hydrogels for treatment of methicillin-resistant Staphylococcus
+aureus deep wound infection in a porcine model. Int J Pharm. 2024 Jul
+20;660:124348. doi: 10.1016/j.ijpharm.2024.124348. Epub 2024 Jun 15. PMID:
+38885776.
+
+30: Parihar R, Deb R, Niharika J, Thakur P, Pegu SR, Sengar GS, Sonowal J, Das
+PJ, Rajkhowa S, Raj A, Gupta VK. Development of triplex assay for simultaneous
+detection of <i>Escherichia coli,</i> methicillin resistant and sensitive
+<i>Staphylococcus aureus</i> in raw pork samples of retail markets. J Food Sci
+Technol. 2024 Aug;61(8):1516-1524. doi: 10.1007/s13197-023-05917-7. Epub 2024
+Jan 9. PMID: 38966784; PMCID: PMC11219700.
+
+31: Kiarostami K, Fernández-Barat L, Battaglini D, Motos A, Bueno-Freire L,
+Soler-Comas A, Bassi GL, Torres A. The efficacy of telavancin in comparison with
+linezolid on endotracheal tube biofilm in pigs with methicillin-resistant
+Staphylococcus aureus pneumonia. Int J Antimicrob Agents. 2024 Feb;63(2):107052.
+doi: 10.1016/j.ijantimicag.2023.107052. Epub 2023 Dec 9. PMID: 38072170.
+
+32: Wei M, Knight SAB, Fazelinia H, Spruce L, Roof J, Chu E, Kim DY, Bhanap P,
+Walsh J, Flowers L, Zhu J, Grice EA. An exploration of mechanisms underlying
+<i>Desemzia incerta</i> colonization resistance to methicillin-resistant
+<i>Staphylococcus aureus</i> on the skin. mSphere. 2024 Mar 26;9(3):e0063623.
+doi: 10.1128/msphere.00636-23. Epub 2024 Feb 28. PMID: 38415632; PMCID:
+PMC10964421.
+
+33: Fuglsang-Madsen AJ, Henriksen NL, Chávez ES, Kvich LA, Birch JKM, Hartmann
+KT, Eriksen T, Bjarnsholt T, Gottlieb H, Andresen TL, Jensen LK, Henriksen JR,
+Hansen AE. Eradication of Staphylococcus aureus in Implant-Associated
+Osteomyelitis by an Injectable In Situ-Forming Depot Antibiotics Delivery
+System. J Infect Dis. 2024 Sep 23;230(3):614-623. doi: 10.1093/infdis/jiae139.
+PMID: 38537273.
+
+34: Zhang Y, Yao L, Zhang Z, Chen R, Xi J, Hu Y, Wang J, Wang R. Applying a
+sandwich-like strategy for dual 'light up' capture and eradication of
+Staphylococcus aureus using magnetically functionalized materials. J Hazard
+Mater. 2024 Mar 5;465:133065. doi: 10.1016/j.jhazmat.2023.133065. Epub 2023 Nov
+28. PMID: 38042002.
+
+35: Bose S, Dahat Y, Kumar D, Haldar S, Das SK. A membrane targeted
+multifunctional cationic nanoparticle conjugated fusogenic nanoemulsion
+(CFusoN): induced membrane depolarization and lipid solubilization to accelerate
+the killing of <i>Staphylococcus aureus</i>. Mater Horiz. 2024 Feb
+6;11(3):661-679. doi: 10.1039/d3mh01102j. PMID: 37830433.
+
+36: Matos M, Mitsch P, Liebhart D, Hess M, Hess C. Co-Infection of Chickens with
+<i>Staphylococcus lentus</i> and <i>Staphylococcus aureus</i> from an Outbreak
+of Arthritis, Synovitis, and Osteomyelitis Argues for Detailed Characterisation
+of Isolates. Animals (Basel). 2024 Sep 4;14(17):2574. doi: 10.3390/ani14172574.
+PMID: 39272359; PMCID: PMC11394569.
+
+37: Silva LDS, Vila Nova BG, Sousa CEM, Silva RG, Carvalho LRS, Silva ISS,
+Moreira PHA, Cardenas AFM, Monteiro CA, Tofanello A, Garcia W, Teixeira CS,
+Nascimento da Silva LC. Fabrication and characterization of physically
+crosslinked alginate/chitosan-based hydrogel loaded with neomycin for the
+treatment of skin infections caused by Staphylococcus aureus. Int J Biol
+Macromol. 2024 Jun;271(Pt 1):132577. doi: 10.1016/j.ijbiomac.2024.132577. Epub
+2024 May 23. PMID: 38795887.
+
+38: Dai H, Yin M, Zhang S, Wei J, Jiao T, Chen Q, Chen Q, Chen X, Oyama M, Chen
+X. A paper-based photoelectrochemical aptsensor using near-infrared light-
+responsive AgBiS<sub>2</sub> nanoflowers as probes for the detection of
+Staphylococcus aureus in pork. Talanta. 2024 Jan 1;266(Pt 2):125128. doi:
+10.1016/j.talanta.2023.125128. Epub 2023 Aug 25. PMID: 37639873.
+
+39: Narongpun P, Chanchaithong P, Yamagishi J, Thapa J, Nakajima C, Suzuki Y.
+Correction: Narongpun et al. Whole-Genome Investigation of Zoonotic Transmission
+of Livestock-Associated Methicillin-Resistant <i>Staphylococcus aureus</i>
+Clonal Complex 398 Isolated from Pigs and Humans in Thailand. <i>Antibiotics</i>
+2023, <i>12</i>, 1745. Antibiotics (Basel). 2024 Jul 23;13(8):681. doi:
+10.3390/antibiotics13080681. Erratum for: Antibiotics (Basel). 2023 Dec
+16;12(12):1745. doi: 10.3390/antibiotics12121745. PMID: 39200091; PMCID:
+PMC11325233.

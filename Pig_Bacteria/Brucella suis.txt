@@ -1,0 +1,80 @@
+1: Melzani A, Boutrou M, Sainte-Rose V, About F, Douine M, Michaud C, Nacher M,
+Gaillet M, Blanchet D, Lavigne JP, Demar M, O'Callaghan D, Djossou F, Keriel A,
+Epelboin L. Case Report: Acute Brucellosis Due to Brucella suis in a Brazilian
+Gold Miner Diagnosed in French Guiana. Am J Trop Med Hyg. 2023 May
+30;109(1):32-34. doi: 10.4269/ajtmh.22-0228. PMID: 37253440; PMCID: PMC10323995.
+
+2: Kneipp CC, Rose AM, Robson J, Malik R, Deutscher AT, Wiethoelter AK, Mor SM.
+Brucella suis in three dogs: presentation, diagnosis and clinical management.
+Aust Vet J. 2023 Apr;101(4):133-141. doi: 10.1111/avj.13227. Epub 2023 Jan 19.
+PMID: 36655500.
+
+3: Havas KA, Yancey CB, Zhuang J, Braun C, Smith DC. Brucella suis and farm
+biosecurity: assessing risk in pigs raised outdoors in New York State. J Am Vet
+Med Assoc. 2022 May 21;260(S2):S87-S94. doi: 10.2460/javma.21.08.0399. PMID:
+35290201.
+
+4: Kneipp CC, Sawford K, Wingett K, Malik R, Stevenson MA, Mor SM, Wiethoelter
+AK. <i>Brucella suis</i> Seroprevalence and Associated Risk Factors in Dogs in
+Eastern Australia, 2016 to 2019. Front Vet Sci. 2021 Sep 21;8:727641. doi:
+10.3389/fvets.2021.727641. PMID: 34621810; PMCID: PMC8490753.
+
+5: Papić B, Kušar D, Krt B, Ocepek M, Avberšek J. Phylogeography of Brucella
+suis biovar 2 with focus on Slovenian wildlife. Vet Microbiol. 2023
+Jul;282:109751. doi: 10.1016/j.vetmic.2023.109751. Epub 2023 Apr 24. PMID:
+37104938.
+
+6: Rebollada-Merino A, García-Seco T, Pérez-Sancho M, Domínguez L, Rodríguez-
+Bertos A. Histopathologic and immunohistochemical findings in the placentas and
+fetuses of domestic swine naturally infected with <i>Brucella suis</i> biovar 2.
+J Vet Diagn Invest. 2023 May;35(3):258-265. doi: 10.1177/10406387231163867. Epub
+2023 Mar 29. PMID: 36988301; PMCID: PMC10186003.
+
+7: Brown VR, Miller RS, Bowden CF, Smyser TJ, Ledesma NA, Hartwig A, Gordy P,
+Anderson AM, Porter SM, Alexander K, Gouker Z, Gidlewski T, Bowen RA, Bosco-
+Lauth AM. Disease Progression and Serological Assay Performance in Heritage
+Breed Pigs following <i>Brucella suis</i> Experimental Challenge as a Model for
+Naturally Infected Feral Swine. Pathogens. 2023 Apr 24;12(5):638. doi:
+10.3390/pathogens12050638. PMID: 37242308; PMCID: PMC10221608.
+
+8: Vicente AF, Mioni MSR, Cagnini DQ, Ribeiro MG, Arabe Filho MF, Listoni FJP,
+Ribeiro BLD, Megid J. Phenotypic and molecular identification of Brucella suis
+biotype 1 in a pig from Brazil-case report. Braz J Microbiol. 2022
+Mar;53(1):487-489. doi: 10.1007/s42770-021-00607-y. Epub 2021 Sep 11. Erratum
+in: Braz J Microbiol. 2022 Mar;53(1):517. doi: 10.1007/s42770-021-00626-9. PMID:
+34510396; PMCID: PMC8882543.
+
+9: Elmonir W, Abdel-Hamid NH, Hamdy MER, Beleta EIM, El-Diasty M, Melzer F,
+Wareth G, Neubauer H. Isolation and molecular confirmation of Brucella suis
+biovar 2 from slaughtered pigs: an unanticipated biovar from domestic pigs in
+Egypt. BMC Vet Res. 2022 Jun 13;18(1):224. doi: 10.1186/s12917-022-03332-2.
+PMID: 35698071; PMCID: PMC9195200.
+
+10: Wareth G, Abdel-Hamid NH, Hamdy MER, Elmonir W, Beleta EIM, El-Diasty M,
+Abdel-Glil MY, Melzer F, Neubauer H. Whole-genome sequencing (WGS) analysis of
+Brucella suis biovar 2 isolated from domestic pigs in Egypt for epidemiological
+and genetic diversity tracing. Vet Microbiol. 2023 Feb;277:109637. doi:
+10.1016/j.vetmic.2022.109637. Epub 2022 Dec 23. PMID: 36586209.
+
+11: Girault G, Djokic V, Petot-Bottin F, Perrot L, Thibaut B, Sébastien H,
+Vicente AF, Ponsart C, Freddi L. Molecular Investigations of Two First
+<i>Brucella suis</i> Biovar 2 Infections Cases in French Dogs. Pathogens. 2023
+Jun 1;12(6):792. doi: 10.3390/pathogens12060792. PMID: 37375482; PMCID:
+PMC10304029.
+
+12: Pierce CF, Brown VR, Olsen SC, Boggiatto P, Pedersen K, Miller RS, Speidel
+SE, Smyser TJ. Loci Associated With Antibody Response in Feral Swine (<i>Sus
+scrofa</i>) Infected With <i>Brucella suis</i>. Front Vet Sci. 2020 Nov
+25;7:554674. doi: 10.3389/fvets.2020.554674. PMID: 33324693; PMCID: PMC7724110.
+
+13: Brangsch H, Horstkotte MA, Melzer F. Genotypic peculiarities of a human
+brucellosis case caused by Brucella suis biovar 5. Sci Rep. 2023 Oct
+3;13(1):16586. doi: 10.1038/s41598-023-43570-4. PMID: 37789135; PMCID:
+PMC10547717.
+
+14: van Tulden P, Gonzales JL, Kroese M, Engelsma M, de Zwart F, Szot D,
+Bisselink Y, van Setten M, Koene M, Willemsen P, Roest HJ, van der Giessen J.
+Monitoring results of wild boar (<i>Sus scrofa</i>) in The Netherlands: analyses
+of serological results and the first identification of <i>Brucella suis</i>
+biovar 2. Infect Ecol Epidemiol. 2020 Oct 26;10(1):1794668. doi:
+10.1080/20008686.2020.1794668. PMID: 33224447; PMCID: PMC7595143.

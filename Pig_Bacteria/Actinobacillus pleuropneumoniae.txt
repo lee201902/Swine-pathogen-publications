@@ -1,0 +1,278 @@
+1: Jarosova R, Ondrackova P, Leva L, Nedbalcova K, Vicenova M, Masek J, Volf J,
+Gebauer J, Do T, Guran R, Sladek Z, Dominguez J, Faldyna M. Cytokine expression
+by CD163+ monocytes in healthy and Actinobacillus pleuropneumoniae-infected
+pigs. Res Vet Sci. 2022 Dec 20;152:1-9. doi: 10.1016/j.rvsc.2022.07.015. Epub
+2022 Jul 21. PMID: 35901636.
+
+2: Siteavu MI, Drugea RI, Pitoiu E, Ciobotaru-Pirvu E. Antimicrobial Resistance
+of <i>Actinobacillus pleuropneumoniae</i>, <i>Streptococcus suis</i>, and
+<i>Pasteurella multocida</i> Isolated from Romanian Swine Farms. Microorganisms.
+2023 Sep 27;11(10):2410. doi: 10.3390/microorganisms11102410. PMID: 37894069;
+PMCID: PMC10609511.
+
+3: Tang H, Wang R, Pang S, Han W, Zhang Q, Fang Q, Chen X, Huang Q, Qiu D, Zhou
+R, Li L. Native ApxIIA secreted by Actinobacillus pleuropneumoniae induces
+apoptosis in porcine alveolar macrophages dependent on concentration and
+acylation. Vet Microbiol. 2023 Dec;287:109908. doi:
+10.1016/j.vetmic.2023.109908. Epub 2023 Nov 2. PMID: 37952264.
+
+4: Zhu J, Zhu R, Jiang H, Li Z, Jiang X, Li F, Zhang F, Feng X, Gu J, Li N, Lei
+L. Adh Promotes <i>Actinobacillus pleuropneumoniae</i> Survival in Porcine
+Alveolar Macrophages by Inhibiting CHAC2-Mediated Respiratory Burst and
+Inflammatory Cytokine Expression. Cells. 2023 Feb 22;12(5):696. doi:
+10.3390/cells12050696. PMID: 36899832; PMCID: PMC10001268.
+
+5: Stancheva SG, Frömbling J, Sassu EL, Hennig-Pauka I, Ladinig A, Gerner W,
+Grunert T, Ehling-Schulz M. Proteomic and immunoproteomic insights into the
+exoproteome of Actinobacillus pleuropneumoniae, the causative agent of porcine
+pleuropneumonia. Microb Pathog. 2022 Nov;172:105759. doi:
+10.1016/j.micpath.2022.105759. Epub 2022 Sep 7. PMID: 36087692.
+
+6: Loera-Muro A, Ramírez-Castillo FY, Moreno-Flores AC, Martin EM, Avelar-
+González FJ, Guerrero-Barrera AL. <i>Actinobacillus pleuropneumoniae</i>
+Surviving on Environmental Multi-Species Biofilms in Swine Farms. Front Vet Sci.
+2021 Sep 30;8:722683. doi: 10.3389/fvets.2021.722683. PMID: 34660763; PMCID:
+PMC8515031.
+
+7: Plasencia-Muñoz B, Avelar-González FJ, De la Garza M, Jacques M, Moreno-
+Flores A, Guerrero-Barrera AL. <i>Actinobacillus pleuropneumoniae</i>
+Interaction With Swine Endothelial Cells. Front Vet Sci. 2020 Oct 29;7:569370.
+doi: 10.3389/fvets.2020.569370. PMID: 33195549; PMCID: PMC7658479.
+
+8: Watt AE, Browning GF, Markham PF, Marenda MS. Detection of naturally
+aerosolized Actinobacillus pleuropneumoniae on pig farms by cyclonic air
+sampling and qPCR. Vet Microbiol. 2020 Nov;250:108856. doi:
+10.1016/j.vetmic.2020.108856. Epub 2020 Sep 18. PMID: 33007607.
+
+9: Bao C, Jiang H, Zhu R, Liu B, Xiao J, Li Z, Chen P, Langford PR, Zhang F, Lei
+L. Differences in pig respiratory tract and peripheral blood immune responses to
+Actinobacillus pleuropneumoniae. Vet Microbiol. 2020 Aug;247:108755. doi:
+10.1016/j.vetmic.2020.108755. Epub 2020 Jun 12. PMID: 32686648.
+
+10: Somogyi Z, Mag P, Simon R, Kerek Á, Makrai L, Biksi I, Jerzsele Á.
+Susceptibility of <i>Actinobacillus pleuropneumoniae</i>, <i>Pasteurella
+multocida</i> and <i>Streptococcus suis</i> Isolated from Pigs in Hungary
+between 2018 and 2021. Antibiotics (Basel). 2023 Aug 8;12(8):1298. doi:
+10.3390/antibiotics12081298. PMID: 37627719; PMCID: PMC10451952.
+
+11: Sarkar R, Roychoudhury P, Kumar S, Dutta S, Konwar N, Subudhi PK, Dutta TK.
+Rapid detection of Actinobacillus pleuropneumoniae targeting the apxIVA gene for
+diagnosis of contagious porcine pleuropneumonia in pigs by polymerase spiral
+reaction. Lett Appl Microbiol. 2022 Aug;75(2):442-449. doi: 10.1111/lam.13749.
+Epub 2022 Jun 5. PMID: 35616177.
+
+12: Zhu Z, Antenucci F, Winther-Larsen HC, Skovgaard K, Bojesen AM. Outer
+Membrane Vesicles of Actinobacillus pleuropneumoniae Exert Immunomodulatory
+Effects on Porcine Alveolar Macrophages. Microbiol Spectr. 2022 Oct
+26;10(5):e0181922. doi: 10.1128/spectrum.01819-22. Epub 2022 Aug 30. PMID:
+36040198; PMCID: PMC9602539.
+
+13: Papatsiros VG, Stylianaki I, Tsokana CN, Papakonstantinou G, Christophorou
+M, Papaioannou N, Athanasiou LV. Histopathological lesions of <i>Actinobacillus
+pleuropneumoniae</i> serotype 8 in infected pigs. Vet Res Forum.
+2023;14(7):401-404. doi: 10.30466/vrf.2022.556971.3539. Epub 2023 Jul 15. PMID:
+37564359; PMCID: PMC10410112.
+
+14: Ozawa M, Kawano M, Abo H, Issiki Y, Kumakawa M, Kawanishi M, Kojima A,
+Iwamoto S. Characterization of Actinobacillus pleuropneumoniae isolated from
+pigs in Japan using whole genome sequencing. Comp Immunol Microbiol Infect Dis.
+2023 Nov;102:102062. doi: 10.1016/j.cimid.2023.102062. Epub 2023 Sep 9. PMID:
+37741218.
+
+15: Seakamela EM, Henton MM, Jonker A, Kayoka-Kabongo PN, Matle I. Temporal and
+Serotypic Dynamics of <i>Actinobacillus pleuropneumoniae</i> in South African
+Porcine Populations: A Retrospective Study from 1985 to 2023. Pathogens. 2024
+Jul 20;13(7):599. doi: 10.3390/pathogens13070599. PMID: 39057825; PMCID:
+PMC11280335.
+
+16: van Dixhoorn IDE, Te Beest DE, Bolhuis JE, Parmentier HK, Kemp B, van Mourik
+S, Stockhofe-Zurwieden N, van Reenen CG, Rebel JMJ. Animal-Based Factors Prior
+to Infection Predict Histological Disease Outcome in Porcine Reproductive and
+Respiratory Syndrome Virus- and <i>Actinobacillus pleuropneumoniae</i>-Infected
+Pigs. Front Vet Sci. 2021 Nov 17;8:742877. doi: 10.3389/fvets.2021.742877.
+Erratum in: Front Vet Sci. 2024 Feb 13;11:1350387. doi:
+10.3389/fvets.2024.1350387. PMID: 34869719; PMCID: PMC8635501.
+
+17: Guitart-Matas J, Gonzalez-Escalona N, Maguire M, Vilaró A, Martinez-Urtaza
+J, Fraile L, Migura-Garcia L. Revealing Genomic Insights of the Unexplored
+Porcine Pathogen Actinobacillus pleuropneumoniae Using Whole Genome Sequencing.
+Microbiol Spectr. 2022 Aug 31;10(4):e0118522. doi: 10.1128/spectrum.01185-22.
+Epub 2022 Jul 20. PMID: 35856711; PMCID: PMC9430968.
+
+18: Hennig-Pauka I, Hartmann M, Merkel J, Kreienbrock L. Coinfections and
+Phenotypic Antimicrobial Resistance in <i>Actinobacillus pleuropneumoniae</i>
+Strains Isolated From Diseased Swine in North Western Germany-Temporal Patterns
+in Samples From Routine Laboratory Practice From 2006 to 2020. Front Vet Sci.
+2022 Jan 28;8:802570. doi: 10.3389/fvets.2021.802570. PMID: 35155648; PMCID:
+PMC8831912.
+
+19: Guarneri F, Romeo C, Scali F, Zoppi S, Formenti N, Maisano AM, Catania S,
+Gottschalk M, Alborali GL. Serotype diversity and antimicrobial susceptibility
+profiles of Actinobacillus pleuropneumoniae isolated in Italian pig farms from
+2015 to 2022. Vet Res. 2024 Apr 9;55(1):48. doi: 10.1186/s13567-024-01305-x.
+PMID: 38594744; PMCID: PMC11005290.
+
+20: Rattanapanadda P, Kuo HC, Chang SK, Tell LA, Shia WY, Chou CC. Effect of
+Carbonyl Cyanide Chlorophenylhydrazone on Intrabacterial Concentration and
+Antimicrobial Activity of Amphenicols against Swine Resistant Actinobacillus
+pleuropneumoniae and Pasteurella multocida. Vet Res Commun. 2022
+Sep;46(3):903-916. doi: 10.1007/s11259-022-09917-4. Epub 2022 Mar 23. PMID:
+35322371.
+
+21: Salmin AF, Pesant MJ, Burgher Y, Provost C, Labrie J, Jacques M, Gagnon CA,
+Beaudry F. Untargeted and targeted metabolomics reveal that adenosine
+nucleotides released in Actinobacillus pleuropneumoniae supernatant inhibit
+porcine reproductive and respiratory syndrome virus replication. Talanta. 2022
+May 15;242:123315. doi: 10.1016/j.talanta.2022.123315. Epub 2022 Feb 12. PMID:
+35189413.
+
+22: Lee EB, Abbas MA, Park J, Tassew DD, Park SC. Optimizing tylosin dosage for
+co-infection of <i>Actinobacillus pleuropneumoniae</i> and <i>Pasteurella
+multocida</i> in pigs using pharmacokinetic/pharmacodynamic modeling. Front
+Pharmacol. 2023 Sep 22;14:1258403. doi: 10.3389/fphar.2023.1258403. PMID:
+37808183; PMCID: PMC10556534.
+
+23: Jarosova R, Ben Arous J, Nechvatalova K, Nedbalcova K, Hlavova K, Stepanova
+H, Leva L, Oreskovic Z, Jan Matiasovic, Versillé N, Sladek Z, Faldyna M. Effects
+of oil-based adjuvants on the immune response of pigs after dermal
+administration of antigen and evaluation of the immunization level after a
+subsequent Actinobacillus pleuropneumoniae challenge in pigs. Vet Microbiol.
+2023 Jan;276:109607. doi: 10.1016/j.vetmic.2022.109607. Epub 2022 Nov 30. PMID:
+36481482.
+
+24: To H, Konnai M, Teshima K, Tsutsumi N, Ito S, Sato M, Shibuya K, Nagai S.
+Pulmonary lesions with asteroid bodies in a pig experimentally infected with
+Actinobacillus pleuropneumoniae serovar 15. J Vet Med Sci. 2023 Oct
+19;85(10):1131-1135. doi: 10.1292/jvms.23-0202. Epub 2023 Aug 24. PMID:
+37612056; PMCID: PMC10600533.
+
+25: Cuccato M, Divari S, Ciaramita S, Sereno A, Campelli D, Biolatti PG,
+Biolatti B, Meliota F, Bollo E, Cannizzo FT. <i>Actinobacillus
+pleuropneumoniae</i> Serotypes by Multiplex PCR Identification and Evaluation of
+Lung Lesions in Pigs from Piedmont (Italy) Farms. Animals (Basel). 2024 Aug
+3;14(15):2255. doi: 10.3390/ani14152255. PMID: 39123782; PMCID: PMC11311043.
+
+26: Hu Y, Jiang C, Zhao Y, Cao H, Ren J, Zeng W, Zhang M, Li Y, He Q, Li W.
+TurboID screening of ApxI toxin interactants identifies host proteins involved
+in Actinobacillus pleuropneumoniae-induced apoptosis of immortalized porcine
+alveolar macrophages. Vet Res. 2023 Jul 20;54(1):62. doi:
+10.1186/s13567-023-01194-6. PMID: 37475032; PMCID: PMC10360236.
+
+27: Brenciani A, Coccitto SN, Cucco L, Ustulin M, Albini E, Paniccià M, Vio D,
+Cinthi M, Giovanetti E, Massacci FR, Magistrali CF. Emerging resistance to
+florfenicol in Actinobacillus pleuropneumoniae isolates on two Italian pig
+farms. Vet Microbiol. 2024 Sep;296:110186. doi: 10.1016/j.vetmic.2024.110186.
+Epub 2024 Jul 25. PMID: 39068769.
+
+28: Tenk M, Tóth G, Márton Z, Sárközi R, Szórádi A, Makrai L, Pálmai N, Szalai
+T, Albert M, Fodor L. Examination of the Virulence of <i>Actinobacillus
+pleuropneumoniae</i> Serovar 16 in Pigs. Vet Sci. 2024 Feb 1;11(2):62. doi:
+10.3390/vetsci11020062. PMID: 38393080; PMCID: PMC10892955.
+
+29: Zhang L, Luo W, Xiong R, Li H, Yao Z, Zhuo W, Zou G, Huang Q, Zhou R. A
+Combinatorial Vaccine Containing Inactivated Bacterin and Subunits Provides
+Protection Against <i>Actinobacillus pleuropneumoniae</i> Infection in Mice and
+Pigs. Front Vet Sci. 2022 Jun 7;9:902497. doi: 10.3389/fvets.2022.902497. PMID:
+35747235; PMCID: PMC9212066.
+
+30: Yao X, Song Q, Zhu W, Wei J, Shao D, Liu K, Li Z, Qiu Y, Ma Z, Xia L, Li B.
+Characterization of small plasmids carrying florfenicol resistance gene
+<i>floR</i> in <i>Actinobacillus pleuropneumoniae</i> and <i>Pasteurella
+multocida</i> isolates from swine in China. Front Vet Sci. 2023 Jan
+30;10:1084491. doi: 10.3389/fvets.2023.1084491. PMID: 36793377; PMCID:
+PMC9922843.
+
+31: Yao L, Yang L, Ling Y, Wei Y, Shen X, Ding H.
+Pharmacokinetic/Pharmacodynamic Relationships of Tulathromycin Against
+<i>Actinobacillus pleuropneumoniae</i> in a Porcine Tissue Cage Infection Model.
+Front Vet Sci. 2022 Mar 28;9:822432. doi: 10.3389/fvets.2022.822432. PMID:
+35419449; PMCID: PMC8995781.
+
+32: Dong Z, Zhou XZ, Sun JC, Meng XB, Li HS, Cheng FS, Wei XJ, Li B, Wang WW,
+Zhang JY. Efficacy of enteric-coated tilmicosin granules in pigs artificially
+infected with Actinobacillus pleuropneumoniae serotype 2. Vet Med Sci. 2020
+Feb;6(1):105-113. doi: 10.1002/vms3.198. Epub 2019 Oct 7. PMID: 31589010; PMCID:
+PMC7036302.
+
+33: Stringer OW, Li Y, Bossé JT, Langford PR. JMM Profile: <i>Actinobacillus
+pleuropneumoniae</i>: a major cause of lung disease in pigs but difficult to
+control and eradicate. J Med Microbiol. 2022 Mar;71(3):001483. doi:
+10.1099/jmm.0.001483. PMID: 35262474; PMCID: PMC9176268.
+
+34: Lacouture S, Gottschalk M. Distribution of <i>Actinobacillus
+pleuropneumoniae</i> (from 2015 to June 2020) and <i>Glaesserella parasuis</i>
+(from 2017 to June 2020) serotypes isolated from diseased pigs in Quebec. Can
+Vet J. 2020 Dec;61(12):1261-1263. PMID: 33299240; PMCID: PMC7659881.
+
+35: Sun D, Mi K, Hao H, Xie S, Chen D, Huang L. Optimal regimens based on PK/PD
+cutoff evaluation of ceftiofur against Actinobacillus pleuropneumoniae in swine.
+BMC Vet Res. 2020 Sep 29;16(1):366. doi: 10.1186/s12917-020-02589-9. PMID:
+32993661; PMCID: PMC7526406.
+
+36: Kaspersen H, Urdahl AM, Grøntvedt CA, Gulliksen SM, Tesfamichael B,
+Slettemeås JS, Norström M, Sekse C. <i>Actinobacillus pleuropneumoniae</i>
+Eradication with Enrofloxacin May Lead to Dissemination and Long-Term
+Persistence of Quinolone Resistant <i>Escherichia coli</i> in Pig Herds.
+Antibiotics (Basel). 2020 Dec 15;9(12):910. doi: 10.3390/antibiotics9120910.
+PMID: 33333974; PMCID: PMC7765418.
+
+37: van Dixhoorn IDE, Te Beest DE, Bolhuis JE, Parmentier HK, Kemp B, van Mourik
+S, Stockhofe-Zurwieden N, van Reenen CG, Rebel JMJ. Corrigendum: Animal-based
+factors prior to infection predict histological disease outcome in porcine
+reproductive and respiratory syndrome virus- and <i>Actinobacillus
+pleuropneumoniae</i>-infected pigs. Front Vet Sci. 2024 Feb 13;11:1350387. doi:
+10.3389/fvets.2024.1350387. Erratum for: Front Vet Sci. 2021 Nov 17;8:742877.
+doi: 10.3389/fvets.2021.742877. PMID: 38414652; PMCID: PMC10897753.
+
+38: Blondeau JM, Fitch SD. Comparison of the Minimum Inhibitory and Mutant
+Prevention Drug Concentrations for Pradofloxacin and 7 Other Antimicrobial
+Agents Tested Against Swine Isolates of <i>Actinobacillus pleuropneumoniae</i>
+and <i>Pasteurella multocida</i>. Molecules. 2024 Nov 19;29(22):5448. doi:
+10.3390/molecules29225448. PMID: 39598838; PMCID: PMC11597606.
+
+39: Chen Y, Li M, Su D, Xiong S, Feng Y, Deng Q, Ding H. Lung microdialysis and
+<i>in vivo</i> PK/PD integration of cefquinome against <i>Actinobacillus
+pleuropneumoniae</i> in a porcine experimental lung infection model. Front Vet
+Sci. 2024 Mar 26;11:1390336. doi: 10.3389/fvets.2024.1390336. PMID: 38596468;
+PMCID: PMC11002211.
+
+40: Lacouture S, Vincent AT, Gottschalk M. Distribution of <i>Streptococcus
+suis, Actinobacillus pleuropneumoniae</i>, and <i>Glaesserella parasuis</i>
+serotypes isolated from diseased pigs in Quebec between January 2020 and
+December 2023. Can Vet J. 2024 Jun;65(6):533-534. PMID: 38827588; PMCID:
+PMC11132141.
+
+41: Mortensen P, Toft N, Kiss I, Palya V, Smits H, Tenk M. Comparative Efficacy
+in Challenge Dose Models of a Toxin Expressing Whole-Cell Vaccine against Eight
+Serovars of <i>Actinobacillus pleuropneumoniae</i> in Pigs. Animals (Basel).
+2022 Nov 23;12(23):3244. doi: 10.3390/ani12233244. PMID: 36496765; PMCID:
+PMC9740876.
+
+42: Arnal Bernal JL, Gottschalk M, Lacotoure S, Sanz Tejero C, Chacón Pérez G,
+Martín-Jurado D, Fernández Ros AB. Serotype diversity of Actinobacillus
+pleuropneumoniae detected by real-time PCR in clinical and subclinical samples
+from Spanish pig farms during 2017-2022. Vet Res. 2024 Dec 18;55(1):165. doi:
+10.1186/s13567-024-01419-2. PMID: 39695814; PMCID: PMC11654185.
+
+43: Vaillancourt K, Frenette M, Gottschalk M, Grenier D. <i>Streptococcus
+pluranimalium</i> 2N12 Exerts an Antagonistic Effect Against the Swine Pathogen
+<i>Actinobacillus pleuropneumoniae</i> by Producing Hydrogen Peroxide. Front Vet
+Sci. 2021 Dec 8;8:787241. doi: 10.3389/fvets.2021.787241. PMID: 34957284; PMCID:
+PMC8692661.
+
+44: Peterhans S, Stevens MJA, Cernela N, Sidler X, Stephan R, Scherrer S. Draft
+Genome Sequences of Two Clinical Actinobacillus pleuropneumoniae Serotype 19
+Strains from Pigs in Switzerland. Microbiol Resour Announc. 2021 Aug
+26;10(34):e0058821. doi: 10.1128/MRA.00588-21. Epub 2021 Aug 26. PMID: 34435857;
+PMCID: PMC8388544.
+
+45: Arnal JL, Fernández AB, Lacotoure S, Benito AÁ, Lazaro-Gaspar S, Gottschalk
+M. Assessment of real-time PCR test in oral fluid samples for screening the
+serotypes of Actinobacillus pleuropneumoniae circulating in swine herds. Vet
+Microbiol. 2024 Nov;298:110268. doi: 10.1016/j.vetmic.2024.110268. Epub 2024 Sep
+26. PMID: 39342824.
+
+46: Gottschalk M, Lacouture S, Blackwell T, Bossé J. Long-chain LPS-based
+enzyme-linked immunosorbent assay to detect swine herds infected by
+<i>Actinobacillus pleuropneumoniae</i> serotype 17. Can Vet J. 2021
+Jan;62(1):62-65. PMID: 33390602; PMCID: PMC7739393.

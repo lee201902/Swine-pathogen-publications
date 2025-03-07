@@ -1,0 +1,431 @@
+1: Sato JPH, Daniel AGS, Pereira CER, Andrade MR, Laub RP, Gabardo MP, Otoni
+LVA, Macedo NR, Barrera-Zarate JA, Guedes RMC. Experimental Infection of Pigs
+with a ST 245 <i>Brachyspira hyodysenteriae</i> Isolated from an Asymptomatic
+Pig in a Herd with No History of Swine Dysentery. Vet Sci. 2022 Jun 10;9(6):286.
+doi: 10.3390/vetsci9060286. PMID: 35737338; PMCID: PMC9229277.
+
+2: Casas V, Rodríguez-Asiain A, Pinto-Llorente R, Vadillo S, Carrascal M, Abian
+J. <i>Brachyspira hyodysenteriae</i> and <i>B. pilosicoli</i> Proteins
+Recognized by Sera of Challenged Pigs. Front Microbiol. 2017 May 4;8:723. doi:
+10.3389/fmicb.2017.00723. PMID: 28522991; PMCID: PMC5415613.
+
+3: Lugsomya K, Zeeh F, La T, Phillips N, Hampson DJ. First identification and
+characterisation of <i>Brachyspira hyodysenteriae</i> in pigs in Hong Kong.
+Porcine Health Manag. 2019 Dec 4;5:27. doi: 10.1186/s40813-019-0133-x. PMID:
+31827879; PMCID: PMC6891987.
+
+4: Sato JPH, Daniel AGS, Leal CAG, Barcellos DESN, Guedes RMC. Diversity and
+potential genetic relationships amongst Brazilian Brachyspira hyodysenteriae
+isolates from cases of swine dysentery. Vet Microbiol. 2022 Mar;266:109369. doi:
+10.1016/j.vetmic.2022.109369. Epub 2022 Feb 11. PMID: 35176606.
+
+5: Quintana-Hayashi MP, Zalem D, Lindén S, Teneberg S. Porcine intestinal
+glycosphingolipids recognized by Brachyspira hyodysenteriae. Microb Pathog. 2023
+Feb;175:105961. doi: 10.1016/j.micpath.2022.105961. Epub 2022 Dec 26. PMID:
+36581306.
+
+6: Rugna G, Bonilauri P, Carra E, Bergamini F, Luppi A, Gherpelli Y, Magistrali
+CF, Nigrelli A, Alborali GL, Martelli P, La T, Hampson DJ, Merialdi G. Sequence
+types and pleuromutilin susceptibility of Brachyspira hyodysenteriae isolates
+from Italian pigs with swine dysentery: 2003-2012. Vet J. 2015 Jan;203(1):115-9.
+doi: 10.1016/j.tvjl.2014.10.033. Epub 2014 Nov 7. PMID: 25486860.
+
+7: Helm ET, Gabler NK, Burrough ER. Highly Fermentable Fiber Alters Fecal
+Microbiota and Mitigates Swine Dysentery Induced by <i>Brachyspira
+hyodysenteriae</i>. Animals (Basel). 2021 Feb 4;11(2):396. doi:
+10.3390/ani11020396. PMID: 33557345; PMCID: PMC7915590.
+
+8: La T, Phillips ND, Coiacetto F, Hampson DJ. An atypical weakly haemolytic
+strain of Brachyspira hyodysenteriae is avirulent and can be used to protect
+pigs from developing swine dysentery. Vet Res. 2019 Jun 19;50(1):47. doi:
+10.1186/s13567-019-0668-5. PMID: 31217030; PMCID: PMC6585146.
+
+9: Dors A, Czyżewska-Dors E, Woźniakowski G. A survey on the occurrence of
+<i>Brachyspira pilosicoli</i> and <i>Brachyspira hyodysenteriae</i> in growing-
+finishing pigs. F1000Res. 2019 Sep 30;8:1702. doi:
+10.12688/f1000research.20639.3. PMID: 33824718; PMCID: PMC7993403.
+
+10: Zeeh F, De Luca S, Nicholson P, Grützner N, Nathues C, Perreten V, Nathues
+H. Brachyspira hyodysenteriae detection in the large intestine of slaughtered
+pigs. J Vet Diagn Invest. 2018 Jan;30(1):56-63. doi: 10.1177/1040638717722816.
+Epub 2017 Sep 14. PMID: 28906177; PMCID: PMC6504137.
+
+11: Hampson DJ. <i>Brachyspira hyodysenteriae</i> in apparently healthy pig
+herds. Vet Rec. 2018 Apr 28;182(17):490-491. doi: 10.1136/vr.k1782. PMID:
+29700192.
+
+12: Löbert S, Zimmermann W, Bürki S, Frey J, Nathues H, Scheer P, Doherr MG,
+Stalder U, Zeeh F. Occurrence of Brachyspira hyodysenteriae in multiplier pig
+herds in Switzerland. Tierarztl Prax Ausg G Grosstiere Nutztiere.
+2016;44(1):13-8. doi: 10.15653/TPG-150674. Epub 2016 Jan 13. PMID: 26757784.
+
+13: Zeeh F, Arnold M, Schmitt S, Collaud A, Rossano A, Rademacher F, Schüpbach-
+Regula G, Masserey Y, Nathues H, Perreten V. Low occurrence of Brachyspira
+-hyodysenteriae in Swiss pig herds with diarrhoea. Schweiz Arch Tierheilkd. 2021
+Sep;163(9):595-599. doi: 10.17236/sat00316. PMID: 34465562.
+
+14: Massacci FR, De Luca S, Cucco L, Tentellini M, Perreten V, Pezzotti G,
+Magistrali CF. Multiresistant <i>Brachyspira hyodysenteriae</i> shedding by pigs
+during the fattening period. Vet Rec. 2018 Sep 1;183(8):264. doi:
+10.1136/vr.104886. Epub 2018 Jun 27. PMID: 29950341.
+
+15: Zeeh F, Vidondo B, Nathues H. Risk factors for the infection with
+Brachyspira hyodysenteriae in pig herds. Prev Vet Med. 2020 Jan;174:104819. doi:
+10.1016/j.prevetmed.2019.104819. Epub 2019 Nov 7. PMID: 31739220.
+
+16: Quintana-Hayashi MP, Mahu M, De Pauw N, Boyen F, Pasmans F, Martel A,
+Premaratne P, Fernandez HR, Teymournejad O, Vande Maele L, Haesebrouck F, Lindén
+SK. The levels of Brachyspira hyodysenteriae binding to porcine colonic mucins
+differ between individuals, and binding is increased to mucins from infected
+pigs with de novo MUC5AC synthesis. Infect Immun. 2015 Apr;83(4):1610-9. doi:
+10.1128/IAI.03073-14. Epub 2015 Feb 2. PMID: 25644008; PMCID: PMC4363418.
+
+17: Cuvertoret-Sanz M, Weissenbacher-Lang C, Lunardi M, Brunthaler R, Coma M,
+Weissenböck H, Segalés J. Coinfection with Entamoeba polecki and Brachyspira
+hyodysenteriae in a pig with severe diarrhea. J Vet Diagn Invest. 2019
+Mar;31(2):298-302. doi: 10.1177/1040638719829800. Epub 2019 Feb 9. PMID:
+30741127; PMCID: PMC6838821.
+
+18: Quintana-Hayashi MP, Erhardsson M, Mahu M, Venkatakrishnan V, Haesebrouck F,
+Pasmans F, Lindén S. <i>Brachyspira</i> Species Avidity to Colonic Mucins from
+Pigs with and without Brachyspira hyodysenteriae Infection Is Species Specific
+and Varies between Strains. Infect Immun. 2021 Nov 16;89(12):e0048621. doi:
+10.1128/IAI.00486-21. Epub 2021 Sep 20. PMID: 34543117; PMCID: PMC8594613.
+
+19: Lee GI, Skou Hedemann M, Borg Jensen B, Bach Knudsen KE. Influence of
+infection with Brachyspira hyodysenteriae on clinical expression, growth
+performance, and digestibility in growing pigs fed diets varying in type and
+level of fiber. J Anim Sci. 2022 May 1;100(5):skac066. doi: 10.1093/jas/skac066.
+PMID: 35255495; PMCID: PMC9109007.
+
+20: Mahu M, Boyen F, Canessa S, Zavala Marchan J, Haesebrouck F, Martel A,
+Pasmans F. An avirulent Brachyspira hyodysenteriae strain elicits intestinal IgA
+and slows down spread of swine dysentery. Vet Res. 2017 Oct 5;48(1):59. doi:
+10.1186/s13567-017-0465-y. PMID: 28982389; PMCID: PMC5629781.
+
+21: Dors A, Pomorska-Mól M, Czyżewska E, Wasyl D, Pejsak Z. Prevalence and risk
+factors for Lawsonia intracellularis, Brachyspira hyodysenteriae and Salmonella
+spp. in finishing pigs in Polish farrow-to-finish swine herds. Pol J Vet Sci.
+2015;18(4):825-31. doi: 10.1515/pjvs-2015-0107. PMID: 26812826.
+
+22: Wilberts BL, Arruda PH, Kinyon JM, Madson DM, Frana TS, Burrough ER.
+Comparison of sesion severity, distribution, and colonic mucin expression in
+pigs with acute swine dysentery following oral inoculation with "Brachyspira
+hampsonii" or Brachyspira hyodysenteriae. Vet Pathol. 2014 Nov;51(6):1096-108.
+doi: 10.1177/0300985813516646. Epub 2014 Feb 27. PMID: 24577722.
+
+23: De Lorenzi G, Gherpelli Y, Luppi A, Pupillo G, Bassi P, Dottori M, Di Donato
+A, Merialdi G, Bonilauri P. In vitro susceptibility of Brachyspira
+hyodysenteriae strains isolated in pigs in northern Italy between 2005 and 2022.
+Res Vet Sci. 2024 Mar;168:105152. doi: 10.1016/j.rvsc.2024.105152. Epub 2024 Jan
+11. PMID: 38219471.
+
+24: La T, Rohde J, Phillips ND, Hampson DJ. Comparison of Brachyspira
+hyodysenteriae Isolates Recovered from Pigs in Apparently Healthy Multiplier
+Herds with Isolates from Herds with Swine Dysentery. PLoS One. 2016 Aug
+4;11(8):e0160362. doi: 10.1371/journal.pone.0160362. PMID: 27489956; PMCID:
+PMC4973917.
+
+25: Pringle M, Landén A, Unnerstad HE, Molander B, Bengtsson B. Antimicrobial
+susceptibility of porcine Brachyspira hyodysenteriae and Brachyspira pilosicoli
+isolated in Sweden between 1990 and 2010. Acta Vet Scand. 2012 Sep 21;54(1):54.
+doi: 10.1186/1751-0147-54-54. PMID: 22998753; PMCID: PMC3526423.
+
+26: Joerling J, Barth SA, Schlez K, Willems H, Herbst W, Ewers C. Phylogenetic
+diversity, antimicrobial susceptibility and virulence gene profiles of
+Brachyspira hyodysenteriae isolates from pigs in Germany. PLoS One. 2018 Jan
+11;13(1):e0190928. doi: 10.1371/journal.pone.0190928. PMID: 29324785; PMCID:
+PMC5764319.
+
+27: Lammers G, van Berkel R, Roijackers D, Vulders C, Brouwer-Middelesch H, van
+Hout J. Treatment of clinical <i>Brachyspira hyodysenteriae</i> with zinc
+chelate in pigs: a blinded, randomised controlled trial. Vet Rec. 2019 Nov
+30;185(21):659. doi: 10.1136/vr.105523. Epub 2019 Oct 3. PMID: 31582572.
+
+28: Mahu M, De Pauw N, Vande Maele L, Verlinden M, Boyen F, Ducatelle R,
+Haesebrouck F, Martel A, Pasmans F. Variation in hemolytic activity of
+Brachyspira hyodysenteriae strains from pigs. Vet Res. 2016 Jun 23;47(1):66.
+doi: 10.1186/s13567-016-0353-x. PMID: 27338265; PMCID: PMC4917944.
+
+29: Schweer WP, Burrough ER, Patience JF, Kerr BJ, Gabler NK. Impact of
+Brachyspira hyodysenteriae on intestinal amino acid digestibility and endogenous
+amino acid losses in pigs. J Anim Sci. 2019 Jan 1;97(1):257-268. doi:
+10.1093/jas/sky393. PMID: 30335136; PMCID: PMC6313137.
+
+30: EFSA Panel on Animal Health and Welfare (AHAW); Nielsen SS, Bicout DJ,
+Calistri P, Canali E, Drewe JA, Garin-Bastuji B, Gonzales Rojas JL, Gortázar C,
+Herskin M, Michel V, Miranda Chueca MÁ, Padalino B, Pasquali P, Roberts HC,
+Spoolder H, Ståhl K, Velarde A, Viltrop A, Winckler C, Baldinelli F, Broglia A,
+Kohnle L, Van der Stede Y, Alvarez J. Assessment of listing and categorisation
+of animal diseases within the framework of the Animal Health Law (Regulation
+(EU) No 2016/429): antimicrobial-resistant <i>Brachyspira hyodysenteriae</i> in
+swine. EFSA J. 2022 Mar 15;20(3):e07124. doi: 10.2903/j.efsa.2022.7124. PMID:
+35317125; PMCID: PMC8922405.
+
+31: Klose V, Bruckbeck R, Henikl S, Schatzmayr G, Loibner AP. Identification and
+antimicrobial susceptibility of porcine bacteria that inhibit the growth of
+Brachyspira hyodysenteriae in vitro. J Appl Microbiol. 2010 Apr;108(4):1271-80.
+doi: 10.1111/j.1365-2672.2009.04521.x. Epub 2009 Aug 13. PMID: 19778354.
+
+32: Calderaro A, Bommezzadri S, Piccolo G, Zuelli C, Dettori G, Chezzi C. Rapid
+isolation of Brachyspira hyodysenteriae and Brachyspira pilosicoli from pigs.
+Vet Microbiol. 2005 Feb 25;105(3-4):229-34. doi: 10.1016/j.vetmic.2004.10.021.
+Epub 2004 Dec 28. PMID: 15708820.
+
+33: Phillips ND, La T, Adams PJ, Harland BL, Fenwick SG, Hampson DJ. Detection
+of Brachyspira hyodysenteriae, Lawsonia intracellularis and Brachyspira
+pilosicoli in feral pigs. Vet Microbiol. 2009 Mar 2;134(3-4):294-9. doi:
+10.1016/j.vetmic.2008.08.006. Epub 2008 Aug 22. PMID: 18818030.
+
+34: García-Martín AB, Perreten V, Rossano A, Schmitt S, Nathues H, Zeeh F.
+Predominance of a macrolide-lincosamide-resistant Brachyspira hyodysenteriae of
+sequence type 196 in Swiss pig herds. Vet Microbiol. 2018 Nov;226:97-102. doi:
+10.1016/j.vetmic.2018.10.007. Epub 2018 Oct 11. PMID: 30389050.
+
+35: Venkatakrishnan V, Quintana-Hayashi MP, Mahu M, Haesebrouck F, Pasmans F,
+Lindén SK. Brachyspira hyodysenteriae Infection Regulates Mucin Glycosylation
+Synthesis Inducing an Increased Expression of Core-2 O-Glycans in Porcine Colon.
+J Proteome Res. 2017 Apr 7;16(4):1728-1742. doi: 10.1021/acs.jproteome.7b00002.
+Epub 2017 Mar 30. PMID: 28301166.
+
+36: Hampson DJ, La T, Phillips ND, Holyoake PK. Brachyspira hyodysenteriae
+isolated from apparently healthy pig herds following an evaluation of a
+prototype commercial serological ELISA. Vet Microbiol. 2016 Aug 15;191:15-9.
+doi: 10.1016/j.vetmic.2016.05.016. Epub 2016 May 26. PMID: 27374902.
+
+37: Grahofer A, Overesch G, Nathues H, Zeeh F. Effect of soy on faecal dry
+matter content and excretion of Brachyspira hyodysenteriae in pigs. Vet Rec
+Open. 2016 May 2;3(1):e000159. doi: 10.1136/vetreco-2015-000159. PMID: 27239320;
+PMCID: PMC4860860.
+
+38: Nathues H, Oliveira CJ, Wurm M, Grosse Beilage E, Givisiez PE. Simultaneous
+detection of Brachyspira hyodysenteriae, Brachyspira pilosicoli and Lawsonia
+intracellularis in porcine faeces and tissue samples by multiplex-PCR. J Vet Med
+A Physiol Pathol Clin Med. 2007 Nov;54(9):532-8. doi:
+10.1111/j.1439-0442.2007.00995.x. PMID: 17931231.
+
+39: Quintana-Hayashi MP, Venkatakrishnan V, Haesebrouck F, Lindén S. Role of
+Sialic Acid in Brachyspira hyodysenteriae Adhesion to Pig Colonic Mucins. Infect
+Immun. 2019 Jun 20;87(7):e00889-18. doi: 10.1128/IAI.00889-18. PMID: 30988055;
+PMCID: PMC6589055.
+
+40: Cadetg R, Vidondo B, Nathues H, Schüpbach-Regula G, Zeeh F. Retrospektive
+Studie zur Sanierung von Beständen mit Schweinedysenterie (Brachyspira
+hyodysenteriae) in der Schweiz [Retrospective study on the eradication of Swine
+Dysentery (Brachyspira hyodysenteriae) in Switzerland]. Schweiz Arch Tierheilkd.
+2019 Apr;161(4):217-230. German. doi: 10.17236/sat00202. PMID: 30942189.
+
+41: Zeeh F, Klausmann S, Masserey Y, Nathues H, Perreten V, Rohde J. Isolation
+of Brachyspira hyodysenteriae from a crow (Corvus corone) in close proximity to
+commercial pigs. Vet J. 2018 Jun;236:111-112. doi: 10.1016/j.tvjl.2018.05.002.
+Epub 2018 May 4. PMID: 29871743.
+
+42: Suh DK, Song JC. Prevalence of Lawsonia intracellularis, Brachyspira
+hyodysenteriae and Salmonella in swine herds. J Vet Sci. 2005 Dec;6(4):289-93.
+PMID: 16293991.
+
+43: Osorio J, Carvajal A, Naharro G, La T, Phillips ND, Rubio P, Hampson DJ.
+Dissemination of clonal groups of Brachyspira hyodysenteriae amongst pig farms
+in Spain, and their relationships to isolates from other countries. PLoS One.
+2012;7(6):e39082. doi: 10.1371/journal.pone.0039082. Epub 2012 Jun 19. PMID:
+22723934; PMCID: PMC3378525.
+
+44: Hansen CF, Hernández A, Mansfield J, Hidalgo Á, La T, Phillips ND, Hampson
+DJ, Pluske JR. A high dietary concentration of inulin is necessary to reduce the
+incidence of swine dysentery in pigs experimentally challenged with Brachyspira
+hyodysenteriae. Br J Nutr. 2011 Nov;106(10):1506-13. doi:
+10.1017/S000711451100208X. Epub 2011 Jun 7. PMID: 21736788.
+
+45: Wilberts BL, Warneke HL, Bower LP, Kinyon JM, Burrough ER. Comparison of
+culture, polymerase chain reaction, and fluorescent in situ hybridization for
+detection of Brachyspira hyodysenteriae and "Brachyspira hampsonii" in pig
+feces. J Vet Diagn Invest. 2015 Jan;27(1):41-6. doi: 10.1177/1040638714563064.
+PMID: 25525136.
+
+46: Hontecillas R, Bassaganya-Riera J, Wilson J, Hutto DL, Wannemuehler MJ. CD4+
+T-cell responses and distribution at the colonic mucosa during Brachyspira
+hyodysenteriae-induced colitis in pigs. Immunology. 2005 May;115(1):127-35. doi:
+10.1111/j.1365-2567.2005.02124.x. PMID: 15819705; PMCID: PMC1782129.
+
+47: Lugsomya K, Tummaruk P, Hampson DJ, Prapasarakul N. Development of a
+modified selective medium to enhance the recovery rate of Brachyspira
+hyodysenteriae and other porcine intestinal spirochaetes from faeces. Lett Appl
+Microbiol. 2012 Apr;54(4):330-5. doi: 10.1111/j.1472-765X.2012.03213.x. Epub
+2012 Feb 20. PMID: 22283457.
+
+48: Zmudzki J, Szczotka A, Podgórska K, Nowak A, Grzesiak A, Dors A, Pejsak Z.
+Application of real-time PCR for detection of Lawsonia intracellularis and
+Brachyspira hyodysenteriae in fecal samples from pigs. Pol J Vet Sci.
+2012;15(2):267-73. doi: 10.2478/v10181-011-0144-2. PMID: 22844704.
+
+49: Ren J, Li F, Yu X, Li Y, Li M, Sha Y, Li X. Development of a TaqMan-based
+multiplex real-time PCR for simultaneous detection of porcine epidemic diarrhea
+virus, <i>Brachyspira hyodysenteriae</i>, and <i>Lawsonia intracellularis</i>.
+Front Vet Sci. 2024 Aug 14;11:1450066. doi: 10.3389/fvets.2024.1450066. PMID:
+39205809; PMCID: PMC11349621.
+
+50: Quintana-Hayashi MP, Navabi N, Mahu M, Venkatakrishnan V, Fernandez HR,
+Haesebrouck F, Pasmans F, Lindén SK. Neutrophil Elastase and Interleukin 17
+Expressed in the Pig Colon during Brachyspira hyodysenteriae Infection
+Synergistically with the Pathogen Induce Increased Mucus Transport Speed and
+Production via Mitogen-Activated Protein Kinase 3. Infect Immun. 2017 Jul
+19;85(8):e00262-17. doi: 10.1128/IAI.00262-17. PMID: 28559407; PMCID:
+PMC5520435.
+
+51: Mirajkar NS, Gebhart CJ. Understanding the molecular epidemiology and global
+relationships of Brachyspira hyodysenteriae from swine herds in the United
+States: a multi-locus sequence typing approach. PLoS One. 2014 Sep
+5;9(9):e107176. doi: 10.1371/journal.pone.0107176. PMID: 25192199; PMCID:
+PMC4156428.
+
+52: Pérez-Pérez L, Carvajal A, Puente H, Peres Rubio C, Cerón JJ, Rubio P,
+Argüello H. New insights into swine dysentery: faecal shedding, macro and
+microscopic lesions and biomarkers in early and acute stages of Brachyspira
+hyodysenteriae infection. Porcine Health Manag. 2024 Jun 29;10(1):24. doi:
+10.1186/s40813-024-00375-9. PMID: 38951921; PMCID: PMC11218200.
+
+53: Helm ET, Lin SJ, Gabler NK, Burrough ER. <i>Brachyspira hyodysenteriae</i>
+Infection Reduces Digestive Function but Not Intestinal Integrity in Growing
+Pigs While Disease Onset Can Be Mitigated by Reducing Insoluble Fiber. Front Vet
+Sci. 2020 Oct 26;7:587926. doi: 10.3389/fvets.2020.587926. PMID: 33195620;
+PMCID: PMC7649115.
+
+54: La T, Collins AM, Phillips ND, Oksa A, Hampson DJ. Development of a
+multiplex-PCR for rapid detection of the enteric pathogens Lawsonia
+intracellularis, Brachyspira hyodysenteriae, and Brachyspira pilosicoli in
+porcine faeces. Lett Appl Microbiol. 2006 Mar;42(3):284-8. doi:
+10.1111/j.1472-765X.2005.01831.x. PMID: 16478518.
+
+55: Gömmel M, Barth S, Heydel C, Baljer G, Herbst W. Adherence of Brachyspira
+hyodysenteriae to porcine intestinal epithelial cells is inhibited by antibodies
+against outer membrane proteins. Curr Microbiol. 2013 Mar;66(3):286-92. doi:
+10.1007/s00284-012-0267-4. Epub 2012 Nov 29. PMID: 23192304.
+
+56: La T, Phillips ND, Reichel MP, Hampson DJ. Protection of pigs from swine
+dysentery by vaccination with recombinant BmpB, a 29.7 kDa outer-membrane
+lipoprotein of Brachyspira hyodysenteriae. Vet Microbiol. 2004 Aug
+19;102(1-2):97-109. doi: 10.1016/j.vetmic.2004.06.004. PMID: 15288932.
+
+57: Reiner G, Hillen S, von Berg S, Kixmöller M, Willems H. Analysis of
+bacterial load and prevalence of mixed infections with Lawsonia intracellularis,
+Brachyspira hyodysenteriae and/or Brachyspira pilosicoli in German pigs with
+diarrhoea. Berl Munch Tierarztl Wochenschr. 2011 May-Jun;124(5-6):236-41. PMID:
+22059295.
+
+58: Karlsson M, Aspán A, Landén A, Franklin A. Further characterization of
+porcine Brachyspira hyodysenteriae isolates with decreased susceptibility to
+tiamulin. J Med Microbiol. 2004 Apr;53(Pt 4):281-285. doi:
+10.1099/jmm.0.05395-0. PMID: 15017283.
+
+59: Song Y, La T, Phillips ND, Hampson DJ. Development of a serological ELISA
+using a recombinant protein to identify pig herds infected with Brachyspira
+hyodysenteriae. Vet J. 2015 Dec;206(3):365-70. doi: 10.1016/j.tvjl.2015.08.021.
+Epub 2015 Aug 20. PMID: 26542367.
+
+60: Jansson DS, Råsbäck T, Fellström C, Feinstein R. Experimental challenge of
+mallards (Anas platyrhynchos) with Brachyspira hyodysenteriae and "Brachyspira
+suanatina" isolated from pigs and mallards. J Comp Pathol. 2009
+Nov;141(4):211-22. doi: 10.1016/j.jcpa.2009.03.007. Epub 2009 Jul 28. PMID:
+19640549.
+
+61: Herbst W, Willems H, Baljer G. Verbreitung von Brachyspira hyodysenteriae
+und Lawsonia intracellularis bei gesunden und durchfallkranken Schweinen
+[Distribution of Brachyspira hyodysenteriae and Lawsonia intracellularis in
+healthy and diarrhoeic pigs]. Berl Munch Tierarztl Wochenschr. 2004 Nov-
+Dec;117(11-12):493-8. German. PMID: 15584431.
+
+62: La T, Phillips ND, Hampson DJ. Development of a duplex PCR assay for
+detection of Brachyspira hyodysenteriae and Brachyspira pilosicoli in pig feces.
+J Clin Microbiol. 2003 Jul;41(7):3372-5. doi: 10.1128/JCM.41.7.3372-3375.2003.
+PMID: 12843096; PMCID: PMC165297.
+
+63: Sperling D, Smola J, Cízek A. Characterisation of multiresistant Brachyspira
+hyodysenteriae isolates from Czech pig farms. Vet Rec. 2011 Feb 26;168(8):215.
+doi: 10.1136/vr.c4247. Epub 2011 Feb 21. PMID: 21493555.
+
+64: Kaleczyc J, Podlasz P, Winnicka A, Wasowicz W, Sienkiewicz W, Zmudzki J,
+Lakomy M. Characterization of autonomic nerve markers and lymphocyte subsets in
+the ileal Peyer's patch of pigs infected experimentally with Brachyspira
+hyodysenteriae. J Comp Pathol. 2010 Nov;143(4):248-57. doi:
+10.1016/j.jcpa.2010.04.003. Epub 2010 Jun 4. PMID: 20605161.
+
+65: Welle T, Hoekstra AT, Daemen IAJJM, Berkers CR, Costa MO. Metabolic response
+of porcine colon explants to in vitro infection by <i>Brachyspira
+hyodysenteriae</i>: a leap into disease pathophysiology. Metabolomics.
+2017;13(7):83. doi: 10.1007/s11306-017-1219-6. Epub 2017 May 30. PMID: 28706469;
+PMCID: PMC5486615.
+
+66: Willems H, Reiner G. A multiplex real-time PCR for the simultaneous
+detection and quantitation of Brachyspira hyodysenteriae, Brachyspira pilosicoli
+and Lawsonia intracellularis in pig faeces. Berl Munch Tierarztl Wochenschr.
+2010 May-Jun;123(5-6):205-9. PMID: 20496826.
+
+67: Song Y, Frey B, Hampson DJ. The use of ELISAs for monitoring exposure of pig
+herds to Brachyspira hyodysenteriae. BMC Vet Res. 2012 Jan 17;8:6. doi:
+10.1186/1746-6148-8-6. PMID: 22248341; PMCID: PMC3305480.
+
+68: Mirko CP, Bilkei G. Risk factors associated with Brachyspira hyodysenteriae
+PCR-positivity in East-European pig production units. Tijdschr Diergeneeskd.
+2006 Jun 1;131(11):398-402. PMID: 16800228.
+
+69: Card RM, Stubberfield E, Rogers J, Nunez-Garcia J, Ellis RJ, AbuOun M,
+Strugnell B, Teale C, Williamson S, Anjum MF. Identification of a New
+Antimicrobial Resistance Gene Provides Fresh Insights Into Pleuromutilin
+Resistance in <i>Brachyspira hyodysenteriae</i>, Aetiological Agent of Swine
+Dysentery. Front Microbiol. 2018 Jun 19;9:1183. doi: 10.3389/fmicb.2018.01183.
+PMID: 29971045; PMCID: PMC6018095.
+
+70: García-Martín AB, Schmitt S, Zeeh F, Perreten V. Complete Circular Genome
+Sequences of Brachyspira hyodysenteriae Isolates of the Four Different Sequence
+Types Causing Swine Dysentery in Switzerland. Microbiol Resour Announc. 2021 Sep
+30;10(39):e0084721. doi: 10.1128/MRA.00847-21. Epub 2021 Sep 30. PMID: 34591677;
+PMCID: PMC8483663.
+
+71: Bellgard MI, Wanchanthuek P, La T, Ryan K, Moolhuijzen P, Albertyn Z, Shaban
+B, Motro Y, Dunn DS, Schibeci D, Hunter A, Barrero R, Phillips ND, Hampson DJ.
+Genome sequence of the pathogenic intestinal spirochete brachyspira
+hyodysenteriae reveals adaptations to its lifestyle in the porcine large
+intestine. PLoS One. 2009;4(3):e4641. doi: 10.1371/journal.pone.0004641. Epub
+2009 Mar 5. PMID: 19262690; PMCID: PMC2650404.
+
+72: Piao SJ, Tsukahara T, Itoh M, Shiga A, Adachi Y, Ushida K. The organic acid
+profiles in the feces of pigs at Brachyspira hyodysenteriae- or B. pilosicoli-
+positive farms. J Vet Med Sci. 2007 Apr;69(4):425-8. doi: 10.1292/jvms.69.425.
+PMID: 17485934.
+
+73: Suh DK, Song JC. Simultaneous detection of Lawsonia intracellularis,
+Brachyspira hyodysenteriae and Salmonella spp. in swine intestinal specimens by
+multiplex polymerase chain reaction. J Vet Sci. 2005 Sep;6(3):231-7. PMID:
+16131827.
+
+74: Lobova D, Prasek J, Cizek A, Celer V. Evaluation of the use of recombinant
+Bhlp29.7 in immunoblotting with pig serum as a means to identify herds infected
+with Brachyspira hyodysenteriae. Lett Appl Microbiol. 2011 Oct;53(4):466-72.
+doi: 10.1111/j.1472-765X.2011.03134.x. Epub 2011 Sep 6. PMID: 21838749.
+
+75: Kajiwara K, Kozawa M, Kanazawa T, Uetsuka K, Nakajima H, Adachi Y. Drug-
+susceptibility of isolates of Brachyspira hyodysenteriae isolated from colonic
+mucosal specimens of pigs collected from slaughter houses in Japan in 2009. J
+Vet Med Sci. 2016 Mar;78(3):517-9. doi: 10.1292/jvms.15-0608. Epub 2015 Nov 22.
+PMID: 26596637; PMCID: PMC4829529.
+
+76: Hidalgo A, Carvajal A, La T, Naharro G, Rubio P, Phillips ND, Hampson DJ.
+Multiple-locus variable-number tandem-repeat analysis of the swine dysentery
+pathogen, Brachyspira hyodysenteriae. J Clin Microbiol. 2010 Aug;48(8):2859-65.
+doi: 10.1128/JCM.00348-10. Epub 2010 Jun 16. PMID: 20554811; PMCID: PMC2916602.
+
+77: Corona-Barrera E, Smith DGE, La T, Hampson DJ, Thomson JR. Immunomagnetic
+separation of the intestinal spirochaetes Brachyspira pilosicoli and Brachyspira
+hyodysenteriae from porcine faeces. J Med Microbiol. 2004 Apr;53(Pt 4):301-307.
+doi: 10.1099/jmm.0.05500-0. PMID: 15017286.
+
+78: Leser TD, Lindecrona RH, Jensen TK, Jensen BB, Møller K. Changes in
+bacterial community structure in the colon of pigs fed different experimental
+diets and after infection with Brachyspira hyodysenteriae. Appl Environ
+Microbiol. 2000 Aug;66(8):3290-6. doi: 10.1128/AEM.66.8.3290-3296.2000. PMID:
+10919783; PMCID: PMC92147.
+
+79: Uezato K, Kinjo E, Adachi Y. In vitro susceptibility of 21 antimicrobial
+agents to 37 isolates of Brachyspira hyodysenteriae isolated from pigs in
+Okinawa Prefecture. J Vet Med Sci. 2004 Mar;66(3):307-9. doi:
+10.1292/jvms.66.307. PMID: 15107563.

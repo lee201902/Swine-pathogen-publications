@@ -1,0 +1,130 @@
+1: Vázquez-Boland JA, Meijer WG. The pathogenic actinobacterium Rhodococcus
+equi: what's in a name? Mol Microbiol. 2019 Jul;112(1):1-15. doi:
+10.1111/mmi.14267. Epub 2019 Jun 17. PMID: 31099908; PMCID: PMC6852188.
+
+2: Bordin AI, Gressler LT, Alexander ERC, Sule P, Cirillo JD, Edwards JF, Cohen
+ND. Guinea pig infection with the intracellular pathogen Rhodococcus equi. Vet
+Microbiol. 2018 Feb;215:18-22. doi: 10.1016/j.vetmic.2017.11.019. Epub 2017 Nov
+21. PMID: 29426401.
+
+3: Hansen P, Haubenthal T, Reiter C, Kniewel J, Bosse-Plois K, Niemann HH, von
+Bargen K, Haas A. Differential Effects of <i>Rhodococcus equi</i> Virulence-
+Associated Proteins on Macrophages and Artificial Lipid Membranes. Microbiol
+Spectr. 2023 Feb 14;11(2):e0341722. doi: 10.1128/spectrum.03417-22. Epub ahead
+of print. PMID: 36786596; PMCID: PMC10100859.
+
+4: Takai S, Suzuki Y, Sasaki Y, Kakuda T, Ribeiro MG, Makrai L, Witkowski L,
+Cohen N, Sekizaki T. Short review: Geographical distribution of equine-
+associated pVAPA plasmids in Rhodococcus equi in the world. Vet Microbiol. 2023
+Dec;287:109919. doi: 10.1016/j.vetmic.2023.109919. Epub 2023 Nov 21. PMID:
+38000208.
+
+5: Witkowski L, Rzewuska M, Takai S, Kizerwetter-Świda M, Kita J. Molecular
+epidemiology of Rhodococcus equi in slaughtered swine, cattle and horses in
+Poland. BMC Microbiol. 2016 May 27;16:98. doi: 10.1186/s12866-016-0712-9. PMID:
+27234339; PMCID: PMC4882809.
+
+6: Takai S, Sawada N, Nakayama Y, Ishizuka S, Nakagawa R, Kawashima G,
+Sangkanjanavanich N, Sasaki Y, Kakuda T, Suzuki Y. Reinvestigation of the
+virulence of Rhodococcus equi isolates from patients with and without AIDS. Lett
+Appl Microbiol. 2020 Dec;71(6):679-683. doi: 10.1111/lam.13386. Epub 2020 Oct 2.
+PMID: 32920889.
+
+7: Salazar-Rodríguez D, Aleaga-Santiesteban Y, Iglesias E, Plascencia-Hernández
+A, Pérez-Gómez HR, Calderón EJ, Vázquez-Boland JA, de Armas Y. Virulence
+Plasmids of <i>Rhodococcus equi</i> Isolates From Cuban Patients With AIDS.
+Front Vet Sci. 2021 Feb 25;8:628239. doi: 10.3389/fvets.2021.628239. PMID:
+33718470; PMCID: PMC7947234.
+
+8: Takai S, Mizuno Y, Suzuki Y, Sasaki Y, Kakuda T, Kirikae T. [Rhodococcus equi
+infections in humans: an emerging zoonotic pathogen]. Nihon Saikingaku Zasshi.
+2024;79(1):15-24. Japanese. doi: 10.3412/jsb.79.15. PMID: 38382971.
+
+9: Saied AA, Bryan LK, Bolin DC. Ulcerative, granulomatous glossitis and
+enteritis caused by <i>Rhodococcus equi</i> in a heifer. J Vet Diagn Invest.
+2019 Sep;31(5):783-787. doi: 10.1177/1040638719867120. Epub 2019 Jul 26. PMID:
+31347467; PMCID: PMC6727123.
+
+10: Witkowski L, Rzewuska M, Cisek AA, Chrobak-Chmiel D, Kizerwetter-Świda M,
+Czopowicz M, Welz M, Kita J. Prevalence and genetic diversity of Rhodococcus
+equi in wild boars (Sus scrofa), roe deer (Capreolus capreolus) and red deer
+(Cervus elaphus) in Poland. BMC Microbiol. 2015 May 22;15:110. doi:
+10.1186/s12866-015-0445-1. PMID: 25997952; PMCID: PMC4440313.
+
+11: Matsuoka M, Kobayashi A, Matsuoka M, Honda Y, Hashimoto R, Sasaki Y, Kakuda
+T, Suzuki Y, Takai S. Isolation of vapB-positive Rhodococcus equi from
+submaxillary lymph nodes with or without granulomatous lesions in growing-
+finishing pigs in Japan. J Vet Med Sci. 2024 Jun 1;86(6):600-605. doi:
+10.1292/jvms.24-0067. Epub 2024 Apr 16. PMID: 38631887; PMCID: PMC11187592.
+
+12: Duquesne F, Houssin E, Sévin C, Duytschaever L, Tapprest J, Fretin D, Hébert
+L, Laugier C, Petry S. Development of a multilocus sequence typing scheme for
+Rhodococcus equi. Vet Microbiol. 2017 Oct;210:64-70. doi:
+10.1016/j.vetmic.2017.08.010. Epub 2017 Aug 19. PMID: 29103698.
+
+13: Willingham-Lane JM, Berghaus LJ, Giguère S, Hondalus MK. Influence of
+Plasmid Type on the Replication of <i>Rhodococcus equi</i> in Host Macrophages.
+mSphere. 2016 Oct 12;1(5):e00186-16. doi: 10.1128/mSphere.00186-16. PMID:
+27747295; PMCID: PMC5061997.
+
+14: Stefańska I, Witkowski L, Rzewuska M, Dzieciątkowski T. Development and
+evaluation of the internal-controlled real-time PCR assay for Rhodococcus equi
+detection in various clinical specimens. J Vet Med Sci. 2016 May 3;78(4):543-9.
+doi: 10.1292/jvms.15-0516. Epub 2015 Dec 8. PMID: 26655770; PMCID: PMC4873842.
+
+15: Lara GH, Takai S, Sasaki Y, Kakuda T, Listoni FJ, Risseti RM, de Morais AB,
+Ribeiro MG. VapB type 8 plasmids in Rhodococcus equi isolated from the small
+intestine of pigs and comparison of selective culture media. Lett Appl
+Microbiol. 2015 Sep;61(3):306-10. doi: 10.1111/lam.12458. Epub 2015 Aug 2. PMID:
+26103784.
+
+16: Valero-Rello A, Hapeshi A, Anastasi E, Alvarez S, Scortti M, Meijer WG,
+MacArthur I, Vázquez-Boland JA. An Invertron-Like Linear Plasmid Mediates
+Intracellular Survival and Virulence in Bovine Isolates of Rhodococcus equi.
+Infect Immun. 2015 Jul;83(7):2725-37. doi: 10.1128/IAI.00376-15. Epub 2015 Apr
+20. PMID: 25895973; PMCID: PMC4468562.
+
+17: Portilho FVR, Paes AC, Megid J, Hataka A, Neto RT, Headley SA, Oliveira TES,
+Colhado BS, de Paula CL, Guerra ST, Mota AR, Listoni FJP, Takai S, Ribeiro MG.
+Rhodococcus equi pVAPN type causing pneumonia in a dog coinfected with canine
+morbillivirus (distemper virus) and Toxoplasma gondii. Microb Pathog. 2019
+Apr;129:112-117. doi: 10.1016/j.micpath.2019.01.048. Epub 2019 Feb 6. PMID:
+30738176.
+
+18: MacArthur I, Anastasi E, Alvarez S, Scortti M, Vázquez-Boland JA.
+Comparative Genomics of Rhodococcus equi Virulence Plasmids Indicates Host-
+Driven Evolution of the vap Pathogenicity Island. Genome Biol Evol. 2017 May
+1;9(5):1241-1247. doi: 10.1093/gbe/evx057. PMID: 28369330; PMCID: PMC5434932.
+
+19: Ribeiro MG, Lara GHB, da Silva P, Franco MMJ, de Mattos-Guaraldi AL, de
+Vargas APC, Sakate RI, Pavan FR, Colhado BS, Portilho FVR, Motta RG, Kakuda T,
+Takai S. Novel bovine-associated pVAPN plasmid type in Rhodococcus equi
+identified from lymph nodes of slaughtered cattle and lungs of people living
+with HIV/AIDS. Transbound Emerg Dis. 2018 Apr;65(2):321-326. doi:
+10.1111/tbed.12785. Epub 2017 Dec 10. PMID: 29226632.
+
+20: Willingham-Lane JM, Coulson GB, Hondalus MK. Identification of a VapA
+virulence factor functional homolog in Rhodococcus equi isolates housing the
+pVAPB plasmid. PLoS One. 2018 Oct 4;13(10):e0204475. doi:
+10.1371/journal.pone.0204475. PMID: 30286098; PMCID: PMC6171844.
+
+21: Makrai L, Fodor L, Hajtós I, Varga J, Dénes B. Three new serotypes of
+Rhodococcus equi in Prescott's serotyping system - Short communication. Acta Vet
+Hung. 2015 Sep;63(3):265-70. doi: 10.1556/004.2015.024. PMID: 26551416.
+
+22: Okoko T, Blagova EV, Whittingham JL, Dover LG, Wilkinson AJ. Structural
+characterisation of the virulence-associated protein VapG from the horse
+pathogen Rhodococcus equi. Vet Microbiol. 2015 Aug 31;179(1-2):42-52. doi:
+10.1016/j.vetmic.2015.01.027. Epub 2015 Feb 9. PMID: 25746683; PMCID:
+PMC4518536.
+
+23: Mourenza Á, Gil JA, Mateos LM, Letek M. A Novel Screening Strategy Reveals
+ROS-Generating Antimicrobials That Act Synergistically against the Intracellular
+Veterinary Pathogen <i>Rhodococcus equi</i>. Antioxidants (Basel). 2020 Jan
+28;9(2):114. doi: 10.3390/antiox9020114. PMID: 32012850; PMCID: PMC7070597.
+
+24: Trevisani MM, Hanna ES, Oliveira AF, Cardoso SA, Roque-Barreira MC, Soares
+SG. Vaccination of Mice with Virulence-Associated Protein G (VapG) Antigen
+Confers Partial Protection against <i>Rhodococcus equi</i> Infection through
+Induced Humoral Immunity. Front Microbiol. 2017 May 11;8:857. doi:
+10.3389/fmicb.2017.00857. PMID: 28553279; PMCID: PMC5425581.

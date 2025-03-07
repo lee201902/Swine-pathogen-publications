@@ -1,0 +1,53 @@
+1: Khun PA, Phi LD, Bui HTT, Bui NT, Vu QTH, Trinh LD, Collins DA, Riley TV.
+Environmental contamination with Clostridioides (Clostridium) difficile in
+Vietnam. J Appl Microbiol. 2023 Jun 1;134(6):lxad118. doi:
+10.1093/jambio/lxad118. PMID: 37296244.
+
+2: Carvalho GM, Ramos CP, Lobato FCF, Guedes RMC, Giaretta PR, Silva ROS.
+Laboratory diagnosis of Clostridioides (Clostridium) difficile infection in
+domestic animals: A short review. Anaerobe. 2022 Jun;75:102574. doi:
+10.1016/j.anaerobe.2022.102574. Epub 2022 Apr 25. PMID: 35472506.
+
+3: Rivas L, Dupont PY, Gilpin BJ, Cornelius AJ. Isolation and characterization
+of Clostridium difficile from a small survey of wastewater, food and animals in
+New Zealand. Lett Appl Microbiol. 2020 Jan;70(1):29-35. doi: 10.1111/lam.13238.
+Epub 2019 Nov 29. PMID: 31631350.
+
+4: Candel-Pérez C, Santaella-Pascual J, Ros-Berruezo G, Martínez-Graciá C.
+Occurrence of Clostridioides (Clostridium) difficile in Poultry Giblets at
+Slaughter and in Retail Pork and Poultry Meat in Southeastern Spain. J Food
+Prot. 2021 Feb 1;84(2):310-314. doi: 10.4315/JFP-20-256. PMID: 33513258.
+
+5: Grześkowiak Ł, Riedmüller J, Vahjen W, Zentek J. Storage procedures and time
+influence the detectability of <i>Clostridium difficile</i> toxin A but not
+toxin B in porcine fecal specimens. J Vet Diagn Invest. 2020 Mar;32(2):222-225.
+doi: 10.1177/1040638719864383. Epub 2019 Jul 22. PMID: 31328697; PMCID:
+PMC7081514.
+
+6: Grześkowiak Ł, Pieper R, Kröger S, Martínez-Vallespín B, Hauser AE, Niesner
+R, Vahjen W, Zentek J. Porcine Colostrum Protects the IPEC-J2 Cells and Piglet
+Colon Epithelium against <i>Clostridioides</i> (syn. <i>Clostridium</i>)
+<i>difficile</i> Toxin-Induced Effects. Microorganisms. 2020 Jan 20;8(1):142.
+doi: 10.3390/microorganisms8010142. PMID: 31968636; PMCID: PMC7022787.
+
+7: Imwattana K, Kiratisin P, Riley TV, Knight DR. Genomic basis of antimicrobial
+resistance in non-toxigenic Clostridium difficile in Southeast Asia. Anaerobe.
+2020 Dec;66:102290. doi: 10.1016/j.anaerobe.2020.102290. Epub 2020 Oct 30. PMID:
+33137436.
+
+8: Ramos CP, Lopes EO, Oliveira Júnior CA, Diniz AN, Lobato FCF, Silva ROS.
+Immunochromatographic test and ELISA for the detection of glutamate
+dehydrogenase (GDH) and A/B toxins as an alternative for the diagnosis of
+Clostridioides (Clostridium) difficile-associated diarrhea in foals and neonatal
+piglets. Braz J Microbiol. 2020 Sep;51(3):1459-1462. doi:
+10.1007/s42770-020-00275-4. Epub 2020 May 3. PMID: 32363568; PMCID: PMC7455628.
+
+9: Liang W, Quan K, Zhao Q, Wu Y, Mu Y, Cao S. [Development of a double-antibody
+sandwich ELISA targeting the receptor binding domain of TcdB toxin of ST11 type
+<i>Clostridium difficile</i> of porcine origin]. Sheng Wu Gong Cheng Xue Bao.
+2022 Jan 25;38(1):185-195. Chinese. doi: 10.13345/j.cjb.210363. PMID: 35142129.
+
+10: Danz HR, Lee S, Chapman-Bonofiglio SP, Ginese M, Beamer G, Girouard DJ,
+Tzipori S. The Impact of Actotoxumab Treatment of Gnotobiotic Piglets Infected
+With Different Clostridium difficile Isogenic Mutants. J Infect Dis. 2020 Jan
+2;221(2):276-284. doi: 10.1093/infdis/jiz459. PMID: 31495879.

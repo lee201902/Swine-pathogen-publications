@@ -1,0 +1,59 @@
+1: Wanford JJ, Hames RG, Carreno D, Jasiunaite Z, Chung WY, Arena F, Di Pilato
+V, Straatman K, West K, Farzand R, Pizza M, Martinez-Pomares L, Andrew PW, Moxon
+ER, Dennison AR, Rossolini GM, Oggioni MR. Interaction of <i>Klebsiella
+pneumoniae</i> with tissue macrophages in a mouse infection model and ex-vivo
+pig organ perfusions: an exploratory investigation. Lancet Microbe. 2021
+Dec;2(12):e695-e703. doi: 10.1016/S2666-5247(21)00195-6. PMID: 34901898; PMCID:
+PMC8641047.
+
+2: Fuentes-Castillo D, Shiva C, Lincopan N, Sano E, Fontana H, Streicker DG,
+Mahamat OO, Falcon N, Godreuil S, Benavides JA. Global high-risk clone of
+extended-spectrum β-lactamase (ESBL)-producing Klebsiella pneumoniae ST307
+emerging in livestock in Peru. Int J Antimicrob Agents. 2021 Sep;58(3):106389.
+doi: 10.1016/j.ijantimicag.2021.106389. Epub 2021 Jun 21. PMID: 34166775.
+
+3: Phetburom N, Boueroy P, Chopjitt P, Hatrongjit R, Akeda Y, Hamada S,
+Nuanualsuwan S, Kerdsin A. <i>Klebsiella pneumoniae</i> Complex Harboring
+<i>mcr-1</i>, <i>mcr-7,</i> and <i>mcr-8</i> Isolates from Slaughtered Pigs in
+Thailand. Microorganisms. 2021 Nov 25;9(12):2436. doi:
+10.3390/microorganisms9122436. PMID: 34946038; PMCID: PMC8703602.
+
+4: Kot B, Witeska M. Review: Antimicrobial resistance of Klebsiella pneumoniae
+isolated from poultry, cattle and pigs. Animal. 2024 Sep 26;18(11):101345. doi:
+10.1016/j.animal.2024.101345. Epub ahead of print. PMID: 39490087.
+
+5: Bai R, Wang X, Zou Z, Zhou W, Tan C, Cao Y, Fu B, Zhai W, Hu F, Wang Y, Wu C,
+Zhu Y, Sun C. Limited transmission of carbapenem-resistant <i>Klebsiella
+pneumoniae</i> between animals and humans: a study in Qingdao. Emerg Microbes
+Infect. 2024 Dec;13(1):2387446. doi: 10.1080/22221751.2024.2387446. Epub 2024
+Aug 8. PMID: 39082402; PMCID: PMC11312996.
+
+6: Yang Y, He R, Wu Y, Qin M, Chen J, Feng Y, Zhao R, Xu L, Guo X, Tian GB, Dai
+M, Yan B, Qin LN. Characterization of two multidrug-resistant <i>Klebsiella
+pneumoniae</i> harboring tigecycline-resistant gene <i>tet</i>(X4) in China.
+Front Microbiol. 2023 Apr 26;14:1130708. doi: 10.3389/fmicb.2023.1130708. PMID:
+37180274; PMCID: PMC10171367.
+
+7: Kaspersen H, Franklin-Alming FV, Hetland MAK, Bernhoff E, Löhr IH, Jiwakanon
+J, Urdahl AM, Leangapichart T, Sunde M. Highly conserved composite transposon
+harbouring aerobactin <i>iuc3</i> in <i>Klebsiella pneumoniae</i> from pigs.
+Microb Genom. 2023 Feb;9(2):mgen000960. doi: 10.1099/mgen.0.000960. PMID:
+36820818; PMCID: PMC9997749.
+
+8: Bastidas-Caldes C, Guerrero-Freire S, Ortuño-Gutiérrez N, Sunyoto T, Gomes-
+Dias CA, Ramírez MS, Calero-Cáceres W, Harries AD, Rey J, de Waard JH, Calvopiña
+M. Colistin resistance in <i>Escherichia coli</i> and <i>Klebsiella
+pneumoniae</i> in humans and backyard animals in Ecuador. Rev Panam Salud
+Publica. 2023 Apr 19;47:e48. doi: 10.26633/RPSP.2023.48. PMID: 37082531; PMCID:
+PMC10105605.
+
+9: Han R, Xing J, Sun H, Guo Z, Yi K, Hu G, Zhai Y, Velkov T, Wu H. The
+antihelminth drug rafoxanide reverses chromosomal-mediated colistin-resistance
+in <i>Klebsiella pneumoniae</i>. mSphere. 2023 Oct 24;8(5):e0023423. doi:
+10.1128/msphere.00234-23. Epub 2023 Sep 25. PMID: 37747188; PMCID: PMC10597454.
+
+10: Sun L, Wang H, Meng N, Wang Z, Li G, Jiao X, Wang J. Distribution and Spread
+of the Mobilized RND Efflux Pump Gene Cluster <i>tmexCD-toprJ</i> in Klebsiella
+pneumoniae from Different Sources. Microbiol Spectr. 2023 Aug 17;11(4):e0536422.
+doi: 10.1128/spectrum.05364-22. Epub 2023 Jun 28. PMID: 37378518; PMCID:
+PMC10434155.

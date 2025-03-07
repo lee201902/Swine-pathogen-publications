@@ -1,0 +1,236 @@
+1: Sachse K, Hölzer M, Vorimore F, Barf LM, Sachse C, Laroucau K, Marz M,
+Lamkiewicz K. Genomic analysis of 61 Chlamydia psittaci strains reveals
+extensive divergence associated with host preference. BMC Genomics. 2023 May
+29;24(1):288. doi: 10.1186/s12864-023-09370-w. PMID: 37248517; PMCID:
+PMC10226258.
+
+2: Hsia RC, Ting LM, Bavoil PM. Microvirus of chlamydia psittaci strain guinea
+pig inclusion conjunctivitis: isolation and molecular characterization.
+Microbiology (Reading). 2000 Jul;146 ( Pt 7):1651-1660. doi:
+10.1099/00221287-146-7-1651. PMID: 10878129.
+
+3: Guscetti F, Schiller I, Sydler T, Corboz L, Pospischil A. Experimental
+Chlamydia psittaci serotype 1 enteric infection in gnotobiotic piglets:
+histopathological, immunohistochemical and microbiological findings. Vet
+Microbiol. 1998 Aug 15;62(4):251-63. doi: 10.1016/s0378-1135(98)00221-1. PMID:
+9791872.
+
+4: Spears P, Storz J. Biotyping of Chlamydia psittaci based on inclusion
+morphology and response to diethylaminoethyl-dextran and cycloheximide. Infect
+Immun. 1979 Apr;24(1):224-32. doi: 10.1128/iai.24.1.224-232.1979. PMID: 457272;
+PMCID: PMC414287.
+
+5: Seth-Smith HM, Sait M, Sachse K, Gaede W, Longbottom D, Thomson NR. Genome
+Sequence of Chlamydia psittaci Strain 01DC12 Originating from Swine. Genome
+Announc. 2013 Jan;1(1):e00078-12. doi: 10.1128/genomeA.00078-12. Epub 2013 Jan
+15. PMID: 23405306; PMCID: PMC3569293.
+
+6: Prohl A, Wolf K, Weber C, Müller KE, Menge C, Sachse K, Rödel J, Reinhold P,
+Berndt A. Kinetics of Local and Systemic Leucocyte and Cytokine Reaction of
+Calves to Intrabronchial Infection with Chlamydia psittaci. PLoS One. 2015 Aug
+7;10(8):e0135161. doi: 10.1371/journal.pone.0135161. PMID: 26252769; PMCID:
+PMC4529195.
+
+7: Spalatin J, Iversen JO, Hanson RP. Properties of a Chlamydia psittaci
+isolated from muskrats and snowshoe hares in Canada. Can J Microbiol. 1971
+Jul;17(7):935-42. doi: 10.1139/m71-149. PMID: 4328689.
+
+8: Rockey DD, Heinzen RA, Hackstadt T. Cloning and characterization of a
+Chlamydia psittaci gene coding for a protein localized in the inclusion membrane
+of infected cells. Mol Microbiol. 1995 Feb;15(4):617-26. doi:
+10.1111/j.1365-2958.1995.tb02371.x. PMID: 7783634.
+
+9: Pudjiatmoko, Fukushi H, Ochiai Y, Yamaguchi T, Hirai K. Diversity of feline
+Chlamydia psittaci revealed by random amplification of polymorphic DNA. Vet
+Microbiol. 1997 Jan;54(1):73-83. doi: 10.1016/s0378-1135(96)01259-x. PMID:
+9050172.
+
+10: Bannantine JP, Rockey DD, Hackstadt T. Tandem genes of Chlamydia psittaci
+that encode proteins localized to the inclusion membrane. Mol Microbiol. 1998
+Jun;28(5):1017-26. doi: 10.1046/j.1365-2958.1998.00867.x. PMID: 9663687.
+
+11: Rockey DD, Rosquist JL. Protein antigens of Chlamydia psittaci present in
+infected cells but not detected in the infectious elementary body. Infect Immun.
+1994 Jan;62(1):106-12. doi: 10.1128/iai.62.1.106-112.1994. PMID: 8262615; PMCID:
+PMC186074.
+
+12: Kuroda-Kitagawa Y, Suzuki-Muramatsu C, Yamaguchi T, Fukushi H, Hirai K.
+Antigenic analysis of Chlamydia pecorum and mammalian Chlamydia psittaci by use
+of monoclonal antibodies to the major outer membrane protein and a 56- to 64-kd
+protein. Am J Vet Res. 1993 May;54(5):709-12. PMID: 8317762.
+
+13: Schiller I, Koesters R, Weilenmann R, Thoma R, Kaltenboeck B, Heitz P,
+Pospischil A. Mixed infections with porcine Chlamydia trachomatis/pecorum and
+infections with ruminant Chlamydia psittaci serovar 1 associated with abortions
+in swine. Vet Microbiol. 1997 Nov;58(2-4):251-60. doi:
+10.1016/s0378-1135(97)00154-5. PMID: 9453135.
+
+14: Woodland RM, Malam J, Darougar S. A rapid method for staining inclusions of
+Chlamydia psittaci and Chlamydia trachomatis. J Clin Pathol. 1982
+Jun;35(6):642-4. doi: 10.1136/jcp.35.6.642. PMID: 6177720; PMCID: PMC497741.
+
+15: Westbay TD, Dascher CC, Hsia RC, Bavoil PM, Zauderer M. Dissociation of
+immune determinants of outer membrane proteins of Chlamydia psittaci strain
+guinea pig inclusion conjunctivitis. Infect Immun. 1994 Dec;62(12):5614-23. doi:
+10.1128/iai.62.12.5614-5623.1994. PMID: 7525489; PMCID: PMC303310.
+
+16: Soloff BL, Rank RG, Barron AL. Electron microscopic observations concerning
+the in vivo uptake and release of the agent of guinea-pig inclusion
+conjunctivitis (Chlamydia psittaci) in guinea-pig exocervix. J Comp Pathol. 1985
+Jul;95(3):335-44. doi: 10.1016/0021-9975(85)90037-4. PMID: 4031129.
+
+17: Rockey DD, Chesebro BB, Heinzen RA, Hackstadt T. A 28 kDa major immunogen of
+Chlamydia psittaci shares identity with Mip proteins of Legionella spp. and
+Chlamydia trachomatis-cloning and characterization of the C. psittaci mip-like
+gene. Microbiology (Reading). 1996 Apr;142 ( Pt 4):945-953. doi:
+10.1099/00221287-142-4-945. PMID: 8936321.
+
+18: Sandstrom IK, Cummings M, Johnson P, Schachter J, Chandler JW. Prophylactic
+effects of silver nitrate and erythromycin on Chlamydia psittaci conjunctivitis.
+Invest Ophthalmol Vis Sci. 1987 Sep;28(9):1569-74. PMID: 3623840.
+
+19: Perez-Martinez JA, Storz J. Antigenic diversity of Chlamydia psittaci of
+mammalian origin determined by microimmunofluorescence. Infect Immun. 1985
+Dec;50(3):905-10. doi: 10.1128/iai.50.3.905-910.1985. PMID: 3905618; PMCID:
+PMC261166.
+
+20: Schiller I, Koesters R, Weilenmann R, Kaltenboeck B, Pospischil A.
+Polymerase chain reaction (PCR) detection of porcine Chlamydia trachomatis and
+ruminant Chlamydia psittaci serovar 1 DNA in formalin-fixed intestinal specimens
+from swine. Zentralbl Veterinarmed B. 1997 May;44(3):185-91. doi:
+10.1111/j.1439-0450.1997.tb00963.x. PMID: 9197211.
+
+21: Moorthy AR, Spradbrow PB. Chlamydia psittaci infection of horses with
+respiratory disease. Equine Vet J. 1978 Jan;10(1):38-42. doi:
+10.1111/j.2042-3306.1978.tb02212.x. PMID: 631105.
+
+22: Cherian PV, Magee WE. Monoclonal antibodies to Chlamydia psittaci guinea pig
+inclusion conjunctivitis (GPIC) strain. Vet Microbiol. 1990 Mar;22(1):43-51.
+doi: 10.1016/0378-1135(90)90123-d. PMID: 2186565.
+
+23: Hsia R, Ohayon H, Gounon P, Dautry-Varsat A, Bavoil PM. Phage infection of
+the obligate intracellular bacterium, Chlamydia psittaci strain guinea pig
+inclusion conjunctivitis. Microbes Infect. 2000 Jun;2(7):761-72. doi:
+10.1016/s1286-4579(00)90356-3. PMID: 10955956.
+
+24: Ojcius DM, Hellio R, Dautry-Varsat A. Distribution of endosomal, lysosomal,
+and major histocompatability complex markers in a monocytic cell line infected
+with Chlamydia psittaci. Infect Immun. 1997 Jun;65(6):2437-42. doi:
+10.1128/iai.65.6.2437-2442.1997. PMID: 9169786; PMCID: PMC175338.
+
+25: Nabeya M, Kaneko K, Ogino H, Nakabayashi D, Watanabe T, Murayama J, Hayashi
+K, Fukushi H, Yamaguchi T, Hirai K, et al. Abortion in Japanese cows caused by
+Chlamydia psittaci. Vet Microbiol. 1991 Nov;29(3-4):261-5. doi:
+10.1016/0378-1135(91)90133-z. PMID: 1771749.
+
+26: Hsia RC, Bavoil PM. Homologs of Escherichia coli recJ, gltX and of a
+putative 'early' gene of avian Chlamydia psittaci are located upstream of the
+'late' omp2 locus of Chlamydia psittaci strain guinea pig inclusion
+conjunctivitis. Gene. 1996 Oct 17;176(1-2):163-9. doi:
+10.1016/0378-1119(96)00240-5. PMID: 8918248.
+
+27: McClenaghan M, Honeycombe JR, Bevan BJ, Herring AJ. Distribution of plasmid
+sequences in avian and mammalian strains of Chlamydia psittaci. J Gen Microbiol.
+1988 Mar;134(3):559-65. doi: 10.1099/00221287-134-3-559. PMID: 3183616.
+
+28: Sayada C, Andersen AA, Storey C, Milon A, Eb F, Hashimoto N, Hirai K, Elion
+J, Denamur E. Usefulness of omp1 restriction mapping for avian Chlamydia
+psittaci isolate differentiation. Res Microbiol. 1995 Feb;146(2):155-65. doi:
+10.1016/0923-2508(96)80893-x. PMID: 7652209.
+
+29: Guscetti F, Hoop R, Schiller I, Corboz L, Sydler T, Pospischil A.
+Experimental enteric infection of gnotobiotic piglets with a Chlamydia psittaci
+strain of avian origin. J Vet Med B Infect Dis Vet Public Health. 2000
+Oct;47(8):561-72. doi: 10.1046/j.1439-0450.2000.00385.x. PMID: 11075544.
+
+30: Vazquez-Cisneros C, Wilsmore AJ, Bollo E. Experimental infections of
+pregnant sows with ovine Chlamydia psittaci strains. Vet Microbiol. 1994
+Dec;42(4):383-7. doi: 10.1016/0378-1135(94)90069-8. PMID: 9133063.
+
+31: Treharne JD, Shallal A. The antigenic specificity of the humoral immune
+response to primary and repeated ocular infections of the guinea pig with the
+GPIC agent (Chlamydia psittaci). Eye (Lond). 1991;5 ( Pt 3):299-304. doi:
+10.1038/eye.1991.47. PMID: 1955051.
+
+32: Martin JL, Cross GF. Comparison of the omp I gene of Chlamydia psittaci
+between isolates in Victorian koalas and other animal species. Aust Vet J. 1997
+Aug;75(8):579-82. doi: 10.1111/j.1751-0813.1997.tb14198.x. PMID: 9293340.
+
+33: Rønsholt L. Chlamydia psittaci infection in Danish cattle. Acta Pathol
+Microbiol Scand B. 1978 Oct;86B(5):291-7. doi:
+10.1111/j.1699-0463.1978.tb00046.x. PMID: 716920.
+
+34: Zahn I, Szeredi L, Schiller I, Straumann Kunz U, Bürgi E, Guscetti F, Heinen
+E, Corboz L, Sydler T, Pospischil A. Immunhistologischer Nachweis von Chlamydia
+psittaci/pecorum und C. trachomatis im Ferkel-Darm [Immunohistochemical
+determination of Chlamydia psittaci/pecorum and C.trachomatis in the piglet
+gut]. Zentralbl Veterinarmed B. 1995 Jul;42(5):266-76. German. PMID: 8592901.
+
+35: Eb F, Orfila J. Serotyping of Chlamydia psittaci by the micro-
+immunofluorescence test: isolates of ovine origin. Infect Immun. 1982
+Sep;37(3):1289-91. doi: 10.1128/iai.37.3.1289-1291.1982. PMID: 6752025; PMCID:
+PMC347678.
+
+36: Sayada C, Andersen A, Rodriguez P, Eb F, Milon A, Elion J, Denamur E.
+Homogeneity of the major outer membrane protein gene of feline Chlamydia
+psittaci. Res Vet Sci. 1994 Jan;56(1):116-8. doi: 10.1016/0034-5288(94)90207-0.
+PMID: 8146443.
+
+37: Zhao Q, Schachter J, Stephens RS. Lack of allelic polymorphism for the major
+outer membrane protein gene of the agent of guinea pig inclusion conjunctivitis
+(Chlamydia psittaci). Infect Immun. 1993 Jul;61(7):3078-80. doi:
+10.1128/iai.61.7.3078-3080.1993. PMID: 8514416; PMCID: PMC280964.
+
+38: Thiele D, Karo M, Krauss H. Monoclonal antibody based capture ELISA/ELIFA
+for the detection of Chlamydia psittaci in veterinary clinical specimens.
+Zentralbl Bakteriol. 1992 Jun;277(1):39-48. doi: 10.1016/s0934-8840(11)80869-8.
+PMID: 1520968.
+
+39: Page LA, Matthews PJ, Smith PC. Natural intestinal infection with Chlamydia
+psittaci in a closed bovine herd: serologic changes, incidence of shedding,
+antibiotic treatment of the herd, and biologic characteristics of the
+Chlamydiae. Am J Vet Res. 1973 May;34(5):611-4. PMID: 4703505.
+
+40: Turner MS, Giffard PM. Expression of Chlamydia psittaci- and human
+immunodeficiency virus-derived antigens on the cell surface of Lactobacillus
+fermentum BR11 as fusions to bspA. Infect Immun. 1999 Oct;67(10):5486-9. doi:
+10.1128/IAI.67.10.5486-5489.1999. PMID: 10496936; PMCID: PMC96911.
+
+41: Wittenbrink MM, Wen X, Böhmer N, Amtsberg G, Binder A. Bakteriologische
+Untersuchungen zum Vorkommen von Chlamydia psittaci in Organen von Schweinen und
+in abortierten Schweinefeten [Bacteriologic studies of the occurrence of
+Chlamydia psittaci in organs of swine and in aborted swine fetuses]. Zentralbl
+Veterinarmed B. 1991 Aug;38(6):411-20. German. PMID: 1950250.
+
+42: Leonhard I, Wittenbrink MM, Bisping W. Nachweis von Chlamydia psittaci im
+Kot von Schweinen [Detection of Chlamydia psittaci in the feces of swine]. Berl
+Munch Tierarztl Wochenschr. 1988 Apr 1;101(4):124-8. German. PMID: 3390133.
+
+43: Ting LM, Hsia RC, Haidaris CG, Bavoil PM. Interaction of outer envelope
+proteins of Chlamydia psittaci GPIC with the HeLa cell surface. Infect Immun.
+1995 Sep;63(9):3600-8. doi: 10.1128/iai.63.9.3600-3608.1995. PMID: 7642297;
+PMCID: PMC173500.
+
+44: Andersen AA, Grimes JE, Shivaprasad HL. Serotyping of Chlamydia psittaci
+isolates from ratites. J Vet Diagn Invest. 1998 Apr;10(2):186-8. doi:
+10.1177/104063879801000214. PMID: 9576350.
+
+45: Menozzi FD, Menozzi-Dejaiffe C, Nano FE. Molecular cloning of a gene
+encoding a Chlamydia psittaci 57-kDa protein that shares antigenic determinants
+with ca. 60-kDa proteins present in many gram-negative bacteria. FEMS Microbiol
+Lett. 1989 Mar;49(1):59-63. doi: 10.1016/0378-1097(89)90342-x. PMID: 2470639.
+
+46: Yuan Y, Zhang YX, Manning DS, Caldwell HD. Multiple tandem promoters of the
+major outer membrane protein gene (omp1) of Chlamydia psittaci. Infect Immun.
+1990 Sep;58(9):2850-5. doi: 10.1128/iai.58.9.2850-2855.1990. PMID: 2387624;
+PMCID: PMC313577.
+
+47: Eb F, Orfila J, Milon A, Géral MF. Intérêt épidémiologique du typage par
+immunofluorescence de Chlamydia psittaci [Epidemiologic significance of the
+immunofluorescence typing of Chlamydia psittaci]. Ann Inst Pasteur Microbiol
+(1985). 1986 Jul-Aug;137B(1):77-93. French. PMID: 3324944.
+
+48: Wittenbrink MM, Peter U, Bisping W. Untersuchungen zum Vorkommen latenter
+Darminfektionen mit Chlamydia psittaci bei Rindern [The occurrence of latent
+intestinal Chlamydia psittaci infection in cattle]. Berl Munch Tierarztl
+Wochenschr. 1987 Nov 1;100(11):377-81. German. PMID: 3426536.

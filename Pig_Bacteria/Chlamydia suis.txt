@@ -1,0 +1,135 @@
+1: Unterweger C, Inic-Kanada A, Setudeh S, Knecht C, Duerlinger S, Stas M,
+Vanrompay D, Kiekens C, Steinparzer R, Gerner W, Ladinig A, Barisani-Asenbauer
+T. Characteristics of <i>Chlamydia suis</i> Ocular Infection in Pigs. Pathogens.
+2021 Aug 29;10(9):1103. doi: 10.3390/pathogens10091103. PMID: 34578134; PMCID:
+PMC8470092.
+
+2: De Puysseleyr L, De Puysseleyr K, Braeckman L, Morré SA, Cox E, Vanrompay D.
+Assessment of Chlamydia suis Infection in Pig Farmers. Transbound Emerg Dis.
+2017 Jun;64(3):826-833. doi: 10.1111/tbed.12446. Epub 2015 Nov 18. PMID:
+26576707.
+
+3: Donati M, Balboni A, Laroucau K, Aaziz R, Vorimore F, Borel N, Morandi F,
+Vecchio Nepita E, Di Francesco A. Tetracycline Susceptibility in Chlamydia suis
+Pig Isolates. PLoS One. 2016 Feb 25;11(2):e0149914. doi:
+10.1371/journal.pone.0149914. PMID: 26913523; PMCID: PMC4767523.
+
+4: Chahota R, Ogawa H, Ohya K, Yamaguchi T, Everett KDE, Fukushi H. Involvement
+of multiple Chlamydia suis genotypes in porcine conjunctivitis. Transbound Emerg
+Dis. 2018 Feb;65(1):272-277. doi: 10.1111/tbed.12645. Epub 2017 Mar 27. PMID:
+28345224.
+
+5: Di Francesco A, Morandi F, Marti H, Santagati C, Borel N. Chlamydia suis and
+tetracycline resistance genes un Italian wild boar (Sus scrofa). Vet Ital. 2021
+Jul 27;57(2). doi: 10.12834/VetIt.2141.12114.1. PMID: 34971504.
+
+6: Käser T, Pasternak JA, Delgado-Ortega M, Hamonic G, Lai K, Erickson J, Walker
+S, Dillon JR, Gerdts V, Meurens F. Chlamydia suis and Chlamydia trachomatis
+induce multifunctional CD4 T cells in pigs. Vaccine. 2017 Jan 3;35(1):91-100.
+doi: 10.1016/j.vaccine.2016.11.050. Epub 2016 Nov 25. PMID: 27894718.
+
+7: Kieckens E, Van den Broeck L, Van Gils M, Morré S, Vanrompay D. Co-Occurrence
+of <i>Chlamydia suis</i> DNA and <i>Chlamydia suis-</i>Specific Antibodies in
+the Human Eye. Vector Borne Zoonotic Dis. 2018 Dec;18(12):677-682. doi:
+10.1089/vbz.2017.2256. Epub 2018 Sep 22. PMID: 30251925.
+
+8: Käser T, Cnudde T, Hamonic G, Rieder M, Pasternak JA, Lai K, Tikoo SK, Wilson
+HL, Meurens F. Porcine retinal cell line VIDO R1 and Chlamydia suis to modelize
+ocular chlamydiosis. Vet Immunol Immunopathol. 2015 Aug 15;166(3-4):95-107. doi:
+10.1016/j.vetimm.2015.06.003. Epub 2015 Jun 14. PMID: 26103808.
+
+9: De Puysseleyr L, De Puysseleyr K, Rybarczyk J, Vander Donck P, De Vos WH,
+Vanrompay D. Transferrins Reduce Replication of <i>Chlamydia suis</i> in McCoy
+Cells. Pathogens. 2021 Jul 7;10(7):858. doi: 10.3390/pathogens10070858. PMID:
+34358007; PMCID: PMC8308531.
+
+10: Dimond ZE, Hefty PS. Comprehensive genome analysis and comparisons of the
+swine pathogen, Chlamydia suis reveals unique ORFs and candidate host-
+specificity factors. Pathog Dis. 2021 Mar 10;79(2):ftaa035. doi:
+10.1093/femspd/ftaa035. PMID: 32639528; PMCID: PMC7948067.
+
+11: Unterweger C, Koch M, Winkler S, Hammer S, Oppeneder A, Ladinig A. Chlamydia
+suis survival in dust: First insights. Res Vet Sci. 2024 Jan;166:105109. doi:
+10.1016/j.rvsc.2023.105109. Epub 2023 Dec 13. PMID: 38103533.
+
+12: Li M, Jelocnik M, Yang F, Gong J, Kaltenboeck B, Polkinghorne A, Feng Z,
+Pannekoek Y, Borel N, Song C, Jiang P, Li J, Zhang J, Wang Y, Wang J, Zhou X,
+Wang C. Asymptomatic infections with highly polymorphic Chlamydia suis are
+ubiquitous in pigs. BMC Vet Res. 2017 Dec 1;13(1):370. doi:
+10.1186/s12917-017-1295-x. PMID: 29191191; PMCID: PMC5710075.
+
+13: Marti H, Biggel M, Shima K, Onorini D, Rupp J, Charette SJ, Borel N.
+<i>Chlamydia suis</i> displays high transformation capacity with complete
+cloning vector integration into the chromosomal <i>rrn-nqrF</i> plasticity zone.
+Microbiol Spectr. 2023 Dec 12;11(6):e0237823. doi: 10.1128/spectrum.02378-23.
+Epub 2023 Oct 26. PMID: 37882558; PMCID: PMC10715202.
+
+14: Wanninger S, Donati M, Di Francesco A, Hässig M, Hoffmann K, Seth-Smith HM,
+Marti H, Borel N. Selective Pressure Promotes Tetracycline Resistance of
+Chlamydia Suis in Fattening Pigs. PLoS One. 2016 Nov 28;11(11):e0166917. doi:
+10.1371/journal.pone.0166917. PMID: 27893834; PMCID: PMC5125646.
+
+15: Aumayer H, Leonard CA, Pesch T, Prähauser B, Wunderlin S, Guscetti F, Borel
+N. Chlamydia suis is associated with intestinal NF-κB activation in
+experimentally infected gnotobiotic piglets. Pathog Dis. 2020 Aug
+1;78(6):ftaa040. doi: 10.1093/femspd/ftaa040. PMID: 32804203; PMCID: PMC8140907.
+
+16: Hoque MM, Adekanmbi F, Barua S, Rahman KS, Aida V, Anderson B, Poudel A,
+Kalalah A, Bolds S, Madere S, Kitchens S, Price S, Brown V, Lockaby BG, Kyriakis
+CS, Kaltenboeck B, Wang C. Peptide ELISA and FRET-qPCR Identified a
+Significantly Higher Prevalence of <i>Chlamydia suis</i> in Domestic Pigs Than
+in Feral Swine from the State of Alabama, USA. Pathogens. 2020 Dec 25;10(1):11.
+doi: 10.3390/pathogens10010011. PMID: 33375583; PMCID: PMC7823902.
+
+17: De Puysseleyr L, De Puysseleyr K, Vanrompay D, De Vos WH. Quantifying the
+growth of chlamydia suis in cell culture using high-content microscopy. Microsc
+Res Tech. 2017 Apr;80(4):350-356. doi: 10.1002/jemt.22799. Epub 2016 Nov 12.
+PMID: 27862609.
+
+18: Seth-Smith HM, Wanninger S, Bachmann N, Marti H, Qi W, Donati M, di
+Francesco A, Polkinghorne A, Borel N. The Chlamydia suis Genome Exhibits High
+Levels of Diversity, Plasticity, and Mobile Antibiotic Resistance: Comparative
+Genomics of a Recent Livestock Cohort Shows Influence of Treatment Regimes.
+Genome Biol Evol. 2017 Mar 1;9(3):750-760. doi: 10.1093/gbe/evx043. PMID:
+28338777; PMCID: PMC5381551.
+
+19: Hamonic G, Pasternak JA, Käser T, Meurens F, Wilson HL. Extended semen for
+artificial insemination in swine as a potential transmission mechanism for
+infectious Chlamydia suis. Theriogenology. 2016 Sep 1;86(4):949-956. doi:
+10.1016/j.theriogenology.2016.03.018. Epub 2016 Mar 19. PMID: 27087534.
+
+20: Seth-Smith H, Bommana S, Dean D, Read TD, Marti H. Chlamydia suis undergoes
+interclade recombination promoting Tet-island exchange. BMC Genomics. 2024 Jul
+26;25(1):724. doi: 10.1186/s12864-024-10606-6. PMID: 39060998; PMCID:
+PMC11282597.
+
+21: Rypuła K, Kumala A, Płoneczka-Janeczko K, Lis P, Karuga-Kuźniewska E, Dudek
+K, Całkosiński I, Kuźnik P, Chorbiński P. Occurrence of reproductive disorders
+in pig herds with and without Chlamydia suis infection - statistical analysis of
+breeding parameters. Anim Sci J. 2018 May;89(5):817-824. doi: 10.1111/asj.13000.
+Epub 2018 Mar 13. PMID: 29536596.
+
+22: Unterweger C, Schwarz L, Jelocnik M, Borel N, Brunthaler R, Inic-Kanada A,
+Marti H. Isolation of Tetracycline-Resistant <i>Chlamydia suis</i> from a Pig
+Herd Affected by Reproductive Disorders and Conjunctivitis. Antibiotics (Basel).
+2020 Apr 17;9(4):187. doi: 10.3390/antibiotics9040187. PMID: 32316412; PMCID:
+PMC7235844.
+
+23: Amaral AF, Rahman KS, Kick AR, Cortes LM, Robertson J, Kaltenboeck B, Gerdts
+V, O'Connell CM, Poston TB, Zheng X, Liu C, Omesi SY, Darville T, Käser T.
+Mucosal Vaccination with UV-Inactivated <i>Chlamydia suis</i> in Pre-Exposed
+Outbred Pigs Decreases Pathogen Load and Induces CD4 T-Cell Maturation into
+IFN-γ<sup>+</sup> Effector Memory Cells. Vaccines (Basel). 2020 Jul 2;8(3):353.
+doi: 10.3390/vaccines8030353. PMID: 32630694; PMCID: PMC7564508.
+
+24: De Puysseleyr K, Kieckens E, De Puysseleyr L, Van den Wyngaert H, Ahmed B,
+Van Lent S, Creasy HH, Myers GSA, Vanrompay D. Development of a Chlamydia suis-
+specific antibody enzyme-linked immunosorbent assay based on the use of a B-cell
+epitope of the polymorphic membrane protein C. Transbound Emerg Dis. 2018
+Apr;65(2):e457-e469. doi: 10.1111/tbed.12783. Epub 2018 Jan 4. PMID: 29314736.
+
+25: Marti H, Kim H, Joseph SJ, Dojiri S, Read TD, Dean D. <i>Tet</i>(C) Gene
+Transfer between <i>Chlamydia suis</i> Strains Occurs by Homologous
+Recombination after Co-infection: Implications for Spread of Tetracycline-
+Resistance among <i>Chlamydiaceae</i>. Front Microbiol. 2017 Feb 7;8:156. doi:
+10.3389/fmicb.2017.00156. PMID: 28223970; PMCID: PMC5293829.

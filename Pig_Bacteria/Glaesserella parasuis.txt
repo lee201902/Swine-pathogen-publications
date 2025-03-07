@@ -1,0 +1,176 @@
+1: Huang J, Yang X, Wang A, Huang C, Tang H, Zhang Q, Fang Q, Yu Z, Liu X, Huang
+Q, Zhou R, Li L. Pigs Overexpressing Porcine β-Defensin 2 Display Increased
+Resilience to <i>Glaesserella parasuis</i> Infection. Antibiotics (Basel). 2020
+Dec 14;9(12):903. doi: 10.3390/antibiotics9120903. PMID: 33327385; PMCID:
+PMC7764891.
+
+2: Silva GFR, Moreno LZ, Matajira CEC, Silva APS, Araújo KM, Gomes VTM, Barbosa
+MRF, Sato MIZ, Moreno AM. Serotyping and Antimicrobial Susceptibility Profiling
+of <i>Glaesserella parasuis</i> Isolated from Diseased Swine in Brazil.
+Pathogens. 2022 Nov 30;11(12):1443. doi: 10.3390/pathogens11121443. PMID:
+36558777; PMCID: PMC9785225.
+
+3: Guo M, Yang K, Lin S, Tang J, Liu M, Zhou H, Lin H, Fan H. Coinfection with
+porcine circovirus type 2 and Glaesserella parasuis serotype 4 enhances
+pathogenicity in piglets. Vet Microbiol. 2023 Mar;278:109663. doi:
+10.1016/j.vetmic.2023.109663. Epub 2023 Jan 16. PMID: 36680971.
+
+4: Wu CF, Hsu CY, Chou CC, Wang CM, Huang SW, Kuo HC. Serotypes, virulence
+factors and multilocus sequence typing of <i>Glaesserella parasuis</i> from
+diseased pigs in Taiwan. PeerJ. 2023 Sep 29;11:e15823. doi: 10.7717/peerj.15823.
+PMID: 37790626; PMCID: PMC10544350.
+
+5: Guo M, Zhang J, Wang Q, Tang J, Li Y, Zhou H, Lin H, Ma Z, Fan H. Porcine
+circovirus type 2 and Glaesserella parasuis serotype 4 co-infection activates
+Snail1 to disrupt the intercellular junctions and facilitate bacteria
+translocation across the tracheal epithelium. Vet Microbiol. 2024
+Jan;288:109954. doi: 10.1016/j.vetmic.2023.109954. Epub 2023 Dec 15. PMID:
+38104440.
+
+6: Ni HB, Gong QL, Zhao Q, Li XY, Zhang XX. Prevalence of Haemophilus
+parasuis"Glaesserella parasuis" in pigs in China: A systematic review and meta-
+analysis. Prev Vet Med. 2020 Sep;182:105083. doi:
+10.1016/j.prevetmed.2020.105083. Epub 2020 Jul 1. PMID: 32652336.
+
+7: Liu M, Wang Q, Wu W, Chen M, Zhang P, Guo M, Lin H, Ma Z, Zhou H, Fan H.
+Glaesserella parasuis serotype 5 breaches the porcine respiratory epithelial
+barrier by inducing autophagy and blocking the cell membrane Claudin-1
+replenishment. PLoS Pathog. 2022 Oct 13;18(10):e1010912. doi:
+10.1371/journal.ppat.1010912. PMID: 36228044; PMCID: PMC9595547.
+
+8: Mugabi R, Silva APSP, Hu X, Gottschalk M, Aragon V, Macedo NR, Sahin O, Harms
+P, Main R, Tucker AW, Li G, Clavijo MJ. Molecular characterization of
+Glaesserella parasuis strains circulating in North American swine production
+systems. BMC Vet Res. 2023 Aug 28;19(1):135. doi: 10.1186/s12917-023-03698-x.
+PMID: 37641044; PMCID: PMC10464461.
+
+9: Wang H, Wei W, Cao Q, Xu M, Chen Q, Lv Y, Tan C, Dai M, Xu X, Chen H, Wang X.
+Sialylated Lipooligosaccharide Contributes to <i>Glaesserella parasuis</i>
+Penetration of Porcine Respiratory Epithelial Barrier. ACS Infect Dis. 2021 Mar
+12;7(3):661-671. doi: 10.1021/acsinfecdis.0c00850. Epub 2021 Mar 1. Erratum in:
+ACS Infect Dis. 2021 Jun 11;7(6):1870-1871. doi: 10.1021/acsinfecdis.1c00183.
+PMID: 33645216.
+
+10: Guo M, Li Y, Tang J, Wang Q, Wang Q, Zhou H, Lin H, Ma Z, Fan H.
+Glaesserella parasuis serotype 4 exploits fibronectin via RlpA for tracheal
+colonization following porcine circovirus type 2 infection. PLoS Pathog. 2024
+Sep 12;20(9):e1012513. doi: 10.1371/journal.ppat.1012513. PMID: 39264911; PMCID:
+PMC11392263.
+
+11: Wang Q, Chang X, Liu M, Lu Q, Zhu M, Lin H, Fan H. Glaesserella parasuis
+serotype 4 HPS4-YC disrupts the integrity of the swine tracheal epithelial
+barrier and facilitates bacterial translocation. Vet Res. 2021 Oct 21;52(1):135.
+doi: 10.1186/s13567-021-01005-w. PMID: 34674760; PMCID: PMC8529811.
+
+12: González-Fernández A, Mencía-Ares O, García-Iglesias MJ, Petrocchi-Rilo M,
+Miguélez-Pérez R, Gutiérrez-Martín CB, Martínez-Martínez S. Virulence and
+Antimicrobial Resistance Characterization of <i>Glaesserella parasuis</i>
+Isolates Recovered from Spanish Swine Farms. Antibiotics (Basel). 2024 Aug
+6;13(8):741. doi: 10.3390/antibiotics13080741. PMID: 39200041; PMCID:
+PMC11350796.
+
+13: Zhou YY, Yuan J, Jia YC, Guo Y, Yin RL, Guo ZB, Wang JY, Wang C, Yin RH.
+Transcriptomics analysis reveals key lncRNAs and genes related to the infection
+of porcine lung macrophages by Glaesserella parasuis. Microb Pathog. 2022
+Aug;169:105617. doi: 10.1016/j.micpath.2022.105617. Epub 2022 Jun 6. PMID:
+35680006.
+
+14: Wan X, Wang G, Gao W, Li C, Yan H. Comparative genome analysis of multidrug-
+resistant and susceptible Glaesserella parasuis strains isolated from diseased
+pigs in China. Vet Microbiol. 2021 Mar;254:109002. doi:
+10.1016/j.vetmic.2021.109002. Epub 2021 Feb 1. PMID: 33610012.
+
+15: Yang B, Li XD, Chen X, Hong J, Liu C, Zheng JP, Ou ZY, Yu DJ. PK/PD
+modelling of enrofloxacin against Glaesserella parasuis infection in pigs. J Vet
+Pharmacol Ther. 2022 May;45(3):291-300. doi: 10.1111/jvp.13055. Epub 2022 Mar
+29. PMID: 35348230.
+
+16: Zhou H, Chen X, Deng X, Zhang X, Zeng X, Xu K, Chen H. Transcriptome
+Analysis of miRNA and mRNA in Porcine Skeletal Muscle following <i>Glaesserella
+parasuis</i> Challenge. Genes (Basel). 2024 Mar 13;15(3):359. doi:
+10.3390/genes15030359. PMID: 38540418; PMCID: PMC10970282.
+
+17: Zeng Z, Zhang H, Gui G, Luo J, Liu S. <i>Macleaya cordata</i> extract
+modulates inflammation <i>via</i> inhibition of the NF-κB and MAPK signaling
+pathways in porcine alveolar macrophages induced by <i>Glaesserella
+parasuis</i>. Can J Vet Res. 2022 Oct;86(4):254-260. PMID: 36211213; PMCID:
+PMC9536353.
+
+18: Hau SJ, Luan SL, Loving CL, Nicholson TL, Wang J, Peters SE, Seilly D,
+Weinert LA, Langford PR, Rycroft AN, Wren BW, Maskell DJ, Tucker AW, Brockmeier
+SL; BRaDP1T Consortium. Evaluation of the recombinant proteins RlpB and VacJ as
+a vaccine for protection against Glaesserella parasuis in pigs. BMC Vet Res.
+2020 May 27;16(1):167. doi: 10.1186/s12917-020-02377-5. PMID: 32460764; PMCID:
+PMC7252510.
+
+19: Li Y, Guo M, Wang Q, Zhou H, Wu W, Lin H, Fan H. Glaesserella parasuis
+serotype 5 induces pyroptosis via the RIG-I/MAVS/NLRP3 pathway in swine tracheal
+epithelial cells. Vet Microbiol. 2024 Jul;294:110127. doi:
+10.1016/j.vetmic.2024.110127. Epub 2024 May 22. PMID: 38797057.
+
+20: Lu Q, Zhou L, Wang Z, Li X, Ding L, Qiu Y, Guo P, Ye C, Fu S, Wu Z, Liu Y.
+Baicalin Alleviate Apoptosis via PKC-MAPK Pathway in Porcine Peritoneal
+Mesothelial Cells Induced by <i>Glaesserella parasuis</i>. Molecules. 2022 Aug
+10;27(16):5083. doi: 10.3390/molecules27165083. PMID: 36014323; PMCID:
+PMC9414593.
+
+21: Lacouture S, Vincent AT, Gottschalk M. Distribution of <i>Streptococcus
+suis, Actinobacillus pleuropneumoniae</i>, and <i>Glaesserella parasuis</i>
+serotypes isolated from diseased pigs in Quebec between January 2020 and
+December 2023. Can Vet J. 2024 Jun;65(6):533-534. PMID: 38827588; PMCID:
+PMC11132141.
+
+22: Wang H, Wei W, Cao Q, Xu M, Chen Q, Lv Y, Tan C, Dai M, Xu X, Chen H, Wang
+X. Correction to "Sialylated Lipooligosaccharide Contributes to <i>Glaesserella
+parasuis</i> Penetration of Porcine Respiratory Epithelial Barrier". ACS Infect
+Dis. 2021 Jun 11;7(6):1870-1871. doi: 10.1021/acsinfecdis.1c00183. Epub 2021 Apr
+20. Erratum for: ACS Infect Dis. 2021 Mar 12;7(3):661-671. doi:
+10.1021/acsinfecdis.0c00850. PMID: 33876631.
+
+23: Guan Z, Pang L, Ouyang Y, Jiang Y, Zhang J, Qiu Y, Li Z, Li B, Liu K, Shao
+D, Ma Z, Wei J. Secondary Highly Pathogenic Porcine Reproductive and Respiratory
+Syndrome Virus (HP-PRRSV2) Infection Augments Inflammatory Responses, Clinical
+Outcomes, and Pathogen Load in <i>Glaesserella-parasuis</i>-Infected Piglets.
+Vet Sci. 2023 May 20;10(5):365. doi: 10.3390/vetsci10050365. PMID: 37235448;
+PMCID: PMC10222957.
+
+24: Zhou Y, Feng S, He X, Zhou Q, Wang Y, Yue H, Tang C, Zhang B. Surface-
+exposed loops L7 and L8 of Haemophilus (Glaesserella) parasuis OmpP2 contribute
+to the expression of proinflammatory cytokines in porcine alveolar macrophages.
+Vet Res. 2019 Nov 29;50(1):105. doi: 10.1186/s13567-019-0721-4. PMID: 31783919;
+PMCID: PMC6884870.
+
+25: Fu S, Tian X, Peng C, Zhang D, Zhou L, Yuan Y, He J, Guo L, Qiu Y, Ye C, Liu
+Y, Zong B. Baicalin inhibited PANX-1/P2Y6 signaling pathway activation in
+porcine aortic vascular endothelial cells infected by <i>Glaesserella
+parasuis</i>. Heliyon. 2023 Dec 13;10(1):e23632. doi:
+10.1016/j.heliyon.2023.e23632. PMID: 38187335; PMCID: PMC10770501.
+
+26: Lacouture S, Gottschalk M. Distribution of <i>Actinobacillus
+pleuropneumoniae</i> (from 2015 to June 2020) and <i>Glaesserella parasuis</i>
+(from 2017 to June 2020) serotypes isolated from diseased pigs in Quebec. Can
+Vet J. 2020 Dec;61(12):1261-1263. PMID: 33299240; PMCID: PMC7659881.
+
+27: Wiencek I, Hartmann M, Merkel J, Trittmacher S, Kreienbrock L, Hennig-Pauka
+I. Temporal Patterns of Phenotypic Antimicrobial Resistance and Coinfecting
+Pathogens in <i>Glaesserella parasuis</i> Strains Isolated from Diseased Swine
+in Germany from 2006 to 2021. Pathogens. 2022 Jun 24;11(7):721. doi:
+10.3390/pathogens11070721. PMID: 35889967; PMCID: PMC9316560.
+
+28: Dazzi CC, Guizzo JA, Prigol SR, Kreutz LC, Driemeier D, Chaudhuri S,
+Schryvers AB, Frandoloso R. New Pathological Lesions Developed in Pigs by a
+"Non-virulent" Strain of <i>Glaesserella parasuis</i>. Front Vet Sci. 2020 Feb
+25;7:98. doi: 10.3389/fvets.2020.00098. PMID: 32158772; PMCID: PMC7052124.
+
+29: Ramos Prigol S, Klein R, Chaudhuri S, Paraboni Frandoloso G, Guizzo JA,
+Gutiérrez Martín CB, Schryvers AB, Kreutz LC, Frandoloso R.
+TbpB<sup>Y167A</sup>-Based Vaccine Can Protect Pigs against Glässer's Disease
+Triggered by <i>Glaesserella parasuis</i> SV7 Expressing TbpB Cluster I.
+Pathogens. 2022 Jul 4;11(7):766. doi: 10.3390/pathogens11070766. PMID: 35890011;
+PMCID: PMC9323293.
+
+30: Cao Q, Wang H, Wei W, Lv Y, Wen Z, Xu X, Cai X, Chen H, Wang X. Porcine
+Alveolar Macrophages' Nitric Oxide Synthase-Mediated Generation of Nitric Oxide
+Exerts Important Defensive Effects against <i>Glaesserella parasuis</i>
+Infection. Pathogens. 2019 Nov 13;8(4):234. doi: 10.3390/pathogens8040234. PMID:
+31766159; PMCID: PMC6963498.

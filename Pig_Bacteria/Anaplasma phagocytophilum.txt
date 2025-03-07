@@ -1,0 +1,127 @@
+1: Bauer BU, Răileanu C, Tauchmann O, Fischer S, Ambros C, Silaghi C, Ganter M.
+<i>Anaplasma phagocytophilum</i> and <i>Anaplasma ovis</i>-Emerging Pathogens in
+the German Sheep Population. Pathogens. 2021 Oct 9;10(10):1298. doi:
+10.3390/pathogens10101298. PMID: 34684247; PMCID: PMC8537415.
+
+2: Lesiczka PM, Myśliwy I, Buńkowska-Gawlik K, Modrý D, Hrazdilová K, Hildebrand
+J, Perec-Matysiak A. Circulation of Anaplasma phagocytophilum among invasive and
+native carnivore species living in sympatry in Poland. Parasit Vectors. 2023 Oct
+18;16(1):368. doi: 10.1186/s13071-023-05996-7. PMID: 37853498; PMCID:
+PMC10583402.
+
+3: Strašek Smrdel K, von Loewenich FD, Petrovec M, Avšič Županc T. Diversity of
+ankA and msp4 genes of Anaplasma phagocytophilum in Slovenia. Ticks Tick Borne
+Dis. 2015 Mar;6(2):164-6. doi: 10.1016/j.ttbdis.2014.11.008. Epub 2014 Dec 4.
+PMID: 25511457.
+
+4: Myczka AW, Szewczyk T, Laskowski Z. The Occurrence of Zoonotic Anaplasma
+phagocytophilum Strains, in the Spleen and Liver of Wild Boars from North-West
+and Central Parts of Poland. Acta Parasitol. 2021 Sep;66(3):1082-1085. doi:
+10.1007/s11686-021-00368-6. Epub 2021 Mar 26. PMID: 33770340; PMCID: PMC8390417.
+
+5: Masuzawa T, Uchishima Y, Fukui T, Okamoto Y, Muto M, Koizumi N, Yamada A.
+Detection of Anaplasma phagocytophilum from Wild Boars and Deer in Japan. Jpn J
+Infect Dis. 2011;64(4):333-6. PMID: 21788712.
+
+6: Langenwalder DB, Schmidt S, Silaghi C, Skuballa J, Pantchev N, Matei IA,
+Mihalca AD, Gilli U, Zajkowska J, Ganter M, Hoffman T, Salaneck E, Petrovec M,
+von Loewenich FD. The absence of the drhm gene is not a marker for human-
+pathogenicity in European Anaplasma phagocytophilum strains. Parasit Vectors.
+2020 May 7;13(1):238. doi: 10.1186/s13071-020-04116-z. Erratum in: Parasit
+Vectors. 2020 Sep 30;13(1):497. doi: 10.1186/s13071-020-04350-5. PMID: 32381072;
+PMCID: PMC7206706.
+
+7: Adamska M. The role of different species of wild ungulates and Ixodes ricinus
+ticks in the circulation of genetic variants of Anaplasma phagocytophilum in a
+forest biotope in north-western Poland. Ticks Tick Borne Dis. 2020
+Sep;11(5):101465. doi: 10.1016/j.ttbdis.2020.101465. Epub 2020 May 16. PMID:
+32723651.
+
+8: Huhn C, Winter C, Wolfsperger T, Wüppenhorst N, Strašek Smrdel K, Skuballa J,
+Pfäffle M, Petney T, Silaghi C, Dyachenko V, Pantchev N, Straubinger RK,
+Schaarschmidt-Kiener D, Ganter M, Aardema ML, von Loewenich FD. Analysis of the
+population structure of Anaplasma phagocytophilum using multilocus sequence
+typing. PLoS One. 2014 Apr 3;9(4):e93725. doi: 10.1371/journal.pone.0093725.
+PMID: 24699849; PMCID: PMC3974813.
+
+9: Fröhlich J, Fischer S, Bauer B, Hamel D, Kohn B, Ahlers M, Obiegala A,
+Overzier E, Pfeffer M, Pfister K, Răileanu C, Rehbein S, Skuballa J, Silaghi C.
+Host-pathogen associations revealed by genotyping of European strains of
+Anaplasma phagocytophilum to describe natural endemic cycles. Parasit Vectors.
+2023 Aug 16;16(1):289. doi: 10.1186/s13071-023-05900-3. PMID: 37587504; PMCID:
+PMC10433637.
+
+10: Galindo RC, Ayllón N, Smrdel KS, Boadella M, Beltrán-Beck B, Mazariegos M,
+García N, de la Lastra JM, Avsic-Zupanc T, Kocan KM, Gortazar C, de la Fuente J.
+Gene expression profile suggests that pigs (Sus scrofa) are susceptible to
+Anaplasma phagocytophilum but control infection. Parasit Vectors. 2012 Aug
+30;5:181. doi: 10.1186/1756-3305-5-181. PMID: 22935149; PMCID: PMC3453518.
+
+11: Reiterová K, Špilovská S, Blaňarová L, Derdáková M, Čobádiová A, Hisira V.
+Wild boar (Sus scrofa) - reservoir host of Toxoplasma gondii, Neospora caninum
+and Anaplasma phagocytophilum in Slovakia. Acta Parasitol. 2016
+Mar;61(2):255-60. doi: 10.1515/ap-2016-0035. PMID: 27078648.
+
+12: Nahayo A, Bardiau M, Volpe R, Pirson J, Paternostre J, Fett T, Linden A.
+Molecular evidence of Anaplasma phagocytophilum in wild boar (Sus scrofa) in
+Belgium. BMC Vet Res. 2014 Apr 2;10:80. doi: 10.1186/1746-6148-10-80. PMID:
+24694049; PMCID: PMC3976503.
+
+13: Tegtmeyer P, Ganter M, von Loewenich FD. Simultaneous infection of cattle
+with different Anaplasma phagocytophilum variants. Ticks Tick Borne Dis. 2019
+Aug;10(5):1051-1056. doi: 10.1016/j.ttbdis.2019.05.011. Epub 2019 May 30. PMID:
+31171465.
+
+14: Langenwalder DB, Schmidt S, Gilli U, Pantchev N, Ganter M, Silaghi C,
+Aardema ML, von Loewenich FD. Corrigendum to "Genetic characterization of
+Anaplasma phagocytophilum strains from goats (Capra aegagrus hircus) and water
+buffalo (Bubalus bubalis) by 16S rRNA gene, ankA gene and multilocus sequence
+typing" [Ticks Tick Borne Dis. 10 (2019) 101267]. Ticks Tick Borne Dis. 2021
+Mar;12(2):101640. doi: 10.1016/j.ttbdis.2020.101640. Epub 2021 Jan 12. Erratum
+for: Ticks Tick Borne Dis. 2019 Oct;10(6):101267. doi:
+10.1016/j.ttbdis.2019.101267. PMID: 33451970.
+
+15: Kiss T, Cadar D, Krupaci FA, Bordeanu AD, Spînu M. Prevalence of Anaplasma
+phagocytophilum infection in European wild boar (Sus scrofa) populations from
+Transylvania, Romania. Epidemiol Infect. 2014 Feb;142(2):246-50. doi:
+10.1017/S0950268813000812. Epub 2013 Apr 24. PMID: 23611429; PMCID: PMC9151139.
+
+16: Langenwalder DB, Schmidt S, Gilli U, Pantchev N, Ganter M, Silaghi C,
+Aardema ML, von Loewenich FD. Genetic characterization of Anaplasma
+phagocytophilum strains from goats (Capra aegagrus hircus) and water buffalo
+(Bubalus bubalis) by 16S rRNA gene, ankA gene and multilocus sequence typing.
+Ticks Tick Borne Dis. 2019 Oct;10(6):101267. doi: 10.1016/j.ttbdis.2019.101267.
+Epub 2019 Aug 13. Erratum in: Ticks Tick Borne Dis. 2021 Mar;12(2):101640. doi:
+10.1016/j.ttbdis.2020.101640. PMID: 31444126.
+
+17: Zele D, Avberšek J, Gruntar I, Ocepek M, Vengušt G. Evidence of Anaplasma
+phagocytophilum in game animals from Slovenia. Acta Vet Hung. 2012
+Dec;60(4):441-8. doi: 10.1556/AVet.2012.038. PMID: 23160026.
+
+18: Strasek Smrdel K, Bidovec A, Malovrh T, Petrovec M, Duh D, Avsic Zupanc T.
+Detection of Anaplasma phagocytophilum in wild boar in Slovenia. Clin Microbiol
+Infect. 2009 Dec;15 Suppl 2:50-2. doi: 10.1111/j.1469-0691.2008.02174.x. PMID:
+20584165.
+
+19: Michalik J, Stańczak J, Cieniuch S, Racewicz M, Sikora B, Dabert M. Wild
+boars as hosts of human-pathogenic Anaplasma phagocytophilum variants. Emerg
+Infect Dis. 2012 Jun;18(6):998-1001. doi: 10.3201/eid1806.110997. PMID:
+22607827; PMCID: PMC3358146.
+
+20: Langenwalder DB, Schmidt S, Silaghi C, Skuballa J, Pantchev N, Matei IA,
+Mihalca AD, Gilli U, Zajkowska J, Ganter M, Hoffman T, Salaneck E, Petrovec M,
+von Loewenich FD. Correction to: The absence of the drhm gene is not a marker
+for human-pathogenicity in European Anaplasma phagocytophilum strains. Parasit
+Vectors. 2020 Sep 30;13(1):497. doi: 10.1186/s13071-020-04350-5. Erratum for:
+Parasit Vectors. 2020 May 7;13(1):238. doi: 10.1186/s13071-020-04116-z. PMID:
+32998772; PMCID: PMC7526212.
+
+21: de la Fuente J, Gortazar C. Wild Boars as Hosts of Human-Pathogenic
+Anaplasma phagocytophilum Variants. Emerg Infect Dis. 2012 Dec;18(12):2094-5.
+doi: 10.3201/eid1812.120778. PMID: 23171572; PMCID: PMC3557900.
+
+22: Henniger T, Henniger P, Grossmann T, Distl O, Ganter M, von Loewenich FD.
+Correction to: Congenital infection with Anaplasma phagocytophilum in a calf in
+northern Germany. Acta Vet Scand. 2019 Jan 30;61(1):8. doi:
+10.1186/s13028-019-0444-6. Erratum for: Acta Vet Scand. 2013 May 01;55:38. doi:
+10.1186/1751-0147-55-38. PMID: 30700321; PMCID: PMC6354423.

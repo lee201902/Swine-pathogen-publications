@@ -1,0 +1,88 @@
+1: Oh SI, Kim JW, Kim J, So B, Kim B, Kim HY. Molecular subtyping and
+antimicrobial susceptibility of <i>Streptococcus dysgalactiae</i> subspecies
+<i>equisimilis</i> isolates from clinically diseased pigs. J Vet Sci. 2020
+Jul;21(4):e57. doi: 10.4142/jvs.2020.21.e57. PMID: 32735095; PMCID: PMC7402932.
+
+2: Moreno LZ, da Costa BL, Matajira CE, Gomes VT, Mesquita RE, Silva AP, Moreno
+AM. Molecular and antimicrobial susceptibility profiling of Streptococcus
+dysgalactiae isolated from swine. Diagn Microbiol Infect Dis. 2016
+Oct;86(2):178-80. doi: 10.1016/j.diagmicrobio.2016.07.020. Epub 2016 Jul 27.
+PMID: 27539863.
+
+3: Cardoso-Toset F, Luque I, Morales-Partera A, Galán-Relaño A, Barrero-
+Domínguez B, Hernández M, Gómez-Laguna J. Survival of Streptococcus suis,
+Streptococcus dysgalactiae and Trueperella pyogenes in dry-cured Iberian pork
+shoulders and loins. Food Microbiol. 2017 Feb;61:66-71. doi:
+10.1016/j.fm.2016.09.002. Epub 2016 Sep 3. PMID: 27697171.
+
+4: Leigh JA, Hodgkinson SM, Lincoln RA. The interaction of Streptococcus
+dysgalactiae with plasmin and plasminogen. Vet Microbiol. 1998 Mar
+15;61(1-2):121-35. doi: 10.1016/s0378-1135(98)00179-5. PMID: 9646471.
+
+5: Cinthi M, Massacci FR, Coccitto SN, Albini E, Cucco L, Orsini M, Simoni S,
+Giovanetti E, Brenciani A, Magistrali CF. Characterization of a prophage and a
+defective integrative conjugative element carrying the optrA gene in linezolid-
+resistant Streptococcus dysgalactiae subsp. equisimilis isolates from pigs,
+Italy. J Antimicrob Chemother. 2023 Jul 5;78(7):1740-1747. doi:
+10.1093/jac/dkad164. PMID: 37254473.
+
+6: Coccitto SN, Massacci FR, Cinthi M, Albini E, Cucco L, D'Achille G, Morroni
+G, Mingoia M, Orsini M, Giovanetti E, Brenciani A, Magistrali CF. Co-location of
+the oxazolidinone resistance poxtA2 and cfr(D) genes on a multiresistance
+plasmid from a porcine Streptococcus dysgalactiae subsp. equisimilis, Italy. J
+Antimicrob Chemother. 2023 Aug 2;78(8):2099-2102. doi: 10.1093/jac/dkad169.
+PMID: 37253052.
+
+7: Patel SM, Sahoo M, Thakor JC, Murali D, Kumar P, Singh R, Singh KP, Saikumar
+G, Jana C, Patel SK, Mote AB, Karthikeyan R, Vandre RK, Biswal JK, Sahoo NR.
+Pathomolecular epidemiology, antimicrobial resistance, and virulence genes of
+Streptococcus dysgalactiae subsp. equisimilis isolates from slaughtered pigs in
+India. J Appl Microbiol. 2024 Jan 2;135(1):lxae002. doi: 10.1093/jambio/lxae002.
+PMID: 38178631.
+
+8: Oh SI, Kim JW, Jung JY, Chae M, Lee YR, Kim JH, So B, Kim HY. Pathologic and
+molecular characterization of <i>Streptococcus dysgalactiae</i> subsp.
+<i>equisimilis</i> infection in neonatal piglets. J Vet Sci. 2018 Mar
+31;19(2):313-317. doi: 10.4142/jvs.2018.19.2.313. PMID: 29284213; PMCID:
+PMC5879081.
+
+9: Abdelsalam M, Fujino M, Eissa AE, Chen SC, Warda M. Expression, genetic
+localization and phylogenic analysis of NAPlr in piscine Streptococcus
+dysgalactiae subspecies dysgalactiae isolates and their patterns of adherence. J
+Adv Res. 2015 Sep;6(5):747-55. doi: 10.1016/j.jare.2014.05.005. Epub 2014 May
+22. PMID: 26425363; PMCID: PMC4563591.
+
+10: Kawata K, Minakami T, Mori Y, Katsumi M, Kataoka Y, Ezawa A, Kikuchi N,
+Takahashi T. rDNA sequence analyses of Streptococcus dysgalactiae subsp.
+equisimilis isolates from pigs. Int J Syst Evol Microbiol. 2003 Nov;53(Pt
+6):1941-6. doi: 10.1099/ijs.0.02666-0. PMID: 14657127.
+
+11: McGavin MJ, Gurusiddappa S, Lindgren PE, Lindberg M, Raucci G, Höök M.
+Fibronectin receptors from Streptococcus dysgalactiae and Staphylococcus aureus.
+Involvement of conserved residues in ligand binding. J Biol Chem. 1993 Nov
+15;268(32):23946-53. PMID: 8226935.
+
+12: Bert F, Branger C, Poutrel B, Lambert-Zechovsky N. Differentiation of human
+and animal strains of Streptococcus dysgalactiae by pulsed-field gel
+electrophoresis. FEMS Microbiol Lett. 1997 May 1;150(1):107-12. doi:
+10.1111/j.1574-6968.1997.tb10357.x. PMID: 9163914.
+
+13: Kasuya K, Yoshida E, Harada R, Hasegawa M, Osaka H, Kato M, Shibahara T.
+Systemic Streptococcus dysgalactiae subspecies equisimilis infection in a
+Yorkshire pig with severe disseminated suppurative meningoencephalomyelitis. J
+Vet Med Sci. 2014 May;76(5):715-8. doi: 10.1292/jvms.13-0526. Epub 2014 Jan 10.
+PMID: 24419876; PMCID: PMC4073340.
+
+14: Nomoto R, Kagawa H, Yoshida T. Partial sequencing of sodA gene and its
+application to identification of Streptococcus dysgalactiae subsp. dysgalactiae
+isolated from farmed fish. Lett Appl Microbiol. 2008 Jan;46(1):95-100. doi:
+10.1111/j.1472-765X.2007.02272.x. Epub 2007 Oct 27. PMID: 17971096.
+
+15: Müller HP, Blobel H. Purification and properties of a receptor for the Fc-
+component of immunoglobulin G from Streptococcus dysgalactiae. Zentralbl
+Bakteriol Mikrobiol Hyg A Med Mikrobiol Infekt Parasitol. 1983
+May;254(3):352-60. PMID: 6232781.
+
+16: SAC C VS disease surveillance report: Early cases of Streptococcus
+dysgalactiae arthritis seen in lambs. Vet Rec. 2011 Apr 30;168(17):449-52. doi:
+10.1136/vr.d2601. PMID: 21678613.

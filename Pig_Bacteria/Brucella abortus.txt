@@ -1,0 +1,17 @@
+1: Zriba S, Garcia-Gonzalez DG, Khalaf OH, Wheeler L, Chaki SP, Rice-Ficht A,
+Ficht TA, Arenas-Gamboa AM. Vaccine safety studies of <i>Brucella abortus</i>
+S19 and S19Δ<i>vjbR</i> in pregnant swine. Vaccine X. 2019 Aug 22;3:100041. doi:
+10.1016/j.jvacx.2019.100041. PMID: 31528851; PMCID: PMC6737346.
+
+2: Waldrop SG, Smith GP, Boyle SM, Sriranganathan N. <i>Brucella abortus</i>
+RB51 Δ<i>leuB</i> expressing <i>Salmonella</i> FliC conjugated gonadotropins
+reduces mouse fetal numbers: A possible feral swine brucellosis
+immunocontraceptive vaccine. Heliyon. 2021 Feb 2;7(2):e06149. doi:
+10.1016/j.heliyon.2021.e06149. PMID: 33644455; PMCID: PMC7889994.
+
+3: Chaudhuri P, Saminathan M, Ali SA, Kaur G, Singh SV, Lalsiamthara J, Goswami
+TK, Singh AK, Singh SK, Malik P, Singh RK. Immunization with <i>Brucella
+abortus</i> S19Δ<i>per</i> Conferred Protection in Water Buffaloes against
+Virulent Challenge with <i>B. abortus</i> Strain S544. Vaccines (Basel). 2021
+Dec 2;9(12):1423. doi: 10.3390/vaccines9121423. PMID: 34960169; PMCID:
+PMC8708995.

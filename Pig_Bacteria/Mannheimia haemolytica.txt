@@ -1,0 +1,5 @@
+1: Kehrenberg C, Salmon SA, Watts JL, Schwarz S. Tetracycline resistance genes
+in isolates of Pasteurella multocida, Mannheimia haemolytica, Mannheimia
+glucosida and Mannheimia varigena from bovine and swine respiratory disease:
+intergeneric spread of the tet(H) plasmid pMHT1. J Antimicrob Chemother. 2001
+Nov;48(5):631-40. doi: 10.1093/jac/48.5.631. PMID: 11679552.

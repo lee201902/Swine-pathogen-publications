@@ -1,0 +1,56 @@
+1: Ni HB, Gong QL, Zhao Q, Li XY, Zhang XX. Prevalence of Haemophilus
+parasuis"Glaesserella parasuis" in pigs in China: A systematic review and meta-
+analysis. Prev Vet Med. 2020 Sep;182:105083. doi:
+10.1016/j.prevetmed.2020.105083. Epub 2020 Jul 1. PMID: 32652336.
+
+2: Zhang J, Zhao C, Yao M, Qi J, Tan Y, Shi K, Wang J, Zhou S, Li Z.
+Transcriptome sequencing reveals non-coding RNAs respond to porcine reproductive
+and respiratory syndrome virus and <i>Haemophilus parasuis</i> co-infection in
+Kele piglets. J Anim Sci Technol. 2024 Jul;66(4):663-681. doi:
+10.5187/jast.2023.e46. Epub 2024 Jul 31. PMID: 39165737; PMCID: PMC11331363.
+
+3: Zhang J, Wang J, Zhang X, Zhao C, Zhou S, Du C, Tan Y, Zhang Y, Shi K.
+Transcriptome profiling identifies immune response genes against porcine
+reproductive and respiratory syndrome virus and <i>Haemophilus parasuis</i> co-
+infection in the lungs of piglets. J Vet Sci. 2022 Jan;23(1):e2. doi:
+10.4142/jvs.21139. Epub 2021 Nov 16. PMID: 34931503; PMCID: PMC8799943.
+
+4: Hao J, Jia M, Liu Y, Lv Z, Chen J, Xiong W, Zeng Z. Application of a rapid
+and sensitive RPA-CRISPR/Cas12a assay for naked-eye detection of Haemophilus
+parasuis. Anal Chim Acta. 2024 Jan 25;1287:342101. doi:
+10.1016/j.aca.2023.342101. Epub 2023 Dec 4. PMID: 38182383.
+
+5: Hua K, Li T, He Y, Guan A, Chen L, Gao Y, Xu Q, Wang H, Luo R, Zhao L, Jin H.
+Resistin secreted by porcine alveolar macrophages leads to endothelial cell
+dysfunction during <i>Haemophilus parasuis</i> infection. Virulence. 2023
+Dec;14(1):2171636. doi: 10.1080/21505594.2023.2171636. PMID: 36694280; PMCID:
+PMC9928480.
+
+6: Eberle KC, Hau SJ, Luan SL, Weinert LA, Stasko JA, Wang J, Peters SE,
+Langford PR, Rycroft AN, Wren BW, Maskell DJ, Tucker AW, Brockmeier SL.
+Generation and Evaluation of a Glaesserella (Haemophilus) parasuis Capsular
+Mutant. Infect Immun. 2020 Apr 20;88(5):e00879-19. doi: 10.1128/IAI.00879-19.
+PMID: 32094250; PMCID: PMC7171231.
+
+7: Jia Y, Hao C, Yang Q, Zhang W, Li G, Liu S, Hua X. Inhibition of Haemophilus
+parasuis by berberine and proteomic studies of its mechanism of action. Res Vet
+Sci. 2021 Sep;138:62-68. doi: 10.1016/j.rvsc.2021.06.004. Epub 2021 Jun 5. PMID:
+34111715.
+
+8: Yin RH, Guo ZB, Zhou YY, Wang C, Yin RL, Bai WL. LncRNA-MEG3 Regulates the
+Inflammatory Responses and Apoptosis in Porcine Alveolar Macrophages Infected
+with Haemophilus parasuis Through Modulating the miR-210/TLR4 Axis. Curr
+Microbiol. 2021 Aug;78(8):3152-3164. doi: 10.1007/s00284-021-02590-x. Epub 2021
+Jun 30. PMID: 34191053.
+
+9: Guo L, Liu J, Zhang Y, Fu S, Qiu Y, Ye C, Liu Y, Wu Z, Hou Y, Hu CA. The
+Effect of Baicalin on the Expression Profiles of Long Non-Coding RNAs and mRNAs
+in Porcine Aortic Vascular Endothelial Cells Infected with <i>Haemophilus
+parasuis</i>. DNA Cell Biol. 2020 May;39(5):801-815. doi: 10.1089/dna.2019.5340.
+Epub 2020 Feb 25. PMID: 32096672.
+
+10: Lei T, Dai T, Zhuang L, Liu Y, Li X, Huang C, Zheng X. Enhanced Systemic and
+Mucosal Immune Responses to <i>Haemophilus parasuis</i> by Intranasal
+Administration of Lactic-Co-Glycolic Acid Microspheres. Vaccines (Basel). 2024
+Sep 26;12(10):1103. doi: 10.3390/vaccines12101103. PMID: 39460270; PMCID:
+PMC11511020.

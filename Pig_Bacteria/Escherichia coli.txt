@@ -1,0 +1,821 @@
+1: Li X, Hu H, Zhu Y, Wang T, Lu Y, Wang X, Peng Z, Sun M, Chen H, Zheng J, Tan
+C. Population structure and antibiotic resistance of swine extraintestinal
+pathogenic Escherichia coli from China. Nat Commun. 2024 Jul 10;15(1):5811. doi:
+10.1038/s41467-024-50268-2. PMID: 38987310; PMCID: PMC11237156.
+
+2: Gambino M, Kushwaha SK, Wu Y, van Haastrecht P, Klein-Sousa V, Lutz VT,
+Bejaoui S, Jensen CMC, Bojer MS, Song W, Xiao M, Taylor NMI, Nobrega FL,
+Brøndsted L. Diversity and phage sensitivity to phages of porcine
+enterotoxigenic <i>Escherichia coli</i>. Appl Environ Microbiol. 2024 Jul
+24;90(7):e0080724. doi: 10.1128/aem.00807-24. Epub 2024 Jun 28. PMID: 38940562;
+PMCID: PMC11267873.
+
+3: Ivanova M, Ovsepian A, Leekitcharoenphon P, Seyfarth AM, Mordhorst H, Otani
+S, Koeberl-Jelovcan S, Milanov M, Kompes G, Liapi M, Černý T, Vester CT, Perrin-
+Guyomard A, Hammerl JA, Grobbel M, Valkanou E, Jánosi S, Slowey R, Alba P,
+Carfora V, Avsejenko J, Pereckiene A, Claude D, Zerafa R, Veldman KT, Boland C,
+Garcia-Graells C, Wattiau P, Butaye P, Zając M, Amaro A, Clemente L, Vaduva AM,
+Romascu LM, Milita NM, Mojžišová A, Zdovc I, Escribano MJZ, De Frutos Escobar C,
+Overesch G, Teale C, Loneragan GH, Guerra B, Beloeil PA, Brown AMV, Hendriksen
+RS, Bortolaia V, Kjeldgaard JS. Azithromycin resistance in Escherichia coli and
+Salmonella from food-producing animals and meat in Europe. J Antimicrob
+Chemother. 2024 Jul 1;79(7):1657-1667. doi: 10.1093/jac/dkae161. PMID: 38775752;
+PMCID: PMC11215539.
+
+4: Alvarez L, Carhuaricra D, Palomino-Farfan J, Calle S, Maturrano L, Siuce J.
+Genomic Profiling of Multidrug-Resistant Swine <i>Escherichia coli</i> and
+Clonal Relationship to Human Isolates in Peru. Antibiotics (Basel). 2023 Dec
+18;12(12):1748. doi: 10.3390/antibiotics12121748. PMID: 38136782; PMCID:
+PMC10740509.
+
+5: El Riz A, Tchoumi Neree A, Mousavifar L, Roy R, Chorfi Y, Mateescu MA.
+Metallo-Glycodendrimeric Materials against Enterotoxigenic <i>Escherichia
+coli</i>. Microorganisms. 2024 May 11;12(5):966. doi:
+10.3390/microorganisms12050966. PMID: 38792795; PMCID: PMC11124148.
+
+6: Shen X, Yang YB, Gao Y, Wang S, Wang H, Sun M, Meng F, Tang YD, Tu Y, Kong Q,
+An TQ, Cai XH. Lipid A-modified Escherichia coli can produce porcine parvovirus
+virus-like particles with high immunogenicity and minimal endotoxin activity.
+Microb Cell Fact. 2024 Aug 8;23(1):222. doi: 10.1186/s12934-024-02497-9. PMID:
+39118114; PMCID: PMC11308658.
+
+7: Sampaio ANDCE, Caron EFF, Cerqueira-Cézar CK, Juliano LCB, Tadielo LE, Melo
+PRL, de Oliveira JP, Pantoja JCF, Martins OA, Nero LA, Possebon FS, Pereira JG.
+<i>Escherichia coli</i> Occurrence and Antimicrobial Resistance in a Swine
+Slaughtering Process. Pathogens. 2024 Oct 19;13(10):912. doi:
+10.3390/pathogens13100912. PMID: 39452783; PMCID: PMC11510025.
+
+8: Jiang F, Yang Y, Mao Z, Cai W, Li G. ArcA positively regulates the expression
+of virulence genes and contributes to virulence of porcine Shiga toxin-producing
+enterotoxigenic <i>Escherichia coli</i>. Microbiol Spectr. 2023 Dec
+12;11(6):e0152523. doi: 10.1128/spectrum.01525-23. Epub 2023 Nov 2. PMID:
+37916813; PMCID: PMC10714933.
+
+9: Oliveira-Silva M, Goulart RS, Moraes MA, Nakamura-Silva R, Fujimoto RY, Sousa
+RC, Kobayashi RKT, Medeiros LP, Nakazato G, Pitondo-Silva A. Multidrug-resistant
+Escherichia coli strains isolated from swine manure biofertilizer in Brazil.
+Environ Monit Assess. 2024 May 10;196(6):534. doi: 10.1007/s10661-024-12658-3.
+PMID: 38727864.
+
+10: Wang Y, Xu F, Yuan C, Zhang Y, Ren J, Yue H, Ma T, Song Q. Comparison of
+immune effects of porcine circovirus type 2d (PCV2d) capsid protein expressed by
+Escherichia coli and baculovirus-insect cells. Vaccine. 2024 Apr
+19;42(11):2848-2857. doi: 10.1016/j.vaccine.2024.03.048. Epub 2024 Mar 21. PMID:
+38514351.
+
+11: Kerek Á, Török B, Laczkó L, Kardos G, Bányai K, Somogyi Z, Kaszab E, Bali K,
+Jerzsele Á. In Vitro Microevolution and Co-Selection Assessment of Florfenicol
+Impact on <i>Escherichia coli</i> Resistance Development. Antibiotics (Basel).
+2023 Dec 14;12(12):1728. doi: 10.3390/antibiotics12121728. PMID: 38136762;
+PMCID: PMC10740648.
+
+12: Zhang S, Cui M, Liu D, Fu B, Shi T, Wang Y, Sun C, Wu C. Tigecycline
+Sensitivity Reduction in <i>Escherichia coli</i> Due to Widely Distributed
+<i>tet</i>(A) Variants. Microorganisms. 2023 Dec 18;11(12):3000. doi:
+10.3390/microorganisms11123000. PMID: 38138144; PMCID: PMC10745318.
+
+13: Guragain M, Schmidt JW, Bagi LK, Paoli GC, Kalchayanand N, Bosilevac JM.
+Antibiotic Resistance and Disinfectant Resistance Among Escherichia coli
+Isolated During Red Meat Production. J Food Prot. 2024 Jun;87(6):100288. doi:
+10.1016/j.jfp.2024.100288. Epub 2024 Apr 30. PMID: 38697484.
+
+14: Ladyhina V, Sternberg-Lewerin S, Andersson L, Rajala E. Antimicrobial
+resistance among indicator Enterococcus faecium and Escherichia coli in Swedish
+pig farms. Acta Vet Scand. 2024 Jul 17;66(1):34. doi:
+10.1186/s13028-024-00756-8. Erratum in: Acta Vet Scand. 2024 Aug 13;66(1):37.
+doi: 10.1186/s13028-024-00758-6. PMID: 39020377; PMCID: PMC11256653.
+
+15: Ramírez Castillo FY, Guerrero Barrera AL, Harel J, Avelar González FJ,
+Vogeleer P, Arreola Guerra JM, González Gámez M. Biofilm Formation by
+<i>Escherichia coli</i> Isolated from Urinary Tract Infections from
+Aguascalientes, Mexico. Microorganisms. 2023 Nov 25;11(12):2858. doi:
+10.3390/microorganisms11122858. PMID: 38138002; PMCID: PMC10745304.
+
+16: Feye KM, Rasmussen MA, Yeater KM, Anderson RC, Crippen TL, Harvey RB, Poole
+TL, Ricke SC. Chlorophyllin Supplementation of Medicated or Unmedicated Swine
+Diets Impact on Fecal <i>Escherichia coli</i> and Enterococci. Animals (Basel).
+2024 Jul 2;14(13):1955. doi: 10.3390/ani14131955. PMID: 38998066; PMCID:
+PMC11240447.
+
+17: Li L, Han K, Mao X, Wang L, Cao Y, Li Z, Wu Y, Tan Y, Shi Y, Zhang L, Liu H,
+Li Y, Peng H, Li X, Hu C, Wang X. Oral phages prophylaxis against mixed
+Escherichia coli O157:H7 and Salmonella Typhimurium infections in weaned
+piglets. Vet Microbiol. 2024 Jan;288:109923. doi: 10.1016/j.vetmic.2023.109923.
+Epub 2023 Nov 25. PMID: 38061277.
+
+18: Tao Q, Lu Y, Liu Q, Chen R, Xu Y, Li G, Hu X, Ye C, Peng L, Fang R.
+Antibacterial activity of the antimicrobial peptide PMAP-36 in combination with
+tetracycline against porcine extraintestinal pathogenic Escherichia coli in
+vitro and in vivo. Vet Res. 2024 Mar 22;55(1):35. doi:
+10.1186/s13567-024-01295-w. PMID: 38520031; PMCID: PMC10960472.
+
+19: Coelho MMS, Davanzo EFA, Dos Santos RL, Castro VHL, da Costa HMB, Dallago
+BSL, Perecmanis S, Santana AP. <i>Escherichia coli</i> and
+<i>Enterobacteriaceae</i> Counts, Virulence Gene Profile, Antimicrobial
+Resistance, and Biofilm Formation Capacity during Pig Slaughter Stages. Life
+(Basel). 2024 Oct 3;14(10):1261. doi: 10.3390/life14101261. PMID: 39459561;
+PMCID: PMC11508742.
+
+20: Zhang C, He F, Li N, Du W, Wen J, Wu X, Shi J, Li C, Liu C, Xu S, Han H,
+Hrabchenko N, Han X, Li J. Optimized production of full-length PCV2d virus-like
+particles in Escherichia coli: A cost-effective and high-yield approach for
+potential vaccine antigen development. Microb Pathog. 2024 May;190:106630. doi:
+10.1016/j.micpath.2024.106630. Epub 2024 Mar 29. PMID: 38556102.
+
+21: Byrne AW, Garvan C, Bolton J, Naranjo-Lucena A, Madigan G, McElroy M, Slowey
+R. Antimicrobial resistance in Escherichia coli isolated from pigs and
+associations with aggregated antimicrobial usage in Ireland: A herd-level
+exploration. Zoonoses Public Health. 2024 Feb;71(1):71-83. doi:
+10.1111/zph.13086. Epub 2023 Oct 29. PMID: 37899534.
+
+22: Imklin N, Sriprasong P, Thanantong N, Lekcharoensuk P, Nasanit R. Two Novel
+Bacteriophage Species Against Hybrid Intestinal Pathogenic <i>Escherichia
+coli</i>/Extraintestinal Pathogenic <i>Escherichia coli</i> Strains. Phage (New
+Rochelle). 2024 Jun 21;5(2):107-116. doi: 10.1089/phage.2023.0020. PMID:
+39119207; PMCID: PMC11304831.
+
+23: Niharika J, Deb R, Parihar R, Thakur PK, Anjaria P, Sengar GS, Chaudhary P,
+Pegu SR, Attupurum N, Antony N, Rajkhowa S, Gupta VK. Isolation and
+Characterization of Extended-Spectrum β-Lactamase Producing <i>Escherichia
+coli</i> from Pig Farms and Slaughterhouse. Indian J Microbiol. 2024
+Sep;64(3):950-956. doi: 10.1007/s12088-023-01151-z. Epub 2023 Dec 13. PMID:
+39282198; PMCID: PMC11399545.
+
+24: Zhang G, Fu Y, Li Y, Li Q, Wang S, Shi H. Oral Immunization with Attenuated
+<i>Salmonella</i> Choleraesuis Expressing the FedF Antigens Protects Mice
+against the Shiga-Toxin-Producing <i>Escherichia coli</i> Challenge.
+Biomolecules. 2023 Nov 30;13(12):1726. doi: 10.3390/biom13121726. PMID:
+38136597; PMCID: PMC10741478.
+
+25: Long J, Yang C, Liu J, Ma C, Jiao M, Hu H, Xiong J, Zhang Y, Wei W, Yang H,
+He Y, Zhu M, Yu Y, Fu L, Chen H. Tannic acid inhibits Escherichia coli biofilm
+formation and underlying molecular mechanisms: Biofilm regulator CsgD. Biomed
+Pharmacother. 2024 Jun;175:116716. doi: 10.1016/j.biopha.2024.116716. Epub 2024
+May 11. PMID: 38735084.
+
+26: Strasheim W, Lowe M, Smith AM, Etter EMC, Perovic O. Whole-Genome Sequencing
+of Human and Porcine <i>Escherichia coli</i> Isolates on a Commercial Pig Farm
+in South Africa. Antibiotics (Basel). 2024 Jun 11;13(6):543. doi:
+10.3390/antibiotics13060543. PMID: 38927209; PMCID: PMC11200671.
+
+27: Mitsuwan W, Intongead S, Saengsawang P, Romyasamit C, Narinthorn R,
+Nissapatorn V, Pereira ML, Paul AK, Wongtawan T, Boripun R. Occurrence of
+multidrug resistance associated with extended-spectrum β‑lactamase and the
+biofilm forming ability of Escherichia coli in environmental swine husbandry.
+Comp Immunol Microbiol Infect Dis. 2023 Dec;103:102093. doi:
+10.1016/j.cimid.2023.102093. Epub 2023 Nov 11. PMID: 37976973.
+
+28: Christodoulou MK. Comparison of Antimicrobial Resistance in Escherichia coli
+Strains Isolated From Swine, Poultry, and Farm Workers in the Respective
+Livestock Farming Units in Greece. Cureus. 2023 Dec 25;15(12):e51073. doi:
+10.7759/cureus.51073. PMID: 38269216; PMCID: PMC10807698.
+
+29: Li Q, Dai JJ, Chen SY, Sun RY, Wang D, Bai SC, Wang MG, Sun J, Liao XP, Liu
+YH, Fang LX. Prevalence and molecular characteristics of intestinal pathogenic
+Escherichia coli isolated from diarrheal pigs in Southern China. Vet Microbiol.
+2024 Sep;296:110171. doi: 10.1016/j.vetmic.2024.110171. Epub 2024 Jul 2. PMID:
+38981202.
+
+30: Yin F, Hu Y, Bu Z, Liu Y, Zhang H, Hu Y, Xue Y, Li S, Tan C, Chen X, Li L,
+Zhou R, Huang Q. Genome-wide identification of genes critical for <i>in vivo</i>
+fitness of multi-drug resistant porcine extraintestinal pathogenic
+<i>Escherichia coli</i> by transposon-directed insertion site sequencing using a
+mouse infection model. Virulence. 2023 Dec;14(1):2158708. doi:
+10.1080/21505594.2022.2158708. PMID: 36537189; PMCID: PMC9828833.
+
+31: Phomsisavath V, Roberts T, Seupsanith A, Robinson MT, Nammanininh P,
+Chanthavong S, Chansamouth V, Vongsouvath M, Theppangna W, Christensen P,
+Blacksell SD, Mayxay M, Ashley EA. Investigation of <i>Escherichia coli</i>
+isolates from pigs and humans for colistin resistance in Lao PDR- a cross-
+sectional study. One Health. 2024 Apr 30;18:100745. doi:
+10.1016/j.onehlt.2024.100745. PMID: 38725959; PMCID: PMC11079391.
+
+32: Hao Z, Dong X, Zhang Z, Qin Z. A Nanobody of PEDV S1 Protein: Screening and
+Expression in <i>Escherichia coli</i>. Biomolecules. 2024 Sep 4;14(9):1116. doi:
+10.3390/biom14091116. PMID: 39334881; PMCID: PMC11430113.
+
+33: Liu Y, Qiao Z, Ma Y, Wang M, Hu G, Li E. Molecular characterization of the
+<i>tet</i> (M)-carrying transposon Tn<i>7124</i> and plasmids in <i>Escherichia
+coli</i> isolates recovered from swine. Front Vet Sci. 2024 Oct 23;11:1430398.
+doi: 10.3389/fvets.2024.1430398. PMID: 39507219; PMCID: PMC11539080.
+
+34: Navickaite I, Holmes H, Dondi L, Randall L, Fearnley C, Taylor E, Fullick E,
+Horton R, Williamson S, AbuOun M, Teale C, Anjum MF. Occurrence and
+characterization of rmtB-harbouring Salmonella and Escherichia coli isolates
+from a pig farm in the UK. J Antimicrob Chemother. 2024 Jun 3;79(6):1329-1336.
+doi: 10.1093/jac/dkae102. PMID: 38629139.
+
+35: Aziz M, Davis GS, Park DE, Idris AH, Sariya S, Wang Y, Zerbonne S, Nordstrom
+L, Weaver B, Statham S, Johnson TJ, Campos J, Castro-Nallar E, Crandall KA, Wu
+Z, Liu CM, DeBiasi RL, Price LB. Pediatric urinary tract infections caused by
+poultry-associated <i>Escherichia coli</i>. Microbiol Spectr. 2024 Jul
+2;12(7):e0341523. doi: 10.1128/spectrum.03415-23. Epub 2024 Jun 12. PMID:
+38864635; PMCID: PMC11218530.
+
+36: Sodagari HR, Agrawal I, Yudhanto S, Varga C. Longitudinal analysis of
+differences and similarities in antimicrobial resistance among commensal
+Escherichia coli isolated from market swine and sows at slaughter in the United
+States of America, 2013-2019. Int J Food Microbiol. 2023 Dec 16;407:110388. doi:
+10.1016/j.ijfoodmicro.2023.110388. Epub 2023 Sep 7. PMID: 37699314.
+
+37: Zhang Y, Tian X, Dong Y, Li R, Shen M, Yi D, Wu T, Wang L, Zhao D, Hou Y.
+<i>Bacillus coagulans</i> prevents the decline in average daily feed intake in
+young piglets infected with enterotoxigenic <i>Escherichia coli</i> K88 by
+reducing intestinal injury and regulating the gut microbiota. Front Cell Infect
+Microbiol. 2023 Nov 14;13:1284166. doi: 10.3389/fcimb.2023.1284166. PMID:
+38035331; PMCID: PMC10686232.
+
+38: Mafizur RM, Sangjin L, Chul PY. Prevalence of Salmonella spp. and
+Escherichia coli in the feces of free-roaming wildlife throughout South Korea.
+PLoS One. 2024 Feb 15;19(2):e0281006. doi: 10.1371/journal.pone.0281006. PMID:
+38358989; PMCID: PMC10868816.
+
+39: Jamali H, Akrami F, Bouakkaz S, Dozois CM. Prevalence of specific
+serogroups, antibiotic resistance and virulence factors of avian pathogenic
+Escherichia coli (APEC) isolated from clinical cases: A systematic review and
+meta-analysis. Microb Pathog. 2024 Sep;194:106843. doi:
+10.1016/j.micpath.2024.106843. Epub 2024 Aug 6. PMID: 39117015.
+
+40: Bao X, Gänzle MG, Wu J. Ovomucin Hydrolysates Reduce Bacterial Adhesion and
+Inflammation in Enterotoxigenic <i>Escherichia coli</i> (ETEC) K88-Challenged
+Intestinal Epithelial Cells. J Agric Food Chem. 2024 Apr 3;72(13):7219-7229.
+doi: 10.1021/acs.jafc.4c00185. Epub 2024 Mar 20. PMID: 38507577.
+
+41: Martínez-Álvarez S, Châtre P, François P, Abdullahi IN, Simón C, Zarazaga M,
+Madec JY, Haenni M, Torres C. Unexpected role of pig nostrils in the clonal and
+plasmidic dissemination of extended-spectrum beta-lactamase-producing
+Escherichia coli at farm level. Ecotoxicol Environ Saf. 2024 Mar 15;273:116145.
+doi: 10.1016/j.ecoenv.2024.116145. Epub 2024 Mar 9. PMID: 38460199.
+
+42: Dankittipong N, Broek JVD, de Vos CJ, Wagenaar JA, Stegeman JA, Fischer EAJ.
+Transmission rates of veterinary and clinically important antibiotic resistant
+Escherichia coli: A meta- ANALYSIS. Prev Vet Med. 2024 Apr;225:106156. doi:
+10.1016/j.prevetmed.2024.106156. Epub 2024 Feb 17. PMID: 38402649.
+
+43: Nammuang D, Shen YW, Ke CH, Kuan NL, Lin CN, Yeh KS, Chang YC, Chang CY,
+Chang HW. Isolation and evaluation of the pathogenicity of a hybrid shiga toxin-
+producing and Enterotoxigenic Escherichia coli in pigs. BMC Vet Res. 2024 Oct
+21;20(1):480. doi: 10.1186/s12917-024-04317-z. PMID: 39434059; PMCID:
+PMC11492512.
+
+44: Pereira FA, Coelho FA, Alves LKS, Dos Santos FM, Pereira EM, Silva Neta CS,
+Ferreira FNA, da Cunha ACR, Pairis-Garcia MD, Garbossa CAP. Dose of phytase from
+either <i>Aspergillus niger</i> or <i>Escherichia coli</i> on performance of
+nursery piglets. Transl Anim Sci. 2024 Aug 31;8:txae132. doi:
+10.1093/tas/txae132. PMID: 39346698; PMCID: PMC11439148.
+
+45: Tusiime M, Mwiine FN, Afayoa M, Arojjo S, Erume J. Molecular
+characterization of Escherichia coli virulence markers in neonatal and
+postweaning piglets from major pig-producing districts of Uganda. BMC Vet Res.
+2024 May 27;20(1):230. doi: 10.1186/s12917-024-04092-x. PMID: 38802876; PMCID:
+PMC11129443.
+
+46: Bernier Gosselin V, Fernandez JE, Ollagnier C, Morel I, Siegenthaler R,
+Collaud A, Meylan M, Perreten V. Whole-genome sequencing-based antimicrobial
+resistance and shedding dynamics of <i>Escherichia coli</i> isolated from calves
+before and after antimicrobial group treatments. Microbiol Spectr. 2024 Apr
+2;12(4):e0321423. doi: 10.1128/spectrum.03214-23. Epub 2024 Mar 5. PMID:
+38441467; PMCID: PMC10986552.
+
+47: Suchanta N, Ullah N, Santanirand P, Am-In N, Chaichanawongsaroj N.
+Antimicrobial Susceptibility of Commensal <i>Escherichia coli</i> from Pig Fecal
+Samples and Enhanced Sensitivity for Direct Detection of the
+<i>bla</i><sub>CTX-M</sub> Gene by Nested PCR. Animals (Basel). 2024 Sep
+10;14(18):2630. doi: 10.3390/ani14182630. PMID: 39335221; PMCID: PMC11428893.
+
+48: Mounsey O, Marchetti L, Parada J, Alarcón LV, Aliverti F, Avison MB, Ayala
+CS, Ballesteros C, Best CM, Bettridge J, Buchamer A, Buldain D, Carranza A,
+Corti Isgro M, Demeritt D, Escobar MP, Gortari Castillo L, Jaureguiberry M,
+Lucas MF, Madoz LV, Marconi MJ, Moiso N, Nievas HD, Ramirez Montes De Oca MA,
+Reding C, Reyher KK, Vass L, Williams S, Giraudo J, De La Sota RL, Mestorino N,
+Moredo FA, Pellegrino M. Genomic epidemiology of third-generation cephalosporin-
+resistant <i>Escherichia coli</i> from Argentinian pig and dairy farms reveals
+animal-specific patterns of co-resistance and resistance mechanisms. Appl
+Environ Microbiol. 2024 Mar 20;90(3):e0179123. doi: 10.1128/aem.01791-23. Epub
+2024 Feb 9. PMID: 38334306; PMCID: PMC10952494.
+
+49: Kerek Á, Török B, Laczkó L, Somogyi Z, Kardos G, Bányai K, Kaszab E, Bali K,
+Jerzsele Á. In Vitro Microevolution and Co-Selection Assessment of Amoxicillin
+and Cefotaxime Impact on <i>Escherichia coli</i> Resistance Development.
+Antibiotics (Basel). 2024 Mar 7;13(3):247. doi: 10.3390/antibiotics13030247.
+PMID: 38534682; PMCID: PMC10967516.
+
+50: Sun M, Gao AX, Li A, Ledesma-Amaro R, Wang P, Chen W, Bai Z, Liu X. Hyper-
+production of porcine contagious pleuropneumonia subunit vaccine proteins in
+Escherichia coli by developing a bicistronic T7 expression system. Biotechnol J.
+2024 Jan;19(1):e2300187. doi: 10.1002/biot.202300187. Epub 2024 Jan 4. PMID:
+38178735.
+
+51: Jana B, Kaczmarek MM, Całka J, Romaniewicz M, Palus K. Profile of mRNA
+expression in the myometrium after intrauterine Escherichia coli injections in
+pigs. Theriogenology. 2024 Oct 15;228:93-103. doi:
+10.1016/j.theriogenology.2024.08.003. Epub 2024 Aug 5. PMID: 39128182.
+
+52: Avgere E, Zafeiridis C, Procter KA, Beloukas A, Giakkoupi P. Molecular
+Characterization of <i>Escherichia coli</i> Producing Extended-Spectrum
+ß-Lactamase and MCR-1 from Sick Pigs in a Greek Slaughterhouse. Antibiotics
+(Basel). 2023 Nov 14;12(11):1625. doi: 10.3390/antibiotics12111625. PMID:
+37998827; PMCID: PMC10669062.
+
+53: Cai S, Yang Y, Zeng X, Zhu Z, Wang F, Zhang S, Chen F, Cai C, Zeng X, Qiao
+S. Methionine influences the profile of intestinal antibiotic resistome through
+inhibiting the growth of Escherichia coli. Sci Total Environ. 2023 Nov
+15;899:165610. doi: 10.1016/j.scitotenv.2023.165610. Epub 2023 Jul 19. PMID:
+37474041.
+
+54: Xie K, Qi J, Deng L, Yu B, Luo Y, Huang Z, Mao X, Yu J, Zheng P, Yan H, Li
+Y, Li H, He J. Dihydromyricetin improves growth performance, immunity, and
+intestinal functions in weaned pigs challenged by enterotoxigenic <i>Escherichia
+coli</i>. Front Vet Sci. 2024 Jul 26;11:1421871. doi:
+10.3389/fvets.2024.1421871. Erratum in: Front Vet Sci. 2024 Sep 17;11:1481509.
+doi: 10.3389/fvets.2024.1481509. PMID: 39193366; PMCID: PMC11348495.
+
+55: Mulchandani R, Zhao C, Tiseo K, Pires J, Van Boeckel TP. Predictive Mapping
+of Antimicrobial Resistance for Escherichia coli, Salmonella, and Campylobacter
+in Food-Producing Animals, Europe, 2000-2021. Emerg Infect Dis. 2024
+Jan;30(1):96-104. doi: 10.3201/eid3001.221450. PMID: 38146995; PMCID:
+PMC10756390.
+
+56: Uea-Anuwong T, Biggel M, Cernela N, Hung WW, Lugsomya K, Kiu LH, Gröhn YT,
+Boss S, Stephan R, Nüesch-Inderbinen M, Magouras I. Antimicrobial resistance and
+phylogenetic relatedness of extended-spectrum ß-lactamase (ESBL)-producing
+Escherichia coli in peridomestic rats (Rattus norvegicus and Rattus tanezumi)
+linked to city areas and animal farms in Hong Kong. Environ Res. 2024 Jun
+15;251(Pt 1):118623. doi: 10.1016/j.envres.2024.118623. Epub 2024 Mar 8. PMID:
+38462086.
+
+57: Poor AP, Moreno LZ, Monteiro MS, Matajira CEC, Dutra MC, Leal DF, Silva APS,
+Gomes VTM, de Souza IO, Araújo KM, Sato MIZ, Moreno AM. Characterization of
+<i>Escherichia coli</i> Isolated from Sows Presenting Purulent Vulvar Discharge.
+Microorganisms. 2024 Jan 8;12(1):123. doi: 10.3390/microorganisms12010123. PMID:
+38257950; PMCID: PMC10820650.
+
+58: Mei CY, Jiang Y, Ma QC, Lu MJ, Wu H, Wang ZY, Jiao X, Wang J. Low prevalence
+of mcr-1 in Escherichia coli from food-producing animals and food products in
+China. BMC Vet Res. 2024 Feb 1;20(1):40. doi: 10.1186/s12917-024-03891-6. PMID:
+38297289; PMCID: PMC10832210.
+
+59: Kovanda L, Rengman S, Tawde S, Pos J, Park S, Sun S, Park J, Kim K, Li X,
+Liu Y. Dietary glycerides of valerate ameliorate diarrhea and impact intestinal
+physiology and serum biomarkers in weaned piglets infected with enterotoxigenic
+Escherichia coli F18. J Anim Sci. 2024 Jan 3;102:skae322. doi:
+10.1093/jas/skae322. PMID: 39432563; PMCID: PMC11537800.
+
+60: Breyer GM, De Carli S, Muterle Varela AP, Mann MB, Frazzon J, Quoos Mayer F,
+Siqueira FM. Carrier state of enterotoxigenic Escherichia coli virulence markers
+in pigs: Effects on gut microbiota modulation and immune markers transcription.
+Microb Pathog. 2024 Jun;191:106662. doi: 10.1016/j.micpath.2024.106662. Epub
+2024 Apr 23. PMID: 38663640.
+
+61: Latif H, Pazra DF, Basri C, Wibawan IWT, Rahayu P. Whole genome sequencing
+analysis on antibiotic-resistant <i>Escherichia coli</i> isolated from pig farms
+in Banten Province, Indonesia. J Vet Sci. 2024 May;25(3):e44. doi:
+10.4142/jvs.24031. PMID: 38834513; PMCID: PMC11156600.
+
+62: Yang L, Yang Y, Liu A, Lei S, He P. Preparation of Bispecific IgY-scFvs
+Inhibition Adherences of Enterotoxigenic <i>Escherichia coli</i> (K88 and F18)
+to Porcine IPEC-J2 Cell. Int J Mol Sci. 2024 Mar 25;25(7):3638. doi:
+10.3390/ijms25073638. PMID: 38612450; PMCID: PMC11011568.
+
+63: Xie K, Qi J, Deng L, Yu B, Luo Y, Huang Z, Mao X, Yu J, Zheng P, Yan H, Li
+Y, Li H, He J. Protective effect of dihydromyricetin on intestinal epithelium in
+weaned pigs upon enterotoxigenic Escherichia coli challenge. Int
+Immunopharmacol. 2024 Oct 25;140:112806. doi: 10.1016/j.intimp.2024.112806. Epub
+2024 Aug 3. PMID: 39098232.
+
+64: Haley BJ, Salaheen S, Kim SW, Van Kessel JA. Virulome analysis of
+Escherichia coli ST117 from bovine sources identifies similarities and
+differences with strains isolated from other food animals. PLoS One. 2024 Jan
+4;19(1):e0296514. doi: 10.1371/journal.pone.0296514. PMID: 38175844; PMCID:
+PMC10766182.
+
+65: Göpel L, Prenger-Berninghoff E, Wolf SA, Semmler T, Bauerfeind R, Ewers C.
+Repeated Occurrence of Mobile Colistin Resistance Gene-Carrying Plasmids in
+Pathogenic <i>Escherichia coli</i> from German Pig Farms. Microorganisms. 2024
+Apr 3;12(4):729. doi: 10.3390/microorganisms12040729. PMID: 38674671; PMCID:
+PMC11052496.
+
+66: Madsen O, Rikkers RSC, Wells JM, Bergsma R, Kar SK, Taverne N, Taverne-
+Thiele AJ, Ellen ED, Woelders H. Transcriptomic analysis of intestinal
+organoids, derived from pigs divergent in feed efficiency, and their response to
+Escherichia coli. BMC Genomics. 2024 Feb 13;25(1):173. doi:
+10.1186/s12864-024-10064-0. PMID: 38350904; PMCID: PMC10863143.
+
+67: Lan C, Li H, Shen Y, Liu Y, Wu A, He J, Cai J, Tian G, Mao X, Huang Z, Yu B,
+Zheng P, Yu J, Luo J, Yan H, Luo Y. Next-generation probiotic candidates
+targeting intestinal health in weaned piglets: Both live and heat-killed
+<i>Akkermansia muciniphila</i> prevent pathological changes induced by
+enterotoxigenic <i>Escherichia coli</i> in the gut. Anim Nutr. 2024 Mar
+6;17:110-122. doi: 10.1016/j.aninu.2024.01.007. PMID: 38766519; PMCID:
+PMC11101935.
+
+68: Stærk K, Langhorn L, Halle B, Andersen TE. Urinary bladder catheterisation
+of female pigs: Influence of bladder content and <i>Escherichia coli</i> urinary
+tract infection on procedural outcome. Lab Anim. 2024 Jun;58(3):252-260. doi:
+10.1177/00236772231169344. Epub 2024 Feb 9. PMID: 38334709.
+
+69: Li M, Zhao D, Guo J, Pan T, Niu T, Jiang Y, Shi C, Huang H, Wang N, Zhang D,
+Zhang S, Wang C, Yang G. <i>Bacillus halotolerans</i> SW207 alleviates
+enterotoxigenic <i>Escherichia coli</i>-induced inflammatory responses in weaned
+piglets by modulating the intestinal epithelial barrier, the TLR4/MyD88/NF-κB
+pathway, and intestinal microbiota. Microbiol Spectr. 2024 Apr 2;12(4):e0398823.
+doi: 10.1128/spectrum.03988-23. Epub 2024 Mar 7. PMID: 38451226; PMCID:
+PMC10986599.
+
+70: Gonçalves C, Silveira L, Rodrigues J, Furtado R, Ramos S, Nunes A, Pista Â.
+Phenotypic and Genotypic Characterization of <i>Escherichia coli</i> and
+<i>Salmonella</i> spp. Isolates from Pigs at Slaughterhouse and from Commercial
+Pork Meat in Portugal. Antibiotics (Basel). 2024 Oct 11;13(10):957. doi:
+10.3390/antibiotics13100957. PMID: 39452223; PMCID: PMC11505151.
+
+71: Ketkhao P, Utrarachkij F, Parikumsil N, Poonchareon K, Kerdsin A,
+Ekchariyawat P, Narongpun P, Nakajima C, Suzuki Y, Suthienkul O. Phylogenetic
+diversity and virulence gene characteristics of Escherichia coli from pork and
+patients with urinary tract infections in Thailand. PLoS One. 2024 Jul
+25;19(7):e0307544. doi: 10.1371/journal.pone.0307544. PMID: 39052658; PMCID:
+PMC11271939.
+
+72: Siddi G, Piras F, Gymoese P, Torpdahl M, Meloni MP, Cuccu M, Migoni M,
+Cabras D, Fredriksson-Ahomaa M, De Santis EPL, Scarano C. Pathogenic profile and
+antimicrobial resistance of Escherichia coli, Escherichia marmotae and
+Escherichia ruysiae detected from hunted wild boars in Sardinia (Italy). Int J
+Food Microbiol. 2024 Aug 16;421:110790. doi: 10.1016/j.ijfoodmicro.2024.110790.
+Epub 2024 Jun 8. PMID: 38878707.
+
+73: Fratto A, Torricelli M, Sebastiani C, Ciullo M, Felici A, Biagetti M. Survey
+on resistance occurrence for F4<sup>+</sup> and F18<sup>+</sup> enterotoxigenic
+Escherichia coli (ETEC) among pigs reared in Central Italy regions. Vet Res
+Commun. 2024 Apr;48(2):1279-1284. doi: 10.1007/s11259-023-10287-8. Epub 2024 Jan
+4. PMID: 38175328.
+
+74: Fan XY, Jiang Y, Wu H, Liu J, Gu QY, Wang ZY, Sun L, Jiao X, Li Q, Wang J.
+Distribution and spread of tigecycline resistance gene <i>tet</i>(X4) in
+<i>Escherichia coli</i> from different sources. Front Cell Infect Microbiol.
+2024 Jun 28;14:1399732. doi: 10.3389/fcimb.2024.1399732. PMID: 39006743; PMCID:
+PMC11239352.
+
+75: Yu D, Andersson-Li M, Maes S, Andersson-Li L, Neumann NF, Odlare M, Jonsson
+A. Development of a logic regression-based approach for the discovery of host-
+and niche-informative biomarkers in <i>Escherichia coli</i> and their
+application for microbial source tracking. Appl Environ Microbiol. 2024 Jul
+24;90(7):e0022724. doi: 10.1128/aem.00227-24. Epub 2024 Jun 28. PMID: 38940567;
+PMCID: PMC11267920.
+
+76: Chen C, Hu H, Li Z, Qi M, Qiu Y, Hu Z, Feng F, Tang W, Diao H, Sun W, Tang
+Z. Dietary tryptophan improves growth and intestinal health by promoting the
+secretion of intestinal β-defensins against enterotoxigenic Escherichia coli F4
+in weaned piglets. J Nutr Biochem. 2024 Jul;129:109637. doi:
+10.1016/j.jnutbio.2024.109637. Epub 2024 Apr 3. PMID: 38574828.
+
+77: Garcias B, Martin M, Darwich L. Characterization of Antimicrobial Resistance
+in <i>Escherichia coli</i> Isolated from Diarrheic and Healthy Weaned Pigs in
+Catalonia. Animals (Basel). 2024 Feb 1;14(3):487. doi: 10.3390/ani14030487.
+PMID: 38338129; PMCID: PMC10854747.
+
+78: Chen H, Xiong P, Guo N, Liu Z. Metabolic Engineering of <i>Escherichia
+coli</i> for Production of a Bioactive Metabolite of Bilirubin. Int J Mol Sci.
+2024 Sep 9;25(17):9741. doi: 10.3390/ijms25179741. PMID: 39273688; PMCID:
+PMC11396004.
+
+79: Checcucci A, Buscaroli E, Modesto M, Luise D, Blasioli S, Scarafile D, Di
+Vito M, Bugli F, Trevisi P, Braschi I, Mattarelli P. The swine waste resistome:
+Spreading and transfer of antibiotic resistance genes in Escherichia coli
+strains and the associated microbial communities. Ecotoxicol Environ Saf. 2024
+Sep 15;283:116774. doi: 10.1016/j.ecoenv.2024.116774. Epub 2024 Jul 25. PMID:
+39053184.
+
+80: Cardoso O, Assis G, Donato MM, Henriques SC, Freitas A, Ramos F. Antibiotic
+Residues and Zinc Concentrations in the Livers and Kidneys of Portuguese
+Piglets-Relationship to Antibiotic and Zinc Resistance in Intestinal Escherichia
+coli. Biol Trace Elem Res. 2024 Oct;202(10):4522-4530. doi:
+10.1007/s12011-023-04032-0. Epub 2023 Dec 26. PMID: 38147233; PMCID:
+PMC11339090.
+
+81: Park S, Sun S, Kovanda L, Sokale AO, Barri A, Kim K, Li X, Liu Y. Effects of
+monoglyceride blend on systemic and intestinal immune responses, and gut health
+of weaned pigs experimentally infected with a pathogenic Escherichia coli. J
+Anim Sci Biotechnol. 2024 Oct 13;15(1):141. doi: 10.1186/s40104-024-01103-7.
+PMID: 39396043; PMCID: PMC11479547.
+
+82: Tchoumi Neree A, Noori F, Azzouz A, Costa M, Fairbrother JM, Mateescu MA,
+Chorfi Y. Silver and Copper Nanoparticles Hosted by Carboxymethyl Cellulose
+Reduce the Infective Effects of Enterotoxigenic <i>Escherichia coli</i>:F4 on
+Porcine Intestinal Enterocyte IPEC-J2. Microorganisms. 2024 Oct 7;12(10):2026.
+doi: 10.3390/microorganisms12102026. PMID: 39458335; PMCID: PMC11509932.
+
+83: Puangseree J, Prathan R, Srisanga S, Chuanchuen R. Molecular basis of the
+persistence of chloramphenicol resistance among Escherichia coli and Salmonella
+spp. from pigs, pork and humans in Thailand. PLoS One. 2024 May
+24;19(5):e0304250. doi: 10.1371/journal.pone.0304250. PMID: 38787814; PMCID:
+PMC11125496.
+
+84: Duarte ME, Deng Z, Kim SW. Effects of dietary Lactobacillus postbiotics and
+bacitracin on the modulation of mucosa-associated microbiota and pattern
+recognition receptors affecting immunocompetence of jejunal mucosa in pigs
+challenged with enterotoxigenic F18<sup>+</sup> Escherichia coli. J Anim Sci
+Biotechnol. 2024 Oct 11;15(1):139. doi: 10.1186/s40104-024-01098-1. PMID:
+39390608; PMCID: PMC11468193.
+
+85: Hansen SV, Canibe N, Nielsen TS, Woyengo TA. Zinc status and indicators of
+intestinal health in enterotoxigenic Escherichia coli F18 challenged newly
+weaned pigs fed diets with different levels of zinc. J Anim Sci. 2024 Jan
+3;102:skae018. doi: 10.1093/jas/skae018. PMID: 38245836; PMCID: PMC10939430.
+
+86: Ogundare ST, Fasina FO, Makumbi JP, van der Zel GA, Geertsma PF, Kock MM,
+Smith AM, Ehlers MM. Epidemiology and antimicrobial resistance profiles of
+pathogenic Escherichia coli from commercial swine and poultry abattoirs and
+farms in South Africa: A One Health approach. Sci Total Environ. 2024 Nov
+15;951:175705. doi: 10.1016/j.scitotenv.2024.175705. Epub 2024 Aug 22. PMID:
+39181266.
+
+87: Xu C, She Y, Fu F, Xu C. Production of a new tetravalent vaccine targeting
+fimbriae and enterotoxin of enterotoxigenic <i>Escherichia coli</i>. Can J Vet
+Res. 2024 Apr;88(2):38-44. PMID: 38595949; PMCID: PMC11000427.
+
+88: Shen X, Gu M, Zhan F, Cai H, Zhang K, Wang K, Li C. Porcine beta defensin 2
+attenuates inflammatory responses in IPEC-J2 cells against Escherichia coli via
+TLRs-NF-κB/MAPK signaling pathway. BMC Vet Res. 2024 Aug 10;20(1):357. doi:
+10.1186/s12917-024-04220-7. PMID: 39127630; PMCID: PMC11316325.
+
+89: Nüesch-Inderbinen M, Barmettler K, Stevens MJA, Cernela N. Shiga toxin-
+producing Escherichia coli isolated from hunted wild boar (Sus scrofa) in
+Switzerland. Schweiz Arch Tierheilkd. 2024 Mar;166(3):131-140. English. doi:
+10.17236/sat00419. PMID: 38419484.
+
+90: Matakone M, Founou RC, Founou LL, Dimani BD, Koudoum PL, Fonkoua MC, Boum-Ii
+Y, Gonsu H, Noubom M. Multi-drug resistant (MDR) and extended-spectrum
+β-lactamase (ESBL) producing <i>Escherichia coli</i> isolated from slaughtered
+pigs and slaughterhouse workers in Yaoundé, Cameroon. One Health. 2024 Aug
+30;19:100885. doi: 10.1016/j.onehlt.2024.100885. PMID: 39281346; PMCID:
+PMC11402427.
+
+91: Lencina FA, Bertona M, Stegmayer MA, Olivero CR, Frizzo LS, Zimmermann JA,
+Signorini ML, Soto LP, Zbrun MV. Prevalence of colistin-resistant <i>Escherichia
+coli</i> in foods and food-producing animals through the food chain: A worldwide
+systematic review and meta-analysis. Heliyon. 2024 Feb 22;10(5):e26579. doi:
+10.1016/j.heliyon.2024.e26579. PMID: 38434325; PMCID: PMC10904249.
+
+92: Zong B, Xiao Y, Wang P, Liu W, Ren M, Li C, Fu S, Zhang Y, Qiu Y. Baicalin
+Weakens the Virulence of Porcine Extraintestinal Pathogenic <i>Escherichia
+coli</i> by Inhibiting the LuxS/AI-2 Quorum-Sensing System. Biomolecules. 2024
+Apr 8;14(4):452. doi: 10.3390/biom14040452. PMID: 38672469; PMCID: PMC11047829.
+
+93: Stærk K, Andersen K, Hjelmager JS, Jensen LK, Jørgensen BM, Møller-Jensen J,
+Lund L, Andersen TE. Bladder catheterization improves bacterial interference
+with asymptomatic Escherichia coli 83972 in an experimental porcine model of
+urinary tract infection. J Infect Dis. 2024 Aug 20:jiae404. doi:
+10.1093/infdis/jiae404. Epub ahead of print. PMID: 39163139.
+
+94: Liu T, Lee S, Kim M, Fan P, Boughton RK, Boucher C, Jeong KC. A study at the
+wildlife-livestock interface unveils the potential of feral swine as a reservoir
+for extended-spectrum β-lactamase-producing Escherichia coli. J Hazard Mater.
+2024 Jul 15;473:134694. doi: 10.1016/j.jhazmat.2024.134694. Epub 2024 May 22.
+PMID: 38788585.
+
+95: Rhea S, Gensler C, Atlaw N, Pairis-Garcia M, Lewbart GA, Valentine A, Cruz
+M, Castillo P, Vélez A, Trueba G, Jacob ME. Presence of Extended-Spectrum Beta-
+Lactamase-Producing <i>Escherichia coli</i> in Food-Producing and Companion
+Animals and Wildlife on Small-Holder Farms of Floreana Island, Galápagos
+Islands. Vector Borne Zoonotic Dis. 2024 Jan;24(1):36-45. doi:
+10.1089/vbz.2023.0044. Epub 2023 Nov 22. PMID: 38011616.
+
+96: Deng Z, Choi H, Kim SW. Impacts of replacing soybean meal with processed
+soybean meal on intestinal health and growth of nursery pigs challenged with
+F18+ Escherichia coli. Anim Biosci. 2024 Oct 28. doi: 10.5713/ab.24.0566. Epub
+ahead of print. PMID: 39483001.
+
+97: Aves KL, Guerra PR, Fresno AH, Saraiva MMS, Cox E, Bækbo PJ, Nielsen MA,
+Sander AF, Olsen JE. A Virus-like Particle-Based F4 Enterotoxigenic
+<i>Escherichia coli</i> Vaccine Is Inhibited by Maternally Derived Antibodies in
+Piglets but Generates Robust Responses in Sows. Pathogens. 2023 Nov
+24;12(12):1388. doi: 10.3390/pathogens12121388. PMID: 38133272; PMCID:
+PMC10745950.
+
+98: Dell'Anno M, Frazzini S, Reggi S, Ferri I, Scaglia E, Schiasselloni L,
+Inglesi A, Riva F, Verdile N, Pasquariello R, Rossi L. Evaluation of dietary
+supplementation of <i>Ascophyllum nodosum</i> and <i>Lithothamnium calcareum</i>
+as functional algae in F4+ <i>Escherichia coli</i> challenged piglets. Front Vet
+Sci. 2024 Sep 6;11:1430347. doi: 10.3389/fvets.2024.1430347. PMID: 39309030;
+PMCID: PMC11412951.
+
+99: Qi J, Yu B, Hu Y, Luo Y, Zheng P, Mao X, Yu J, Zhao X, He T, Yan H, Wu A, He
+J. Effect of coated-benzoic acid on growth performance, immunity, and intestinal
+functions in weaned pigs challenged by enterotoxigenic <i>Escherichia coli</i>.
+Front Vet Sci. 2024 Sep 16;11:1430696. doi: 10.3389/fvets.2024.1430696. PMID:
+39351150; PMCID: PMC11439879.
+
+100: Vidal RM, Montero DA, Bentancor A, Arellano C, Alvarez A, Cundon C, Blanco
+Crivelli X, Del Canto F, Salazar JC, Oñate AA. Evaluation of the Humoral
+Response after Immunization with a Chimeric Subunit Vaccine against Shiga Toxin-
+Producing <i>Escherichia coli</i> in Pregnant Sows and Their Offspring. Vaccines
+(Basel). 2024 Jun 29;12(7):726. doi: 10.3390/vaccines12070726. PMID: 39066363;
+PMCID: PMC11281613.
+
+101: Qi J, Yu B, Hu Y, Luo Y, Zheng P, Mao X, Yu J, Zhao X, He T, Yan H, Wu A,
+He J. Protective Effect of Coated Benzoic Acid on Intestinal Epithelium in
+Weaned Pigs upon Enterotoxigenic <i>Escherichia coli</i> Challenge. Animals
+(Basel). 2024 Aug 19;14(16):2405. doi: 10.3390/ani14162405. PMID: 39199939;
+PMCID: PMC11350680.
+
+102: Guo CH, Chu MJ, Liu T, Wang J, Zou M, Liu BT. High prevalence and
+transmission of bla<sub>NDM</sub>-positive Escherichia coli between farmed ducks
+and slaughtered meats: An increasing threat to food safety. Int J Food
+Microbiol. 2024 Nov 2;424:110850. doi: 10.1016/j.ijfoodmicro.2024.110850. Epub
+2024 Jul 31. PMID: 39094468.
+
+103: Zalewska M, Błażejewska A, Gawor J, Adamska D, Goryca K, Szeląg M,
+Kalinowski P, Popowska M. The IncC and IncX1 resistance plasmids present in
+multi-drug resistant Escherichia coli strains isolated from poultry manure in
+Poland. Environ Sci Pollut Res Int. 2024 Jul;31(35):47727-47741. doi:
+10.1007/s11356-024-34283-w. Epub 2024 Jul 15. PMID: 39007976; PMCID:
+PMC11297818.
+
+104: Fu Y, Nawrocki EM, M'ikanatha NM, Dudley EG. Host species shapes genotype,
+antimicrobial resistance, and virulence profiles of enterotoxigenic
+<i>Escherichia coli</i> (ETEC) from livestock in the United States. Appl Environ
+Microbiol. 2024 Aug 21;90(8):e0074924. doi: 10.1128/aem.00749-24. Epub 2024 Jul
+31. PMID: 39082811; PMCID: PMC11337801.
+
+105: Sampath V, Cho S, Jeong J, Mun S, Lee CH, Hermes RG, Taechavasonyoo A,
+Smeets N, Kirwan S, Han K, Kim IH. Dietary Bacillus spp. supplementation to both
+sow and progenies improved post-weaning growth rate, gut function, and reduce
+the pro-inflammatory cytokine production in weaners challenged with Escherichia
+coli K88. Anim Microbiome. 2024 Jan 24;6(1):3. doi: 10.1186/s42523-024-00290-y.
+Erratum in: Anim Microbiome. 2024 Mar 19;6(1):15. doi:
+10.1186/s42523-024-00302-x. PMID: 38268054; PMCID: PMC10809626.
+
+106: Mitra SD, Shome R, Bandopadhyay S, Geddam S, Kumar AMP, Murugesan D, Shome
+A, Shome BR. Genetic insights of antibiotic resistance, pathogenicity
+(virulence) and phylogenetic relationship of Escherichia coli strains isolated
+from livestock, poultry and their handlers - a one health snapshot. Mol Biol
+Rep. 2024 Mar 8;51(1):404. doi: 10.1007/s11033-024-09354-3. PMID: 38456953.
+
+107: Raymundo DL, Borges PC, Barbosa K, Utiumi KU, Varaschin MS, Leal DF, Silva
+SR Jr, Resende M, Barbosa JA, de Souza Cantarelli V. Effects of dietary yeast
+mannan-rich fraction supplementation on growth performance, intestinal
+morphology, and lymphoid tissue characteristics in weaned piglets challenged
+with Escherichia Coli F4. Trop Anim Health Prod. 2024 May 29;56(5):179. doi:
+10.1007/s11250-024-04033-8. PMID: 38809309.
+
+108: Oliveira RP, da Silva JS, da Silva GC, Rosa JN, Bazzolli DMS, Mantovani HC.
+Prevalence and characteristics of ESBL-producing Escherichia coli in clinically
+healthy pigs: implications for antibiotic resistance spread in livestock. J Appl
+Microbiol. 2024 Apr 1;135(4):lxae058. doi: 10.1093/jambio/lxae058. PMID:
+38444193.
+
+109: Parihar R, Deb R, Niharika J, Thakur P, Pegu SR, Sengar GS, Sonowal J, Das
+PJ, Rajkhowa S, Raj A, Gupta VK. Development of triplex assay for simultaneous
+detection of <i>Escherichia coli,</i> methicillin resistant and sensitive
+<i>Staphylococcus aureus</i> in raw pork samples of retail markets. J Food Sci
+Technol. 2024 Aug;61(8):1516-1524. doi: 10.1007/s13197-023-05917-7. Epub 2024
+Jan 9. PMID: 38966784; PMCID: PMC11219700.
+
+110: Konesan J, Moore KH, Mansfield KJ, Liu L. Uropathogenic Escherichia coli
+causes significant urothelial damage in an ex vivo porcine bladder model, with
+no protective effect observed from cranberry or d-mannose. Pathog Dis. 2024 Feb
+7;82:ftae026. doi: 10.1093/femspd/ftae026. PMID: 39363231.
+
+111: Xiao N, Li Y, Lin H, Yang J, Xiao G, Jiang Z, Zhang Y, Chen W, Zhou P, Sun
+Z, Li J. Characterization of Extended-Spectrum β-Lactamase-Producing
+<i>Escherichia coli</i> in Animal Farms in Hunan Province, China.
+Microorganisms. 2024 Mar 26;12(4):653. doi: 10.3390/microorganisms12040653.
+PMID: 38674598; PMCID: PMC11051881.
+
+112: Hu D, Ollagnier C, Hofer A, Girard M, Gutzwiller A, Bee G, Neuenschwander
+S. The genetic resistance of sows to Escherichia coli F4 adhesion reduces their
+response to a vaccine containing F4 fimbriae but does not affect the preweaning
+performance of their susceptible piglets. Schweiz Arch Tierheilkd. 2024
+Sep;166(9):451-458. English. doi: 10.17236/sat00430. PMID: 39225506.
+
+113: Lu J, Liu G, Sun W, Jia G, Zhao H, Chen X, Wang J. Dietary α-Ketoglutarate
+Alleviates Escherichia coli LPS-Induced Intestinal Barrier Injury by Modulating
+the Endoplasmic Reticulum-Mitochondrial System Pathway in Piglets. J Nutr. 2024
+Jul;154(7):2087-2096. doi: 10.1016/j.tjnut.2024.03.001. Epub 2024 Mar 6. PMID:
+38453028.
+
+114: Pramudito TE, Desai K, Voigt C, Smid EJ, Schols HA. Dextran and levan
+exopolysaccharides from tempeh-associated lactic acid bacteria with bioactivity
+against enterotoxigenic Escherichia coli (ETEC). Carbohydr Polym. 2024 Mar
+15;328:121700. doi: 10.1016/j.carbpol.2023.121700. Epub 2023 Dec 16. PMID:
+38220337.
+
+115: Ye C, Chen Y, Yu R, Zhao M, Yin R, Qiu Y, Fu S, Liu Y, Wu Z. Baicalin-
+aluminum complex on the regulation of IPEC-1 infected with enterotoxigenic
+<i>Escherichia coli</i>. Heliyon. 2024 Jun 13;10(12):e33038. doi:
+10.1016/j.heliyon.2024.e33038. PMID: 39027442; PMCID: PMC11254522.
+
+116: Zou C, Zhao W, Yin S, Xiang X, Tang J, Jia G, Che L, Liu G, Chen X, Tian G,
+Cai J, Kang B, Zhao H. Artificial parasin I protein (API) supplementation
+improves growth performance and intestinal health in weaned piglets challenged
+with enterotoxigenic <i>Escherichia</i><i>coli</i>. Anim Nutr. 2024 May
+22;18:154-165. doi: 10.1016/j.aninu.2024.04.015. PMID: 39263444; PMCID:
+PMC11388718.
+
+117: Xie K, Qi J, Deng L, Yu B, Luo Y, Huang Z, Mao X, Yu J, Zheng P, Yan H, Li
+Y, Li H, He J. Corrigendum: Dihydromyricetin improves growth performance,
+immunity, and intestinal functions in weaned pigs challenged by enterotoxigenic
+<i>Escherichia coli</i>. Front Vet Sci. 2024 Sep 17;11:1481509. doi:
+10.3389/fvets.2024.1481509. Erratum for: Front Vet Sci. 2024 Jul 26;11:1421871.
+doi: 10.3389/fvets.2024.1421871. PMID: 39355140; PMCID: PMC11443171.
+
+118: Jin S, Xu H, Yang C, O K. Regulation of oxidative stress in the intestine
+of piglets after enterotoxigenic Escherichia coli (ETEC) infection. Biochim
+Biophys Acta Mol Cell Res. 2024 Jun;1871(5):119711. doi:
+10.1016/j.bbamcr.2024.119711. Epub 2024 Apr 2. PMID: 38574824.
+
+119: Yang Y, Zou Y, Chen X, Sun H, Hua X, Johnston L, Zeng X, Qiao S, Ye C.
+Metabolic engineering of Escherichia coli for the production of 5-aminolevulinic
+acid based on combined metabolic pathway modification and reporter-guided mutant
+selection (RGMS). Biotechnol Biofuels Bioprod. 2024 Jun 17;17(1):82. doi:
+10.1186/s13068-024-02530-4. PMID: 38886801; PMCID: PMC11184883.
+
+120: Middelkoop A, Kettunen H, Guan X, Vuorenmaa J, Tichelaar R, Gambino M,
+Rydal MP, Molist F. Effect of dietary tall oil fatty acids and hydrolysed yeast
+in SNP2-positive and SNP2-negative piglets challenged with F4 enterotoxigenic
+Escherichia coli. Sci Rep. 2024 Jan 24;14(1):2060. doi:
+10.1038/s41598-024-52586-3. PMID: 38267615; PMCID: PMC10808182.
+
+121: Shao L, Wu C, Li C, He R, Chen G, Sun D, Yang Y, Feng Y, Zhang G, Yan B,
+Dai M, Tian GB, Zhong LL. Genomic characterization revealing the high rate of
+<i>tet</i>(X4)-positive <i>Escherichia coli</i> in animals associated with
+successful genetic elements. Front Microbiol. 2024 Jun 24;15:1423352. doi:
+10.3389/fmicb.2024.1423352. PMID: 38979542; PMCID: PMC11228144.
+
+122: Chukiatsiri K, Tippaya K, Ngasaman R. Pharmaceutical activity of sappan
+wood extract (<i>Caesalpinia sappan</i> L.) for treating Escherichia coli
+infection in piglets. Open Vet J. 2024 Apr;14(4):973-979. doi:
+10.5455/OVJ.2024.v14.i4.4. Epub 2024 Apr 30. PMID: 38808290; PMCID: PMC11128640.
+
+123: Barros MM, Castro J, Araújo D, Oliveira R, Campos AM, Silva S, Outor-
+Monteiro D, Almeida C. Application of DNA aptamers to block enterotoxigenic
+<i>Escherichia coli</i> toxicity in a <i>Galleria mellonella</i> larval model.
+Front Chem. 2024 Aug 29;12:1425903. doi: 10.3389/fchem.2024.1425903. PMID:
+39268007; PMCID: PMC11390681.
+
+124: Liang J, Wang S, Kou S, Chen C, Zhang W, Nie C. <i>Clostridium
+butyricum</i> Prevents Diarrhea Incidence in Weaned Piglets Induced by
+<i>Escherichia coli</i> K88 through Rectal Bacteria-Host Metabolic Cross-Talk.
+Animals (Basel). 2024 Aug 6;14(16):2287. doi: 10.3390/ani14162287. PMID:
+39199821; PMCID: PMC11350811.
+
+125: Khine NO, Wongsurawat T, Jenjaroenpun P, Hampson DJ, Prapasarakul N. Author
+Correction: Comparative genomic analysis of Colistin resistant Escherichia coli
+isolated from pigs, a human and wastewater on colistin withdrawn pig farm. Sci
+Rep. 2024 Jul 10;14(1):15938. doi: 10.1038/s41598-024-66994-y. Erratum for: Sci
+Rep. 2023 Mar 29;13(1):5124. doi: 10.1038/s41598-023-32406-w. PMID: 38987350;
+PMCID: PMC11237026.
+
+126: Bao X, Yang C, Li T, Wang Y, Cui A, Meng X, Huang Q, Li S. Efflux of TolC
+protein to different antimicrobials can be replaced by other outer membrane
+proteins with similar β-barrel structures in extraintestinal pathogenic
+Escherichia coli. J Appl Microbiol. 2024 Sep 2;135(9):lxae214. doi:
+10.1093/jambio/lxae214. PMID: 39217099.
+
+127: Reggi S, Dell'Anno M, Baldi A, Rossi L. Seed-specific expression of porcine
+verotoxigenic Escherichia coli antigens in tobacco plants as a potential model
+of edible vaccines. Vet Res Commun. 2024 Jun;48(3):1435-1447. doi:
+10.1007/s11259-024-10318-y. Epub 2024 Feb 6. PMID: 38319502; PMCID: PMC11147939.
+
+128: Vogt NA, Hetman BM, Pearl DL, Vogt AA, Reid-Smith RJ, Parmley EJ, Janecko
+N, Bharat A, Mulvey MR, Ricker N, Bondo KJ, Allen SE, Jardine CM. Correction:
+Using whole-genome sequence data to examine the epidemiology of Salmonella,
+Escherichia coli and associated antimicrobial resistance in raccoons (Procyon
+lotor), swine manure pits, and soil samples on swine farms in southern Ontario,
+Canada. PLoS One. 2024 Jul 29;19(7):e0308217. doi: 10.1371/journal.pone.0308217.
+Erratum for: PLoS One. 2021 Nov 18;16(11):e0260234. doi:
+10.1371/journal.pone.0260234. PMID: 39074101; PMCID: PMC11285932.
+
+129: Fang B, Zhao L, Huo B, Chen F, Yuan P, Lai S, Wu A, Zhuo Y. Maternal
+consumption of fish oil protected breast-fed piglets against <i>Escherichia
+coli</i> lipopolysaccharide-induced damage through reshaping of intestinal fatty
+acids profile. Front Vet Sci. 2024 Jun 17;11:1417078. doi:
+10.3389/fvets.2024.1417078. PMID: 38952807; PMCID: PMC11215148.
+
+130: Guitart-Matas J, Espunyes J, Illera L, Gonzalez-Escalona N, Ribas MP, Marco
+I, Migura-Garcia L. High-risk lineages of extended spectrum cephalosporinase
+producing Escherichia coli from Eurasian griffon vultures (Gyps fulvus) foraging
+in landfills in north-eastern Spain. Sci Total Environ. 2024 Jan 20;909:168625.
+doi: 10.1016/j.scitotenv.2023.168625. Epub 2023 Nov 15. PMID: 37977396.
+
+131: Ullah N, Suchanta N, Pimpitak U, Santanirand P, Am-In N, Chaichanawongsaroj
+N. Validation of Recombinase Polymerase Amplification with In-House Lateral Flow
+Assay for <i>mcr-1</i> Gene Detection of Colistin Resistant <i>Escherichia
+coli</i> Isolates. Antibiotics (Basel). 2024 Oct 17;13(10):984. doi:
+10.3390/antibiotics13100984. PMID: 39452250; PMCID: PMC11505259.
+
+132: Liu D, Liu J, Ran L, Yang Z, He Y, Yang H, Yu Y, Fu L, Zhu M, Chen H.
+Oleanolic Acid Promotes the Formation of Probiotic <i>Escherichia coli</i>
+Nissle 1917 (EcN) Biofilm by Inhibiting Bacterial Motility. Microorganisms. 2024
+May 29;12(6):1097. doi: 10.3390/microorganisms12061097. PMID: 38930479; PMCID:
+PMC11205495.
+
+133: Haque M, Wang B, Leandre Mvuyekure A, Chaves BD. Validation of competition
+and dynamic models for Shiga toxin-producing Escherichia coli (STEC) growth in
+raw ground pork during temperature abuse. Food Microbiol. 2024 Feb;117:104400.
+doi: 10.1016/j.fm.2023.104400. Epub 2023 Oct 9. PMID: 37919008.
+
+134: Renzhammer R, Schwarz L, Cabal Rosel A, Ruppitsch W, Fuchs A, Simetzberger
+E, Ladinig A, Loncaric I. Detection of <i>mcr-1-1</i> Positive Enteropathogenic
+<i>Escherichia coli</i> Isolates Associated with Post-Weaning Diarrhoea in an
+Organic Piglet-Producing Farm in Austria. Microorganisms. 2024 Jan 24;12(2):244.
+doi: 10.3390/microorganisms12020244. PMID: 38399648; PMCID: PMC10893164.

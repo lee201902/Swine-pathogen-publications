@@ -1,0 +1,503 @@
+1: Choi S, Park TH, Lee HJ, Kim TH, Joo JD, Huh J, Chung YN, Heo ST, Kim ET,
+Rhim JK. Subdural Empyema from Streptococcus suis Infection, South Korea. Emerg
+Infect Dis. 2024 Mar;30(3):616-619. doi: 10.3201/eid3003.231018. PMID: 38407167;
+PMCID: PMC10902535.
+
+2: Ramos GSS, Rego RFDS, Oliveira MFF, Rocha VFD, Oliveira EP, Reis JN.
+Streptococcus suis meningitis: An emerging zoonotic disease in Brazil. Rev Soc
+Bras Med Trop. 2024 Apr 5;57:e00805. doi: 10.1590/0037-8682-0610-2023. PMID:
+38597526; PMCID: PMC11000506.
+
+3: Santoya Espinosa LC, Morán Díaz DF, Díaz Aguiar P, Rodríguez Arias EA.
+Meningitis por Streptococcus suis [Streptococcus suis meningitis]. Medicina (B
+Aires). 2024;84(2):329-332. Spanish. PMID: 38683518.
+
+4: Zhu J, Wang J, Kang W, Zhang X, Kerdsin A, Yao H, Zheng H, Wu Z.
+<i>Streptococcus suis</i> serotype 4: a population with the potential
+pathogenicity in humans and pigs. Emerg Microbes Infect. 2024 Dec;13(1):2352435.
+doi: 10.1080/22221751.2024.2352435. Epub 2024 May 15. PMID: 38703011; PMCID:
+PMC11097711.
+
+5: Zhu X, Wang S, Du Y, Liang Z, Yao H, Chen X, Wu Z. A novel aquaporin Aagp
+contributes to <i>Streptococcus suis</i> H<sub>2</sub>O<sub>2</sub> efflux and
+virulence. Virulence. 2023 Dec;14(1):2249789. doi:
+10.1080/21505594.2023.2249789. PMID: 37621097; PMCID: PMC10461500.
+
+6: Sedano SA, Cantalejo MGCT, Lapitan CGAR, de Guzman AMES, Consignado JT,
+Tandang NA, Estacio MAC, Kerdsin A, Silva BBI. Epidemiology and genetic
+diversity of Streptococcus suis in smallhold swine farms in the Philippines. Sci
+Rep. 2023 Dec 1;13(1):21178. doi: 10.1038/s41598-023-48406-9. PMID: 38040767;
+PMCID: PMC10692119.
+
+7: Kobayashi K, Kubota H, Tohya M, Ushikubo M, Yamamoto M, Ariyoshi T, Uchitani
+Y, Mitobe M, Okuno R, Nakagawa I, Sekizaki T, Suzuki J, Sadamasu K.
+Characterization of pig tonsils as niches for the generation of Streptococcus
+suis diversity. Vet Res. 2024 Feb 6;55(1):17. doi: 10.1186/s13567-024-01270-5.
+PMID: 38321502; PMCID: PMC10848530.
+
+8: Li S, Chen T, Gao K, Yang YB, Qi B, Wang C, An T, Cai X, Wang S.
+<i>Streptococcus suis</i> Induces Macrophage M1 Polarization and Pyroptosis.
+Microorganisms. 2024 Sep 12;12(9):1879. doi: 10.3390/microorganisms12091879.
+PMID: 39338553; PMCID: PMC11433784.
+
+9: Silva APSP, Almeida M, Michael A, Rahe MC, Siepker C, Magstadt DR, Piñeyro P,
+Arruda BL, Macedo NR, Sahin O, Gauger PC, Krueger KM, Mugabi R, Streauslin JS,
+Trevisan G, Linhares DCL, Silva GS, Fano E, Main RG, Schwartz KJ, Burrough ER,
+Derscheid RJ, Sitthicharoenchai P, Clavijo MJ. Detection and disease diagnosis
+trends (2017-2022) for Streptococcus suis, Glaesserella parasuis, Mycoplasma
+hyorhinis, Actinobacillus suis and Mycoplasma hyosynoviae at Iowa State
+University Veterinary Diagnostic Laboratory. BMC Vet Res. 2023 Dec 12;19(1):268.
+doi: 10.1186/s12917-023-03807-w. PMID: 38087358; PMCID: PMC10714645.
+
+10: Wang H, Fan Q, Wang Y, Yi L, Wang Y. Rethinking the control of Streptococcus
+suis infection: Biofilm formation. Vet Microbiol. 2024 Mar;290:110005. doi:
+10.1016/j.vetmic.2024.110005. Epub 2024 Jan 21. PMID: 38280304.
+
+11: Hatrongjit R, Fittipaldi N, Gottschalk M, Kerdsin A. Genomic epidemiology in
+<i>Streptococcus suis</i>: Moving beyond traditional typing techniques. Heliyon.
+2024 Mar 8;10(6):e27818. doi: 10.1016/j.heliyon.2024.e27818. PMID: 38509941;
+PMCID: PMC10951601.
+
+12: Brizuela J, Roodsant TJ, Hasnoe Q, van der Putten BCL, Kozakova J, Slotved
+HC, van der Linden M, de Beer-Schuurman IGA, Sadowy E, Sáez-Nieto JA, Chalker
+VJ, van der Ark KCH, Schultsz C. Molecular Epidemiology of Underreported
+Emerging Zoonotic Pathogen Streptococcus suis in Europe. Emerg Infect Dis. 2024
+Mar;30(3):413-422. doi: 10.3201/eid3003.230348. PMID: 38407169; PMCID:
+PMC10902550.
+
+13: Dechêne-Tempier M, de Boisséson C, Lucas P, Bougeard S, Libante V, Marois-
+Créhan C, Payot S. Virulence genes, resistome and mobilome of <i>Streptococcus
+suis</i> strains isolated in France. Microb Genom. 2024 Mar;10(3):001224. doi:
+10.1099/mgen.0.001224. PMID: 38536216; PMCID: PMC10995628.
+
+14: Uruén C, Gimeno J, Sanz M, Fraile L, Marín CM, Arenas J. Invasive
+<i>Streptococcus suis</i> isolated in Spain contain a highly promiscuous and
+dynamic resistome. Front Cell Infect Microbiol. 2024 Jan 22;13:1329632. doi:
+10.3389/fcimb.2023.1329632. PMID: 38317790; PMCID: PMC10839070.
+
+15: Shen X, Ran J, Yang Q, Li B, Lu Y, Zheng J, Xu L, Jia K, Li Z, Peng L, Fang
+R. RACK1 and NEK7 mediate GSDMD-dependent macrophage pyroptosis upon
+Streptococcus suis infection. Vet Res. 2024 Sep 27;55(1):120. doi:
+10.1186/s13567-024-01376-w. PMID: 39334337; PMCID: PMC11428613.
+
+16: Li K, Lacouture S, Lewandowski E, Thibault E, Gantelet H, Gottschalk M,
+Fittipaldi N. Molecular characterization of Streptococcus suis isolates
+recovered from diseased pigs in Europe. Vet Res. 2024 Sep 27;55(1):117. doi:
+10.1186/s13567-024-01366-y. PMID: 39334446; PMCID: PMC11429987.
+
+17: Jiang X, Yu G, Zhu L, Siddique A, Zhan D, Zhou L, Yue M. Flanking N- and
+C-terminal domains of PrsA in <i>Streptococcus suis</i> type 2 are crucial for
+inducing cell death independent of TLR2 recognition. Virulence. 2023
+Dec;14(1):2249779. doi: 10.1080/21505594.2023.2249779. PMID: 37641974; PMCID:
+PMC10467536.
+
+18: Jiang C, Zhou P, Zhang X, Ma N, Hu Y, Zhang M, Ghonaim AH, Li H, Dong L,
+Zeng W, Li C, Lang Y, Sun Y, He Q, Li W. ARF6 promotes Streptococcus suis
+suilysin induced apoptosis in HBMECs. Int J Biol Macromol. 2024 May;268(Pt
+2):131839. doi: 10.1016/j.ijbiomac.2024.131839. Epub 2024 Apr 23. PMID:
+38663699.
+
+19: Zhang Y, Li R, Li Q, Zhu Y, Yang X, Zhao D, Zong B. Orphan response
+regulator CovR plays positive regulative functions in the survivability and
+pathogenicity of Streptococcus suis serotype 2 isolated from a pig. BMC Vet Res.
+2023 Nov 22;19(1):243. doi: 10.1186/s12917-023-03808-9. PMID: 37990198; PMCID:
+PMC10664645.
+
+20: Lee CY, Zakaria Z, Selvarajah GT, Mustaffa-Kamal F, Voon KGL, Fong MWC, Ooi
+PT. Screening of <i>Streptococcus suis</i> in swine workers of selected states
+in Peninsular Malaysia. Vet World. 2024 Jan;17(1):1-7. doi:
+10.14202/vetworld.2024.1-7. Epub 2024 Jan 4. PMID: 38406356; PMCID: PMC10884579.
+
+21: Králová N, Fittipaldi N, Zouharová M, Nedbalcová K, Matiašková K, Gebauer J,
+Kulich P, Šimek B, Matiašovic J. Streptococcus suis strains with novel and
+previously undescribed capsular loci circulate in Europe. Vet Microbiol. 2024
+Sep 26;298:110265. doi: 10.1016/j.vetmic.2024.110265. Epub ahead of print. PMID:
+39340873.
+
+22: Kerdsin A, Hatrongjit R, Wongsurawat T, Jenjaroenpun P, Zheng H, Chopjitt P,
+Boueroy P, Fittipaldi N, Segura M, Gottschalk M. Comparative genome analysis of
+Streptococcus suis serotype 5 strains from humans and pigs revealed pathogenic
+potential of virulent, antimicrobial resistance, and genetic relationship.
+Microbes Infect. 2023 Dec 7:105273. doi: 10.1016/j.micinf.2023.105273. Epub
+ahead of print. PMID: 38070594.
+
+23: Kang W, Wang M, Yi X, Wang J, Zhang X, Wu Z, Wang Y, Sun H, Gottschalk M,
+Zheng H, Xu J. Investigation of genomic and pathogenicity characteristics of
+<i>Streptococcus suis</i> ST1 human strains from Guangxi Zhuang Autonomous
+Region (GX) between 2005 and 2020 in China. Emerg Microbes Infect. 2024
+Dec;13(1):2339946. doi: 10.1080/22221751.2024.2339946. Epub 2024 Apr 21. PMID:
+38578304; PMCID: PMC11034456.
+
+24: Deng S, Liao J, Li H, Xu J, Fan J, Xia J, Wang J, Lei L, Chen M, Han Y, Zhai
+R, Zhou C, Zhou R, Cheng C, Song H. <i>Streptococcus suis</i> subtilisin-like
+serine proteases SspA-1 and SspA-2 interplay with complement C3a and C5a to
+facilitate bacterial immune evasion and infection. Virulence. 2024
+Dec;15(1):2301246. doi: 10.1080/21505594.2023.2301246. Epub 2024 Jan 16. PMID:
+38170683; PMCID: PMC10795781.
+
+25: Bleuzé M, Lavoie JP, Bédard C, Gottschalk M, Segura M. Encapsulated
+Streptococcus suis impairs optimal neutrophil functions which are not rescued by
+priming with colony-stimulating factors. PLoS One. 2024 Jan 23;19(1):e0296844.
+doi: 10.1371/journal.pone.0296844. PMID: 38261585; PMCID: PMC10805302.
+
+26: Jiang H, Sun Y, Li F, Yu X, Lei S, Du S, Wu T, Jiang X, Zhu J, Wang J, Ji Y,
+Li N, Feng X, Gu J, Han W, Zeng L, Lei L. Enolase of Streptococcus suis serotype
+2 promotes biomolecular condensation of ribosomal protein SA for HBMECs
+apoptosis. BMC Biol. 2024 Feb 8;22(1):33. doi: 10.1186/s12915-024-01835-y. PMID:
+38331785; PMCID: PMC10854124.
+
+27: Liang Z, Lu J, Bao Y, Chen X, Yao H, Wu Z. Glycerol metabolic repressor GlpR
+contributes to Streptococcus suis oxidative stress resistance and virulence.
+Microbes Infect. 2024 Feb 2:105307. doi: 10.1016/j.micinf.2024.105307. Epub
+ahead of print. PMID: 38309574.
+
+28: Xi H, Fu Y, Chen C, Feng X, Han W, Gu J, Ji Y. <i>Aerococcus viridans</i>
+Phage Lysin AVPL Had Lytic Activity against <i>Streptococcus suis</i> in a Mouse
+Bacteremia Model. Int J Mol Sci. 2023 Nov 23;24(23):16670. doi:
+10.3390/ijms242316670. PMID: 38068990; PMCID: PMC10706753.
+
+29: Keonam K, Nam NH, Saksangawong C, Sringam P, Saipan P, Kongpechr S, Sukon P.
+Prevalence of <i>Streptococcus suis</i> serotype 2 isolated from pigs: A
+systematic review and meta-analysis. Vet World. 2024 Feb;17(2):233-244. doi:
+10.14202/vetworld.2024.233-244. Epub 2024 Feb 1. PMID: 38595647; PMCID:
+PMC11000466.
+
+30: Santos Streauslin J, Nielsen DW, Schwartz KJ, Derscheid RJ, Magstadt DR,
+Burrough ER, Gauger PC, Schumacher LL, Rahe MC, Michael A, Sitthicharoenchai P,
+Siepker CL, Matias Ferreyra F, Nunes de Almeida M, Main R, Bradner LK, Hu X, Li
+G, Poeta Silva APS, Sahin O, Arruda BL. Characterization of neurologic disease-
+associated <i>Streptococcus suis</i> strains within the United States swine herd
+and use of diagnostic tools. J Clin Microbiol. 2024 Nov 13;62(11):e0037424. doi:
+10.1128/jcm.00374-24. Epub 2024 Oct 8. PMID: 39377593.
+
+31: Wang L, Sun J, Zhao J, Bai J, Zhang Y, Zhu Y, Zhang W, Wang C, Langford PR,
+Liu S, Li G. A CRISPR-Cas12a-based platform facilitates the detection and
+serotyping of Streptococcus suis serotype 2. Talanta. 2024 Jan 15;267:125202.
+doi: 10.1016/j.talanta.2023.125202. Epub 2023 Sep 16. PMID: 37734291.
+
+32: Wang Z, Zhou Y, Guo G, Li Q, Yu Y, Zhang W. Promising potential of machine
+learning-assisted MALDI-TOF MS as an effective detector for <i>Streptococcus
+suis</i> serotype 2 and virulence thereof. Appl Environ Microbiol. 2023 Nov
+29;89(11):e0128423. doi: 10.1128/aem.01284-23. Epub 2023 Oct 20. PMID: 37861326;
+PMCID: PMC10686076.
+
+33: Scherrer S, Biggel M, Schneeberger M, Cernela N, Rademacher F, Schmitt S,
+Stephan R. Genetic diversity and antimicrobial susceptibility of Streptococcus
+suis from diseased Swiss pigs collected between 2019 - 2022. Vet Microbiol. 2024
+Jun;293:110084. doi: 10.1016/j.vetmic.2024.110084. Epub 2024 Apr 7. PMID:
+38608374.
+
+34: Del Rocio Amezcua M, Friendship RM, Farzan A. An investigation into fecal
+shedding of <i>Streptococcus suis</i> serotypes in nursery pigs. Can Vet J. 2024
+Jan;65(1):75-78. PMID: 38164374; PMCID: PMC10727161.
+
+35: Guo G, Zhang Y, Wei D, Wang Z, Li Q, Yu Y, Zhang W. Contribution of nadR to
+the cell growth and virulence of Streptococcus suis serotype 2. Vet Microbiol.
+2024 Jan;288:109928. doi: 10.1016/j.vetmic.2023.109928. Epub 2023 Nov 22. PMID:
+38056180.
+
+36: Petrocchi Rilo M, Gutiérrez Martín CB, Acebes Fernández V, Aguarón
+Turrientes Á, González Fernández A, Miguélez Pérez R, Martínez Martínez S.
+<i>Streptococcus suis</i> Research Update: Serotype Prevalence and Antimicrobial
+Resistance Distribution in Swine Isolates Recovered in Spain from 2020 to 2022.
+Vet Sci. 2024 Jan 18;11(1):40. doi: 10.3390/vetsci11010040. PMID: 38250946;
+PMCID: PMC10819597.
+
+37: Uruén C, Fernandez A, Arnal JL, Del Pozo M, Amoribieta MC, de Blas I, Jurado
+P, Calvo JH, Gottschalk M, González-Vázquez LD, Arenas M, Marín CM, Arenas J.
+Genomic and phenotypic analysis of invasive Streptococcus suis isolated in Spain
+reveals genetic diversification and associated virulence traits. Vet Res. 2024
+Jan 24;55(1):11. doi: 10.1186/s13567-024-01267-0. PMID: 38268053; PMCID:
+PMC10807230.
+
+38: Weldearegay YB, Brogaard L, Nerlich A, Schaaf D, Heegaard PMH, Valentin-
+Weigand P. Transcriptional Host Responses to Infection with <i>Streptococcus
+suis</i> in a Porcine Precision-Cut Lung Slice Model: Between-Strain Differences
+Suggest Association with Virulence Potential. Pathogens. 2023 Dec 19;13(1):4.
+doi: 10.3390/pathogens13010004. PMID: 38276150; PMCID: PMC10820225.
+
+39: Liang S, Zhang S, Bao Y, Zhang Y, Liu X, Yao H, Liu G. Combined
+Immunoinformatics to Design and Evaluate a Multi-Epitope Vaccine Candidate
+against <i>Streptococcus suis</i> Infection. Vaccines (Basel). 2024 Jan
+29;12(2):137. doi: 10.3390/vaccines12020137. PMID: 38400121; PMCID: PMC10892848.
+
+40: Jeffery A, Gilbert M, Corsaut L, Gaudreau A, Obradovic MR, Cloutier S,
+Frenette MC, Surprenant C, Lacouture S, Arnal JL, Gottschalk M, Segura M. Immune
+response induced by a Streptococcus suis multi-serotype autogenous vaccine used
+in sows to protect post-weaned piglets. Vet Res. 2024 May 7;55(1):57. doi:
+10.1186/s13567-024-01313-x. PMID: 38715138; PMCID: PMC11076212.
+
+41: Deng S, Li H, Zhou C, Fan J, Zhu F, Jin G, Xu J, Xia J, Wang J, Nie Z, Zhou
+R, Song H, Cheng C. <i>Streptococcus suis</i> 5'-nucleotidases contribute to
+adenosine-mediated immune evasion and virulence in a mouse model. Virulence.
+2024 Dec;15(1):2401963. doi: 10.1080/21505594.2024.2401963. Epub 2024 Sep 16.
+PMID: 39282964; PMCID: PMC11407386.
+
+42: Ni C, Han Y, Wang Y, Ma T, Sha D, Xu Y, Cao W, Gao S. Human HLA prolongs the
+host inflammatory response in <i>Streptococcus suis</i> serotype 2 infection
+compared to mouse H2 molecules. Front Cell Infect Microbiol. 2023 Nov
+14;13:1285055. doi: 10.3389/fcimb.2023.1285055. PMID: 38035330; PMCID:
+PMC10682707.
+
+43: Zhou Y, Tu T, Yao X, Luo Y, Yang Z, Ren M, Zhang G, Yu Y, Lu A, Wang Y. Pan-
+genome analysis of <i>Streptococcus suis</i> serotype 2 highlights genes
+associated with virulence and antibiotic resistance. Front Microbiol. 2024 Feb
+21;15:1362316. doi: 10.3389/fmicb.2024.1362316. PMID: 38450165; PMCID:
+PMC10915096.
+
+44: Aiewsakun P, Ruangchai W, Jaemsai B, Bodharamik T, Meemetta W, Senapin S.
+Whole genome sequence and characterisation of Streptococcus suis 3112, isolated
+from snakeskin gourami, Trichopodus pectoralis. BMC Genomics. 2024 Aug
+28;25(1):808. doi: 10.1186/s12864-024-10736-x. PMID: 39198749; PMCID:
+PMC11351508.
+
+45: Thanh NH, Huy DT, Anh VTT, Anh NN, Uyen NTT, Hanh NHH, Phu NH. Streptococcus
+suis-Associated Meningitis in a Southern Region of Vietnam. Am J Trop Med Hyg.
+2024 Oct 15:tpmd230774. doi: 10.4269/ajtmh.23-0774. Epub ahead of print. PMID:
+39406252.
+
+46: Xu J, Chen L, Pang S, Zhang Q, Deng S, Zhu J, Chen X, Langford PR, Huang Q,
+Zhou R, Li L. HylS', a fragment of truncated hyaluronidase of <i>Streptococcus
+suis</i>, contributes to immune evasion by interaction with host complement
+factor C3b. Virulence. 2024 Dec;15(1):2306691. doi:
+10.1080/21505594.2024.2306691. Epub 2024 Feb 4. PMID: 38251716; PMCID:
+PMC10854370.
+
+47: Gu Q, Zhu X, Yu Y, Jiang T, Pan Z, Ma J, Yao H. Type II and IV toxin-
+antitoxin systems coordinately stabilize the integrative and conjugative element
+of the ICESa2603 family conferring multiple drug resistance in Streptococcus
+suis. PLoS Pathog. 2024 Apr 19;20(4):e1012169. doi:
+10.1371/journal.ppat.1012169. PMID: 38640137; PMCID: PMC11062541.
+
+48: Guan X, Martinez AR, Fernandez M, Molist F, Wells JM, Santos RR. The
+Mycotoxins T-2 and Deoxynivalenol Facilitate the Translocation of
+<i>Streptococcus suis</i> across Porcine Ileal Organoid Monolayers. Toxins
+(Basel). 2024 Sep 1;16(9):382. doi: 10.3390/toxins16090382. PMID: 39330840;
+PMCID: PMC11436090.
+
+49: Liu J, Wang J, Zhang Z, Bai Q, Pan X, Chen R, Yao H, Yu Y, Ma J.
+Streptococcus suis Deploys Multiple ATP-Dependent Proteases for Heat Stress
+Adaptation. J Basic Microbiol. 2024 Sep;64(9):e2400030. doi:
+10.1002/jobm.202400030. Epub 2024 Jun 21. PMID: 39031597.
+
+50: Liu T, Liu H, Jia Y. <i>Streptococcus suis</i> meningitis in China: a case
+report. Front Public Health. 2024 May 14;12:1369703. doi:
+10.3389/fpubh.2024.1369703. PMID: 38808002; PMCID: PMC11130402.
+
+51: Chittick L, Okwumabua O. Loss of expression of the glutamate dehydrogenase
+(gdh) of Streptococcus suis serotype 2 compromises growth and pathogenicity.
+Microb Pathog. 2024 Mar;188:106565. doi: 10.1016/j.micpath.2024.106565. Epub
+2024 Feb 1. PMID: 38309311.
+
+52: Yan Z, Pan R, Zhang J, Sun J, Ma X, Dong N, Yao X, Wei J, Liu K, Qiu Y,
+Sealey K, Nichols H, Jarvis MA, Upton M, Li X, Ma Z, Liu J, Li B. Immunogenicity
+and Protective Capacity of Sugar ABC Transporter Substrate-Binding Protein
+against <i>Streptococcus suis</i> Serotype 2, 7 and 9 Infection in Mice.
+Vaccines (Basel). 2024 May 15;12(5):544. doi: 10.3390/vaccines12050544. PMID:
+38793795; PMCID: PMC11126002.
+
+53: Massacci FR, Cucco L, Panicciá M, Luppi A, Albini E, Peruzzo A, Ferroni L,
+Ustulin M, Orsini M, Magistrali CF. Streptococcus suis serotype 9 in Italy:
+genomic insights into high-risk clones with emerging resistance to penicillin. J
+Antimicrob Chemother. 2024 Feb 1;79(2):403-411. doi: 10.1093/jac/dkad395. PMID:
+38153239; PMCID: PMC10832592.
+
+54: Zhu H, Müller U, Baums CG, Öhlmann S. Comparative analysis of the
+interactions of different Streptococcus suis strains with monocytes,
+granulocytes and the complement system in porcine blood. Vet Res. 2024 Feb
+5;55(1):14. doi: 10.1186/s13567-024-01268-z. Erratum in: Vet Res. 2024 Mar
+16;55(1):29. doi: 10.1186/s13567-024-01288-9. PMID: 38317258; PMCID:
+PMC10845567.
+
+55: Lee CY, Selvarajah GT, Zakaria Z, Mustaffa-Kamal F, Gan HM, Voon KGL, Fong
+MWC, Ooi PT. Whole genome sequencing of Streptococcus suis revealed potential
+drug resistance and zoonotic transmission in companion cat. Trop Biomed. 2024
+Mar 1;41(1):97-108. doi: 10.47665/tb.41.1.012. PMID: 38852139.
+
+56: Xia Y, Wang Z, Hu Y, Zhao P, Li J, Zhang L, Fang R, Zhao J. Isolation,
+Identification, Genomic Diversity, and Antimicrobial Resistance Analysis of
+<i>Streptococcus suis</i> in Hubei Province of China from 2021 to 2023.
+Microorganisms. 2024 Apr 30;12(5):917. doi: 10.3390/microorganisms12050917.
+PMID: 38792744; PMCID: PMC11124115.
+
+57: Payen S, Giroux MC, Gisch N, Schombel U, Fittipaldi N, Segura M, Gottschalk
+M. Lipoteichoic acids influence cell shape and bacterial division of
+Streptococcus suis serotype 2, but play a limited role in the pathogenesis of
+the infection. Vet Res. 2024 Mar 19;55(1):34. doi: 10.1186/s13567-024-01287-w.
+PMID: 38504299; PMCID: PMC10953176.
+
+58: Cao X, Jia K, Liu Q, Yin H, Yu X, Hu X, Ye C, Peng L, Fang R. The critical
+role of NLRP3 inflammasome activation in Streptococcus suis-induced blood-brain
+barrier disruption. Vet Microbiol. 2024 Aug;295:110161. doi:
+10.1016/j.vetmic.2024.110161. Epub 2024 Jun 21. PMID: 38945021.
+
+59: Wang G, Zhu H, Zhan C, Chen P, Wu B, Peng Z, Qian P, Cheng G. Establishment
+and Application of a Quadruplex Real-Time Reverse-Transcription Polymerase Chain
+Reaction Assay for Differentiation of Porcine Reproductive and Respiratory
+Syndrome Virus, Porcine Circovirus Type 2, Porcine Circovirus Type 3, and
+<i>Streptococcus suis</i>. Microorganisms. 2024 Feb 20;12(3):427. doi:
+10.3390/microorganisms12030427. PMID: 38543477; PMCID: PMC10971858.
+
+60: de O Costa M, Gamage R, Christensen J. Molecular profile and epidemiological
+traits of <i>Streptococcus suis</i> isolated from diseased pigs in western
+Canada reveal multiple-serotype infection: Implications for disease control. Can
+Vet J. 2024 May;65(5):429-436. PMID: 38694742; PMCID: PMC11017942.
+
+61: Hasegawa Y, Akita T, Kuchibiro T, Miyoshi-Akiyama T, Tomida J, Kutsuna R,
+Mori R, Okuno M, Ogura Y, Kawamura Y. Streptococcus suis subsp. hashimotonensis
+subsp. nov.: Lancefield group A antigen-positive organisms isolated from human
+clinical specimens and wild boar oral cavity samples. Syst Appl Microbiol. 2024
+Sep;47(5):126538. doi: 10.1016/j.syapm.2024.126538. Epub 2024 Jul 11. PMID:
+39053043.
+
+62: Guntala R, Khamai L, Srisai N, Ounjaijean S, Khamduang W, Hongjaisee S.
+Contamination of <i>Streptococcus suis</i> and <i>S. suis</i> Serotype 2 in Raw
+Pork and Edible Pig Organs: A Public Health Concern in Chiang Mai, Thailand.
+Foods. 2024 Jul 3;13(13):2119. doi: 10.3390/foods13132119. PMID: 38998625;
+PMCID: PMC11241745.
+
+63: van Niekerk AA, Maluck S, Mag P, Kővágó C, Kerek Á, Jerzsele Á, Steinmetzer
+T, Pászti-Gere E. Antiviral Drug Candidate Repositioning for <i>Streptococcus
+suis</i> Infection in Non-Tumorigenic Cell Models. Biomedicines. 2024 Apr
+2;12(4):783. doi: 10.3390/biomedicines12040783. PMID: 38672139; PMCID:
+PMC11048155.
+
+64: Neila-Ibáñez C, Napp S, Casal J. Evaluation of the Economic Impact of
+Streptococcus suis-Associated Disease. Methods Mol Biol. 2024;2815:121-129. doi:
+10.1007/978-1-0716-3898-9_10. PMID: 38884915.
+
+65: Bornemann NN, Mayer L, Lacouture S, Gottschalk M, Baums CG, Strutzberg-
+Minder K. Invasive Bacterial Infections of the Musculoskeletal and Central
+Nervous System during Pig Rearing: Detection Frequencies of Different Pathogens
+and Specific <i>Streptococcus suis</i> Genotypes. Vet Sci. 2024 Jan 2;11(1):17.
+doi: 10.3390/vetsci11010017. PMID: 38250923; PMCID: PMC10820919.
+
+66: Sheng Q, Xu Q, Lan Z, Wu Z. Comparative Genome Analysis of Two
+<i>Streptococcus suis</i> Serotype 8 Strains Identifies Two New Virulence-
+Associated Genes. Animals (Basel). 2024 Feb 8;14(4):572. doi:
+10.3390/ani14040572. PMID: 38396540; PMCID: PMC10886379.
+
+67: Coccitto SN, Massacci FR, Cinthi M, Albini E, Cucco L, Paniccià M, Pezzotti
+G, Di Lodovico S, Di Giulio M, Du XD, Magistrali CF, Brenciani A, Giovanetti E.
+Novel optrA-carrying integrative and conjugative element in a porcine
+Streptococcus suis, Italy. J Antimicrob Chemother. 2024 Oct 1:dkae354. doi:
+10.1093/jac/dkae354. Epub ahead of print. PMID: 39351997.
+
+68: Dong Z, Li C, Tian X, Guo X, Li X, Ren W, Chi J, Zhang L, Li F, Zhu Y, Zhang
+W, Yan M. Characterization Studies on the <i>sugC</i> Gene of <i>Streptococcus
+suis</i> Serotype 2 in Adhesion, Invasion, and Virulence in Mice. Vet Sci. 2024
+Sep 21;11(9):447. doi: 10.3390/vetsci11090447. PMID: 39330826; PMCID:
+PMC11435659.
+
+69: Wu T, Jiang H, Li F, Jiang X, Wang J, Wei S, Sun Y, Tian Y, Chu H, Shi Y,
+Zhang N, Li N, Lei L. O-acetyl-homoserine sulfhydrylase deficient Streptococcus
+suis serotype 2 strain SC19 becomes an avirulent strain and provides immune
+protection against homotype infection in mice. Vet Microbiol. 2024
+Jan;288:109943. doi: 10.1016/j.vetmic.2023.109943. Epub 2023 Dec 14. PMID:
+38113574.
+
+70: Wayop IYA, de Vet E, Leerlooijer JN, Wagenaar JA, Speksnijder DC. Using
+Implementation Mapping to develop an intervention program to support
+veterinarians' adherence to the guideline on Streptococcus suis clinical
+practice in weaned pigs. PLoS One. 2024 Apr 18;19(4):e0299905. doi:
+10.1371/journal.pone.0299905. PMID: 38635508; PMCID: PMC11025762.
+
+71: Breitfelder AK, Schrödl W, Baums CG, Alber G, Müller U. The immunoglobulin
+M-degrading enzyme of Streptococcus suis (Ide<sub>Ssuis</sub>) leads to long-
+lasting inhibition of the activation of porcine IgM-secreting B cells. Vet Res.
+2024 Sep 23;55(1):114. doi: 10.1186/s13567-024-01363-1. PMID: 39313819; PMCID:
+PMC11421183.
+
+72: Jiang X, Li F, Mei J, Wu T, Zhu J, Li Z, Wu Z, Jiang H, Li N, Lei L. Brain
+Immune Cell Infiltration and Serum Metabolomic Characteristics Reveal that
+Lauric Acid Promotes Immune Cell Infiltration in Brain and Streptococcus suis
+Meningitis in Mice. Mol Neurobiol. 2024 Nov;61(11):9302-9319. doi:
+10.1007/s12035-024-04144-1. Epub 2024 Apr 16. PMID: 38625620.
+
+73: Dong C-L, Wu T, Dong Y, Qu Q-W, Chen X-Y, Li Y-H. Exogenous methionine
+contributes to reversing the resistance of <i>Streptococcus suis</i> to
+macrolides. Microbiol Spectr. 2024 Feb 6;12(2):e0280323. doi:
+10.1128/spectrum.02803-23. Epub 2024 Jan 17. PMID: 38230928; PMCID: PMC10923279.
+
+74: Li K, Zhang Y, Luo T, Li C, Yu H, Wang W, Zhang H, Chen H, Xia C, Gao C.
+Development of a Triplex qPCR Assay Based on the TaqMan Probe for the Detection
+of <i>Haemophilus parasuis</i>, <i>Streptococcus suis</i> Serotype 2 and
+<i>Pasteurella multocida</i>. Microorganisms. 2024 Oct 5;12(10):2017. doi:
+10.3390/microorganisms12102017. PMID: 39458326; PMCID: PMC11509477.
+
+75: Zhu J, Liang Z, Yao H, Wu Z. Identifying Cell-Penetrating Peptides for
+Effectively Delivering Antimicrobial Molecules into <i>Streptococcus suis</i>.
+Antibiotics (Basel). 2024 Aug 2;13(8):725. doi: 10.3390/antibiotics13080725.
+PMID: 39200025; PMCID: PMC11350675.
+
+76: Hu X, Lu Y, Yu X, Jia K, Xiong Q, Fang R. The suppressive role of NLRP6 in
+host defense against Streptococcus suis infection. Vet Microbiol. 2024
+Sep;296:110166. doi: 10.1016/j.vetmic.2024.110166. Epub 2024 Jun 26. PMID:
+38968694.
+
+77: Zhao T, Gussak A, van der Hee B, Brugman S, van Baarlen P, Wells JM.
+Identification of plasminogen-binding sites in <i>Streptococcus suis</i> enolase
+that contribute to bacterial translocation across the blood-brain barrier. Front
+Cell Infect Microbiol. 2024 Feb 22;14:1356628. doi: 10.3389/fcimb.2024.1356628.
+PMID: 38456079; PMCID: PMC10919400.
+
+78: Gu Q, He P, Bai Q, Zhong X, Zhang Y, Ma J, Yao H, Pan Z. Insight into the
+role of Streptococcus suis zinc metalloprotease C from the new serotype causing
+meningitis in piglets. BMC Vet Res. 2024 Jul 30;20(1):337. doi:
+10.1186/s12917-024-03893-4. PMID: 39080654; PMCID: PMC11290213.
+
+79: Lacouture S, Vincent AT, Gottschalk M. Distribution of <i>Streptococcus
+suis, Actinobacillus pleuropneumoniae</i>, and <i>Glaesserella parasuis</i>
+serotypes isolated from diseased pigs in Quebec between January 2020 and
+December 2023. Can Vet J. 2024 Jun;65(6):533-534. PMID: 38827588; PMCID:
+PMC11132141.
+
+80: Dolbec D, Lehoux M, de Beauville AA, Zahn A, Di Noia JM, Segura M. Unmutated
+but T cell dependent IgM antibodies targeting Streptococcus suis play an
+essential role in bacterial clearance. PLoS Pathog. 2024 Jan 19;20(1):e1011957.
+doi: 10.1371/journal.ppat.1011957. PMID: 38241393; PMCID: PMC10829992.
+
+81: Jacobs AAC, Grommen AWF, Badbanchi S, van Hout AJ, van Kasteren-Westerneng
+TJ, Morales LG, Bron R, Segers RPAM. Serotype independent protection induced by
+a vaccine based on the IgM protease of Streptococcus suis and proposal for a new
+immunity-based classification system. Porcine Health Manag. 2024 Oct
+14;10(1):41. doi: 10.1186/s40813-024-00398-2. PMID: 39402667; PMCID:
+PMC11472559.
+
+82: Shen B, Tong L, Qiu J, Zhong J, Tong Z, Li X. Suppurative Meningitis
+Complicated with Arthritis Caused by Streptococcus Suis Infection: A Case
+Report. Infect Drug Resist. 2024 Feb 14;17:561-569. doi: 10.2147/IDR.S416341.
+PMID: 38375100; PMCID: PMC10875338.
+
+83: Fan Q, Wang H, Wang Y, Yi L, Wang Y. Evaluation of the protective efficacy
+of three novel identified membrane associated proteins of Streptococcus suis
+serotype 2. Microb Pathog. 2024 Aug;193:106759. doi:
+10.1016/j.micpath.2024.106759. Epub 2024 Jun 19. PMID: 38906494.
+
+84: Bleuzé M, Lehoux M, Auger JP, Gottschalk M, Segura M. The granulocyte
+colony-stimulating factor produced during <i>Streptococcus suis</i> infection
+controls neutrophil recruitment in the blood without affecting bacterial
+clearance. Front Immunol. 2024 Aug 2;15:1403789. doi:
+10.3389/fimmu.2024.1403789. PMID: 39156897; PMCID: PMC11327821.
+
+85: Zuo J, Quan Y, Li J, Li Y, Song D, Li X, Wang Y, Yi L, Wang Y. Tackling
+Antibiotic Resistance: Exploring 5-Fluorouracil as a Promising Antimicrobial
+Strategy for the Treatment of <i>Streptococcus suis</i> Infection. Animals
+(Basel). 2024 Apr 24;14(9):1286. doi: 10.3390/ani14091286. PMID: 38731290;
+PMCID: PMC11083182.
+
+86: Zhu H, Müller U, Baums CG, Öhlmann S. Correction: Comparative analysis
+of the interactions of different Streptococcus suis strains with monocytes,
+granulocytes and the complement system in porcine blood. Vet Res. 2024 Mar
+16;55(1):29. doi: 10.1186/s13567-024-01288-9. Erratum for: Vet Res. 2024 Feb
+5;55(1):14. doi: 10.1186/s13567-024-01268-z. PMID: 38493126; PMCID: PMC10943759.
+
+87: Kim ET, Heo ST, Yoo JR, Kim M, Kim TH, Kim YR. Case Report: Streptococcus
+suis Human Infections among Pork Consumers in Jeju, South Korea: Zoonotic
+Threats. Am J Trop Med Hyg. 2024 Oct 15:tpmd240201. doi: 10.4269/ajtmh.24-0201.
+Epub ahead of print. PMID: 39406213.
+
+88: Chidkoksung K, Parakasikron N, Nuanualsuwan S, Khantasup K. Development of a
+latex agglutination test based on VH antibody fragment for detection of
+Streptococcus suis serotype 2. PLoS One. 2024 Apr 3;19(4):e0299691. doi:
+10.1371/journal.pone.0299691. PMID: 38568909; PMCID: PMC10990187.

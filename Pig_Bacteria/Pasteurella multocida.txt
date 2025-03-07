@@ -1,0 +1,345 @@
+1: Yuan J, Zhao Q, Li J, Wen Y, Wu R, Zhao S, Lang YF, Yan QG, Huang X, Du S,
+Cao SJ. CXCL8 Knockout: A Key to Resisting <i>Pasteurella multocida</i> Toxin-
+Induced Cytotoxicity. Int J Mol Sci. 2024 May 14;25(10):5330. doi:
+10.3390/ijms25105330. PMID: 38791369; PMCID: PMC11121343.
+
+2: Barta L, Prieto BD, Stöger A, Polzer D, Schmoll F, Sattler T, Ruppitsch W.
+Complete genome of a multiresistant <i>Pasteurella multocida</i> isolated from a
+diseased Austrian bovine calf. Microbiol Resour Announc. 2024 Jul
+18;13(7):e0021224. doi: 10.1128/mra.00212-24. Epub 2024 Jun 4. PMID: 38832799;
+PMCID: PMC11256842.
+
+3: Piorunek M, Brajer-Luftmann B, Walkowiak J. Pasteurella Multocida Infection
+in Humans. Pathogens. 2023 Oct 1;12(10):1210. doi: 10.3390/pathogens12101210.
+PMID: 37887726; PMCID: PMC10610061.
+
+4: Piva MM, Schwertz CI, Bianchi RM, Henker LC, Morés MAZ, Rebelatto R, Kemper
+RT, Goslar MS, Nagae RY, Pavarini SP. Pasteurella multocida polyserositis in
+growing-finishing pigs. J Comp Pathol. 2023 Apr;202:16-22. doi:
+10.1016/j.jcpa.2023.03.003. Epub 2023 Apr 4. PMID: 37023584.
+
+5: Kubatzky KF. Pasteurella multocida toxin - lessons learned from a mitogenic
+toxin. Front Immunol. 2022 Dec 16;13:1058905. doi: 10.3389/fimmu.2022.1058905.
+PMID: 36591313; PMCID: PMC9800868.
+
+6: Xiao H, Zhao Q, Yuan J, Liang W, Wu R, Wen Y, Du S, Wang Y, Zhao S, Lang Y,
+Yan Q, Huang X, Cao S. IFN-γ promotes PANoptosis in Pasteurella multocida toxin-
+induced pneumonia in mice. Vet Microbiol. 2023 Oct;285:109848. doi:
+10.1016/j.vetmic.2023.109848. Epub 2023 Sep 7. PMID: 37722207.
+
+7: Smith E, Miller E, Aguayo JM, Figueroa CF, Nezworski J, Studniski M, Wileman
+B, Johnson T. Genomic diversity and molecular epidemiology of Pasteurella
+multocida. PLoS One. 2021 Apr 6;16(4):e0249138. doi:
+10.1371/journal.pone.0249138. PMID: 33822782; PMCID: PMC8023445.
+
+8: Mostaan S, Ghasemzadeh A, Sardari S, Shokrgozar MA, Nikbakht Brujeni G,
+Abolhassani M, Ehsani P, Asadi Karam MR. <i>Pasteurella multocida</i> Vaccine
+Candidates: A Systematic Review. Avicenna J Med Biotechnol. 2020 Jul-
+Sep;12(3):140-147. PMID: 32695276; PMCID: PMC7368114.
+
+9: Guan LJ, Yang JQ, Xu QY, Feng YF, Zhang XC, Tang B, Zhao ZQ. Immunogenicity
+and efficacy of serogroup A and D bacterins against <i>Pasteurella multocida</i>
+in mice. Front Vet Sci. 2023 Mar 1;10:1132536. doi: 10.3389/fvets.2023.1132536.
+PMID: 36937018; PMCID: PMC10014835.
+
+10: Prajapati A, Yogisharadhya R, Mohanty N, Mendem S, Chanda M, Siddaramappa S,
+Shivachandra S. Comparative genome analysis of <i>Pasteurella multocida</i>
+strains of porcine origin. Genome. 2024 Jan 1;67(1):13-23. doi:
+10.1139/gen-2023-0021. Epub 2023 Aug 28. PMID: 37639729.
+
+11: Siteavu MI, Drugea RI, Pitoiu E, Ciobotaru-Pirvu E. Antimicrobial Resistance
+of <i>Actinobacillus pleuropneumoniae</i>, <i>Streptococcus suis</i>, and
+<i>Pasteurella multocida</i> Isolated from Romanian Swine Farms. Microorganisms.
+2023 Sep 27;11(10):2410. doi: 10.3390/microorganisms11102410. PMID: 37894069;
+PMCID: PMC10609511.
+
+12: Tabatabaei M, Janparvar A, Motamedifar M. Genotypic evaluation of
+<i>Pasteurella multocida</i> isolated from cattle and sheep by pulsed-field gel
+electrophoresis. Vet Res Forum. 2023;14(4):213-219. doi:
+10.30466/vrf.2022.553282.3465. Epub 2023 Apr 15. PMID: 37181852; PMCID:
+PMC10170466.
+
+13: Truswell A, Laird TJ, Jones S, O'Dea M, Blinco J, Abraham R, Morison D,
+Jordan D, Hampson DJ, Pang S, Abraham S. Antimicrobial Resistance of and Genomic
+Insights into Pasteurella multocida Strains Isolated from Australian Pigs.
+Microbiol Spectr. 2023 Feb 14;11(1):e0378422. doi: 10.1128/spectrum.03784-22.
+Epub 2023 Jan 18. PMID: 36651773; PMCID: PMC9927299.
+
+14: Wu MC, Wu HC, Lee JW, Chang WC, Chu CY. A protein-based subunit vaccine with
+biological adjuvants provides effective protection against Pasteurella multocida
+in pigs. Vet Res. 2023 Mar 2;54(1):17. doi: 10.1186/s13567-023-01150-4. PMID:
+36864537; PMCID: PMC9979465.
+
+15: Smallman TR, Perlaza-Jiménez L, Wang X, Korman TM, Kotsanas D, Gibson JS,
+Turni C, Harper M, Boyce JD. Pathogenomic analysis and characterization of
+<i>Pasteurella multocida</i> strains recovered from human infections. Microbiol
+Spectr. 2024 Apr 2;12(4):e0380523. doi: 10.1128/spectrum.03805-23. Epub 2024 Mar
+1. PMID: 38426766; PMCID: PMC10986470.
+
+16: Somogyi Z, Mag P, Simon R, Kerek Á, Makrai L, Biksi I, Jerzsele Á.
+Susceptibility of <i>Actinobacillus pleuropneumoniae</i>, <i>Pasteurella
+multocida</i> and <i>Streptococcus suis</i> Isolated from Pigs in Hungary
+between 2018 and 2021. Antibiotics (Basel). 2023 Aug 8;12(8):1298. doi:
+10.3390/antibiotics12081298. PMID: 37627719; PMCID: PMC10451952.
+
+17: Abdulrahman RF, Davies RL. Diversity and characterization of temperate
+bacteriophages induced in Pasteurella multocida from different host species. BMC
+Microbiol. 2021 Mar 30;21(1):97. doi: 10.1186/s12866-021-02155-9. PMID:
+33784980; PMCID: PMC8008546.
+
+18: Siddaramappa S. Comparative genomics of the <i>Pasteurella multocida</i>
+toxin. Genome. 2021 Jul;64(7):679-692. doi: 10.1139/gen-2020-0176. Epub 2021 Jan
+20. PMID: 33471631.
+
+19: Sun X, Blackall PJ, Daniel P, Chandra K, Jenkin S, Turni C. An improved
+multiplex PCR for Actinobacillus pleuropneumoniae, Glaesserella australis and
+Pasteurella multocida. J Microbiol Methods. 2021 Dec;191:106360. doi:
+10.1016/j.mimet.2021.106360. Epub 2021 Nov 2. PMID: 34740721.
+
+20: Du S, Xu F, Lin Y, Wang Y, Zhang Y, Su K, Li T, Li H, Song Q. Detection of
+Porcine Circovirus Type 2a and <i>Pasteurella multocida</i> Capsular Serotype D
+in Growing Pigs Suffering from Respiratory Disease. Vet Sci. 2022 Sep
+27;9(10):528. doi: 10.3390/vetsci9100528. PMID: 36288141; PMCID: PMC9607208.
+
+21: He F, Zhao Z, Wu X, Duan L, Li N, Fang R, Li P, Peng Y. Transcriptomic
+Analysis of High- and Low-Virulence Bovine <i>Pasteurella multocida in vitro</i>
+and <i>in vivo</i>. Front Vet Sci. 2021 Feb 10;8:616774. doi:
+10.3389/fvets.2021.616774. PMID: 33644147; PMCID: PMC7902865.
+
+22: Petrocchi-Rilo M, Gutiérrez-Martín CB, Pérez-Fernández E, Vilaró A, Fraile
+L, Martínez-Martínez S. Antimicrobial Resistance Genes in Porcine <i>Pasteurella
+multocida</i> Are Not Associated with Its Antimicrobial Susceptibility Pattern.
+Antibiotics (Basel). 2020 Sep 17;9(9):614. doi: 10.3390/antibiotics9090614.
+PMID: 32957645; PMCID: PMC7557981.
+
+23: Sahoo M, Baloni S, Thakor JC, Kumar P, Thomas P, Nagaleekar VK, Dhama K,
+Singh R, Singh KP, Mani S, Qureshi S, Kumar A, Patel SK, Biswal JK, Sahoo NR.
+Pathology, virulence-associated gene profiling, antimicrobial susceptibility,
+and pathogenicity of untypeable capsular serotypes of Pasteurella multocida
+isolated from slaughtered pigs of India. Lett Appl Microbiol. 2023 Oct
+4;76(10):ovad112. doi: 10.1093/lambio/ovad112. PMID: 37796828.
+
+24: Cid D, Fernández-Garayzábal JF, Pinto C, Domínguez L, Vela AI. Antimicrobial
+susceptibility of <i>Pasteurella multocida</i> isolated from sheep and pigs in
+Spain - Short communication. Acta Vet Hung. 2019 Dec;67(4):489-498. doi:
+10.1556/004.2019.048. PMID: 31842595.
+
+25: Wang Y, Zeng Z, Ran J, Peng L, Wu X, Ye C, Dong C, Peng Y, Fang R. The
+Critical Role of Potassium Efflux and Nek7 in <i>Pasteurella
+multocida</i>-Induced NLRP3 Inflammasome Activation. Front Microbiol. 2022 Mar
+8;13:849482. doi: 10.3389/fmicb.2022.849482. PMID: 35350616; PMCID: PMC8957907.
+
+26: Kuchiishi SS, Ramos Prigol S, Bresolin E, Fernandes Lenhard B, Pissetti C,
+García-Iglesias MJ, Gutiérrez-Martín CB, Martínez-Martínez S, Kreutz LC,
+Frandoloso R. Brazilian Clinical Strains of <i>Actinobacillus
+pleuropneumoniae</i> and <i>Pasteurella multocida</i>: Capsular Diversity,
+Antimicrobial Susceptibility (<i>In Vitro</i>) and Proof of Concept for
+Prevention of Natural Colonization by Multi-Doses Protocol of Tildipirosin.
+Antibiotics (Basel). 2023 Nov 25;12(12):1658. doi: 10.3390/antibiotics12121658.
+PMID: 38136692; PMCID: PMC10740920.
+
+27: Banu A, Lax AJ, Grigoriadis AE. In Vivo Targets of <i>Pasteurella
+Multocida</i> Toxin. Int J Mol Sci. 2020 Apr 15;21(8):2739. doi:
+10.3390/ijms21082739. PMID: 32326543; PMCID: PMC7215291.
+
+28: Lee EB, Abbas MA, Park J, Tassew DD, Park SC. Optimizing tylosin dosage for
+co-infection of <i>Actinobacillus pleuropneumoniae</i> and <i>Pasteurella
+multocida</i> in pigs using pharmacokinetic/pharmacodynamic modeling. Front
+Pharmacol. 2023 Sep 22;14:1258403. doi: 10.3389/fphar.2023.1258403. PMID:
+37808183; PMCID: PMC10556534.
+
+29: Hanchanachai N, Chumnanpuen P, E-Kobon T. Interaction study of Pasteurella
+multocida with culturable aerobic bacteria isolated from porcine respiratory
+tracts using coculture in conditioned media. BMC Microbiol. 2021 Jan 9;21(1):19.
+doi: 10.1186/s12866-020-02071-4. PMID: 33422011; PMCID: PMC7796573.
+
+30: Liu S, Lin L, Yang H, Wu W, Guo L, Zhang Y, Wang F, Wang X, Song W, Hua L,
+Liang W, Tang X, Chen H, Peng Z, Wu B. <i>Pasteurella multocida</i> capsular:
+lipopolysaccharide types D:L6 and A:L3 remain to be the main epidemic genotypes
+of pigs in China. Anim Dis. 2021;1(1):26. doi: 10.1186/s44149-021-00031-7. Epub
+2021 Nov 2. PMID: 34778886; PMCID: PMC8561366.
+
+31: Wu MC, Lo YT, Wu HC, Wang HY, Chu CY. Cross-protection of recombinant
+Pasteurella multocida toxin proteins against atrophic rhinitis in mice. Res Vet
+Sci. 2021 Jul;137:138-143. doi: 10.1016/j.rvsc.2021.05.002. Epub 2021 May 4.
+PMID: 33975192.
+
+32: Pegu H, Tamuly S, Sharma RK, Borah P, Nath R. Immunopotential of Pasteurella
+multocida bivalent outer membrane protein-based vaccine entrapped in aluminum
+hydroxide nanoparticles. Braz J Microbiol. 2022 Dec;53(4):2299-2307. doi:
+10.1007/s42770-022-00795-1. Epub 2022 Aug 3. PMID: 35922692; PMCID: PMC9679094.
+
+33: Zhou YF, Sun Z, Wang RL, Li JG, Niu CY, Li XA, Feng YY, Sun J, Liu YH, Liao
+XP. Comparison of PK/PD Targets and Cutoff Values for Danofloxacin Against
+<i>Pasteurella multocida</i> and <i>Haemophilus parasuis</i> in Piglets. Front
+Vet Sci. 2022 Feb 2;9:811967. doi: 10.3389/fvets.2022.811967. PMID: 35187143;
+PMCID: PMC8847440.
+
+34: Hanchanachai N, Chumnanpuen P, E-Kobon T. Effect of conditioned media from
+Aeromonas caviae on the transcriptomic changes of the porcine isolates of
+Pasteurella multocida. BMC Microbiol. 2022 Nov 11;22(1):272. doi:
+10.1186/s12866-022-02683-y. PMID: 36368971; PMCID: PMC9650167.
+
+35: Mi K, Pu S, Hou Y, Sun L, Zhou K, Ma W, Xu X, Huo M, Liu Z, Xie C, Qu W,
+Huang L. Optimization and Validation of Dosage Regimen for Ceftiofur against
+<i>Pasteurella multocida</i> in Swine by Physiological Based Pharmacokinetic-
+Pharmacodynamic Model. Int J Mol Sci. 2022 Mar 28;23(7):3722. doi:
+10.3390/ijms23073722. PMID: 35409082; PMCID: PMC8998519.
+
+36: Allen JL, Bushell RN, Noormohammadi AH, Stent AW, Whiteley P, Browning GF,
+Marenda MS. Pasteurella multocida ST20 is widespread in Australian poultry farms
+and may infect wild waterbirds. Vet Microbiol. 2024 Mar;290:109990. doi:
+10.1016/j.vetmic.2024.109990. Epub 2024 Jan 12. PMID: 38228079.
+
+37: Liang W, Xiao H, Chen JY, Chang YF, Cao SJ, Wen YP, Wu R, Du SY, Yan QG,
+Huang XB, Zhao Q. Immunogenicity and protective efficacy of a multi-epitope
+recombinant toxin antigen of Pasteurella multocida against virulent challenge in
+mice. Vaccine. 2023 Mar 31;41(14):2387-2396. doi: 10.1016/j.vaccine.2023.02.070.
+Epub 2023 Mar 3. PMID: 36872144.
+
+38: Verma H, Rawat M, Verma R, Gandham R, Tiwari AK, Khan RIN, Praharaj MR,
+Smith E. First report of whole genome sequence of septicemic Pasteurella
+multocida serovar B:2 'Soron' strain isolated from swine. Braz J Microbiol. 2023
+Sep;54(3):2445-2460. doi: 10.1007/s42770-023-00995-3. Epub 2023 May 16. PMID:
+37191868; PMCID: PMC10484883.
+
+39: Rattanapanadda P, Kuo HC, Chang SK, Tell LA, Shia WY, Chou CC. Effect of
+Carbonyl Cyanide Chlorophenylhydrazone on Intrabacterial Concentration and
+Antimicrobial Activity of Amphenicols against Swine Resistant Actinobacillus
+pleuropneumoniae and Pasteurella multocida. Vet Res Commun. 2022
+Sep;46(3):903-916. doi: 10.1007/s11259-022-09917-4. Epub 2022 Mar 23. PMID:
+35322371.
+
+40: Xiao J, Li Y, Hu Z, Zhang Y, Chang YF, Zhou Q, Yan Z, Zhang X, Chen L, Li W,
+Xie Z, Xie Q. Characterization of Pasteurella multocida isolated from ducks in
+China from 2017 to 2019. Microb Pathog. 2021 Nov;160:105196. doi:
+10.1016/j.micpath.2021.105196. Epub 2021 Sep 15. PMID: 34534643.
+
+41: Sitovs A, Skadins I, Purvina S, Bandere D. In vitro and ex vivo
+antibacterial activity of levofloxacin against Pasteurella multocida and
+Escherichia coli isolated from rabbits (Oryctolagus cuniculus) - A preliminary
+study. J Vet Pharmacol Ther. 2023 Sep;46(5):332-343. doi: 10.1111/jvp.13383.
+Epub 2023 Apr 15. PMID: 37060264.
+
+42: Yao X, Song Q, Zhu W, Wei J, Shao D, Liu K, Li Z, Qiu Y, Ma Z, Xia L, Li B.
+Characterization of small plasmids carrying florfenicol resistance gene
+<i>floR</i> in <i>Actinobacillus pleuropneumoniae</i> and <i>Pasteurella
+multocida</i> isolates from swine in China. Front Vet Sci. 2023 Jan
+30;10:1084491. doi: 10.3389/fvets.2023.1084491. PMID: 36793377; PMCID:
+PMC9922843.
+
+43: Jauregui R, Barcelo A, Bennett P, Foxwell J, Buckle K, O'Connell J, Busby B,
+McCulley M. Complete genomes of <i>Pasteurella multocida</i> isolates from
+porcine, bovine, and cervine samples found in New Zealand farms. Microbiol
+Resour Announc. 2023 Dec 14;12(12):e0088423. doi: 10.1128/MRA.00884-23. Epub
+2023 Nov 22. PMID: 37991357; PMCID: PMC10720517.
+
+44: Sahoo M, Baloni S, Thakor JC, M D, Bhutediya J, Qureshi S, Dhama K, Dubal
+ZB, Singh K, Singh R. Localization of Pasteurella multocida antigens in the
+brains of pigs naturally infected with Pasteurellosis revealing a newer aspect
+of pathogenesis. Microb Pathog. 2020 Mar;140:103968. doi:
+10.1016/j.micpath.2020.103968. Epub 2020 Jan 9. PMID: 31927003.
+
+45: Zhou G, Tian J, Tian Y, Ma Q, Li Q, Wang S, Shi H. Recombinant-attenuated
+Salmonella enterica serovar Choleraesuis vector expressing the PlpE protein of
+Pasteurella multocida protects mice from lethal challenge. BMC Vet Res. 2023 Aug
+19;19(1):128. doi: 10.1186/s12917-023-03679-0. PMID: 37598169; PMCID:
+PMC10439597.
+
+46: Cuevas I, Carbonero A, Cano D, García-Bocanegra I, Amaro MÁ, Borge C.
+Antimicrobial resistance of Pasteurella multocida type B isolates associated
+with acute septicemia in pigs and cattle in Spain. BMC Vet Res. 2020 Jun
+30;16(1):222. doi: 10.1186/s12917-020-02442-z. PMID: 32605567; PMCID:
+PMC7325301.
+
+47: Wang F, Wang X, Ai W, Zeng D, Liang W, Hua L, Liu H, Wang X, Tian Y, Chen H,
+He Q, Peng Z, Wu B. Three novel immunogenic proteins determined through
+2-Dimensional electrophoresis and mass spectrometry with immune serum confer
+protection against challenge with porcine Pasteurella multocida in mouse models.
+Res Vet Sci. 2021 May;136:303-309. doi: 10.1016/j.rvsc.2021.03.013. Epub 2021
+Mar 13. PMID: 33744821.
+
+48: Park GY, Yu HJ, Son JS, Park SJ, Cha HJ, Song KS. Pasteurella multocida
+specific bacteriophage suppresses P. multocida-induced inflammation:
+identification of genes related to bacteriophage signaling by Pasteurella
+multocida-infected swine nasal turbinate cells. Genes Genomics. 2020
+Feb;42(2):235-243. doi: 10.1007/s13258-019-00898-4. Epub 2019 Dec 18. PMID:
+31853889.
+
+49: Shi C, Zhu Z, Shang Y, Song W, Yang J, Bi H, Wang Z, Xie R, Zhao M, Hua L,
+Chen H, Wu B, Peng Z. Discovery of the tigecycline resistance gene cluster
+tmexCD3-toprJ1 in Pasteurella multocida strains isolated from pigs in China. Vet
+Microbiol. 2024 May;292:110046. doi: 10.1016/j.vetmic.2024.110046. Epub 2024 Mar
+8. PMID: 38471428.
+
+50: Vu-Khac H, Trinh TTH, Nguyen TTG, Nguyen XT, Nguyen TT. Prevalence of
+virulence factor, antibiotic resistance, and serotype genes of <i>Pasteurella
+multocida</i> strains isolated from pigs in Vietnam. Vet World. 2020
+May;13(5):896-904. doi: 10.14202/vetworld.2020.896-904. Epub 2020 May 15. PMID:
+32636585; PMCID: PMC7311876.
+
+51: Smallman TR, Williams GC, Harper M, Boyce JD. Genome-Wide Investigation of
+Pasteurella multocida Identifies the Stringent Response as a Negative Regulator
+of Hyaluronic Acid Capsule Production. Microbiol Spectr. 2022 Apr
+27;10(2):e0019522. doi: 10.1128/spectrum.00195-22. Epub 2022 Apr 11. PMID:
+35404102; PMCID: PMC9045168.
+
+52: Livingstone M, Jorgensen P, McCall M, Thomson J, Longbottom D. <i>De
+Novo</i> Whole-Genome Sequencing of Two Pathogenic Pasteurella multocida Type
+D:6 Strains Isolated from Pigs. Microbiol Resour Announc. 2023 May
+17;12(5):e0009823. doi: 10.1128/mra.00098-23. Epub 2023 Apr 3. PMID: 37010432;
+PMCID: PMC10190538.
+
+53: Yuan J, Li J, Du S, Wen Y, Wang Y, Lang YF, Wu R, Yan QG, Zhao S, Huang X,
+Zhao Q, Cao SJ. Revealing the lethal effects of <i>Pasteurella multocida</i>
+toxin on multiple organ systems. Front Microbiol. 2024 Aug 27;15:1459124. doi:
+10.3389/fmicb.2024.1459124. PMID: 39257615; PMCID: PMC11385013.
+
+54: Lopez Rodriguez A, Berge AC, Ramage C, Saltzman R, Domangue RJ, Gnozzio MJ,
+Muller A, Sierra P, Benchaoui HA. Evaluation of the clinical efficacy of a water
+soluble formulation of tylvalosin in the control of enzootic pneumonia
+associated with Mycoplasma hyopneumoniae and Pasteurella multocida in pigs.
+Porcine Health Manag. 2020 Dec 4;6(1):39. doi: 10.1186/s40813-020-00177-9. PMID:
+33292620; PMCID: PMC7716473.
+
+55: Krüger-Haker H, Kostova V, Hanke D, Kaspar H, Fiedler S, Schwarz S. Genetic
+basis of macrolide resistance in porcine Pasteurella multocida isolates from the
+German national resistance monitoring program GERM-Vet 2008-2021. J Antimicrob
+Chemother. 2024 Nov 4;79(11):2975-2979. doi: 10.1093/jac/dkae316. PMID:
+39271102.
+
+56: Guan LJ, Song JJ, Xue Y, Ai X, Liu ZJ, Si LF, Li MY, Zhao ZQ. Immune
+Protective Efficacy of China's Traditional Inactivated and Attenuated Vaccines
+against the Prevalent Strains of <i>Pasteurella multocida</i> in Mice. Vaccines
+(Basel). 2021 Oct 9;9(10):1155. doi: 10.3390/vaccines9101155. PMID: 34696263;
+PMCID: PMC8537324.
+
+57: Yoshimura M, Honda Y, Yonemitsu E, Kuraoka K, Suenaga K. Method for
+quantifying the Pasteurella multocida antigen adsorbed on aluminum hydroxide
+adjuvant in swine atrophic rhinitis vaccine. PLoS One. 2024 May
+20;19(5):e0301688. doi: 10.1371/journal.pone.0301688. PMID: 38768145; PMCID:
+PMC11104628.
+
+58: Schink AK, Hanke D, Semmler T, Brombach J, Bethe A, Lübke-Becker A, Teske K,
+Müller KE, Schwarz S. Novel multiresistance-mediating integrative and
+conjugative elements carrying unusual antimicrobial resistance genes in
+Mannheimia haemolytica and Pasteurella multocida. J Antimicrob Chemother. 2022
+Jun 29;77(7):2033-2035. doi: 10.1093/jac/dkac116. PMID: 35434742.
+
+59: Li K, Zhang Y, Luo T, Li C, Yu H, Wang W, Zhang H, Chen H, Xia C, Gao C.
+Development of a Triplex qPCR Assay Based on the TaqMan Probe for the Detection
+of <i>Haemophilus parasuis</i>, <i>Streptococcus suis</i> Serotype 2 and
+<i>Pasteurella multocida</i>. Microorganisms. 2024 Oct 5;12(10):2017. doi:
+10.3390/microorganisms12102017. PMID: 39458326; PMCID: PMC11509477.
+
+60: Zhang D, Lin L, Yang J, Lv Q, Wang M, Hua L, Zhang K, Chen H, Wu B, Peng Z.
+Pseudorabies virus infection increases the permeability of the mammalian
+respiratory barrier to facilitate <i>Pasteurella multocida</i> infection.
+mSphere. 2024 Aug 28;9(8):e0029724. doi: 10.1128/msphere.00297-24. Epub 2024 Jul
+23. PMID: 39041808; PMCID: PMC11351098.
+
+61: Schoellkopf J, Mueller T, Hippchen L, Mueller T, Reuten R, Backofen R, Orth
+J, Schmidt G. Genome wide CRISPR screen for Pasteurella multocida toxin (PMT)
+binding proteins reveals LDL Receptor Related Protein 1 (LRP1) as crucial
+cellular receptor. PLoS Pathog. 2022 Dec 14;18(12):e1010781. doi:
+10.1371/journal.ppat.1010781. PMID: 36516199; PMCID: PMC9797058.

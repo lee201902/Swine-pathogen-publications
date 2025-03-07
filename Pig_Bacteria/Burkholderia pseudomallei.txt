@@ -1,0 +1,53 @@
+1: Ekakoro JE, Lubega A, Kayaga EB, Ndoboli D, Bluhm AP, Wampande EM, Blackburn
+JK, Havas KA, Norris MH. An Investigation of <i>Burkholderia pseudomallei</i>
+Seroprevalence in Market Pigs Slaughtered at Selected Pig Abattoirs in Uganda.
+Pathogens. 2022 Nov 16;11(11):1363. doi: 10.3390/pathogens11111363. PMID:
+36422614; PMCID: PMC9699407.
+
+2: Norris MH, Tran HTT, Walker MA, Bluhm AP, Zincke D, Trung TT, Thi NV, Thi NP,
+Schweizer HP, Unger F, Blackburn JK, Hang NTT. Distribution of Serological
+Response to <i>Burkholderia pseudomallei</i> in Swine from Three Provinces of
+Vietnam. Int J Environ Res Public Health. 2020 Jul 18;17(14):5203. doi:
+10.3390/ijerph17145203. PMID: 32708490; PMCID: PMC7399857.
+
+3: Vadivelu J, Vellasamy KM, Thimma J, Mariappan V, Kang WT, Choh LC, Shankar
+EM, Wong KT. Survival and Intra-Nuclear Trafficking of Burkholderia
+pseudomallei: Strategies of Evasion from Immune Surveillance? PLoS Negl Trop
+Dis. 2017 Jan 3;11(1):e0005241. doi: 10.1371/journal.pntd.0005241. PMID:
+28045926; PMCID: PMC5234843.
+
+4: Najdenski H, Kussovski V, Vesselinova A. Experimental Burkholderia
+pseudomallei infection of pigs. J Vet Med B Infect Dis Vet Public Health. 2004
+Jun;51(5):225-30. doi: 10.1111/j.1439-0450.2004.00754.x. PMID: 15330982.
+
+5: Tamrakar SB, Haas CN. Dose-response model for Burkholderia pseudomallei
+(melioidosis). J Appl Microbiol. 2008 Nov;105(5):1361-71. doi:
+10.1111/j.1365-2672.2008.03880.x. Epub 2008 Sep 5. PMID: 18778292.
+
+6: Woo PC, Leung PK, Tsoi HW, Yuen KY. Cloning and characterisation of malE in
+Burkholderia pseudomallei. J Med Microbiol. 2001 Apr;50(4):330-338. doi:
+10.1099/0022-1317-50-4-330. PMID: 11289518.
+
+7: Sim SH, Yu Y, Lin CH, Karuturi RK, Wuthiekanun V, Tuanyok A, Chua HH, Ong C,
+Paramalingam SS, Tan G, Tang L, Lau G, Ooi EE, Woods D, Feil E, Peacock SJ, Tan
+P. The core and accessory genomes of Burkholderia pseudomallei: implications for
+human melioidosis. PLoS Pathog. 2008 Oct;4(10):e1000178. doi:
+10.1371/journal.ppat.1000178. Epub 2008 Oct 17. PMID: 18927621; PMCID:
+PMC2564834.
+
+8: Manzeniuk IN, Galina EA, Dorokhin VV, Kalachev IIa, Borzenkov VN, Svetoch EA.
+Burkholderia mallei i Burkholderia pseudomallei. Study of immuno- i patogeneza
+sapa i lemioidoza. Geterologichenye vaktsiny [Burkholderia mallei and
+Burkholderia pseudomallei. Study of immuno- and pathogenesis of glanders and
+melioidosis. Heterologous vaccines]. Antibiot Khimioter. 1999;44(6):21-6.
+Russian. PMID: 10422574.
+
+9: DeShazer D, Brett PJ, Woods DE. The type II O-antigenic polysaccharide moiety
+of Burkholderia pseudomallei lipopolysaccharide is required for serum resistance
+and virulence. Mol Microbiol. 1998 Dec;30(5):1081-100. doi:
+10.1046/j.1365-2958.1998.01139.x. PMID: 9988483.
+
+10: Viktorov DV, Merinova LK, Alekseev VV, Pivnen' NN, Merinova OA, Seimova IK,
+Timoshin VB, Zakharova IB. [Properties of the Burkholderia pseudomallei
+insertional mutants deficient in membrane proteins production]. Mol Gen
+Mikrobiol Virusol. 2005;(4):17-20. Russian. PMID: 16334220.

@@ -1,0 +1,158 @@
+1: Godoy NL, de Moraes JB, de Castro CA, Santana JPP, Zangirolami TC, da Silva
+AJ, Novo-Mansur MTM, Anibal FF. Immunogenicity and Protection by DnaK and SpaA
+Recombinant Proteins Against <i>Erysipelothrix Rhusiopathiae</i> in a Murine
+Model. Cell Physiol Biochem. 2023 Oct 9;57(5):379-394. doi: 10.33594/000000664.
+PMID: 37815427.
+
+2: Morimoto M, Kato A, Kojima H, Akaike Y, Nogami K, Sasakawa C, Nagai S, To H.
+Serovars and SpaA Types of Erysipelothrix rhusiopathiae Isolated from Pigs in
+Japan from 2012 to 2019. Curr Microbiol. 2021 Jan;78(1):55-66. doi:
+10.1007/s00284-020-02254-2. Epub 2020 Nov 3. PMID: 33145611.
+
+3: Wu C, Lv C, Zhao Y, Zhu W, Liu L, Wang T, Kang C, Yang Y, Sun X, Zhang Q, Jin
+M. Characterization of <i>Erysipelothrix rhusiopathiae</i> Isolates from
+Diseased Pigs in 15 Chinese Provinces from 2012 to 2018. Microorganisms. 2021
+Dec 17;9(12):2615. doi: 10.3390/microorganisms9122615. PMID: 34946215; PMCID:
+PMC8704079.
+
+4: Webster J, Bowring B, Stroud L, Marsh I, Sales N, Bogema D. Population
+Structure and Genomic Characteristics of Australian <i>Erysipelothrix
+rhusiopathiae</i> Reveals Unobserved Diversity in the Australian Pig Industry.
+Microorganisms. 2023 Jan 23;11(2):297. doi: 10.3390/microorganisms11020297.
+PMID: 36838261; PMCID: PMC9964597.
+
+5: Lee K, Park SY, Seo HW, Cho Y, Choi SG, Seo S, Han W, Lee NK, Kwon H, Han JE,
+Kim JH. Pathological and Genomic Findings of <i>Erysipelothrix rhusiopathiae</i>
+Isolated From a Free-Ranging Rough-Toothed Dolphin <i>Steno bredanensis</i>
+(Cetacea: Delphinidae) Stranded in Korea. Front Vet Sci. 2022 May 6;9:774836.
+doi: 10.3389/fvets.2022.774836. PMID: 35601406; PMCID: PMC9120913.
+
+6: Morimoto M, Kato A, Nogami K, Akaike Y, Furusawa T, Kojima H, Sasakawa C. The
+Swine Erysipelas Vaccine SER-ME Effectively Protects Pigs against Challenge with
+the <i>Erysipelothrix rhusiopathiae</i> M203/I257 SpaA-Type Variant. Vet Sci.
+2022 Jul 26;9(8):382. doi: 10.3390/vetsci9080382. PMID: 35893775; PMCID:
+PMC9332197.
+
+7: Zautner AE, Tersteegen A, Schiffner CJ, Ðilas M, Marquardt P, Riediger M,
+Delker AM, Mäde D, Kaasch AJ. Human <i>Erysipelothrix rhusiopathiae</i>
+infection <i>via</i> bath water - case report and genome announcement. Front
+Cell Infect Microbiol. 2022 Oct 24;12:981477. doi: 10.3389/fcimb.2022.981477.
+PMID: 36353709; PMCID: PMC9637936.
+
+8: Forde TL, Kollanandi Ratheesh N, Harvey WT, Thomson JR, Williamson S, Biek R,
+Opriessnig T. Genomic and Immunogenic Protein Diversity of <i>Erysipelothrix
+rhusiopathiae</i> Isolated From Pigs in Great Britain: Implications for Vaccine
+Protection. Front Microbiol. 2020 Mar 13;11:418. doi: 10.3389/fmicb.2020.00418.
+PMID: 32231655; PMCID: PMC7083082.
+
+9: Wu C, Zhang Z, Kang C, Zhang Q, Zhu W, Zhang Y, Zhang H, Xiao J, Jin M. The
+C-Terminal Repeat Units of SpaA Mediate Adhesion of <i>Erysipelothrix
+rhusiopathiae</i> to Host Cells and Regulate Its Virulence. Biology (Basel).
+2022 Jul 5;11(7):1010. doi: 10.3390/biology11071010. PMID: 36101391; PMCID:
+PMC9311908.
+
+10: Guan LJ, Pei SX, Song JJ, Zhan PF, Han YN, Xue Y, Ding K, Zhao ZQ. Screening
+immune adjuvants for an inactivated vaccine against <i>Erysipelothrix
+rhusiopathiae</i>. Front Vet Sci. 2022 Jul 26;9:922867. doi:
+10.3389/fvets.2022.922867. PMID: 35958306; PMCID: PMC9360596.
+
+11: Morimoto M, Kato A, Akaike Y, Nogami K, Ono H, Furusawa T, Kojima H,
+Sasakawa C. Comparative study of the phenotype and virulence of recent serovar
+1a, 1b, and 2a isolates of Erysipelothrix rhusiopathiae in Japan. Vet Microbiol.
+2022 Jul;270:109458. doi: 10.1016/j.vetmic.2022.109458. Epub 2022 May 12. PMID:
+35623133.
+
+12: Kovalchuk S, Babii A. Draft genome sequence data of <i>Erysipelothrix
+rhusiopathiae</i> vaccine strain VR-2. Data Brief. 2020 Sep 28;33:106352. doi:
+10.1016/j.dib.2020.106352. PMID: 33083506; PMCID: PMC7551983.
+
+13: Zhao L, Wen XH, Jia CL, Zhou XR, Luo SJ, Lv DH, Zhai Q. Development of a
+multiplex qRT-PCR assay for detection of classical swine fever virus, African
+swine fever virus, and <i>Erysipelothrix rhusiopathiae</i>. Front Vet Sci. 2023
+May 25;10:1183360. doi: 10.3389/fvets.2023.1183360. PMID: 37303728; PMCID:
+PMC10248016.
+
+14: Dec M, Łagowski D, Nowak T, Pietras-Ożga D, Herman K. Serotypes, Antibiotic
+Susceptibility, Genotypic Virulence Profiles and SpaA Variants of
+<i>Erysipelothrix rhusiopathiae</i> Strains Isolated from Pigs in Poland.
+Pathogens. 2023 Mar 3;12(3):409. doi: 10.3390/pathogens12030409. PMID: 36986331;
+PMCID: PMC10058941.
+
+15: Mavrot F, Orsel K, Hutchins W, Adams LG, Beckmen K, Blake JE, Checkley SL,
+Davison T, Di Francesco J, Elkin B, Leclerc LM, Schneider A, Tomaselli M, Kutz
+SJ. Novel insights into serodiagnosis and epidemiology of Erysipelothrix
+rhusiopathiae, a newly recognized pathogen in muskoxen (Ovibos moschatus). PLoS
+One. 2020 Apr 21;15(4):e0231724. doi: 10.1371/journal.pone.0231724. Erratum in:
+PLoS One. 2020 Oct 8;15(10):e0240760. doi: 10.1371/journal.pone.0240760. PMID:
+32315366; PMCID: PMC7173868.
+
+16: Gu J, Li YX, Xu CW, Xie XJ, Li P, Ma GX, Lei CW, Liu JX, Zhang AY. Genome
+sequence of multidrug-resistant Erysipelothrix rhusiopathiae ZJ carrying several
+acquired antimicrobial resistance genes. J Glob Antimicrob Resist. 2020
+Jun;21:13-15. doi: 10.1016/j.jgar.2020.02.017. Epub 2020 Feb 28. PMID: 32119991.
+
+17: Kovalchuk SN, Babii AV. Draft genome sequence data and comparative analysis
+of <i>Erysipelothrix Rhusiopathiae</i> vaccine strain VR-2. 3 Biotech. 2020
+Oct;10(10):455. doi: 10.1007/s13205-020-02451-7. Epub 2020 Sep 29. PMID:
+33088652; PMCID: PMC7524903.
+
+18: Söderlund R, Formenti N, Caló S, Chiari M, Zoric M, Alborali GL, Sørensen
+Dalgaard T, Wattrang E, Eriksson H. Comparative genome analysis of
+<i>Erysipelothrix rhusiopathiae</i> isolated from domestic pigs and wild boars
+suggests host adaptation and selective pressure from the use of antibiotics.
+Microb Genom. 2020 Aug;6(8):mgen000412. doi: 10.1099/mgen.0.000412. Epub 2020
+Jul 31. PMID: 32735209; PMCID: PMC7641416.
+
+19: Shimoji Y, Ogawa Y, Tsukio M, Shiraiwa K, Nishikawa S, Eguchi M. Genome-Wide
+Identification of Virulence Genes in <i>Erysipelothrix rhusiopathiae</i>: Use of
+a Mutant Deficient in a <i>tagF</i> Homolog as a Safe Oral Vaccine against Swine
+Erysipelas. Infect Immun. 2019 Nov 18;87(12):e00673-19. doi:
+10.1128/IAI.00673-19. PMID: 31548316; PMCID: PMC6867862.
+
+20: Schoiswohl J, Spergser J, Kofler J. Polyarthritis caused by Erysipelothrix
+rhusiopathiae in three Austrian sheep flocks - diagnosis, treatment and
+management measures. Schweiz Arch Tierheilkd. 2020 Dec;162(12):771-780. English.
+doi: 10.17236/sat00282. PMID: 33263544.
+
+21: Shiraiwa K, Ogawa Y, Nishikawa S, Nakayama M, Eguchi M, Shimoji Y. Genetic
+analysis of an Erysipelothrix rhusiopathiae swine isolate determined to be
+serovar 2 by a gel double diffusion test but serovar 1a/2 by a serotyping PCR
+assay. J Vet Med Sci. 2020 Oct 7;82(9):1376-1378. doi: 10.1292/jvms.20-0387.
+Epub 2020 Jul 27. PMID: 32713892; PMCID: PMC7538323.
+
+22: McCall M, Arnold B, Ussher J, Sandiford NA. Disseminated Erysipelothrix
+rhusiopathiae with Secondary Prosthetic Hip Joint Infection: A Case of
+Successful Identification and Management in a Regional Hospital. JBJS Case
+Connect. 2023 Oct 19;13(4). doi: 10.2106/JBJS.CC.23.00301. PMID: 37856622.
+
+23: Canotilho J, Abrantes AC, Risco D, Fernández-Llario P, Aranha J, Vieira-
+Pinto M. First Serologic Survey of <i>Erysipelothrix rhusiopathiae</i> in Wild
+Boars Hunted for Private Consumption in Portugal. Animals (Basel). 2023 Sep
+16;13(18):2936. doi: 10.3390/ani13182936. PMID: 37760336; PMCID: PMC10525244.
+
+24: Shimoji Y, Tsukio M, Ogawa Y, Shiraiwa K, Nishikawa S, Eguchi M. A putative
+transcription regulator involved in the virulence attenuation of an acriflavine-
+resistant vaccine strain of Erysipelothrix rhusiopathiae, the causative agent of
+swine erysipelas. Vet Microbiol. 2019 Dec;239:108488. doi:
+10.1016/j.vetmic.2019.108488. Epub 2019 Nov 1. PMID: 31767066.
+
+25: Cabrera-García AI, Müller F, Rödler FS, Traub F, Heilmann RM. Infective
+endocarditis due to Erysipelothrix rhusiopathiae in a dog - a case report. BMC
+Vet Res. 2020 Sep 10;16(1):328. doi: 10.1186/s12917-020-02546-6. PMID: 32912219;
+PMCID: PMC7488128.
+
+26: Sanchez-Tarifa E, Alonso C, Perez I, García LA, Fernández-Fontelo A, Gómez-
+Duran O, García-Morante B, García-Vázquez FA, Hernández-Caravaca I. A field
+comparison study of two vaccine protocols against Erysipelothrix rhusiopathiae
+in two types of swine breeds in Spain. BMC Vet Res. 2024 Oct 11;20(1):461. doi:
+10.1186/s12917-024-04065-0. PMID: 39394571; PMCID: PMC11468219.
+
+27: Shamoun K, Tracy L, Lee C, Grogan K, Nicholds J, Franca M, Shepherd E.
+<i>Erysipelothrix rhusiopathiae</i> Infection Associated with Swollen Head
+Syndrome in a Broiler Breeder Flock in North Georgia. Avian Dis. 2023
+Mar;67(1):119-123. doi: 10.1637/aviandiseases-D-22-00060. PMID: 37140121.
+
+28: Javela HM, Lienemann T, Nordgren H, Malkamäki S, Sainmaa S, Kyyrö J, Airas
+N. Erysipelothrix rhusiopathiae infection in a captive white-lipped peccary
+(Tayassu pecari) in Finland. J Comp Pathol. 2024 Jul;212:16-19. doi:
+10.1016/j.jcpa.2024.05.003. Epub 2024 Jun 24. PMID: 38914039.

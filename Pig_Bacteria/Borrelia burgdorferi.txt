@@ -1,0 +1,49 @@
+1: Narasimhan S, Booth CJ, Philipp MT, Fikrig E, Embers ME. Repeated Tick
+Infestations Impair <i>Borrelia burgdorferi</i> Transmission in a Non-Human
+Primate Model of Tick Feeding. Pathogens. 2023 Jan 13;12(1):132. doi:
+10.3390/pathogens12010132. PMID: 36678479; PMCID: PMC9861725.
+
+2: Fikrig E, Feng W, Barthold SW, Telford SR 3rd, Flavell RA. Arthropod- and
+host-specific Borrelia burgdorferi bbk32 expression and the inhibition of
+spirochete transmission. J Immunol. 2000 May 15;164(10):5344-51. doi:
+10.4049/jimmunol.164.10.5344. PMID: 10799897.
+
+3: Huang Z, Toledo AM, Benach JL, London E. Ordered Membrane Domain-Forming
+Properties of the Lipids of Borrelia burgdorferi. Biophys J. 2016 Dec
+20;111(12):2666-2675. doi: 10.1016/j.bpj.2016.11.012. PMID: 28002743; PMCID:
+PMC5192690.
+
+4: Hinnebusch J, Barbour AG. Linear plasmids of Borrelia burgdorferi have a
+telomeric structure and sequence similar to those of a eukaryotic virus. J
+Bacteriol. 1991 Nov;173(22):7233-9. doi: 10.1128/jb.173.22.7233-7239.1991. PMID:
+1938918; PMCID: PMC209230.
+
+5: Caol S, Divers T, Crisman M, Chang YF. In vitro susceptibility of Borrelia
+burgdorferi isolates to three antibiotics commonly used for treating equine Lyme
+disease. BMC Vet Res. 2017 Sep 29;13(1):293. doi: 10.1186/s12917-017-1212-3.
+PMID: 28962614; PMCID: PMC5622483.
+
+6: Dettori G, Grillo R, Cattani P, Calderaro A, Chezzi C, Milner J, Truelove K,
+Sellwood R. Comparative study of the enzyme activities of Borrelia burgdorferi
+and other non-intestinal and intestinal spirochaetes. New Microbiol. 1995
+Jan;18(1):13-26. PMID: 7760753.
+
+7: Cerri D, Farina R, Andreani E, Nuvoloni R, Pedrini A, Cardini G. Experimental
+infection of dogs with Borrelia burgdorferi. Res Vet Sci. 1994 Sep;57(2):256-8.
+doi: 10.1016/0034-5288(94)90069-8. PMID: 7817018.
+
+8: Rudenko N, Golovchenko M, Edwards MJ, Grubhoffer L. Differential expression
+of Ixodes ricinus tick genes induced by blood feeding or Borrelia burgdorferi
+infection. J Med Entomol. 2005 Jan;42(1):36-41. doi: 10.1093/jmedent/42.1.36.
+PMID: 15691006.
+
+9: Pacilly FC, Benning ME, Jacobs F, Leidekker J, Sprong H, Van Wieren SE,
+Takken W. Blood feeding on large grazers affects the transmission of Borrelia
+burgdorferi sensu lato by Ixodes ricinus. Ticks Tick Borne Dis. 2014
+Oct;5(6):810-7. doi: 10.1016/j.ttbdis.2014.06.004. Epub 2014 Aug 10. PMID:
+25113977.
+
+10: Güner ES. Complement evasion by the Lyme disease spirochete Borrelia
+burgdorferi grown in host-derived tissue co-cultures: role of fibronectin in
+complement-resistance. Experientia. 1996 Apr 15;52(4):364-72. doi:
+10.1007/BF01919542. PMID: 8620942.

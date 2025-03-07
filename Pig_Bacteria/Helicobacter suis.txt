@@ -1,0 +1,142 @@
+1: Rimbara E, Suzuki M, Matsui H, Nakamura M, Morimoto M, Sasakawa C, Masuda H,
+Nomura S, Osaki T, Nagata N, Shibayama K, Tokunaga K. Isolation and
+characterization of <i>Helicobacter suis</i> from human stomach. Proc Natl Acad
+Sci U S A. 2021 Mar 30;118(13):e2026337118. doi: 10.1073/pnas.2026337118. PMID:
+33753513; PMCID: PMC8020762.
+
+2: Berlamont H, Smet A, De Bruykere S, Boyen F, Ducatelle R, Haesebrouck F, De
+Witte C. Antimicrobial susceptibility pattern of Helicobacter suis isolates from
+pigs and macaques. Vet Microbiol. 2019 Dec;239:108459. doi:
+10.1016/j.vetmic.2019.108459. Epub 2019 Nov 2. PMID: 31767067.
+
+3: Lin PJ, Liao CW, Chiang HH, Lo DY, Kuo HC, Wu CF. The prevalence of porcine
+gastric ulcer and Helicobacter suis in Taiwan. J Vet Med Sci. 2024 Jun
+19;86(6):670-676. doi: 10.1292/jvms.23-0403. Epub 2024 May 1. PMID: 38692859;
+PMCID: PMC11187585.
+
+4: Bosschem I, Flahou B, Van Deun K, De Koker S, Volf J, Smet A, Ducatelle R,
+Devriendt B, Haesebrouck F. Species-specific immunity to Helicobacter suis.
+Helicobacter. 2017 Jun;22(3). doi: 10.1111/hel.12375. Epub 2017 Jan 26. PMID:
+28124467.
+
+5: Zhang G, Ducatelle R, Mihi B, Smet A, Flahou B, Haesebrouck F. Helicobacter
+suis affects the health and function of porcine gastric parietal cells. Vet Res.
+2016 Oct 19;47(1):101. doi: 10.1186/s13567-016-0386-1. PMID: 27756386; PMCID:
+PMC5070140.
+
+6: Padra M, Adamczyk B, Benktander J, Flahou B, Skoog EC, Padra JT, Smet A, Jin
+C, Ducatelle R, Samuelsson T, Haesebrouck F, Karlsson NG, Teneberg S, Lindén SK.
+Helicobacter suis binding to carbohydrates on human and porcine gastric mucins
+and glycolipids occurs via two modes. Virulence. 2018 Dec 31;9(1):898-918. doi:
+10.1080/21505594.2018.1460979. PMID: 29638186; PMCID: PMC5955484.
+
+7: Berlamont H, De Witte C, Bauwens E, Min Jou H, Ducatelle R, De Meester E,
+Gansemans Y, Deforce D, Van Nieuwerburgh F, Haesebrouck F, Smet A. Distinct
+transcriptome signatures of Helicobacter suis and Helicobacter heilmannii
+strains upon adherence to human gastric epithelial cells. Vet Res. 2020 May
+7;51(1):62. doi: 10.1186/s13567-020-00786-w. PMID: 32381076; PMCID: PMC7206758.
+
+8: Flahou B, Rossi M, Bakker J, Langermans JA, Heuvelman E, Solnick JV, Martin
+ME, O'Rourke J, Ngoan LD, Hoa NX, Nakamura M, Øverby A, Matsui H, Ota H,
+Matsumoto T, Foss DL, Kopta LA, Omotosho O, Franciosini MP, Casagrande Proietti
+P, Guo A, Liu H, Borilova G, Bracarense AP, Lindén SK, De Bruyckere S, Zhang G,
+De Witte C, Smet A, Pasmans F, Ducatelle R, Corander J, Haesebrouck F. Evidence
+for a primate origin of zoonotic Helicobacter suis colonizing domesticated pigs.
+ISME J. 2018 Jan;12(1):77-86. doi: 10.1038/ismej.2017.145. Epub 2017 Sep 8.
+PMID: 28885626; PMCID: PMC5739005.
+
+9: Padra M, Adamczyk B, Flahou B, Erhardsson M, Chahal G, Smet A, Jin C, Thorell
+A, Ducatelle R, Haesebrouck F, Karlsson NG, Lindén SK. Helicobacter suis
+infection alters glycosylation and decreases the pathogen growth inhibiting
+effect and binding avidity of gastric mucins. Mucosal Immunol. 2019
+May;12(3):784-794. doi: 10.1038/s41385-019-0154-4. Epub 2019 Mar 7. PMID:
+30846831.
+
+10: Zhang G, Ducatelle R, De Bruyne E, Joosten M, Bosschem I, Smet A,
+Haesebrouck F, Flahou B. Role of γ-glutamyltranspeptidase in the pathogenesis of
+Helicobacter suis and Helicobacter pylori infections. Vet Res. 2015 Mar
+13;46:31. doi: 10.1186/s13567-015-0163-6. PMID: 25889172; PMCID: PMC4357089.
+
+11: Augustin AD, Savio A, Nevel A, Ellis RJ, Weller C, Taylor D, Tucker RM,
+Ibrahim MAA, Bjarnason I, Dobbs SM, Dobbs RJ, Charlett A. <i>Helicobacter
+suis</i> Is Associated With Mortality in Parkinson's Disease. Front Med
+(Lausanne). 2019 Aug 28;6:188. doi: 10.3389/fmed.2019.00188. PMID: 31555648;
+PMCID: PMC6724659.
+
+12: García-Ferrús M, González A, Ferrús MA. Detection, isolation and virulence
+characterization of Helicobacter suis from pork products aimed to human
+consumption. Int J Food Microbiol. 2024 Oct 16;427:110936. doi:
+10.1016/j.ijfoodmicro.2024.110936. Epub ahead of print. PMID: 39437682.
+
+13: Taillieu E, Taelman S, De Bruyckere S, Goossens E, Chantziaras I, Van
+Steenkiste C, Yde P, Hanssens S, De Meyer D, Van Criekinge W, Stock M, Maes D,
+Chiers K, Haesebrouck F. The role of Helicobacter suis, Fusobacterium
+gastrosuis, and the pars oesophageal microbiota in gastric ulceration in
+slaughter pigs receiving meal or pelleted feed. Vet Res. 2024 Feb 5;55(1):15.
+doi: 10.1186/s13567-024-01274-1. PMID: 38317242; PMCID: PMC10845778.
+
+14: Berlamont H, Bruggeman A, Bauwens E, Vandendriessche C, Clarebout E, Xie J,
+De Bruyckere S, Van Imschoot G, Van Wonterghem E, Ducatelle R, Santens P, Smet
+A, Haesebrouck F, Vandenbroucke RE. Gastric <i>Helicobacter suis</i> Infection
+Partially Protects against Neurotoxicity in A 6-OHDA Parkinson's Disease Mouse
+Model. Int J Mol Sci. 2021 Oct 20;22(21):11328. doi: 10.3390/ijms222111328.
+PMID: 34768765; PMCID: PMC8582972.
+
+15: De Witte C, Devriendt B, Flahou B, Bosschem I, Ducatelle R, Smet A,
+Haesebrouck F. Helicobacter suis induces changes in gastric inflammation and
+acid secretion markers in pigs of different ages. Vet Res. 2017 Jun 15;48(1):34.
+doi: 10.1186/s13567-017-0441-6. PMID: 28619040; PMCID: PMC5473008.
+
+16: Kawakubo M, Horiuchi K, Komura H, Sato Y, Kato M, Ikeyama M, Fukushima M,
+Yamada S, Ishizone S, Matsumoto T, Ota H, Sagara J, Nakayama J. Cloning of
+Helicobacter suis cholesterol α-glucosyltransferase and production of an
+antibody capable of detecting it in formalin-fixed, paraffin-embedded gastric
+tissue sections. Histochem Cell Biol. 2017 Oct;148(4):463-471. doi:
+10.1007/s00418-017-1582-4. Epub 2017 May 22. PMID: 28534071.
+
+17: Bosschem I, Bayry J, De Bruyne E, Van Deun K, Smet A, Vercauteren G,
+Ducatelle R, Haesebrouck F, Flahou B. Effect of Different Adjuvants on
+Protection and Side-Effects Induced by Helicobacter suis Whole-Cell Lysate
+Vaccination. PLoS One. 2015 Jun 26;10(6):e0131364. doi:
+10.1371/journal.pone.0131364. PMID: 26115373; PMCID: PMC4482594.
+
+18: Bosschem I, Flahou B, Bakker J, Heuvelman E, Langermans JA, De Bruyne E,
+Joosten M, Smet A, Ducatelle R, Haesebrouck F. Comparative virulence of in
+vitro-cultured primate- and pig-associated Helicobacter suis strains in a BALB/c
+mouse and a Mongolian gerbil model. Helicobacter. 2017 Apr;22(2). doi:
+10.1111/hel.12349. Epub 2016 Aug 24. PMID: 27558281.
+
+19: Blaecher C, Bauwens E, Tay A, Peters F, Dobbs S, Dobbs J, Charlett A,
+Ducatelle R, Haesebrouck F, Smet A. A novel isolation protocol and probe-based
+RT-PCR for diagnosis of gastric infections with the zoonotic pathogen
+Helicobacter suis. Helicobacter. 2017 Jun;22(3). doi: 10.1111/hel.12369. Epub
+2016 Dec 28. PMID: 28029188.
+
+20: Constantino MA, Jabbarzadeh M, Fu HC, Shen Z, Fox JG, Haesebrouck F, Linden
+SK, Bansil R. Bipolar lophotrichous Helicobacter suis combine extended and
+wrapped flagella bundles to exhibit multiple modes of motility. Sci Rep. 2018
+Sep 26;8(1):14415. doi: 10.1038/s41598-018-32686-7. PMID: 30258065; PMCID:
+PMC6158295.
+
+21: De Witte C, Demeyere K, De Bruyckere S, Taminiau B, Daube G, Ducatelle R,
+Meyer E, Haesebrouck F. Characterization of the non-glandular gastric region
+microbiota in Helicobacter suis-infected versus non-infected pigs identifies a
+potential role for Fusobacterium gastrosuis in gastric ulceration. Vet Res. 2019
+May 24;50(1):39. doi: 10.1186/s13567-019-0656-9. PMID: 31126330; PMCID:
+PMC6534906.
+
+22: De Witte C, Taminiau B, Flahou B, Hautekiet V, Daube G, Ducatelle R,
+Haesebrouck F. In-feed bambermycin medication induces anti-inflammatory effects
+and prevents parietal cell loss without influencing Helicobacter suis
+colonization in the stomach of mice. Vet Res. 2018 Apr 10;49(1):35. doi:
+10.1186/s13567-018-0530-1. PMID: 29636083; PMCID: PMC5894178.
+
+23: De Witte C, Berlamont H, Smet A, Ducatelle R, Haesebrouck F. Rhesus macaques
+are most likely the ancestral source of Helicobacter suis infection in pigs and
+not cynomolgus macaques. Helicobacter. 2020 Jun;25(3):e12689. doi:
+10.1111/hel.12689. Epub 2020 Mar 26. PMID: 32219893.
+
+24: Liang J, De Bruyne E, Ducatelle R, Smet A, Haesebrouck F, Flahou B.
+Purification of Helicobacter suis Strains From Biphasic Cultures by Single
+Colony Isolation: Influence on Strain Characteristics. Helicobacter. 2015
+Jun;20(3):206-16. doi: 10.1111/hel.12192. Epub 2015 Jan 12. PMID: 25582323.

@@ -1,0 +1,233 @@
+1: Lagarde J, Feurer C, Denis M, Douarre PE, Piveteau P, Roussel S. Listeria
+monocytogenes prevalence and genomic diversity along the pig and pork production
+chain. Food Microbiol. 2024 May;119:104430. doi: 10.1016/j.fm.2023.104430. Epub
+2023 Nov 25. PMID: 38225039.
+
+2: Denis M, Ziebal C, Boscher E, Picard S, Perrot M, Nova MV, Roussel S, Diara
+A, Pourcher AM. Occurrence and Diversity of Listeria monocytogenes Isolated from
+Two Pig Manure Treatment Plants in France. Microbes Environ. 2022;37(4):ME22019.
+doi: 10.1264/jsme2.ME22019. PMID: 36372433; PMCID: PMC9763045.
+
+3: Cavalcanti AAC, Limeira CH, Siqueira IN, Lima AC, Medeiros FJP, Souza JG,
+Medeiros NGA, Oliveira Filho AA, Melo MA. The prevalence of Listeria
+monocytogenes in meat products in Brazil: A systematic literature review and
+meta-analysis. Res Vet Sci. 2022 Jul;145:169-176. doi:
+10.1016/j.rvsc.2022.02.015. Epub 2022 Feb 9. PMID: 35217271.
+
+4: Hong S, Moon JS, Yoon SS, Kim HY, Lee YJ. Genetic and Phenotypic Diversity of
+<i>Listeria monocytogenes</i> in Pig Slaughterhouses in Korea. Foodborne Pathog
+Dis. 2024 Jan;21(1):1-9. doi: 10.1089/fpd.2023.0053. Epub 2023 Oct 10. PMID:
+37819680.
+
+5: Wang Y, Meng F, Deng X, Yang Y, Li S, Jiao X, Li S, Liu M. Genomic
+epidemiology of hypervirulent Listeria monocytogenes CC619: Population
+structure, phylodynamics and virulence. Microbiol Res. 2024 Mar;280:127591. doi:
+10.1016/j.micres.2023.127591. Epub 2023 Dec 22. PMID: 38181481.
+
+6: Gómez-Laguna J, Cardoso-Toset F, Meza-Torres J, Pizarro-Cerdá J, Quereda JJ.
+Virulence potential of <i>Listeria monocytogenes</i> strains recovered from pigs
+in Spain. Vet Rec. 2020 Nov 28;187(11):e101. doi: 10.1136/vr.105945. Epub 2020
+Oct 6. PMID: 33024008.
+
+7: Pérez-Baltar A, Pérez-Boto D, Medina M, Montiel R. Genomic diversity and
+characterization of Listeria monocytogenes from dry-cured ham processing plants.
+Food Microbiol. 2021 Oct;99:103779. doi: 10.1016/j.fm.2021.103779. Epub 2021 Mar
+11. PMID: 34119091.
+
+8: Tadielo LE, Dos Santos EAR, Possebon FS, Schmiedt JA, Juliano LCB, Cerqueira-
+Cézar CK, de Oliveira JP, Sampaio ANDCE, Melo PRL, Caron EFF, Pinto JPAN, Bersot
+LDS, Pereira JG. Characterization of microbial ecology, Listeria monocytogenes,
+and Salmonella sp. on equipment and utensil surfaces in Brazilian poultry, pork,
+and dairy industries. Food Res Int. 2023 Nov;173(Pt 2):113422. doi:
+10.1016/j.foodres.2023.113422. Epub 2023 Sep 4. PMID: 37803760.
+
+9: Demaître N, Van Damme I, De Zutter L, Geeraerd AH, Rasschaert G, De Reu K.
+Occurrence, distribution and diversity of Listeria monocytogenes contamination
+on beef and pig carcasses after slaughter. Meat Sci. 2020 Nov;169:108177. doi:
+10.1016/j.meatsci.2020.108177. Epub 2020 May 7. PMID: 32544760.
+
+10: Filipello V, Mughini-Gras L, Gallina S, Vitale N, Mannelli A, Pontello M,
+Decastelli L, Allard MW, Brown EW, Lomonaco S. Attribution of Listeria
+monocytogenes human infections to food and animal sources in Northern Italy.
+Food Microbiol. 2020 Aug;89:103433. doi: 10.1016/j.fm.2020.103433. Epub 2020 Jan
+20. PMID: 32138991.
+
+11: Cava R, Higuero N, Ladero L. High-pressure processing and storage
+temperature on Listeria monocytogenes, microbial counts and oxidative changes of
+two traditional dry-cured meat products. Meat Sci. 2021 Jan;171:108273. doi:
+10.1016/j.meatsci.2020.108273. Epub 2020 Aug 3. PMID: 32784037.
+
+12: Alvarez-Molina A, Cobo-Díaz JF, López M, Prieto M, de Toro M, Alvarez-
+Ordóñez A. Unraveling the emergence and population diversity of Listeria
+monocytogenes in a newly built meat facility through whole genome sequencing.
+Int J Food Microbiol. 2021 Feb 16;340:109043. doi:
+10.1016/j.ijfoodmicro.2021.109043. Epub 2021 Jan 4. PMID: 33454520.
+
+13: Cusimano MG, Di Stefano V, La Giglia M, Di Marco Lo Presti V, Schillaci D,
+Pomilio F, Vitale M. Control of Growth and Persistence of <i>Listeria
+monocytogenes</i> and β-Lactam-Resistant <i>Escherichia coli</i> by Thymol in
+Food Processing Settings. Molecules. 2020 Jan 17;25(2):383. doi:
+10.3390/molecules25020383. PMID: 31963433; PMCID: PMC7024322.
+
+14: Ledlod S, Areekit S, Santiwatanakul S, Chansiri K. Colorimetric aptasensor
+for detecting <i>Salmonella</i> spp., <i>Listeria monocytogenes</i>, and
+<i>Escherichia coli</i> in meat samples. Food Sci Technol Int. 2020
+Jul;26(5):430-443. doi: 10.1177/1082013219899593. Epub 2020 Jan 16. PMID:
+31948282.
+
+15: Liang S, Ji L, Zhong Y, Wang T, Yang H, Li QL, Li X, Zhao S. Fluorescence
+immunoassay for the targeted determination of trace <i>Listeria
+monocytogenes</i> based on immunomagnetic separation and CdZnTe quantum dot
+indication. Anal Methods. 2022 Mar 17;14(11):1124-1133. doi: 10.1039/d1ay02106k.
+PMID: 35212322.
+
+16: Ryan VE, Bailey TW, Liu D, Vemulapalli T, Cooper B, Cox AD, Bhunia AK.
+Listeria adhesion protein-expressing bioengineered probiotics prevent
+fetoplacental transmission of Listeria monocytogenes in a pregnant Guinea pig
+model. Microb Pathog. 2021 Feb;151:104752. doi: 10.1016/j.micpath.2021.104752.
+Epub 2021 Jan 21. PMID: 33484805.
+
+17: Glass KA, Golden MC, Wanless BJ, Conklin T, Schweihofer JP, Schill KM.
+Inhibition of Listeria monocytogenes and Clostridium botulinum in Uncured
+Shredded Pork and Turkey Packaged Under Reduced Oxygen Conditions. J Food Prot.
+2024 Jun;87(6):100271. doi: 10.1016/j.jfp.2024.100271. Epub 2024 Mar 30. PMID:
+38561027.
+
+18: Wang X, Liu Y, Shi X, Chen H, Zhao C, Li J, Wang J. Colorimetric
+determination of Listeria monocytogenes using aptamer and urease dual-labeled
+magnetic nanoparticles and cucurbit[7]uril-mediated supramolecular assembly of
+gold nanoparticle. Mikrochim Acta. 2021 Dec 30;189(1):41. doi:
+10.1007/s00604-021-05130-3. PMID: 34970724.
+
+19: Guo P, Li Z, Cai T, Guo D, Yang B, Zhang C, Shan Z, Wang X, Peng X, Liu G,
+Shi C, Alharbi M, Alasmari AF. Inhibitory effect and mechanism of oregano
+essential oil on Listeria monocytogenes cells, toxins and biofilms. Microb
+Pathog. 2024 Sep;194:106801. doi: 10.1016/j.micpath.2024.106801. Epub 2024 Jul
+16. PMID: 39025378.
+
+20: Cherifi T, Arsenault J, Pagotto F, Quessy S, Côté JC, Neira K, Fournaise S,
+Bekal S, Fravalo P. Distribution, diversity and persistence of Listeria
+monocytogenes in swine slaughterhouses and their association with food and human
+listeriosis strains. PLoS One. 2020 Aug 6;15(8):e0236807. doi:
+10.1371/journal.pone.0236807. PMID: 32760141; PMCID: PMC7410256.
+
+21: Lucas JR, Alía A, Velasco R, Selgas MD, Cabeza MC. Effect of E-beam
+treatment on expression of virulence and stress-response genes of Listeria
+monocytogenes in dry-cured ham. Int J Food Microbiol. 2021 Feb 16;340:109057.
+doi: 10.1016/j.ijfoodmicro.2021.109057. Epub 2021 Jan 12. PMID: 33460999.
+
+22: Porto-Fett ACS, Espuña E, Shane LE, Shoyer BA, McGeary L, Vinyard BT,
+Stahler LJ, Osoria M, Luchansky JB. Viability of Shiga Toxin-Producing
+Escherichia coli, Salmonella spp., and Listeria monocytogenes during Preparation
+and Storage of Fuet, a Traditional Dry-Cured Spanish Pork Sausage. J Food Prot.
+2022 May 1;85(5):879-889. doi: 10.4315/JFP-21-356. PMID: 35294002.
+
+23: Silva DAL, Botelho CV, Martins BTF, Tavares RM, Camargo AC, Yamatogi RS,
+Bersot LS, Nero LA. Listeria monocytogenes From Farm to Fork in a Brazilian Pork
+Production Chain. J Food Prot. 2020 Mar 1;83(3):485-490. doi:
+10.4315/0362-028X.JFP-19-379. PMID: 32065647.
+
+24: Dos Santos RL, Davanzo EFA, Palma JM, Castro VHL, da Costa HMB, Dallago BSL,
+Perecmanis S, Santana ÂP. Molecular characterization and biofilm-formation
+analysis of Listeria monocytogenes, Salmonella spp., and Escherichia coli
+isolated from Brazilian swine slaughterhouses. PLoS One. 2022 Sep
+20;17(9):e0274636. doi: 10.1371/journal.pone.0274636. PMID: 36126071; PMCID:
+PMC9488830.
+
+25: Shedleur-Bourguignon F, Thériault WP, Longpré J, Thibodeau A, Fravalo P. Use
+of an Ecosystem-Based Approach to Shed Light on the Heterogeneity of the
+Contamination Pattern of <i>Listeria monocytogenes</i> on Conveyor Belt Surfaces
+in a Swine Slaughterhouse in the Province of Quebec, Canada. Pathogens. 2021 Oct
+22;10(11):1368. doi: 10.3390/pathogens10111368. PMID: 34832524; PMCID:
+PMC8625388.
+
+26: Rugna G, Carra E, Bergamini F, Franzini G, Faccini S, Gattuso A, Morganti M,
+Baldi D, Naldi S, Serraino A, Piva S, Merialdi G, Giacometti F. Distribution,
+virulence, genotypic characteristics and antibiotic resistance of Listeria
+monocytogenes isolated over one-year monitoring from two pig slaughterhouses and
+processing plants and their fresh hams. Int J Food Microbiol. 2021 Jan
+2;336:108912. doi: 10.1016/j.ijfoodmicro.2020.108912. Epub 2020 Oct 9. PMID:
+33091754.
+
+27: Shi W, Zhang Q, Li H, Du D, Ma X, Wang J, Jiang J, Liu C, Kou L, Ren J.
+Biofilm Formation, Motility, and Virulence of <i>Listeria monocytogenes</i> Are
+Reduced by Deletion of the Gene <i>lmo0159</i>, a Novel Listerial LPXTG Surface
+Protein. Microorganisms. 2024 Jul 2;12(7):1354. doi:
+10.3390/microorganisms12071354. PMID: 39065121; PMCID: PMC11278909.
+
+28: Sanchez-Reinoso Z, Todeschini S, Thibodeau J, Ben Said L, Fliss I, Bazinet
+L, Mikhaylin S. Biocontrol Strategy of <i>Listeria monocytogenes</i> in Ready-
+to-Eat Pork Cooked Ham Using Peptic Hydrolysates of Porcine Hemoglobin. Foods.
+2024 Jul 29;13(15):2394. doi: 10.3390/foods13152394. PMID: 39123585; PMCID:
+PMC11311599.
+
+29: Abel T, Boulaaba A, Lis K, Abdulmawjood A, Plötz M, Becker A. Inactivation
+of Listeria monocytogenes in game meat applying sous vide cooking conditions.
+Meat Sci. 2020 Sep;167:108164. doi: 10.1016/j.meatsci.2020.108164. Epub 2020 Apr
+25. PMID: 32361331.
+
+30: Sereno MJ, Viana C, Pegoraro K, da Silva DAL, Yamatogi RS, Nero LA, Bersot
+LDS. Distribution, adhesion, virulence and antibiotic resistance of persistent
+Listeria monocytogenes in a pig slaughterhouse in Brazil. Food Microbiol. 2019
+Dec;84:103234. doi: 10.1016/j.fm.2019.05.018. Epub 2019 May 30. PMID: 31421784.
+
+31: Montiel R, Peirotén Á, Ortiz S, Bravo D, Gaya P, Martínez-Suárez JV,
+Tapiador J, Nuñez M, Medina M. Inactivation of Listeria monocytogenes during
+dry-cured ham processing. Int J Food Microbiol. 2020 Apr 2;318:108469. doi:
+10.1016/j.ijfoodmicro.2019.108469. Epub 2019 Dec 2. PMID: 31837591.
+
+32: Serra-Castelló C, Jofré A, Garriga M, Bover-Cid S. Modeling and designing a
+Listeria monocytogenes control strategy for dry-cured ham taking advantage of
+water activity and storage temperature. Meat Sci. 2020 Jul;165:108131. doi:
+10.1016/j.meatsci.2020.108131. Epub 2020 Mar 21. PMID: 32229407.
+
+33: Yang H, Meng Y, Han X, Meng X, Yang B, Zhang C, Wang X, Yu J, Al-Asmari F,
+Dablool AS, Sameeh MY, Shi C. Changes in the ability of Listeria monocytogenes
+to resist thermal treatment and simulated gastric condition after exposure to
+sequential stresses in minced meat. Food Res Int. 2024 Sep;192:114765. doi:
+10.1016/j.foodres.2024.114765. Epub 2024 Jul 14. PMID: 39147557.
+
+34: Serra-Castelló C, Ferrocino I, Jofré A, Cocolin L, Bover-Cid S, Rantsiou K.
+Unravelling the Molecular Mechanisms Underlying the Protective Effect of Lactate
+on the High-Pressure Resistance of <i>Listeria monocytogenes</i>. Biomolecules.
+2021 Apr 30;11(5):677. doi: 10.3390/biom11050677. PMID: 33946460; PMCID:
+PMC8147161.
+
+35: Liu Y, Sun W, Sun T, Gorris LGM, Wang X, Liu B, Dong Q. The prevalence of
+Listeria monocytogenes in meat products in China: A systematic literature review
+and novel meta-analysis approach. Int J Food Microbiol. 2020 Jan 2;312:108358.
+doi: 10.1016/j.ijfoodmicro.2019.108358. Epub 2019 Oct 5. PMID: 31655356.
+
+36: D'Arrigo M, Mateo-Vivaracho L, Guillamón E, Fernández-León MF, Bravo D,
+Peirotén Á, Medina M, García-Lafuente A. Characterization of persistent Listeria
+monocytogenes strains from ten dry-cured ham processing facilities. Food
+Microbiol. 2020 Dec;92:103581. doi: 10.1016/j.fm.2020.103581. Epub 2020 Jun 28.
+PMID: 32950165.
+
+37: Manyi-Loh CE, Okoh AI, Lues R. Occurrence and Multidrug Resistance in
+Strains of <i>Listeria monocytogenes</i> Recovered from the Anaerobic Co-
+Digestion Sludge Contained in a Single Stage Steel Biodigester: Implications for
+Antimicrobial Stewardship. Microorganisms. 2023 Mar 11;11(3):725. doi:
+10.3390/microorganisms11030725. PMID: 36985298; PMCID: PMC10056191.
+
+38: Pérez-Baltar A, Serrano A, Montiel R, Medina M. Listeria monocytogenes
+inactivation in deboned dry-cured hams by high pressure processing. Meat Sci.
+2020 Feb;160:107960. doi: 10.1016/j.meatsci.2019.107960. Epub 2019 Oct 17. PMID:
+31669860.
+
+39: Zhou C, Chang X, Zou Y, Zhao F, Zhou G, Ye K. The mechanism of Enterococcus
+faecium on the virulence of Listeria monocytogenes during the storage of
+fermented sausages by whole genome analysis. Int J Food Microbiol. 2024 Sep
+16;422:110826. doi: 10.1016/j.ijfoodmicro.2024.110826. Epub 2024 Jul 14. PMID:
+39024730.
+
+40: Wang Y, Li X, Lu Y, Wang J, Suo B. Synergistic effect of cinnamaldehyde on
+the thermal inactivation of <i>Listeria monocytogenes</i> in ground pork. Food
+Sci Technol Int. 2020 Jan;26(1):28-37. doi: 10.1177/1082013219867190. Epub 2019
+Aug 9. PMID: 31399018.
+
+41: Ripolles-Avila C, Ramos-Rubio M, Hascoët AS, Castillo M, Rodríguez-Jerez JJ.
+New approach for the removal of mature biofilms formed by wild strains of
+Listeria monocytogenes isolated from food contact surfaces in an Iberian pig
+processing plant. Int J Food Microbiol. 2020 Jun 16;323:108595. doi:
+10.1016/j.ijfoodmicro.2020.108595. Epub 2020 Mar 19. PMID: 32224347.

@@ -1,0 +1,105 @@
+1: Costa MO, Harding JCS. Swine dysentery disease mechanism: Brachyspira
+hampsonii impairs the colonic immune and epithelial repair responses to induce
+lesions. Microb Pathog. 2020 Nov;148:104470. doi: 10.1016/j.micpath.2020.104470.
+Epub 2020 Sep 1. PMID: 32889046.
+
+2: Costa MO, Chaban B, Harding JC, Hill JE. Characterization of the fecal
+microbiota of pigs before and after inoculation with "Brachyspira hampsonii".
+PLoS One. 2014 Aug 28;9(8):e106399. doi: 10.1371/journal.pone.0106399. PMID:
+25166307; PMCID: PMC4148400.
+
+3: Costa MO, Fernando C, Nosach R, Harding JCS, Hill JE. Infection of porcine
+colon explants with "Brachyspira hampsonii" leads to increased epithelial
+necrosis and catarrhal exudate. Pathog Dis. 2017 Apr 1;75(3). doi:
+10.1093/femspd/ftx032. PMID: 28369531.
+
+4: Mirajkar NS, Phillips ND, La T, Hampson DJ, Gebhart CJ. Characterization and
+Recognition of Brachyspira hampsonii sp. nov., a Novel Intestinal Spirochete
+That Is Pathogenic to Pigs. J Clin Microbiol. 2016 Dec;54(12):2942-2949. doi:
+10.1128/JCM.01717-16. Epub 2016 Sep 14. PMID: 27629903; PMCID: PMC5121383.
+
+5: Cybulski P, Strutzberg-Minder K, Michalik E, Kondratiuk R, Jabłoński A. First
+molecular detection of Brachyspira hampsonii on pig farms in Poland. Acta Vet
+Hung. 2024 Jun 19;72(2):66-70. doi: 10.1556/004.2024.00960. PMID: 38896488.
+
+6: Rohde J, Habighorst-Blome K, Seehusen F. "Brachyspira hampsonii" clade I
+isolated from Belgian pigs imported to Germany. Vet Microbiol. 2014 Jan
+31;168(2-4):432-5. doi: 10.1016/j.vetmic.2013.11.016. Epub 2013 Nov 22. PMID:
+24332829.
+
+7: Wilberts BL, Arruda PH, Kinyon JM, Madson DM, Frana TS, Burrough ER.
+Comparison of sesion severity, distribution, and colonic mucin expression in
+pigs with acute swine dysentery following oral inoculation with "Brachyspira
+hampsonii" or Brachyspira hyodysenteriae. Vet Pathol. 2014 Nov;51(6):1096-108.
+doi: 10.1177/0300985813516646. Epub 2014 Feb 27. PMID: 24577722.
+
+8: Hill JE, Detmer SE, Fernando C, Derbawka SA, Nosach R, Harding JCS.
+Retrospective detection of Brachyspira hampsonii in archived colitis cases from
+western Canadian swine. Transbound Emerg Dis. 2019 Jan;66(1):381-388. doi:
+10.1111/tbed.13032. Epub 2018 Oct 16. PMID: 30281940.
+
+9: Scherrer S, Borgström A, Frei D, Wittenbrink MM. First screening for
+Brachyspira hampsonii in Swiss pigs applying a new high resolution melting
+assay. Vet Microbiol. 2016 Sep 25;193:17-21. doi: 10.1016/j.vetmic.2016.07.020.
+Epub 2016 Jul 29. PMID: 27599925.
+
+10: Ek CE, Nosach R, Fernando C, Huang Y, Perez JBDS, Costa MO, Ekanayake S,
+Hill JE, Harding JCS. An optimized swine dysentery murine model to characterize
+shedding and clinical disease associated with "Brachyspira hampsonii" infection.
+BMC Vet Res. 2017 Aug 22;13(1):261. doi: 10.1186/s12917-017-1166-5. PMID:
+28830508; PMCID: PMC5568335.
+
+11: Rubin JE, Costa MO, Hill JE, Kittrell HE, Fernando C, Huang Y, O'Connor B,
+Harding JC. Reproduction of mucohaemorrhagic diarrhea and colitis
+indistinguishable from swine dysentery following experimental inoculation with
+"Brachyspira hampsonii" strain 30446. PLoS One. 2013;8(2):e57146. doi:
+10.1371/journal.pone.0057146. Epub 2013 Feb 27. PMID: 23460829; PMCID:
+PMC3584117.
+
+12: Aller-Morán LM, Martínez-Lobo FJ, Rubio P, Carvajal A. Experimental
+infection of conventional pigs with a 'Brachyspira hampsonii' isolate recovered
+from a migrating waterfowl in Spain. Vet J. 2016 Aug;214:10-3. doi:
+10.1016/j.tvjl.2016.02.001. Epub 2016 Feb 12. PMID: 27387719.
+
+13: Wilberts BL, Arruda PH, Warneke HL, Erlandson KR, Hammer JM, Burrough ER.
+Cessation of clinical disease and spirochete shedding after tiamulin treatment
+in pigs experimentally infected with "Brachyspira hampsonii". Res Vet Sci. 2014
+Oct;97(2):341-7. doi: 10.1016/j.rvsc.2014.08.004. Epub 2014 Aug 27. PMID:
+25218812.
+
+14: Perez JBDS, Fernando C, Nosach RV, Huang Y, Harding JCS, Hill JE. In vitro
+attenuation of a virulent swine isolate of Brachyspira hampsonii. Pathog Dis.
+2018 Feb 1;76(1). doi: 10.1093/femspd/ftx116. PMID: 29069340.
+
+15: Burrough ER, Wilberts BL, Bower LP, Jergens AE, Schwartz KJ. Fluorescent in
+situ hybridization for detection of "Brachyspira hampsonii" in porcine colonic
+tissues. J Vet Diagn Invest. 2013 May;25(3):407-12. doi:
+10.1177/1040638713485228. Epub 2013 Apr 9. PMID: 23572452.
+
+16: Wilberts BL, Warneke HL, Bower LP, Kinyon JM, Burrough ER. Comparison of
+culture, polymerase chain reaction, and fluorescent in situ hybridization for
+detection of Brachyspira hyodysenteriae and "Brachyspira hampsonii" in pig
+feces. J Vet Diagn Invest. 2015 Jan;27(1):41-6. doi: 10.1177/1040638714563064.
+PMID: 25525136.
+
+17: Mahu M, de Jong E, De Pauw N, Vande Maele L, Vandenbroucke V, Vandersmissen
+T, Miry C, Pasmans F, Haesebrouck F, Martel A, Boyen F. First isolation of
+"Brachyspira hampsonii" from pigs in Europe. Vet Rec. 2014 Jan 11;174(2):47.
+doi: 10.1136/vr.101868. Epub 2013 Dec 11. PMID: 24336763.
+
+18: Costa MO, Hill JE, Fernando C, Lemieux HD, Detmer SE, Rubin JE, Harding JC.
+Confirmation that "Brachyspira hampsonii" clade I (Canadian strain 30599) causes
+mucohemorrhagic diarrhea and colitis in experimentally infected pigs. BMC Vet
+Res. 2014 Jun 10;10:129. doi: 10.1186/1746-6148-10-129. PMID: 24917084; PMCID:
+PMC4059474.
+
+19: Patterson AH, Rubin JE, Fernando C, Costa MO, Harding JC, Hill JE. Fecal
+shedding of Brachyspira spp. on a farrow-to-finish swine farm with a clinical
+history of "Brachyspira hampsonii"-associated colitis. BMC Vet Res. 2013 Jul
+11;9:137. doi: 10.1186/1746-6148-9-137. PMID: 23844564; PMCID: PMC3716975.
+
+20: Warneke HL, Kinyon JM, Bower LP, Burrough ER, Frana TS. Matrix-assisted
+laser desorption ionization time-of-flight mass spectrometry for rapid
+identification of Brachyspira species isolated from swine, including the newly
+described "Brachyspira hampsonii". J Vet Diagn Invest. 2014 Sep;26(5):635-9.
+doi: 10.1177/1040638714541114. Epub 2014 Jul 10. PMID: 25012082.

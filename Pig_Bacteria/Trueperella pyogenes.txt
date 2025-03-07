@@ -1,0 +1,123 @@
+1: Fujimoto H, Nakamura T, Sato A, Chuma T. Antimicrobial susceptibility of
+Trueperella pyogenes isolated from cattle and pigs with septicemia in southern
+Kyushu, Japan. J Vet Med Sci. 2023 Mar 28;85(3):379-382. doi:
+10.1292/jvms.22-0460. Epub 2023 Mar 10. PMID: 36775333; PMCID: PMC10076195.
+
+2: Qin L, Meng F, He H, Yang YB, Wang G, Tang YD, Sun M, Zhang W, Cai X, Wang S.
+A Virulent <i>Trueperella pyogenes</i> Isolate, Which Causes Severe
+Bronchoconstriction in Porcine Precision-Cut Lung Slices. Front Vet Sci. 2022
+Jan 31;8:824349. doi: 10.3389/fvets.2021.824349. PMID: 35174243; PMCID:
+PMC8841747.
+
+3: Risseti RM, Zastempowska E, Twarużek M, Lassa H, Pantoja JCF, de Vargas APC,
+Guerra ST, Bolaños CAD, de Paula CL, Alves AC, Colhado BS, Portilho FVR, Tasca
+C, Lara GHB, Ribeiro MG. Virulence markers associated with Trueperella pyogenes
+infections in livestock and companion animals. Lett Appl Microbiol. 2017
+Aug;65(2):125-132. doi: 10.1111/lam.12757. PMID: 28561264.
+
+4: Dong WL, Kong LC, Wang Y, Gou CL, Xu B, Ma HX, Gao YH. Aminoglycoside
+resistance of Trueperella pyogenes isolated from pigs in China. J Vet Med Sci.
+2017 Nov 17;79(11):1836-1839. doi: 10.1292/jvms.16-0597. Epub 2017 Oct 2. PMID:
+28966231; PMCID: PMC5709561.
+
+5: Qin L, Meng F, He H, Li S, Zhang H, Sun Y, Zhang W, An T, Cai X, Wang S.
+Inflammation plays a critical role in damage to the bronchiolar epithelium
+induced by <i>Trueperella pyogenes in vitro</i> and <i>in vivo</i>. Infect
+Immun. 2023 Dec 12;91(12):e0027323. doi: 10.1128/iai.00273-23. Epub 2023 Nov 6.
+PMID: 37929972; PMCID: PMC10714949.
+
+6: Karthik K, Anbazhagan S, Chitra MA, Sridhar R. Comparative phylogenomics of
+Trueperella pyogenes reveals host-based distinction of strains. Antonie Van
+Leeuwenhoek. 2023 Apr;116(4):343-351. doi: 10.1007/s10482-022-01806-9. Epub 2023
+Jan 4. PMID: 36598708.
+
+7: Kwiecień E, Stefańska I, Chrobak-Chmiel D, Kizerwetter-Świda M, Moroz A,
+Olech W, Spinu M, Binek M, Rzewuska M. <i>Trueperella pyogenes</i> Isolates from
+Livestock and European Bison (<i>Bison bonasus</i>) as a Reservoir of
+Tetracycline Resistance Determinants. Antibiotics (Basel). 2021 Apr 3;10(4):380.
+doi: 10.3390/antibiotics10040380. PMID: 33916765; PMCID: PMC8065510.
+
+8: Karthik K, Anbazhagan S, Ananda Chitra M, Bharathi R, Venkataramanan R,
+Manobhavan M, Meenakshi Sundaram S, Sridhar R. Comparative genomics of
+Trueperella pyogenes available in the genome database reveals multidrug
+resistance genomic islands. J Glob Antimicrob Resist. 2022 Dec;31:216-221. doi:
+10.1016/j.jgar.2022.09.011. Epub 2022 Oct 6. PMID: 36210029.
+
+9: da Silva AP, Shivaprasad HL, Jerry C, Stoute S. An Uncommon Case of
+<i>Trueperella pyogenes</i> Infection in an Adult Backyard Rooster and a
+Retrospective Study; 2000-20. Avian Dis. 2021 Mar;65(1):171-176. doi:
+10.1637/aviandiseases-D-20-00125. PMID: 34339137.
+
+10: Galán-Relaño Á, Gómez-Gascón L, Rodríguez-Franco A, Luque I, Huerta B,
+Tarradas C, Rodríguez-Ortega MJ. Search of Potential Vaccine Candidates against
+<i>Trueperella pyogenes</i> Infections through Proteomic and Bioinformatic
+Analysis. Vaccines (Basel). 2020 Jun 17;8(2):314. doi: 10.3390/vaccines8020314.
+PMID: 32560444; PMCID: PMC7350218.
+
+11: Fujimoto H, Shimoji N, Sunagawa T, Sanga G, Chuma T. Differences in
+antimicrobial resistance-related genes of Trueperella pyogenes between isolates
+detected from cattle and pigs. J Vet Med Sci. 2024 Nov 1;86(11):1119-1123. doi:
+10.1292/jvms.24-0180. Epub 2024 Sep 19. PMID: 39293943.
+
+12: Liu N, Shan Q, Wu X, Xu L, Li Y, Wang J, Wang X, Zhu Y. Phenotypic
+Characteristics, Antimicrobial Susceptibility and Virulence Genotype Features of
+<i>Trueperella pyogenes</i> Associated with Endometritis of Dairy Cows. Int J
+Mol Sci. 2024 Apr 3;25(7):3974. doi: 10.3390/ijms25073974. PMID: 38612785;
+PMCID: PMC11012078.
+
+13: Fujimoto H, Shimoji N, Sunagawa T, Kubozono K, Nakajima C, Chuma T.
+Differences in phenotypic and genetic characteristics of Trueperella pyogenes
+detected in slaughtered cattle and pigs with septicemia. J Vet Med Sci. 2020 May
+20;82(5):626-631. doi: 10.1292/jvms.19-0370. Epub 2020 Mar 24. PMID: 32213728;
+PMCID: PMC7273585.
+
+14: Galán-Relaño Á, Gómez-Gascón L, Luque I, Barrero-Domínguez B, Casamayor A,
+Cardoso-Toset F, Vela AI, Fernández-Garayzábal JF, Tarradas C. Antimicrobial
+susceptibility and genetic characterization of Trueperella pyogenes isolates
+from pigs reared under intensive and extensive farming practices. Vet Microbiol.
+2019 May;232:89-95. doi: 10.1016/j.vetmic.2019.04.011. Epub 2019 Apr 9. PMID:
+31030851.
+
+15: Dong WL, Liu L, Odah KA, Atiah LA, Gao YH, Kong LC, Ma HX. Antimicrobial
+resistance and presence of virulence factor genes in Trueperella pyogenes
+isolated from pig lungs with pneumonia. Trop Anim Health Prod. 2019
+Sep;51(7):2099-2103. doi: 10.1007/s11250-019-01916-z. Epub 2019 May 19. PMID:
+31104226.
+
+16: Moreno LZ, Matajira CEC, da Costa BLP, Ferreira TSP, Silva GFR, Dutra MC,
+Gomes VTM, Silva APS, Christ APG, Sato MIZ, Moreno AM. Characterization of
+porcine Trueperella pyogenes by matrix-assisted laser desorption ionization-time
+of flight mass spectrometry (MALDI-TOF MS), molecular typing and antimicrobial
+susceptibility profiling in Sao Paulo State. Comp Immunol Microbiol Infect Dis.
+2017 Apr;51:49-53. doi: 10.1016/j.cimid.2017.03.005. Epub 2017 Mar 29. PMID:
+28504095.
+
+17: Ashrafi Tamai I, Mohammadzadeh A, Ghalyanchi Langeroudi A, Mahmoodi P,
+Ziafati Kafi Z, Pakbin B, Zahraei Salehi T. Complete genome sequence of
+Trueperella pyogenes strain Arash114, isolated from the uterus of a water
+buffalo (Bubalus bubalis) in Iran. BMC Res Notes. 2021 Aug 23;14(1):323. doi:
+10.1186/s13104-021-05734-1. PMID: 34425879; PMCID: PMC8381550.
+
+18: Dong WL, Xu QJ, Atiah LA, Odah KA, Gao YH, Kong LC, Ma HX. Genomic island
+type IV secretion system and transposons in genomic islands involved in
+antimicrobial resistance in Trueperella pyogenes. Vet Microbiol. 2020
+Mar;242:108602. doi: 10.1016/j.vetmic.2020.108602. Epub 2020 Feb 4. PMID:
+32122606.
+
+19: Cardoso-Toset F, Luque I, Morales-Partera A, Galán-Relaño A, Barrero-
+Domínguez B, Hernández M, Gómez-Laguna J. Survival of Streptococcus suis,
+Streptococcus dysgalactiae and Trueperella pyogenes in dry-cured Iberian pork
+shoulders and loins. Food Microbiol. 2017 Feb;61:66-71. doi:
+10.1016/j.fm.2016.09.002. Epub 2016 Sep 3. PMID: 27697171.
+
+20: Ribeiro MG, Risseti RM, Bolaños CA, Caffaro KA, de Morais AC, Lara GH,
+Zamprogna TO, Paes AC, Listoni FJ, Franco MM. Trueperella pyogenes multispecies
+infections in domestic animals: a retrospective study of 144 cases (2002 to
+2012). Vet Q. 2015 Jun;35(2):82-7. doi: 10.1080/01652176.2015.1022667. Epub 2015
+Mar 20. PMID: 25793626.
+
+21: Nagib S, Glaeser SP, Eisenberg T, Sammra O, Lämmler C, Kämpfer P, Schauerte
+N, Geiger C, Kaim U, Prenger-Berninghoff E, Becker A, Abdulmawjood A. Fatal
+infection in three Grey Slender Lorises (Loris lydekkerianus nordicus) caused by
+clonally related Trueperella pyogenes. BMC Vet Res. 2017 Aug 29;13(1):273. doi:
+10.1186/s12917-017-1171-8. PMID: 28851356; PMCID: PMC5576266.

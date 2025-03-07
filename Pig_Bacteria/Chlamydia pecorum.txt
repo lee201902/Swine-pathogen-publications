@@ -1,0 +1,20 @@
+1: Jelocnik M, Bachmann NL, Seth-Smith H, Thomson NR, Timms P, Polkinghorne AM.
+Molecular characterisation of the Chlamydia pecorum plasmid from porcine, ovine,
+bovine, and koala strains indicates plasmid-strain co-evolution. PeerJ. 2016 Feb
+4;4:e1661. doi: 10.7717/peerj.1661. PMID: 26870613; PMCID: PMC4748734.
+
+2: Jelocnik M, Bachmann NL, Kaltenboeck B, Waugh C, Woolford L, Speight KN,
+Gillett A, Higgins DP, Flanagan C, Myers GS, Timms P, Polkinghorne A. Genetic
+diversity in the plasticity zone and the presence of the chlamydial plasmid
+differentiates Chlamydia pecorum strains from pigs, sheep, cattle, and koalas.
+BMC Genomics. 2015 Nov 4;16:893. doi: 10.1186/s12864-015-2053-8. PMID: 26531162;
+PMCID: PMC4632680.
+
+3: Leonard CA, Dewez F, Borel N. Penicillin G-Induced Chlamydial Stress Response
+in a Porcine Strain of Chlamydia pecorum. Int J Microbiol. 2016;2016:3832917.
+doi: 10.1155/2016/3832917. Epub 2016 Feb 21. PMID: 26997956; PMCID: PMC4779511.
+
+4: Anderson IE, Baxter SI, Dunbar S, Rae AG, Philips HL, Clarkson MJ, Herring
+AJ. Analyses of the genomes of chlamydial isolates from ruminants and pigs
+support the adoption of the new species Chlamydia pecorum. Int J Syst Bacteriol.
+1996 Jan;46(1):245-51. doi: 10.1099/00207713-46-1-245. PMID: 8573503.

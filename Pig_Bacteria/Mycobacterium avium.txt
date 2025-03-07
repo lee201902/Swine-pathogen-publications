@@ -1,0 +1,45 @@
+1: Čurlík J, Lazár P, Iglódyová A, Barbušinová E, Šmiga Ľ, Novotný J, Mojžišová
+J, Ondrejková A, Hromada R, Konjević D, Bhide MR, Drážovská M. Detection of
+Mycobacterium avium subsp. paratuberculosis in Slovakian wildlife. Pol J Vet
+Sci. 2020 Dec;23(4):529-535. doi: 10.24425/pjvs.2020.134702. PMID: 33480496.
+
+2: Akapelwa ML, Kapalamula TF, Ouchi-Aizu Y, Hang'ombe BM, Nishiuchi Y, Gordon
+SV, Solo ES, Tamaru A, Nishimura T, Hasegawa N, Morimoto K, Fukushima Y, Suzuki
+Y, Nakajima C. Evaluation of IS1245 LAMP in Mycobacterium avium and the
+influence of host-related genetic diversity on its application. Diagn Microbiol
+Infect Dis. 2021 Dec;101(4):115494. doi: 10.1016/j.diagmicrobio.2021.115494.
+Epub 2021 Jul 21. PMID: 34391980.
+
+3: Komatsu T, Ohya K, Ota A, Nishiuchi Y, Yano H, Matsuo K, Odoi JO, Suganuma S,
+Sawai K, Hasebe A, Asai T, Yanai T, Fukushi H, Wada T, Yoshida S, Ito T, Arikawa
+K, Kawai M, Ato M, Baughn AD, Iwamoto T, Maruyama F. Genomic features of
+<i>Mycobacterium avium</i> subsp. <i>hominissuis</i> isolated from pigs
+in Japan. GigaByte. 2021 Nov 12;2021:gigabyte33. doi: 10.46471/gigabyte.33.
+PMID: 36824340; PMCID: PMC9650289.
+
+4: Kaczmarkowska A, Didkowska A, Brzezińska S, Klich D, Kwiecień E, Dolka I,
+Kociuba P, Rzewuska M, Augustynowicz-Kopeć E, Anusz K. Could the type and
+severity of gross lesions in pig lymph nodes play a role in the detection of
+Mycobacterium avium? PLoS One. 2022 Jul 15;17(7):e0269912. doi:
+10.1371/journal.pone.0269912. PMID: 35839172; PMCID: PMC9286258.
+
+5: Gcebe N, Pierneef RE, Michel AL, Hlokwe MT. Mycobacteriosis in slaughter pigs
+from South Africa from 1991 to 2002: <i>Mycobacterium</i> spp. diversity and
+<i>Mycobacterium avium</i> complex genotypes. Front Microbiol. 2023 Nov
+16;14:1284906. doi: 10.3389/fmicb.2023.1284906. PMID: 38033580; PMCID:
+PMC10687471.
+
+6: Komatsu T, Ohya K, Ota A, Nishiuchi Y, Yano H, Matsuo K, Odoi JO, Suganuma S,
+Sawai K, Hasebe A, Asai T, Yanai T, Fukushi H, Wada T, Yoshida S, Ito T, Arikawa
+K, Kawai M, Ato M, Baughn AD, Iwamoto T, Maruyama F. Unique genomic sequences in
+a novel <i>Mycobacterium avium</i> subsp. <i>hominissuis</i> lineage enable fine
+scale transmission route tracing during pig movement. One Health. 2023 May
+10;16:100559. doi: 10.1016/j.onehlt.2023.100559. PMID: 37363238; PMCID:
+PMC10288077.
+
+7: Bulun H, Bridger PS, Schillinger S, Akineden Ö, Barth SA, Fischer M, Henrich
+M, Seeger T, Doll K, Bülte M, Bauerfeind R, Menge C. Interferon-gamma producing
+CD4<sup>+</sup> T cells quantified by flow cytometry as early markers for
+Mycobacterium avium ssp. paratuberculosis infection in cattle. Vet Res. 2024 May
+31;55(1):69. doi: 10.1186/s13567-024-01324-8. PMID: 38822400; PMCID:
+PMC11143577.

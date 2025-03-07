@@ -1,0 +1,4 @@
+1: Jeon JH, Kim YH, Kim KA, Kim YR, Woo SJ, Choi YJ, Rhie GE. A putative
+exosporium lipoprotein GBAA0190 of Bacillus anthracis as a potential anthrax
+vaccine candidate. BMC Immunol. 2021 Mar 21;22(1):20. doi:
+10.1186/s12865-021-00414-y. PMID: 33743606; PMCID: PMC7981958.

@@ -1,0 +1,5 @@
+1: Berlamont H, De Witte C, Bauwens E, Min Jou H, Ducatelle R, De Meester E,
+Gansemans Y, Deforce D, Van Nieuwerburgh F, Haesebrouck F, Smet A. Distinct
+transcriptome signatures of Helicobacter suis and Helicobacter heilmannii
+strains upon adherence to human gastric epithelial cells. Vet Res. 2020 May
+7;51(1):62. doi: 10.1186/s13567-020-00786-w. PMID: 32381076; PMCID: PMC7206758.

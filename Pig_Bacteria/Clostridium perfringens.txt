@@ -1,0 +1,279 @@
+1: Revitt-Mills S, Lao C, Archambault M, Lyras D, Rood JI, Adams V. The Tcp
+plasmids of Clostridium perfringens require the resP gene to ensure stable
+inheritance. Plasmid. 2020 Jan;107:102461. doi: 10.1016/j.plasmid.2019.102461.
+Epub 2019 Nov 9. PMID: 31715189.
+
+2: Posthaus H, Kittl S, Tarek B, Bruggisser J. <i>Clostridium perfringens</i>
+type C necrotic enteritis in pigs: diagnosis, pathogenesis, and prevention. J
+Vet Diagn Invest. 2020 Mar;32(2):203-212. doi: 10.1177/1040638719900180. Epub
+2020 Jan 20. PMID: 31955664; PMCID: PMC7081500.
+
+3: Beres C, Colobatiu L, Tabaran A, Mihaiu R, Mihaiu M. Prevalence and
+Characterisation of <i>Clostridium perfringens</i> Isolates in Food-Producing
+Animals in Romania. Microorganisms. 2023 May 24;11(6):1373. doi:
+10.3390/microorganisms11061373. PMID: 37374875; PMCID: PMC10302148.
+
+4: Jia Q, Ren H, Zhang S, Yang H, Gao S, Fan R. Preparation and Application of
+<i>Clostridium perfringens</i> Alpha Toxin Nanobodies. Vet Sci. 2024 Aug
+19;11(8):381. doi: 10.3390/vetsci11080381. PMID: 39195835; PMCID: PMC11360521.
+
+5: Lee D, Jang G, Min KC, Lee IH, Won H, Yoon IJ, Kang SC, Lee C. Coinfection
+with porcine epidemic diarrhea virus and Clostridium perfringens type A enhances
+disease severity in weaned pigs. Arch Virol. 2023 May 22;168(6):166. doi:
+10.1007/s00705-023-05798-3. PMID: 37217624; PMCID: PMC10202354.
+
+6: Jiang Z, Su W, Wen C, Li W, Zhang Y, Gong T, Du S, Wang X, Lu Z, Jin M, Wang
+Y. Effect of Porcine <i>Clostridium perfringens</i> on Intestinal Barrier,
+Immunity, and Quantitative Analysis of Intestinal Bacterial Communities in Mice.
+Front Vet Sci. 2022 Jun 13;9:881878. doi: 10.3389/fvets.2022.881878. PMID:
+35769317; PMCID: PMC9234579.
+
+7: Chang SH, Chen CH, Tsai GJ. Effects of Chitosan on Clostridium perfringens
+and Application in the Preservation of Pork Sausage. Mar Drugs. 2020 Jan
+22;18(2):70. doi: 10.3390/md18020070. PMID: 31978959; PMCID: PMC7074077.
+
+8: Huang A, Luo X, Xu Z, Huang L, Wang X, Xie S, Pan Y, Fang S, Liu Z, Yuan Z,
+Hao H. Optimal Regimens and Clinical Breakpoint of Avilamycin Against
+<i>Clostridium perfringens</i> in Swine Based on PK-PD Study. Front Pharmacol.
+2022 Feb 24;13:769539. doi: 10.3389/fphar.2022.769539. PMID: 35281904; PMCID:
+PMC8908370.
+
+9: Benz R, Piselli C, Hoxha C, Koy C, Glocker MO, Popoff MR. Clostridium
+perfringens Beta2 toxin forms highly cation-selective channels in lipid
+bilayers. Eur Biophys J. 2022 Jan;51(1):15-27. doi: 10.1007/s00249-021-01577-7.
+Epub 2021 Dec 2. PMID: 34854958; PMCID: PMC8827211.
+
+10: Jang YS, Kim DH, Bae D, Kim SH, Kim H, Moon JS, Song KY, Chon JW, Seo KH.
+Prevalence, toxin-typing, and antimicrobial susceptibility of Clostridium
+perfringens from retail meats in Seoul, Korea. Anaerobe. 2020 Aug;64:102235.
+doi: 10.1016/j.anaerobe.2020.102235. Epub 2020 Jun 30. PMID: 32619505.
+
+11: Li J, Huang X, Xie K, Zhang J, Yang J, Yan Z, Gun S. Decreased <i>S100A9</i>
+expression alleviates <i>Clostridium perfringens</i> beta2 toxin-induced
+inflammatory injury in IPEC-J2 cells. PeerJ. 2023 Jan 25;11:e14722. doi:
+10.7717/peerj.14722. PMID: 36718447; PMCID: PMC9884034.
+
+12: Xie K, Yan Z, Wang W, Luo R, Gao X, Wang P, Yang Q, Huang X, Zhang J, Yang
+J, Gun S. ssc-microRNA-132 targets DACH1 to exert anti-inflammatory and anti-
+apoptotic effects in Clostridium perfringens beta2 toxin-treated porcine
+intestinal epithelial cells. Dev Comp Immunol. 2022 Feb;127:104270. doi:
+10.1016/j.dci.2021.104270. Epub 2021 Sep 25. PMID: 34582881.
+
+13: Li J, Zhou Y, Yang D, Zhang S, Sun Z, Wang Y, Wang S, Wu C. Prevalence and
+antimicrobial susceptibility of Clostridium perfringens in chickens and pigs
+from Beijing and Shanxi, China. Vet Microbiol. 2020 Nov 24;252:108932. doi:
+10.1016/j.vetmic.2020.108932. Epub ahead of print. PMID: 33316633.
+
+14: Horng YB, Yu YH, Dybus A, Hsiao FS, Cheng YH. Antibacterial activity of
+Bacillus species-derived surfactin on Brachyspira hyodysenteriae and Clostridium
+perfringens. AMB Express. 2019 Nov 21;9(1):188. doi: 10.1186/s13568-019-0914-2.
+PMID: 31754906; PMCID: PMC6872690.
+
+15: Gao X, Yang Q, Huang X, Yan Z, Zhang S, Luo R, Wang P, Wang W, Xie K, Jiang
+T, Gun S. Effects of Clostridium perfringens beta2 toxin on apoptosis,
+inflammation, and barrier function of intestinal porcine epithelial cells.
+Microb Pathog. 2020 Oct;147:104379. doi: 10.1016/j.micpath.2020.104379. Epub
+2020 Jul 7. PMID: 32649964.
+
+16: Cruzen SM, Cetin-Karaca H, Tarté R, Sebranek JG, Dickson JS. Survival of
+Clostridium perfringens, Staphylococcus aureus and Salmonella enterica in
+alternatively cured bacon during cooking and process deviations. Meat Sci. 2022
+Feb;184:108687. doi: 10.1016/j.meatsci.2021.108687. Epub 2021 Sep 30. PMID:
+34656001.
+
+17: Li L, Lin Y, Agyekumwaa Addo K, Yu Y, Liao C. Effect of allyl isothiocyanate
+on the growth and virulence of Clostridium perfringens and its application on
+cooked pork. Food Res Int. 2023 Oct;172:113110. doi:
+10.1016/j.foodres.2023.113110. Epub 2023 Jun 16. PMID: 37689877.
+
+18: Li J, Xie K, Yang J, Zhang J, Yang Q, Wang P, Gun S, Huang X. S100A9 plays a
+key role in Clostridium perfringens beta2 toxin-induced inflammatory damage in
+porcine IPEC-J2 intestinal epithelial cells. BMC Genomics. 2023 Jan 12;24(1):16.
+doi: 10.1186/s12864-023-09118-6. PMID: 36635624; PMCID: PMC9835341.
+
+19: Xie K, Yang Q, Yan Z, Gao X, Huang X, Wang P, Zhang J, Yang J, Li J, Gun S.
+miR-30d Inhibition Protects IPEC-J2 Cells Against <i>Clostridium perfringens</i>
+Beta2 Toxin-Induced Inflammatory Injury. Front Vet Sci. 2022 Jun 21;9:909500.
+doi: 10.3389/fvets.2022.909500. PMID: 35799836; PMCID: PMC9253665.
+
+20: Wang P, Yang Q, Yan Z, Huang X, Gao X, Gun S. Identification of MicroRNAs
+Regulating <i>Clostridium perfringens</i> Type C Infection in the Spleen of
+Diarrheic Piglets. Curr Issues Mol Biol. 2023 Apr 6;45(4):3193-3207. doi:
+10.3390/cimb45040208. PMID: 37185732; PMCID: PMC10136749.
+
+21: Luo R, Yang Q, Huang X, Yan Z, Gao X, Wang W, Xie K, Wang P, Gun S.
+Clostridium perfringens beta2 toxin induced in vitro oxidative damage and its
+toxic assessment in porcine small intestinal epithelial cell lines. Gene. 2020
+Oct 30;759:144999. doi: 10.1016/j.gene.2020.144999. Epub 2020 Jul 25. PMID:
+32717305.
+
+22: Huang X, Yang Q, Yan Z, Wang P, Shi H, Li J, Shang X, Gun S. Combined
+Analysis of RRBS DNA Methylome and Transcriptome Reveal Novel Candidate Genes
+Related to Porcine <i>Clostridium perfringens</i> Type C-Induced Diarrhea. Front
+Genet. 2022 Mar 25;13:803477. doi: 10.3389/fgene.2022.803477. PMID: 35401691;
+PMCID: PMC8990837.
+
+23: Gao X, Wang P, Yan Z, Yang Q, Huang X, Zhang S, Gun S. Molecular
+characterization and function of JAK/STAT pathway in IPEC-J2 cells during
+Clostridium perfringens beta2 toxin stimulation. Vet Res Commun. 2023
+Sep;47(3):1177-1184. doi: 10.1007/s11259-023-10118-w. Epub 2023 Jul 12. PMID:
+37436554.
+
+24: Gao X, Huang X, Yang Q, Zhang S, Yan Z, Luo R, Wang P, Wang W, Xie K, Gun S.
+MicroRNA-21-5p targets PDCD4 to modulate apoptosis and inflammatory response to
+Clostridium perfringens beta2 toxin infection in IPEC-J2 cells. Dev Comp
+Immunol. 2021 Jan;114:103849. doi: 10.1016/j.dci.2020.103849. Epub 2020 Sep 1.
+PMID: 32888967.
+
+25: Kakese Mukosa R, Thibodeau A, Morris Fairbrother J, Thériault W, Gaucher ML.
+Addressing Current Challenges in Poultry Meat Safety: Development of a
+Cultivation and Colony Hybridization Approach to Recover Enterotoxigenic
+<i>Clostridium perfringens</i> from Broiler Chicken Carcasses. Pathogens. 2023
+Dec 28;13(1):30. doi: 10.3390/pathogens13010030. PMID: 38251337; PMCID:
+PMC10820424.
+
+26: Gao X, Yang Q, Zhang S, Huang X, Yan Z, Wang P, Luo R, Wang W, Xie K, Gun S.
+Epigenetic upregulation of ssc-miR-124a following treatment with Clostridium
+perfringens beta2-toxin attenuates both apoptosis and inflammation in intestinal
+porcine epithelial cells. Arch Biochem Biophys. 2021 Apr 15;701:108806. doi:
+10.1016/j.abb.2021.108806. Epub 2021 Feb 12. PMID: 33587903.
+
+27: Yang J, Yang Q, Zhang J, Gao X, Luo R, Xie K, Wang W, Li J, Huang X, Yan Z,
+Wang P, Gun S. N6-Methyladenosine Methylation Analysis of Long Noncoding RNAs
+and mRNAs in IPEC-J2 Cells Treated With <i>Clostridium perfringens</i> beta2
+Toxin. Front Immunol. 2021 Nov 22;12:769204. doi: 10.3389/fimmu.2021.769204.
+PMID: 34880865; PMCID: PMC8646102.
+
+28: Zhang Z, Wang X, Li S, Fu Y, Li Y, Nawaz S, Chen J, Yang G, Li J, Shi D.
+Isolation of a Virulent <i>Clostridium perfringens</i> Strain from <i>Elaphurus
+davidianus</i> and Characterization by Whole-Genome Sequence Analysis. Curr
+Issues Mol Biol. 2024 Jul 8;46(7):7169-7186. doi: 10.3390/cimb46070427. PMID:
+39057068; PMCID: PMC11276296.
+
+29: Juneja VK, Osoria M, Purohit AS, Golden CE, Mishra A, Taneja NK, Salazar JK,
+Thippareddi H, Kumar GD. Predictive model for growth of Clostridium perfringens
+during cooling of cooked pork supplemented with sodium chloride and sodium
+pyrophosphate. Meat Sci. 2021 Oct;180:108557. doi:
+10.1016/j.meatsci.2021.108557. Epub 2021 May 14. PMID: 34052695.
+
+30: Wang F, Mi K, Ahmad I, Xie S, Hussain HI, Yuan Z, Dai M, Huang L.
+Antibacterial activity of cyadox against Clostridium perfringens in broilers and
+a dosage regimen design based on pharmacokinetic-pharmacodynamic modeling.
+Microb Pathog. 2020 Apr;141:103981. doi: 10.1016/j.micpath.2020.103981. Epub
+2020 Jan 18. PMID: 31962185.
+
+31: Lorine D, Céline D, Caroline LM, Frédéric B, Lorette H, Julie B, Laure M,
+Christine Z, Typhaine P, Sandra R, Emmanuelle H, Rabab SZ, Jeanne C, Anne-Marie
+P. Influence of operating conditions on the persistence of E. coli, enterococci,
+Clostridium perfringens and Clostridioides difficile in semi-continuous
+mesophilic anaerobic reactors. Waste Manag. 2021 Oct;134:32-41. doi:
+10.1016/j.wasman.2021.08.003. Epub 2021 Aug 14. Erratum in: Waste Manag. 2021
+Nov;135:275. doi: 10.1016/j.wasman.2021.09.001. PMID: 34403994.
+
+32: Zhou Y, Wang B, Wang Q, Tang L, Zou P, Zeng Z, Zhang H, Gong L, Li W.
+Protective Effects of <i>Lactobacillus plantarum</i> Lac16 on <i>Clostridium
+perfringens</i> Infection-Associated Injury in IPEC-J2 Cells. Int J Mol Sci.
+2021 Nov 17;22(22):12388. doi: 10.3390/ijms222212388. PMID: 34830269; PMCID:
+PMC8620398.
+
+33: Hussain MI, Borah P, Hussain I, Sharma RK, Kalita MC. Densitometric analysis
+of rep-PCR data: Insight into genetic variability and transmission of
+Clostridium perfringens typed with an improved multiplex PCR. Anaerobe. 2021
+Aug;70:102383. doi: 10.1016/j.anaerobe.2021.102383. Epub 2021 Jun 2. PMID:
+34089857.
+
+34: Iacumin L, Comi G. A survey of a blown pack spoilage produced by Clostridium
+perfringens in vacuum-packaged wurstel. Food Microbiol. 2021 Apr;94:103654. doi:
+10.1016/j.fm.2020.103654. Epub 2020 Oct 7. PMID: 33279079.
+
+35: Bruggisser J, Tarek B, Wyder M, Müller P, von Ballmoos C, Witz G, Enzmann G,
+Deutsch U, Engelhardt B, Posthaus H. CD31 (PECAM-1) Serves as the Endothelial
+Cell-Specific Receptor of Clostridium perfringens β-Toxin. Cell Host Microbe.
+2020 Jul 8;28(1):69-78.e6. doi: 10.1016/j.chom.2020.05.003. Epub 2020 Jun 3.
+PMID: 32497498.
+
+36: Wang X, Huang X, Yang Q, Yan Z, Wang P, Gao X, Luo R, Gun S. TMT labeled
+comparative proteomic analysis reveals spleen active immune responses during
+<i>Clostridium perfringens</i> type C infected piglet diarrhea. PeerJ. 2022 Apr
+4;10:e13006. doi: 10.7717/peerj.13006. PMID: 35402105; PMCID: PMC8988937.
+
+37: Zeng X, Liu B, Zhou J, Dai Y, Han C, Wang L, Wu Y, Zhang J. Complete genomic
+sequence and analysis of β2 toxin gene mapping of Clostridium perfringens JXJA17
+isolated from piglets in China. Sci Rep. 2021 Jan 12;11(1):475. doi:
+10.1038/s41598-020-79333-8. PMID: 33436645; PMCID: PMC7804025.
+
+38: Luo R, Yan Z, Yang Q, Huang X, Gao X, Wang P, Wang W, Xie K, Gun S.
+Inhibition of ssc-microRNA-140-5p ameliorates the Clostridium perfringens beta2
+toxin-induced inflammatory response in IPEC-J2 cells via the ERK1/2 and JNK
+pathways by targeting VEGFA. Mol Immunol. 2020 Nov;127:12-20. doi:
+10.1016/j.molimm.2020.08.017. Epub 2020 Sep 6. PMID: 32905904.
+
+39: Charlebois A, Parent E, Létourneau-Montminy MP, Boulianne M. Persistence of
+a Clostridium perfringens Strain in a Broiler Chicken Farm over a Three-Year
+Period. Avian Dis. 2020 Sep 1;64(3):415-420. doi:
+10.1637/aviandiseases-D-19-00112. PMID: 33205171.
+
+40: Gao X, Yang Q, Zhang S, Huang X, Yan Z, Wang P, Gun S. LncRNA ALDB-898
+modulates intestinal epithelial cell damage caused by Clostridium perfringens
+type C in piglet by regulating ssc-miR-122-5p/OCLN signaling. Mol Immunol. 2022
+Sep;149:143-156. doi: 10.1016/j.molimm.2022.07.002. Epub 2022 Jul 11. PMID:
+35834877.
+
+41: Pedersen JS, Kot W, Plöger M, Lametsh R, Neve H, Franz CMAP, Hansen LH. A
+Rare, Virulent <i>Clostridium perfringens</i> Bacteriophage Susfortuna Is the
+First Isolated Bacteriophage in a New Viral Genus. Phage (New Rochelle). 2020
+Dec 1;1(4):230-236. doi: 10.1089/phage.2020.0038. Epub 2020 Dec 16. PMID:
+36147286; PMCID: PMC9041476.
+
+42: Hamzavipour R, Zahmatkesh A, Paradise A, Hosseini F. Protection efficacy and
+immunogenicity of Clostridium chauvoei proteins as a subunit blackleg vaccine or
+an adjuvant for Clostridium perfringens epsilon toxoid. Toxicon. 2024 Oct
+10;251:108124. doi: 10.1016/j.toxicon.2024.108124. Epub ahead of print. PMID:
+39395742.
+
+43: Meniaï I, Thibodeau A, Quessy S, Parreira VR, Fravalo P, Beauchamp G,
+Gaucher ML. Putative antigenic proteins identified by comparative and
+subtractive reverse vaccinology in necrotic enteritis-causing Clostridium
+perfringens isolated from broiler chickens. BMC Genomics. 2021 Dec 13;22(1):890.
+doi: 10.1186/s12864-021-08216-7. PMID: 34903179; PMCID: PMC8666345.
+
+44: Milton AAP, Momin KM, Priya GB, Ghatak S, Gandhale PN, Angappan M, Das S,
+Sen A. A novel in situ methodology for visual detection of Clostridium
+perfringens in pork harnessing saltatory rolling circle amplification. Anaerobe.
+2021 Jun;69:102324. doi: 10.1016/j.anaerobe.2021.102324. Epub 2021 Jan 27. PMID:
+33508439.
+
+45: Zhang J, Yang Q, Yang J, Gao X, Luo R, Huang X, Yan Z, Wang P, Wang W, Xie
+K, Zhang B, Gun S. Comprehensive Analysis of Transcriptome-wide m<sup>6</sup>A
+Methylome Upon <i>Clostridium perfringens</i> Beta2 Toxin Exposure in Porcine
+Intestinal Epithelial Cells by m<sup>6</sup>A Sequencing. Front Genet. 2021 Oct
+19;12:689748. doi: 10.3389/fgene.2021.689748. PMID: 34737761; PMCID: PMC8560698.
+
+46: Wang W, Yang Q, Huang X, Luo R, Xie K, Gao X, Yan Z, Wang P, Zhang J, Yang
+J, Zhang B, Gun S. Effects of miR-204 on apoptosis and inflammatory response of
+Clostridium perfringens beta2 toxin induced IPEC-J2 cells via targeting BCL2L2.
+Microb Pathog. 2021 Jul;156:104906. doi: 10.1016/j.micpath.2021.104906. Epub
+2021 May 11. PMID: 33965507.
+
+47: Heidarpanah S, Thibodeau A, Parreira VR, Quessy S, Segura M, Meniaï I,
+Gottschalk M, Gaudreau A, Juette T, Gaucher ML. Immunization of broiler chickens
+with five newly identified surface-exposed proteins unique to Clostridium
+perfringens causing necrotic enteritis. Sci Rep. 2023 Mar 31;13(1):5254. doi:
+10.1038/s41598-023-32541-4. PMID: 37002317; PMCID: PMC10063949.
+
+48: Xu Z, Feng X, Song Z, Li X, Li K, Li M, Wang X, Liu B, Sun C. Cell-Free
+Supernatant of Bacillus subtilis G2B9-Q Improves Intestinal Health and Modulates
+Immune Response to Promote Mouse Recovery in Clostridium perfringens Infection.
+Curr Microbiol. 2024 Jun 27;81(8):243. doi: 10.1007/s00284-024-03669-x. PMID:
+38935166.
+
+49: Luo R, Huang X, Yan Z, Gao X, Wang P, Yang Q, Wang W, Xie K, Gun S.
+Identification and Characterization of MAPK Signaling Pathway Genes and
+Associated lncRNAs in the Ileum of Piglets Infected by <i>Clostridium
+perfringens</i> Type C. Biomed Res Int. 2020 Aug 12;2020:8496872. doi:
+10.1155/2020/8496872. PMID: 32855971; PMCID: PMC7443001.
+
+50: Solanki AK, Panwar D, Kaushik H, Garg LC. Molecular docking analysis of P2X7
+receptor with the beta toxin from Clostridium perfringens. Bioinformation. 2020
+Aug 31;16(8):594-601. doi: 10.6026/97320630016594. PMID: 33214747; PMCID:
+PMC7649019.

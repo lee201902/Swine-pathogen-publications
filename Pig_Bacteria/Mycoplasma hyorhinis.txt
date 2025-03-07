@@ -1,0 +1,411 @@
+1: Zhang Y, Gan Y, Bao H, Wang R. Perturbations of gut microbiome and metabolome
+of pigs infected with Mycoplasma hyorhinis. J Sci Food Agric. 2023
+Oct;103(13):6219-6232. doi: 10.1002/jsfa.12690. Epub 2023 May 22. PMID:
+37145100.
+
+2: Trüeb B, Catelli E, Luehrs A, Nathues H, Kuhnert P. Genetic variability and
+limited clonality of Mycoplasma hyorhinis in pig herds. Vet Microbiol. 2016 Aug
+15;191:9-14. doi: 10.1016/j.vetmic.2016.05.015. Epub 2016 May 26. PMID:
+27374901.
+
+3: Wang J, Hua L, Gan Y, Yuan T, Li L, Yu Y, Xie Q, Olaniran AO, Chiliza TE,
+Shao G, Feng Z, Pillay B, Xiong Q. Virulence and Inoculation Route Influence the
+Consequences of <i>Mycoplasma hyorhinis</i> Infection in Bama Miniature Pigs.
+Microbiol Spectr. 2022 Jun 29;10(3):e0249321. doi: 10.1128/spectrum.02493-21.
+Epub 2022 Apr 21. PMID: 35446115; PMCID: PMC9241778.
+
+4: Wei YW, Zhu HZ, Huang LP, Xia DL, Wu HL, Bian HQ, Feng L, Liu CM. Efficacy in
+pigs of a new inactivated vaccine combining porcine circovirus type 2 and
+Mycoplasma hyorhinis. Vet Microbiol. 2020 Mar;242:108588. doi:
+10.1016/j.vetmic.2020.108588. Epub 2020 Jan 16. PMID: 32122592.
+
+5: Pageaut H, Lacouture S, Lehoux M, Marois-Créhan C, Segura M, Gottschalk M.
+Interactions of <i>Mycoplasma hyopneumoniae</i> and/or <i>Mycoplasma
+hyorhinis</i> with <i>Streptococcus suis</i> Serotype 2 Using In Vitro Co-
+Infection Models with Swine Cells. Pathogens. 2023 Jun 22;12(7):866. doi:
+10.3390/pathogens12070866. PMID: 37513713; PMCID: PMC10383509.
+
+6: Fourour S, Tocqueville V, Paboeuf F, Lediguerher G, Morin N, Kempf I, Marois-
+Créhan C. Pathogenicity study of Mycoplasma hyorhinis and M. flocculare in
+specific-pathogen-free pigs pre-infected with M. hyopneumoniae. Vet Microbiol.
+2019 May;232:50-57. doi: 10.1016/j.vetmic.2019.04.010. Epub 2019 Apr 6. PMID:
+31030844.
+
+7: Resende TP, Pieters M, Vannucci FA. Swine conjunctivitis outbreaks associated
+with <i>Mycoplasma hyorhinis</i>. J Vet Diagn Invest. 2019 Sep;31(5):766-769.
+doi: 10.1177/1040638719865767. Epub 2019 Jul 25. PMID: 31342882; PMCID:
+PMC6727109.
+
+8: Chen D, Wei Y, Huang L, Wang Y, Sun J, Du W, Wu H, Liu C. Synergistic
+pathogenicity in sequential coinfection with Mycoplasma hyorhinis and porcine
+circovirus type 2. Vet Microbiol. 2016;182:123-30. doi:
+10.1016/j.vetmic.2015.11.003. Epub 2015 Nov 11. PMID: 26711038.
+
+9: Pillman D, Surendran Nair M, Schwartz J, Pieters M. Detection of Mycoplasma
+hyorhinis and Mycoplasma hyosynoviae in oral fluids and correlation with pig
+lameness scores. Vet Microbiol. 2019 Dec;239:108448. doi:
+10.1016/j.vetmic.2019.108448. Epub 2019 Oct 11. PMID: 31767090.
+
+10: Ferreira MM, Mechler-Dreibi ML, Sonalio K, Almeida HMS, Ferraz MES, Jacintho
+APP, Maes D, de Oliveira LG. Co-infections by Mycoplasma hyopneumoniae,
+Mycoplasma hyorhinis and Mycoplasma flocculare in macroscopic lesions of lung
+consolidation of pigs at slaughter. Vet Microbiol. 2021 Jul;258:109123. doi:
+10.1016/j.vetmic.2021.109123. Epub 2021 May 15. PMID: 34023636.
+
+11: Clavijo MJ, Murray D, Oliveira S, Rovira A. Infection dynamics of
+<i>Mycoplasma hyorhinis</i> in three commercial pig populations. Vet Rec. 2017
+Jul 15;181(3):68. doi: 10.1136/vr.104064. Epub 2017 Apr 19. PMID: 28424318.
+
+12: Martinson B, Zoghby W, Barrett K, Bryson L, Christmas R, Minion FC, Kroll J.
+Efficacy of an inactivated Mycoplasma hyorhinis vaccine in pigs. Vaccine. 2018
+Jan 8;36(3):408-412. doi: 10.1016/j.vaccine.2017.11.063. Epub 2017 Dec 6. PMID:
+29221894.
+
+13: Zhang Y, Gan Y, Wang J, Feng Z, Zhong Z, Bao H, Xiong Q, Wang R. Dysbiosis
+of Gut Microbiota and Intestinal Barrier Dysfunction in Pigs with Pulmonary
+Inflammation Induced by Mycoplasma hyorhinis Infection. mSystems. 2022 Aug
+30;7(4):e0028222. doi: 10.1128/msystems.00282-22. Epub 2022 Jun 14. PMID:
+35699454; PMCID: PMC9426446.
+
+14: Palzer A, Haedke K, Heinritzi K, Zoels S, Ladinig A, Ritzmann M.
+Associations among Haemophilus parasuis, Mycoplasma hyorhinis, and porcine
+reproductive and respiratory syndrome virus infections in pigs with
+polyserositis. Can Vet J. 2015 Mar;56(3):285-7. PMID: 25750450; PMCID:
+PMC4327143.
+
+15: Bekő K, Felde O, Sulyok KM, Kreizinger Z, Hrivnák V, Kiss K, Biksi I,
+Jerzsele Á, Gyuranecz M. Antibiotic susceptibility profiles of Mycoplasma
+hyorhinis strains isolated from swine in Hungary. Vet Microbiol. 2019
+Jan;228:196-201. doi: 10.1016/j.vetmic.2018.11.027. Epub 2018 Nov 28. PMID:
+30593367.
+
+16: Shin JH, Joo HS, Lee WH, Seok HB, Calsamig M, Pijoan C, Molitor TW.
+Identification and characterization of cytopathogenic Mycoplasma hyorhinis from
+swine farms with a history of abortions. J Vet Med Sci. 2003 Apr;65(4):501-9.
+doi: 10.1292/jvms.65.501. PMID: 12736433.
+
+17: Lin JH, Chen SP, Yeh KS, Weng CN. Mycoplasma hyorhinis in Taiwan: diagnosis
+and isolation of swine pneumonia pathogen. Vet Microbiol. 2006 Jun
+15;115(1-3):111-6. doi: 10.1016/j.vetmic.2006.02.004. Epub 2006 Mar 15. PMID:
+16540266.
+
+18: Kazama S, Yagihashi T, Morita T, Awakura T, Shimada A, Umemura T. Isolation
+of Mycoplasma hyorhinis and Mycoplasma arginini from the ears of pigs with
+otitis media. Res Vet Sci. 1994 Jan;56(1):108-10. doi:
+10.1016/0034-5288(94)90204-6. PMID: 8146440.
+
+19: Clavijo MJ, Sreevatsan S, Johnson TJ, Rovira A. Molecular epidemiology of
+Mycoplasma hyorhinis porcine field isolates in the United States. PLoS One. 2019
+Oct 21;14(10):e0223653. doi: 10.1371/journal.pone.0223653. PMID: 31634349;
+PMCID: PMC6802821.
+
+20: Trueeb BS, Gerber S, Maes D, Gharib WH, Kuhnert P. Tn-sequencing of
+Mycoplasma hyopneumoniae and Mycoplasma hyorhinis mutant libraries reveals non-
+essential genes of porcine mycoplasmas differing in pathogenicity. Vet Res. 2019
+Jul 19;50(1):55. doi: 10.1186/s13567-019-0674-7. PMID: 31324222; PMCID:
+PMC6642558.
+
+21: Luehrs A, Siegenthaler S, Grützner N, Grosse Beilage E, Kuhnert P, Nathues
+H. Occurrence of Mycoplasma hyorhinis infections in fattening pigs and
+association with clinical signs and pathological lesions of Enzootic Pneumonia.
+Vet Microbiol. 2017 May;203:1-5. doi: 10.1016/j.vetmic.2017.02.001. Epub 2017
+Feb 3. PMID: 28619130.
+
+22: Merodio M, McDaniel A, Poonsuk K, Magtoto R, Ferreyra FSM, Meiroz-De-Souza-
+Almeida H, Ross RF, Gimenez-Lirola L, Arruda B, Derscheid R. Evaluation of
+colonization, variable lipoprotein-based serological response, and cellular
+immune response of Mycoplasma hyorhinis in experimentally infected swine. Vet
+Microbiol. 2021 Sep;260:109162. doi: 10.1016/j.vetmic.2021.109162. Epub 2021 Jun
+23. PMID: 34217902.
+
+23: Ko CC, Merodio MM, Spronk E, Lehman JR, Shen H, Li G, Derscheid RJ, Piñeyro
+PE. Diagnostic investigation of Mycoplasma hyorhinis as a potential pathogen
+associated with neurological clinical signs and central nervous system lesions
+in pigs. Microb Pathog. 2023 Jul;180:106172. doi: 10.1016/j.micpath.2023.106172.
+Epub 2023 May 24. PMID: 37230257.
+
+24: Martinson B, Zoghby W, Barrett K, Bryson L, Kroll J. Duration of immunity
+for an inactivated Mycoplasma hyorhinis vaccine in pigs. Vet Microbiol. 2019
+Mar;230:273-277. doi: 10.1016/j.vetmic.2019.02.021. Epub 2019 Feb 14. PMID:
+30827400.
+
+25: Wang J, Gan Y, Yuan T, Huang Y, Zhang L, Wei Y, Zubair M, Wang L, Chen J,
+Shao G, Feng Z, Xiong Q. Protection against Mycoplasma hyorhinis infection in
+commercial pigs via immunization with inactivated vaccines prepared with
+homologous or heterologous strains. Vaccine. 2024 Dec 2;42(26):126421. doi:
+10.1016/j.vaccine.2024.126421. Epub 2024 Oct 9. PMID: 39388932.
+
+26: Magtoto PD, Arruda BL, Magtoto RL, Mora-Díaz JC, Opulencia RB, Baum DH,
+Zimmerman JJ, Giménez-Lirola LG. Dynamics of antibody response and bacterial
+shedding of Mycoplasma hyorhinis and M. hyosynoviae in oral fluids from
+experimentally inoculated pigs. Vet Microbiol. 2024 Mar;290:109999. doi:
+10.1016/j.vetmic.2024.109999. Epub 2024 Jan 24. PMID: 38280306.
+
+27: Clavijo MJ, Davies P, Morrison R, Bruner L, Olson S, Rosey E, Rovira A.
+Temporal patterns of colonization and infection with Mycoplasma hyorhinis in two
+swine production systems in the USA. Vet Microbiol. 2019 Jul;234:110-118. doi:
+10.1016/j.vetmic.2019.05.021. Epub 2019 Jun 3. PMID: 31213266.
+
+28: Kobayashi H, Morozumi T, Miyamoto C, Shimizu M, Yamada S, Ohashi S, Kubo M,
+Kimura K, Mitani K, Ito N, Yamamoto K. Mycoplasma hyorhinis infection levels in
+lungs of piglets with porcine reproductive and respiratory syndrome (PRRS). J
+Vet Med Sci. 1996 Feb;58(2):109-13. doi: 10.1292/jvms.58.109. PMID: 8672579.
+
+29: Decker JL, Barden JA. Mycoplasma hyorhinis swine arthritis. Arthritis Rheum.
+1971 Nov-Dec;14(6):781. doi: 10.1002/art.1780140617. PMID: 5135797.
+
+30: Martinson B, Minion FC, Kroll J, Hermann J. Age susceptibility of caesarian
+derived colostrum deprived pigs to Mycoplasma hyorhinis challenge. Vet
+Microbiol. 2017 Oct;210:147-152. doi: 10.1016/j.vetmic.2017.09.005. Epub 2017
+Sep 14. PMID: 29103684.
+
+31: Kawashima K, Yamada S, Kobayashi H, Narita M. Detection of porcine
+reproductive and respiratory syndrome virus and Mycoplasma hyorhinis antigens in
+pulmonary lesions of pigs suffering from respiratory distress. J Comp Pathol.
+1996 Apr;114(3):315-23. doi: 10.1016/s0021-9975(96)80053-3. PMID: 8762589;
+PMCID: PMC7130235.
+
+32: Yamaguti M, Oliveira RC, Marques LM, Buzinhani M, Buim MR, Neto RL,
+Guimarães AM, Timenetsky J. Molecular characterisation of Mycoplasma hyorhinis
+isolated from pigs using pulsed-field gel electrophoresis and 16S rRNA
+sequencing. Vet Rec Open. 2015 Nov 30;2(2):e000093. doi:
+10.1136/vetreco-2014-000093. PMID: 26688737; PMCID: PMC4680736.
+
+33: Hennig-Pauka I, Sudendey C, Kleinschmidt S, Ruppitsch W, Loncaric I,
+Spergser J. Swine Conjunctivitis Associated with a Novel Mycoplasma Species
+Closely Related to <i>Mycoplasma hyorhinis</i>. Pathogens. 2020 Dec 25;10(1):13.
+doi: 10.3390/pathogens10010013. PMID: 33375690; PMCID: PMC7824142.
+
+34: Bünger M, Brunthaler R, Unterweger C, Loncaric I, Dippel M, Ruczizka U,
+Schwarz L, Griessler A, Voglmayr T, Verhovsek D, Ladinig A, Spergser J.
+Mycoplasma hyorhinis as a possible cause of fibrinopurulent meningitis in pigs?
+- a case series. Porcine Health Manag. 2020 Dec 3;6(1):38. doi:
+10.1186/s40813-020-00178-8. PMID: 33292668; PMCID: PMC7713030.
+
+35: Lee JA, Oh YR, Hwang MA, Lee JB, Park SY, Song CS, Choi IS, Lee SW.
+Mycoplasma hyorhinis is a potential pathogen of porcine respiratory disease
+complex that aggravates pneumonia caused by porcine reproductive and respiratory
+syndrome virus. Vet Immunol Immunopathol. 2016 Sep;177:48-51. doi:
+10.1016/j.vetimm.2016.06.008. Epub 2016 Jun 16. PMID: 27436444.
+
+36: Jayagopala Reddy NR, Wilkie BN, Borgs P, Mallard BA. Cytokines in Mycoplasma
+hyorhinis-induced arthritis in pigs bred selectively for high and low immune
+responses. Infect Immun. 2000 Mar;68(3):1150-5. doi:
+10.1128/IAI.68.3.1150-1155.2000. PMID: 10678919; PMCID: PMC97260.
+
+37: Barden JA, Decker JL. Mycoplasma hyorhinis swine arthritis. I. Clinical and
+microbiologic features. Arthritis Rheum. 1971 Mar-Apr;14(2):193-201. doi:
+10.1002/art.1780140202. PMID: 4101208.
+
+38: Palzer A, Kolb K, Strutzberg-Minder K, Zoels S, Eddicks M, Heinritzi K,
+Ritzmann M. Serologische Verlaufsuntersuchungen auf Haemophilus parasuis und
+Mycoplasma hyorhinis in drei schweine-haltenden Betrieben [Serological course
+investigations of Haemophilus parasuis and Mycoplasma hyorhinis in three pig
+farms]. Schweiz Arch Tierheilkd. 2015 Feb;157(2):97-103. German. doi:
+10.17236/sat00008. PMID: 26753335.
+
+39: ROBERTS ED, SWITZER WP, L'ECUYER C. Influence of Pasteurella multocida and
+Mycoplasma hyorhinis (PPLO) on the histopathology of field case of swine
+pneumonia. Cornell Vet. 1962 Jul;52:306-27. PMID: 14492759.
+
+40: Magnusson U, Wilkie B, Mallard B, Rosendal S, Kennedy B. Mycoplasma
+hyorhinis infection of pigs selectively bred for high and low immune response.
+Vet Immunol Immunopathol. 1998 Feb 16;61(1):83-96. doi:
+10.1016/s0165-2427(97)00132-3. PMID: 9613474.
+
+41: Martinson B, Minion FC, Jordan D. Development and optimization of a cell-
+associated challenge model for <i>Mycoplasma hyorhinis</i> in 7-week-old
+cesarean-derived, colostrum-deprived pigs. Can J Vet Res. 2018 Jan;82(1):12-23.
+PMID: 29382965; PMCID: PMC5764040.
+
+42: Meyling A. Mycoplasma suipneumoniae and Mycoplasma hyorhinis demonstrated in
+pneumonic pig lungs by the fluorescent antibody technique. Acta Vet Scand.
+1971;12(1):137-41. PMID: 4102500.
+
+43: Makhanon M, Tummaruk P, Thongkamkoon P, Thanawongnuwech R, Prapasarakul N.
+Comparison of detection procedures of Mycoplasma hyopneumoniae, Mycoplasma
+hyosynoviae, and Mycoplasma hyorhinis in lungs, tonsils, and synovial fluid of
+slaughtered pigs and their distributions in Thailand. Trop Anim Health Prod.
+2012 Feb;44(2):313-8. doi: 10.1007/s11250-011-0022-z. Epub 2011 Nov 25. PMID:
+22116666.
+
+44: Caron J, Ouardani M, Dea S. Diagnosis and differentiation of Mycoplasma
+hyopneumoniae and Mycoplasma hyorhinis infections in pigs by PCR amplification
+of the p36 and p46 genes. J Clin Microbiol. 2000 Apr;38(4):1390-6. doi:
+10.1128/JCM.38.4.1390-1396.2000. PMID: 10747113; PMCID: PMC86451.
+
+45: Potgieter LN, Ross RF. Demonostration of Mycoplasma hyorhinis and Mycoplasma
+hyosynoviae in lesions of experimentally infected swine by immunofluorescence.
+Am J Vet Res. 1972 Jan;33(1):99-105. PMID: 4550844.
+
+46: Potgieter LN, Frey ML, Ross RF. Chronological development of Mycoplasma
+hyorhinis and Mycoplasma hyosynoviae infections in cultures of a swine synovial
+cell strain. Can J Comp Med. 1972 Apr;36(2):145-9. PMID: 4259928; PMCID:
+PMC1319634.
+
+47: Bumgardner EA, Bey RF, Lawrence PK. A p37-based ELISA used to monitor anti-
+Mycoplasma hyorhinis IgG in serum from pigs immunized with inactivated M.
+hyorhinis vaccines. J Vet Diagn Invest. 2018 Sep;30(5):755-759. doi:
+10.1177/1040638718784753. Epub 2018 Jun 25. PMID: 29938600; PMCID: PMC6505780.
+
+48: Gois M, Cerny M, Veznikova D. Relationship between metabolism-inhibiting
+antibodies and colonial growth of Mycoplasma hyorhinis and other porcine
+mycoplasma in the presence of rabbit and pig sera. Res Vet Sci. 1970
+Mar;11(2):161-7. PMID: 5499305.
+
+49: Friis NF. A serologic variant of Mycoplasma hyorhinis recovered from the
+conjunctiva of swine. Acta Vet Scand. 1976;17(3):343-53. doi:
+10.1186/BF03547914. PMID: 983893; PMCID: PMC8383955.
+
+50: Ennis RS, Dalgard D, Willerson JT, Barden JA, Decker JL. Mycoplasma
+hyorhinis swine arthritis. II. Morphologic features. Arthritis Rheum. 1971 Mar-
+Apr;14(2):202-11. doi: 10.1002/art.1780140203. PMID: 5549969.
+
+51: Morita T, Fukuda H, Awakura T, Shimada A, Umemura T, Kazama S, Yagihashi T.
+Demonstration of Mycoplasma hyorhinis as a possible primary pathogen for porcine
+otitis media. Vet Pathol. 1995 Mar;32(2):107-11. doi:
+10.1177/030098589503200202. PMID: 7771049.
+
+52: Pijoan C. The effects of Mycoplasma hyorhinis and of Mycoplasma
+hyopneumoniae on pig kidney primary tissue culture. Br Vet J. 1975 Sep-
+Oct;131(5):586-94. doi: 10.1016/s0007-1935(17)35192-8. PMID: 1192170.
+
+53: Stemke GW, Laigret F, Grau O, Bové JM. Phylogenetic relationships of three
+porcine mycoplasmas, Mycoplasma hyopneumoniae, Mycoplasma flocculare, and
+Mycoplasma hyorhinis, and complete 16S rRNA sequence of M. flocculare. Int J
+Syst Bacteriol. 1992 Apr;42(2):220-5. doi: 10.1099/00207713-42-2-220. PMID:
+1374621.
+
+54: Suk RN, Helke KL, Fitzgerald DC, Hassid M, McVadon D, Taylor CL, Brockbank
+KGM, Rajab TK, Braxton AM. Bacteria Endocarditis Caused by <i>Mycoplasma
+hyorhinis</i> in a Juvenile, Immunosuppressed Pig (<i>Sus scrofa domesticus</i>)
+following Partial Heart Transplantation. Comp Med. 2024 Aug 1;74(4):295-303.
+doi: 10.30802/AALAS-CM-23-000090. Epub 2024 May 15. PMID: 38749668; PMCID:
+PMC11373685.
+
+55: Morita T, Ohiwa S, Shimada A, Kazama S, Yagihashi T, Umemura T. Intranasally
+inoculated Mycoplasma hyorhinis causes eustachitis in pigs. Vet Pathol. 1999
+Mar;36(2):174-8. doi: 10.1354/vp.36-2-174. PMID: 10098650.
+
+56: Boye M, Jensen TK, Ahrens P, Hagedorn-Olsen T, Friis NF. In situ
+hybridisation for identification and differentiation of Mycoplasma
+hyopneumoniae, Mycoplasma hyosynoviae and Mycoplasma hyorhinis in formalin-fixed
+porcine tissue sections. APMIS. 2001 Oct;109(10):656-64. doi:
+10.1034/j.1600-0463.2001.d01-129.x. PMID: 11890568.
+
+57: Kang I, Kim D, Han K, Seo HW, Oh Y, Park C, Lee J, Gottschalk M, Chae C.
+Optimized protocol for multiplex nested polymerase chain reaction to detect and
+differentiate Haemophilus parasuis, Streptococcus suis, and Mycoplasma hyorhinis
+in formalin-fixed, paraffin-embedded tissues from pigs with polyserositis. Can J
+Vet Res. 2012 Jul;76(3):195-200. PMID: 23277698; PMCID: PMC3384282.
+
+58: Barthel CH, Duncan JR, Ross RF. Serum and synovial fluid protein of normal
+and Mycoplasma hyorhinis-infected swine. Am J Vet Res. 1972 May;33(5):967-74.
+PMID: 4112406.
+
+59: Decker JL, Barden JA. Mycoplasma hyorhinis arthritis of swine: a model for
+rheumatoid arthritis? Rheumatology. 1975;6:338-45. PMID: 1105750.
+
+60: Gois M. Serological response of pigs to infection with Mycoplasma.
+Demonstration of growth and metabolism-inhibiting antibodies in sera of pigs
+inoculated intranasally with Mycoplasma hyorhinis. II. Zentralbl Veterinarmed B.
+1968 Apr;15(3):382-91. PMID: 5679779.
+
+61: Friis NF. Mycoplasma hyorhinis as a causative agent in pneumonia of pigs.
+Acta Vet Scand. 1971;12(1):116-9. PMID: 5103408.
+
+62: Duncan JR, Ross RF. Fine structure of the synovial membrane in Mycoplasma
+hyorhinis arthritis of swine. Am J Pathol. 1969 Oct;57(1):171-86. PMID: 5388565;
+PMCID: PMC2013614.
+
+63: Barden JA, Decker JL, Dalgard DW, Aptekar RG. Mycoplasma hyorhinis swine
+arthritis. 3. Modified disease in Piney Woods swine. Infect Immun. 1973
+Dec;8(6):887-90. doi: 10.1128/iai.8.6.887-890.1973. PMID: 4784887; PMCID:
+PMC422945.
+
+64: Gois M, Valícek L, Sovadina M. Mycoplasma hyorhinis, a causative agent of
+pig pneumonia. I. Zentralbl Veterinarmed B. 1968 Mar;15(2):230-40. doi:
+10.1111/j.1439-0450.1968.tb00311.x. PMID: 5706355.
+
+65: Barthel CH, Duncan JR, Ross RF. Histologic and histochemical
+characterization of synovial membrane from normal and Mycoplasma hyorhinis-
+infected swine. Am J Vet Res. 1972 Dec;33(12):2501-10. PMID: 4641208.
+
+66: Barthel CH, Duncan JR, Ross RF. Lactic dehydrogenase activity in plasma and
+synovial fluid of normal and Mycoplasma hyorhinis-infected swine. Am J Vet Res.
+1971 Dec;32(12):2011-9. PMID: 5131423.
+
+67: Morita T, Sasaki A, Kaji N, Shimada A, Kazama S, Yagihashi T, Umemura T.
+Induction of temporary otitis media in specific-pathogen-free pigs by
+intratympanic inoculation of Mycoplasma hyorhinis. Am J Vet Res. 1998
+Jul;59(7):869-73. PMID: 9659554.
+
+68: ROBERTS ED, SWITZER WP, RAMSEY FK. Pathology of the visceral organs of swine
+inoculated with Mycoplasma hyorhinis. Am J Vet Res. 1963 Jan;24:9-18. PMID:
+13974295.
+
+69: Schulman A, Estola T, Garry-Andersson AS. On the occurrence of Mycoplasma
+hyorhinis in the respiratory organs of pigs, with special reference to enzootic
+pneumonia. Zentralbl Veterinarmed B. 1970 May;17(5):549-53. doi:
+10.1111/j.1439-0450.1970.tb01565.x. PMID: 5512059.
+
+70: Pijoan C. The effect of Mycoplasma hyorhinis strain S7 on pig tracheal organ
+cultures. Br Vet J. 1974 Jan-Feb;130(1):xxii-23. doi:
+10.1016/s0007-1935(17)36014-1. PMID: 4820087.
+
+71: Duncan JR, Ross RF. Experimentally induced Mycoplasma hyorhinis arthritis of
+swine: pathologic response to 26th postinoculation week. Am J Vet Res. 1973
+Mar;34(3):363-6. PMID: 4691484.
+
+72: Magnusson U, Wilkie B, Artursson K, Mallard B. Interferon-alpha and
+haptoglobin in pigs selectively bred for high and low immune response and
+infected with Mycoplasma hyorhinis. Vet Immunol Immunopathol. 1999
+May;68(2-4):131-7. doi: 10.1016/s0165-2427(99)00025-2. PMID: 10438313.
+
+73: Ross RF, Dale SE, Duncan JR. Experimentally induced Mycoplasma hyorhinis
+arthritis of swine: immune response to 26th postinoculation week. Am J Vet Res.
+1973 Mar;34(3):367-72. PMID: 4691485.
+
+74: Kim B, Lee K, Han K, Kim D, Ha Y, Kim CH, Oh Y, Kang I, Lee J, Chae C.
+Development of in situ hybridization for the detection of Mycoplasma hyorhinis
+in formalin-fixed paraffin-embedded tissues from naturally infected pigs with
+polyserositis. J Vet Med Sci. 2010 Sep;72(9):1225-7. doi: 10.1292/jvms.10-0062.
+Epub 2010 Apr 16. PMID: 20424392.
+
+75: Sisák F, Gois M, Kuksa F. Citlivost kmenů Bordetella bronchiseptica,
+Pasteurella multocida a Mycoplasma hyorhinis izolovaných z prasat k antibiotikům
+a chemoterapeutikúm [Sensitivity of Bordetella bronchiseptica, Pasteurella
+multocida and Mycoplasma hyorhinis strains isolated from pigs towards
+antibiotics and chemotherapeutic agents]. Vet Med (Praha). 1978
+Sep;23(9):531-40. Czech. PMID: 100928.
+
+76: Kirchhoff H, Heitmann J, Dubenkropp H, Schmidt R, Vespermann J. Weitere
+Untersuchungen zur Atiologie der Rhinitis atrophicans des Schweines. 7.
+Mitteilung: Untersuchung von Schweineseren auf Antikörper gegen Mycoplasma
+hyorhinis und Mycoplasma hypopneumoniae [Further studies on the etiology of
+atrophic rhinitis in swine. 7. Mycoplasma hyorhinis and Mycoplasma
+hypopneumoniae antibodies in swine sera]. Berl Munch Tierarztl Wochenschr. 1982
+Feb 1;95(3):41-7. German. PMID: 7066015.
+
+77: Palzer A, Ritzmann M, Hafner-Marx A, Wolf G, Heinritzi K. Nachweis von
+Haemophilus parasuis und Mycoplasma hyorhinis bei Schweinen sowie Assoziation
+dieser Erreger mit klinischen und pathologisch-anatomischen Befunden [Detection
+of Haemophilus parasuis and Mycoplasma hyorhinis in swine and association of
+those pathogens with clinical and pathological-anatomic findings]. Dtsch
+Tierarztl Wochenschr. 2006 Jun;113(6):227-30. German. PMID: 16856608.
+
+78: Gois M, Kuksa F, Franz J. Influence of intraperitoneal administration of
+hyperimmune pig serum, IgG and IgM on the development of infection in
+gnotobiotic piglets infected intranasally with Mycoplasma hyorhinis. Zentralbl
+Veterinarmed B. 1974 Mar;21(3):176-87. doi: 10.1111/j.1439-0450.1974.tb00490.x.
+PMID: 4839142.
+
+79: Binder A, van Wees C, Likitdecharote B, Kirchhoff H.
+Fluoreszenzserologischer und kultureller Nachweis von Mycoplasma hyopneumoniae
+und Mycoplasma hyorhinis in Schweinelungen [Fluorescence serological and culture
+detection of Mycoplasma hyopneumoniae and Mycoplasma hyorhinis in swine lungs].
+Berl Munch Tierarztl Wochenschr. 1989 Jan 1;102(1):11-3. German. PMID: 2647076.
+
+80: Morita T, Muraki Y, Awakura T, Shimada A, Umemura T. Detection of Mycoplasma
+hyorhinis in porcine eustachitis. J Vet Med Sci. 1993 Jun;55(3):475-7. doi:
+10.1292/jvms.55.475. PMID: 8357925.

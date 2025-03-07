@@ -1,0 +1,173 @@
+1: Long CM, Beare PA, Cockrell D, Binette P, Tesfamariam M, Richards C, Anderson
+M, McCormick-Ell J, Brose M, Anderson R, Omsland A, Pearson T, Heinzen RA.
+Natural reversion promotes LPS elongation in an attenuated Coxiella burnetii
+strain. Nat Commun. 2024 Jan 24;15(1):697. doi: 10.1038/s41467-023-43972-y.
+Erratum in: Nat Commun. 2024 Feb 12;15(1):1299. doi: 10.1038/s41467-024-45637-w.
+PMID: 38267444; PMCID: PMC10808227.
+
+2: Gregory AE, van Schaik EJ, Fratzke AP, Russell-Lodrigue KE, Farris CM, Samuel
+JE. Soluble antigens derived from <i>Coxiella burnetii</i> elicit protective
+immunity in three animal models without inducing hypersensitivity. Cell Rep Med.
+2021 Dec 6;2(12):100461. doi: 10.1016/j.xcrm.2021.100461. PMID: 35028605; PMCID:
+PMC8714860.
+
+3: Bauer BU, Herms TL, Jahnke R, Ossowski N, Walter MC, Frangoulidis D, Runge M,
+Ganter M, Knittler MR. Control of Coxiella burnetii shedding in a dairy goat
+herd by annual offspring vaccination. Vaccine. 2024 Nov 14;42(25):126125. doi:
+10.1016/j.vaccine.2024.07.026. Epub 2024 Jul 18. PMID: 39025699.
+
+4: Bauer BU, Knittler MR, Andrack J, Berens C, Campe A, Christiansen B, Fasemore
+AM, Fischer SF, Ganter M, Körner S, Makert GR, Matthiesen S, Mertens-Scholz K,
+Rinkel S, Runge M, Schulze-Luehrmann J, Ulbert S, Winter F, Frangoulidis D,
+Lührmann A. Interdisciplinary studies on Coxiella burnetii: From molecular to
+cellular, to host, to one health research. Int J Med Microbiol. 2023
+Nov;313(6):151590. doi: 10.1016/j.ijmm.2023.151590. Epub 2023 Nov 29. PMID:
+38056089.
+
+5: Orr B, Malik R, Westman ME, Norris JM. Seroprevalence of Coxiella burnetii in
+pig-hunting dogs from north Queensland, Australia. Aust Vet J. 2022
+Jun;100(6):230-235. doi: 10.1111/avj.13151. Epub 2022 Feb 14. PMID: 35156193;
+PMCID: PMC9306716.
+
+6: Jan S, Fratzke AP, Felgner J, Hernandez-Davies JE, Liang L, Nakajima R,
+Jasinskas A, Supnet M, Jain A, Felgner PL, Davies DH, Gregory AE. Multivalent
+vaccines demonstrate immunogenicity and protect against <i>Coxiella burnetii</i>
+aerosol challenge. Front Immunol. 2023 Jul 18;14:1192821. doi:
+10.3389/fimmu.2023.1192821. PMID: 37533862; PMCID: PMC10390735.
+
+7: Diseko LJ, Tsotetsi-Khambule AM, Onyiche TE, Ramatla T, Thekisoe O, Gcebe N.
+Coxiella burnetii infections from animals and ticks in South Africa: a
+systematic review. Vet Res Commun. 2024 Feb;48(1):19-28. doi:
+10.1007/s11259-023-10204-z. Epub 2023 Aug 29. PMID: 37642820; PMCID:
+PMC10811037.
+
+8: Bauer BU, Runge M, Schneider M, Könenkamp L, Steffen I, Rubel W, Ganter M,
+Schoneberg C. Co-exposure to Anaplasma spp., Coxiella burnetii and tick-borne
+encephalitis virus in sheep in southern Germany. Acta Vet Scand. 2023 Feb
+15;65(1):6. doi: 10.1186/s13028-022-00659-6. PMID: 36793116; PMCID: PMC9933384.
+
+9: Körner S, Makert GR, Mertens-Scholz K, Henning K, Pfeffer M, Starke A, Nijhof
+AM, Ulbert S. Uptake and fecal excretion of Coxiella burnetii by Ixodes ricinus
+and Dermacentor marginatus ticks. Parasit Vectors. 2020 Feb 14;13(1):75. doi:
+10.1186/s13071-020-3956-z. PMID: 32059686; PMCID: PMC7023696.
+
+10: Turcotte MÈ, Buczinski S, Leboeuf A, Harel J, Bélanger D, Tremblay D, Gagnon
+CA, Arsenault J. Epidemiological study of Coxiella burnetii in dairy cattle and
+small ruminants in Québec, Canada. Prev Vet Med. 2021 Apr 25;191:105365. doi:
+10.1016/j.prevetmed.2021.105365. Epub ahead of print. PMID: 33933915.
+
+11: Bauer BU, Schoneberg C, Herms TL, Kleinschmidt S, Runge M, Ganter M. Impact
+of <i>Coxiella burnetii</i> vaccination on humoral immune response, vaginal
+shedding, and lamb mortality in naturally pre-infected sheep. Front Vet Sci.
+2022 Dec 19;9:1064763. doi: 10.3389/fvets.2022.1064763. PMID: 36601330; PMCID:
+PMC9807230.
+
+12: Long CM, Beare PA, Cockrell DC, Larson CL, Heinzen RA. Comparative virulence
+of diverse Coxiella burnetii strains. Virulence. 2019 Dec;10(1):133-150. doi:
+10.1080/21505594.2019.1575715. PMID: 30782062; PMCID: PMC6389282.
+
+13: Fratzke AP, Szule JA, Butler SM, Schaik EJv, Samuel JE. Molecular mechanisms
+of <i>Coxiella burnetii</i> formalin-fixed cellular vaccine reactogenicity.
+Infect Immun. 2024 Nov 12;92(11):e0033524. doi: 10.1128/iai.00335-24. Epub 2024
+Oct 2. PMID: 39356158; PMCID: PMC11556133.
+
+14: Bauer B, Prüfer L, Walter M, Ganter I, Frangoulidis D, Runge M, Ganter M.
+Comparison of <i>Coxiella burnetii</i> Excretion between Sheep and Goats
+Naturally Infected with One Cattle-Associated Genotype. Pathogens. 2020 Aug
+13;9(8):652. doi: 10.3390/pathogens9080652. PMID: 32823701; PMCID: PMC7459479.
+
+15: Fratzke AP, Szule JA, Butler SM, van Schaik EJ, Samuel JE. Molecular
+Mechanisms of <i>Coxiella burnetii</i> Formalin Fixed Cellular Vaccine
+Reactogenicity. bioRxiv [Preprint]. 2024 Aug 21:2024.08.20.608821. doi:
+10.1101/2024.08.20.608821. Update in: Infect Immun. 2024 Nov 12;92(11):e0033524.
+doi: 10.1128/iai.00335-24. PMID: 39229146; PMCID: PMC11370449.
+
+16: Trachsel C, Hirsbrunner G, Herms TL, Runge M, Kiene F, Ganter M, Zanolari P,
+Bauer BU. Two Years after <i>Coxiella burnetii</i> Detection: Pathogen Shedding
+and Phase-Specific Antibody Response in Three Dairy Goat Herds. Animals (Basel).
+2023 Sep 28;13(19):3048. doi: 10.3390/ani13193048. PMID: 37835654; PMCID:
+PMC10571745.
+
+17: Cyr J, Turcotte MÈ, Desrosiers A, Bélanger D, Harel J, Tremblay D, Leboeuf
+A, Gagnon CA, Côté JC, Arsenault J. Prevalence of <i>Coxiella burnetii</i>
+seropositivity and shedding in farm, pet and feral cats and associated risk
+factors in farm cats in Quebec, Canada. Epidemiol Infect. 2021 Feb 15;149:e57.
+doi: 10.1017/S0950268821000364. PMID: 33583452; PMCID: PMC8060820.
+
+18: Eneku W, Erima B, Byaruhanga AM, Cleary N, Atim G, Tugume T, Ukuli QA,
+Kibuuka H, Mworozi E, Tweyongyere R, Douglas CE, Koehler JW, von Fricken ME,
+Wabwire-Mangen F, Byarugaba DK. Molecular detection of Coxiella burnetii in
+ticks collected from animals and the environment in Uganda. Zoonoses Public
+Health. 2024 Dec;71(8):869-875. doi: 10.1111/zph.13168. Epub 2024 Jul 9. PMID:
+38982627.
+
+19: McMillan IA, Norris MH, Golon SJ, Franckowiak GA, Grinolds JM, Goldstein SM,
+Phelps DM, Bodenchuk MJ, Leland BR, Bowen RA, Brown VR, Borlee BR.
+Serosurveillance of <i>Coxiella burnetii</i> in feral swine populations of
+Hawai'i and Texas identifies overlap with human Q fever incidence. J Clin
+Microbiol. 2024 Oct 16;62(10):e0078024. doi: 10.1128/jcm.00780-24. Epub 2024 Aug
+27. PMID: 39189735; PMCID: PMC11481530.
+
+20: Mangena M, Gcebe N, Pierneef R, Thompson PN, Adesiyun AA. Q Fever:
+Seroprevalence, Risk Factors in Slaughter Livestock and Genotypes of <i>Coxiella
+burnetii</i> in South Africa. Pathogens. 2021 Feb 24;10(3):258. doi:
+10.3390/pathogens10030258. PMID: 33668366; PMCID: PMC7996333.
+
+21: Wolf A, Prüfer TL, Schoneberg C, Campe A, Runge M, Ganter M, Bauer BU. Risk
+factors for an infection with <i>Coxiella burnetii</i> in German sheep flocks.
+Epidemiol Infect. 2020 Oct 14;148:e260. doi: 10.1017/S0950268820002447. PMID:
+33050975; PMCID: PMC7689596.
+
+22: Bauer BU, Peters M, Herms TL, Runge M, Wohlsein P, Jensen TK, Ganter M.
+Detection of Coxiella burnetii in the mammary gland of a dairy goat. Vet Res
+Commun. 2024 Jun;48(3):1341-1352. doi: 10.1007/s11259-023-10233-8. Epub 2024 Jan
+18. PMID: 38236458; PMCID: PMC11147866.
+
+23: Bauer BU, Schoneberg C, Herms TL, Runge M, Ganter M. Surveillance of
+<i>Coxiella burnetii</i> Shedding in Three Naturally Infected Dairy Goat Herds
+after Vaccination, Focusing on Bulk Tank Milk and Dust Swabs. Vet Sci. 2022 Feb
+24;9(3):102. doi: 10.3390/vetsci9030102. PMID: 35324830; PMCID: PMC8950187.
+
+24: Bauer BU, Schwecht KM, Jahnke R, Matthiesen S, Ganter M, Knittler MR.
+Humoral and cellular immune responses in sheep following administration of
+different doses of an inactivated phase I vaccine against Coxiella burnetii.
+Vaccine. 2023 Jul 25;41(33):4798-4807. doi: 10.1016/j.vaccine.2023.06.061. Epub
+2023 Jun 23. PMID: 37357077.
+
+25: Turcotte MÈ, Denis-Robichaud J, Dubuc J, Harel J, Tremblay D, Gagnon CA,
+Arsenault J. Prevalence of shedding and antibody to Coxiella burnetii in post-
+partum dairy cows and its association with reproductive tract diseases and
+performance: A pilot study. Prev Vet Med. 2021 Jan;186:105231. doi:
+10.1016/j.prevetmed.2020.105231. Epub 2020 Dec 10. PMID: 33360180.
+
+26: Bauer BU, Knittler MR, Herms TL, Frangoulidis D, Matthiesen S, Tappe D,
+Runge M, Ganter M. Multispecies Q Fever Outbreak in a Mixed Dairy Goat and
+Cattle Farm Based on a New Bovine-Associated Genotype of <i>Coxiella
+burnetii</i>. Vet Sci. 2021 Oct 26;8(11):252. doi: 10.3390/vetsci8110252. PMID:
+34822625; PMCID: PMC8626049.
+
+27: Sluder AE, Raju Paul S, Moise L, Dold C, Richard G, Silva-Reyes L, Baeten
+LA, Scholzen A, Reeves PM, Pollard AJ, Garritsen A, Bowen RA, De Groot AS,
+Rollier C, Poznansky MC. Evaluation of a Human T Cell-Targeted Multi-Epitope
+Vaccine for Q Fever in Animal Models of <i>Coxiella burnetii</i> Immunity. Front
+Immunol. 2022 May 16;13:901372. doi: 10.3389/fimmu.2022.901372. PMID: 35651616;
+PMCID: PMC9149306.
+
+28: Wolf A, Prüfer TL, Schoneberg C, Campe A, Runge M, Ganter M, Bauer BU.
+Prevalence of <i>Coxiella burnetii</i> in German sheep flocks and evaluation of
+a novel approach to detect an infection via preputial swabs at herd-level.
+Epidemiol Infect. 2020 Mar 16;148:e75. doi: 10.1017/S0950268820000679. Erratum
+in: Epidemiol Infect. 2020 Apr 27;148:e88. doi: 10.1017/S0950268820000801. PMID:
+32172709; PMCID: PMC7118722.
+
+29: Fratzke AP, Jan S, Felgner J, Liang L, Nakajima R, Jasinskas A, Manna S,
+Nihesh FN, Maiti S, Albin TJ, Esser-Kahn AP, Davies DH, Samuel JE, Felgner PL,
+Gregory AE. Subunit Vaccines Using TLR Triagonist Combination Adjuvants Provide
+Protection Against <i>Coxiella burnetii</i> While Minimizing Reactogenic
+Responses. Front Immunol. 2021 Mar 17;12:653092. doi: 10.3389/fimmu.2021.653092.
+PMID: 33815413; PMCID: PMC8010241.
+
+30: Bauer BU, Knittler MR, Prüfer TL, Wolf A, Matthiesen S, Runge M, Ganter M.
+Humoral immune response to Q fever vaccination of three sheep flocks naturally
+pre-infected with Coxiella burnetii. Vaccine. 2021 Mar 5;39(10):1499-1507. doi:
+10.1016/j.vaccine.2021.01.062. Epub 2021 Feb 6. PMID: 33558108.

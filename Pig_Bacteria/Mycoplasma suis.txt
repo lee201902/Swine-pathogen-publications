@@ -1,0 +1,128 @@
+1: Stadler J, Ade J, Hermanns W, Ritzmann M, Wentzel S, Hoelzle K, Hoelzle LE.
+Clinical, haematological and pathomorphological findings in Mycoplasma suis
+infected pigs. BMC Vet Res. 2021 Jun 10;17(1):214. doi:
+10.1186/s12917-021-02919-5. PMID: 34112157; PMCID: PMC8193878.
+
+2: Song Q, Zhang W, Song W, Liu Z, Khan MK, He L, Fang R, Li P, Zhou Y, Hu M,
+Zhao J. Seroprevalence and risk factors of Mycoplasma suis infection in pig
+farms in central China. Prev Vet Med. 2014 Nov 1;117(1):215-21. doi:
+10.1016/j.prevetmed.2014.07.006. Epub 2014 Jul 17. PMID: 25081945.
+
+3: Stadler J, Jannasch C, Mack SL, Dietz S, Zöls S, Ritzmann M, Hoelzle K,
+Hoelzle LE. Clinical and haematological characterisation of Mycoplasma suis
+infections in splenectomised and non-splenectomised pigs. Vet Microbiol. 2014
+Aug 6;172(1-2):294-300. doi: 10.1016/j.vetmic.2014.05.012. Epub 2014 May 13.
+PMID: 24933162.
+
+4: Zhang Y, Zou Y, Ma P, Muhammad HM, Li Y, Jiang P. Identification of
+Mycoplasma suis MSG1 interaction proteins on porcine erythrocytes. Arch
+Microbiol. 2015 Mar;197(2):277-83. doi: 10.1007/s00203-014-1050-7. Epub 2014 Oct
+26. PMID: 25344885.
+
+5: Yuan CL, Liang AB, Yao CB, Yang ZB, Zhu JG, Cui L, Yu F, Zhu NY, Yang XW, Hua
+XG. Prevalence of Mycoplasma suis (Eperythrozoon suis) infection in swine and
+swine-farm workers in Shanghai, China. Am J Vet Res. 2009 Jul;70(7):890-4. doi:
+10.2460/ajvr.70.7.890. PMID: 19566474.
+
+6: Martins MSDS, Silva LD, Miranda LM, Lima CAA, Amaral RBD, Machado RZ, André
+MR, Braga MDSCO, Rosário CJRMD, Melo FA, Pereira JG. Molecular detection of
+Mycoplasma suis in extensive pig production systems in the State of Maranhão,
+northeast Brazil. Rev Bras Parasitol Vet. 2019 Apr-Jun;28(2):306-309. doi:
+10.1590/S1984-296120180099. Epub 2019 Feb 14. PMID: 30785558.
+
+7: Zhongyang L, Jiansong Z, Yijuan S, Yuting X, Yufeng L, Jiarong X.
+Seroprevalence of <i>Mycoplasma suis</i> infection in pigs in eastern China as
+estimated by a blocking enzyme-linked immunosorbent assay. Can J Vet Res. 2017
+Oct;81(4):313-317. PMID: 29081591; PMCID: PMC5644442.
+
+8: Acosta DB, Ruiz M, Sanchez JP. First molecular detection of Mycoplasma suis
+in the pig louse Haematopinus suis (Phthiraptera: Anoplura) from Argentina. Acta
+Trop. 2019 Jun;194:165-168. doi: 10.1016/j.actatropica.2019.04.007. Epub 2019
+Apr 9. PMID: 30978311.
+
+9: Toledo MA, Leite AI, Gonçalves LR, Sousa KC, Amaral RB, Silva GC, Machado RZ,
+André MR. High occurrence of Mycoplasma suis infection in swine herds from non-
+technified farms in Mossoró, state of Rio Grande do Norte, Northeastern Brazil.
+Rev Bras Parasitol Vet. 2016 Oct-Dec;25(4):414-417. doi:
+10.1590/S1984-29612016084. Epub 2016 Dec 8. PMID: 27982298.
+
+10: Thongmeesee K, Sri-In C, Kaewthamasorn M, Thanee S, Wattanaphansak S,
+Tiawsirisup S. Establishment of molecular diagnostics targeting the 23S
+ribosomal RNA gene for the detection of Mycoplasma suis infection in Thai
+domestic pigs. Acta Trop. 2023 Feb;238:106759. doi:
+10.1016/j.actatropica.2022.106759. Epub 2022 Nov 18. PMID: 36403675.
+
+11: Ritzmann M, Grimm J, Heinritzi K, Hoelzle K, Hoelzle LE. Prevalence of
+Mycoplasma suis in slaughter pigs, with correlation of PCR results to
+hematological findings. Vet Microbiol. 2009 Jan 1;133(1-2):84-91. doi:
+10.1016/j.vetmic.2008.06.015. Epub 2008 Jul 4. PMID: 18687536.
+
+12: Hoelzle LE, Hoelzle K, Ritzmann M, Heinritzi K, Wittenbrink MM. Mycoplasma
+suis antigens recognized during humoral immune response in experimentally
+infected pigs. Clin Vaccine Immunol. 2006 Jan;13(1):116-22. doi:
+10.1128/CVI.13.1.116-122.2006. PMID: 16426008; PMCID: PMC1356629.
+
+13: Groebel K, Hoelzle K, Wittenbrink MM, Ziegler U, Hoelzle LE. Mycoplasma suis
+invades porcine erythrocytes. Infect Immun. 2009 Feb;77(2):576-84. doi:
+10.1128/IAI.00773-08. Epub 2008 Nov 17. PMID: 19015255; PMCID: PMC2632055.
+
+14: Guimaraes AM, Biondo AW, Lara AC, Messick JB. Exploratory study of
+Mycoplasma suis (Eperythrozoon suis) on four commercial pig farms in southern
+Brazil. Vet Rec. 2007 Jan 13;160(2):50-3. doi: 10.1136/vr.160.2.50. PMID:
+17220522.
+
+15: Dietz S, Lassek C, Mack SL, Ritzmann M, Stadler J, Becher D, Hoelzle K,
+Riedel K, Hoelzle LE. Updating the proteome of the uncultivable hemotrophic
+Mycoplasma suis in experimentally infected pigs. Proteomics. 2016
+Feb;16(4):609-13. doi: 10.1002/pmic.201500238. PMID: 26678042.
+
+16: do Nascimento NC, Guimaraes AMS, Dos Santos AP, Chu Y, Marques LM, Messick
+JB. RNA-Seq based transcriptome of whole blood from immunocompetent pigs (Sus
+scrofa) experimentally infected with Mycoplasma suis strain Illinois. Vet Res.
+2018 Jun 18;49(1):49. doi: 10.1186/s13567-018-0546-6. PMID: 29914581; PMCID:
+PMC6006945.
+
+17: Meng K, Sun W, Zhao P, Zhang L, Cai D, Cheng Z, Guo H, Liu J, Yang D, Wang
+S, Chai T. Development of colloidal gold-based immunochromatographic assay for
+rapid detection of Mycoplasma suis in porcine plasma. Biosens Bioelectron. 2014
+May 15;55:396-9. doi: 10.1016/j.bios.2013.12.048. Epub 2013 Dec 31. PMID:
+24434494.
+
+18: Dent BT, Stevens KA, Korvick DL, Clymer JW. Mycoplasma suis infection in
+pigs after splenectomy. Lab Anim (NY). 2013 Apr;42(4):125-8. doi:
+10.1038/laban.171. PMID: 23511081.
+
+19: Hoelzle LE, Felder KM, Hoelzle K. Porzine Eperythrozoonose: von
+Eperythrozoon suis zu Mycoplasma suis [Porcine eperythrozoonosis: from
+Eperythrozoon suis to Mycoplasma suis]. Tierarztl Prax Ausg G Grosstiere
+Nutztiere. 2011;39(4):215-20. German. PMID: 22138829.
+
+20: Hoelzle K, Doser S, Ritzmann M, Heinritzi K, Palzer A, Elicker S, Kramer M,
+Felder KM, Hoelzle LE. Vaccination with the Mycoplasma suis recombinant adhesion
+protein MSG1 elicits a strong immune response but fails to induce protection in
+pigs. Vaccine. 2009 Aug 27;27(39):5376-82. doi: 10.1016/j.vaccine.2009.06.072.
+Epub 2009 Jul 9. PMID: 19596408.
+
+21: Hoelzle LE, Adelt D, Hoelzle K, Heinritzi K, Wittenbrink MM. Development of
+a diagnostic PCR assay based on novel DNA sequences for the detection of
+Mycoplasma suis (Eperythrozoon suis) in porcine blood. Vet Microbiol. 2003 May
+29;93(3):185-96. doi: 10.1016/s0378-1135(03)00040-3. PMID: 12695043.
+
+22: Pereyra NB, Sarradell JE, Cane FD, Francois SE, Pidone CL, Comba ER,
+Rodríguez F, Guglielmone AA. Detección de Mycoplasma suis en casos clínicos de
+síndrome del desmedro multisistémico posdestete en porcinos [Detection of
+Mycoplasma suis in clinical cases with postweaning multisystemic wasting
+syndrome in swine]. Rev Argent Microbiol. 2006 Jul-Sep;38(3):130-3. Spanish.
+PMID: 17152209.
+
+23: Hoelzle LE. Zur Bedeutung der haemotrophen Mycoplasmen in der
+Veterinärmedizin unter besonderer Berücksichtigung der Mycoplasma suis-Infektion
+beim Schwein [Significance of haemotrophic mycoplasmas in veterinary medicine
+with particular regard to the Mycoplasma suis infection in swine]. Berl Munch
+Tierarztl Wochenschr. 2007 Jan-Feb;120(1-2):34-41. German. PMID: 17290941.
+
+24: Congli Y, Zhibiao Y, Ningyu Z, Congbin Y, Xiaowei Y, Jianguo Z, Li C, Xiuguo
+H. The 1.8kb DNA fragment formerly confirmed as Mycoplasma suis (M. suis)
+specific was originated from the porcine genome. Vet Microbiol. 2009 Jul
+2;138(1-2):197-8; author reply 199. doi: 10.1016/j.vetmic.2009.02.010. Epub 2009
+Feb 21. PMID: 19304412.

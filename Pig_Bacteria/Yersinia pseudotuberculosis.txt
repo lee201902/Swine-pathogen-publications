@@ -1,0 +1,51 @@
+1: Reinhardt M, Hammerl JA, Kunz K, Barac A, Nöckler K, Hertwig S. Yersinia
+pseudotuberculosis Prevalence and Diversity in Wild Boars in Northeast Germany.
+Appl Environ Microbiol. 2018 Aug 31;84(18):e00675-18. doi: 10.1128/AEM.00675-18.
+PMID: 29980552; PMCID: PMC6122006.
+
+2: Dong C, Chen W, Zou L, Liu B, Deng K, Guo D, Wang P, Chen H, Wang H, Wang J.
+The Assessment on Synergistic Activity of Ebselen and Silver Ion Against
+<i>Yersinia pseudotuberculosis</i>. Front Microbiol. 2022 Jul 25;13:963901. doi:
+10.3389/fmicb.2022.963901. PMID: 35958130; PMCID: PMC9363147.
+
+3: Platt-Samoraj A, Żmudzki J, Pajdak-Czaus J, Szczerba-Turek A, Bancerz-Kisiel
+A, Procajło Z, Łabuć S, Szweda W. The Prevalence of <i>Yersinia
+enterocolitica</i> and <i>Yersinia pseudotuberculosis</i> in Small Wild Rodents
+in Poland. Vector Borne Zoonotic Dis. 2020 Aug;20(8):586-592. doi:
+10.1089/vbz.2019.2586. Epub 2020 Apr 28. PMID: 32349633.
+
+4: Arrausi-Subiza M, Gerrikagoitia X, Alvarez V, Ibabe JC, Barral M. Prevalence
+of Yersinia enterocolitica and Yersinia pseudotuberculosis in wild boars in the
+Basque Country, northern Spain. Acta Vet Scand. 2016 Jan 20;58:4. doi:
+10.1186/s13028-016-0184-9. PMID: 26790625; PMCID: PMC4719535.
+
+5: Hulankova R. Higher Resistance of <i>Yersinia enterocolitica</i> in
+Comparison to <i>Yersinia pseudotuberculosis</i> to Antibiotics and Cinnamon,
+Oregano and Thyme Essential Oils. Pathogens. 2022 Dec 1;11(12):1456. doi:
+10.3390/pathogens11121456. PMID: 36558790; PMCID: PMC9784965.
+
+6: Salem M, Pajunen MI, Jun JW, Skurnik M. T4-like Bacteriophages Isolated from
+Pig Stools Infect <i>Yersinia pseudotuberculosis</i> and <i>Yersinia pestis</i>
+Using LPS and OmpF as Receptors. Viruses. 2021 Feb 13;13(2):296. doi:
+10.3390/v13020296. PMID: 33668618; PMCID: PMC7917993.
+
+7: Demeure CE, Derbise A, Carniel E. Oral vaccination against plague using
+Yersinia pseudotuberculosis. Chem Biol Interact. 2017 Apr 1;267:89-95. doi:
+10.1016/j.cbi.2016.03.030. Epub 2016 Apr 1. PMID: 27046452.
+
+8: Bonardi S, Bruini I, D'Incau M, Van Damme I, Carniel E, Brémont S, Cavallini
+P, Tagliabue S, Brindani F. Detection, seroprevalence and antimicrobial
+resistance of Yersinia enterocolitica and Yersinia pseudotuberculosis in pig
+tonsils in Northern Italy. Int J Food Microbiol. 2016 Oct 17;235:125-32. doi:
+10.1016/j.ijfoodmicro.2016.07.033. Epub 2016 Jul 28. PMID: 27500659.
+
+9: Jaakkola K, Somervuo P, Korkeala H. Comparative Genomic Hybridization
+Analysis of Yersinia enterocolitica and Yersinia pseudotuberculosis Identifies
+Genetic Traits to Elucidate Their Different Ecologies. Biomed Res Int.
+2015;2015:760494. doi: 10.1155/2015/760494. Epub 2015 Oct 28. PMID: 26605338;
+PMCID: PMC4641178.
+
+10: Sannö A, Aspán A, Hestvik G, Jacobson M. Presence of Salmonella spp.,
+Yersinia enterocolitica, Yersinia pseudotuberculosis and Escherichia coli
+O157:H7 in wild boars. Epidemiol Infect. 2014 Dec;142(12):2542-7. doi:
+10.1017/S0950268814000119. Epub 2014 Feb 6. PMID: 24512817; PMCID: PMC9151289.
