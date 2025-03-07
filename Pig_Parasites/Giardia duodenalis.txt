@@ -1,0 +1,94 @@
+1: Asghari A, Ebrahimi M, Shamsi L, Sadrebazzaz A, Shams M. Global molecular
+prevalence of <i>Giardia duodenalis</i> in pigs (<i>Sus domesticus</i>): A
+systematic review and meta-analysis. Heliyon. 2023 Jan 28;9(2):e13243. doi:
+10.1016/j.heliyon.2023.e13243. PMID: 36846671; PMCID: PMC9946859.
+
+2: Lam HYP, Chen TT, Tseng YC, Chang KC, Yang TH, Peng SY. Detection and
+genotyping of Giardia duodenalis from cattle and pigs in Hualien country,
+Eastern Taiwan. J Microbiol Immunol Infect. 2021 Aug;54(4):718-727. doi:
+10.1016/j.jmii.2020.05.009. Epub 2020 May 28. PMID: 32505531.
+
+3: Akinkuotu OA, Takeet MI, Otesile EB, Olufemi F, Greenwood SJ, McClure JT.
+Prevalence and multilocus genotypes of Giardia duodenalis infecting pigs in Ogun
+state, Nigeria. Infect Genet Evol. 2019 Jun;70:53-60. doi:
+10.1016/j.meegid.2019.02.017. Epub 2019 Feb 21. PMID: 30798034.
+
+4: Zhao FR, Zhang N, Miao WY, Wu R, Cui LL, Huang CQ, Zhou DH. Molecular
+Detection and Multilocus Genotyping of <i>Giardia duodenalis</i> in Pigs in
+Fujian Province, Southeastern China. Animals (Basel). 2022 Nov 14;12(22):3148.
+doi: 10.3390/ani12223148. PMID: 36428376; PMCID: PMC9686555.
+
+5: Wang SS, Yuan YJ, Yin YL, Hu RS, Song JK, Zhao GH. Prevalence and multilocus
+genotyping of Giardia duodenalis in pigs of Shaanxi Province, northwestern
+China. Parasit Vectors. 2017 Oct 17;10(1):490. doi: 10.1186/s13071-017-2418-8.
+PMID: 29041984; PMCID: PMC5645933.
+
+6: Jing B, Zhang Y, Xu C, Li D, Xing J, Tao D, Zhang L, Qi M, Wang H. Detection
+and genetic characterization of Giardia duodenalis in pigs from large-scale
+farms in Xinjiang, China. Parasite. 2019;26:53. doi: 10.1051/parasite/2019056.
+Epub 2019 Aug 26. PMID: 31448999; PMCID: PMC6709646.
+
+7: Zou Y, Yuan XD, Zhang SY, Zhang HY, Chen XQ. Molecular Detection and
+Characterization of <i>Giardia duodenalis</i> in Farmed Pigs in Three Provinces
+of Southern China. Pathogens. 2021 Nov 14;10(11):1481. doi:
+10.3390/pathogens10111481. PMID: 34832636; PMCID: PMC8625397.
+
+8: Liu H, Xu N, Yin J, Yuan Z, Shen Y, Cao J. Prevalence and multilocus
+genotyping of potentially zoonotic Giardia duodenalis in pigs in Shanghai,
+China. Parasitology. 2019 Aug;146(9):1199-1205. doi: 10.1017/S0031182019000349.
+Epub 2019 May 14. PMID: 31084658; PMCID: PMC6682543.
+
+9: Li D, Deng H, Zheng Y, Zhang H, Wang S, He L, Zhao J. First Characterization
+and Zoonotic Potential of <i>Cryptosporidium</i> spp. and <i>Giardia
+duodenalis</i> in Pigs in Hubei Province of China. Front Cell Infect Microbiol.
+2022 Jul 11;12:949773. doi: 10.3389/fcimb.2022.949773. PMID: 35899055; PMCID:
+PMC9309367.
+
+10: Lee H, Jung B, Lim JS, Seo MG, Lee SH, Choi KH, Hwang MH, Kim TH, Kwon OD,
+Kwak D. Multilocus genotyping of Giardia duodenalis from pigs in Korea.
+Parasitol Int. 2020 Oct;78:102154. doi: 10.1016/j.parint.2020.102154. Epub 2020
+Jun 9. PMID: 32531468.
+
+11: Song YF, Chu MJ, Huang F, Liu Y, Lu HH, Li SA, Wang SY. First report of
+prevalence and assemblage analysis of Giardia duodenalis in pigs from Guangxi
+Zhuang Autonomous Region, southern China. Parasite. 2023;30:51. doi:
+10.1051/parasite/2023051. Epub 2023 Nov 28. PMID: 38015007; PMCID: PMC10683581.
+
+12: Farzan A, Parrington L, Coklin T, Cook A, Pintar K, Pollari F, Friendship R,
+Farber J, Dixon B. Detection and characterization of Giardia duodenalis and
+Cryptosporidium spp. on swine farms in Ontario, Canada. Foodborne Pathog Dis.
+2011 Nov;8(11):1207-13. doi: 10.1089/fpd.2011.0907. Epub 2011 Jun 15. PMID:
+21675863.
+
+13: Ghebremichael ST, Meng X, Yang Y, Andegiorgish AK, Wu Z, Chen J, Wei J, Li
+T, Bao J, Zhou Z, Pan G. First identification and coinfection detection of
+Enterocytozoon bieneusi, Encephalitozoon spp., Cryptosporidium spp. and Giardia
+duodenalis in diarrheic pigs in Southwest China. BMC Microbiol. 2023 Nov
+11;23(1):334. doi: 10.1186/s12866-023-03070-x. PMID: 37951859; PMCID:
+PMC10640745.
+
+14: Siwila J, Mwape KE. Prevalence of Cryptosporidium spp. and Giardia
+duodenalis in pigs in Lusaka, Zambia. Onderstepoort J Vet Res. 2012 Aug
+23;79(1):E1-5. doi: 10.4102/ojvr.v79i1.404. PMID: 23327315.
+
+15: Zou Y, Zheng WB, Song HY, Xia CY, Shi B, Liu JZ, Hou JL, Zhu XQ. Prevalence
+and genetic characterization of Enterocytozoon bieneusi and Giardia duodenalis
+in Tibetan pigs in Tibet, China. Infect Genet Evol. 2019 Nov;75:104019. doi:
+10.1016/j.meegid.2019.104019. Epub 2019 Aug 27. PMID: 31470093.
+
+16: Zhang HJ, Song JK, Wu XM, Li YH, Wang Y, Lin Q, Zhao GH. First report of
+Giardia duodenalis genotypes in Zangxiang pigs from China. Parasitol Res. 2019
+Jul;118(7):2305-2310. doi: 10.1007/s00436-019-06340-8. Epub 2019 May 11. PMID:
+31079254.
+
+17: Wang H, Zhang Y, Wu Y, Li J, Qi M, Li T, Wang J, Wang R, Zhang S, Jian F,
+Ning C, Zhang L. Occurrence, Molecular Characterization, and Assessment of
+Zoonotic Risk of Cryptosporidium spp., Giardia duodenalis, and Enterocytozoon
+bieneusi in Pigs in Henan, Central China. J Eukaryot Microbiol. 2018
+Nov;65(6):893-901. doi: 10.1111/jeu.12634. Epub 2018 Jun 10. PMID: 29752883.
+
+18: Weissenböck H, Ondrovics M, Gurtner S, Schiessl P, Mostegl MM, Richter B.
+Development of a chromogenic in situ hybridization for Giardia duodenalis and
+its application in canine, feline, and porcine intestinal tissues samples. J Vet
+Diagn Invest. 2011 May;23(3):486-91. doi: 10.1177/1040638711404151. PMID:
+21908276; PMCID: PMC3173878.

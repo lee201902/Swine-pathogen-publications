@@ -1,0 +1,680 @@
+1: Addo HO, Majekodunmi AO, Sampane-Donkor E, Ofosu-Appiah LH, Opare D, Owusu-
+Okyere G, Amegah KE, Bimi L. Seroprevalence of <i>Taenia solium</i> and
+<i>Trichinella spiralis</i> among Humans and Pigs in Ghana. Biomed Res Int. 2021
+Oct 8;2021:1031965. doi: 10.1155/2021/1031965. PMID: 34660777; PMCID:
+PMC8519675.
+
+2: Bai H, Tang B, Qiao W, Wu X, Liu M, Wang X. The Prevalence of <i>Trichinella
+spiralis</i> in Domestic Pigs in China: A Systematic Review and Meta-Analysis.
+Animals (Basel). 2022 Dec 15;12(24):3553. doi: 10.3390/ani12243553. PMID:
+36552472; PMCID: PMC9774926.
+
+3: Li C, Li C, Xu F, Wang H, Jin X, Zhang Y, Liu X, Wang R, You X, Liu M, Bai X,
+Yang Y. Identification of antigens in the Trichinella spiralis extracellular
+vesicles for serological detection of early stage infection in swine. Parasit
+Vectors. 2023 Oct 26;16(1):387. doi: 10.1186/s13071-023-06013-7. PMID: 37884927;
+PMCID: PMC10604534.
+
+4: Gómez-Mendieta LA, Bastida-Almaraz FJ, Salas-Ramírez M, Jasso-Villazul CE,
+Fuentes-Cervantes G, Gómez-De-Anda FR, Zepeda-Velázquez AP, Ponce-Noguez JB, de-
+la-Rosa-Arana JL. Serology survey of Ascaris suum and Trichinella spiralis in
+rural pigs in Southwestern Mexico. Vet Med Sci. 2024 Jul;10(4):e1474. doi:
+10.1002/vms3.1474. PMID: 38767566; PMCID: PMC11104424.
+
+5: Bilska-Zajac E, Tonanzi D, Pozio E, Rozycki M, Cencek T, Thompson PC,
+Rosenthal BM, La Rosa G. Genetic evidence substantiates transmission of
+Trichinella spiralis from one swine farm to another. Parasit Vectors. 2021 Jul
+9;14(1):359. doi: 10.1186/s13071-021-04861-9. PMID: 34243814; PMCID: PMC8268521.
+
+6: Frontera E, Alcaide M, Boes J, Hernández S, Domínguez-Alpízar JL, Reina D.
+Concurrent infection with Trichinella spiralis and other helminths in pigs. Vet
+Parasitol. 2007 May 15;146(1-2):50-7. doi: 10.1016/j.vetpar.2007.02.013. Epub
+2007 Apr 2. PMID: 17400390.
+
+7: Li J, Ding J, Liu XL, Tang B, Bai X, Wang Y, Qiao WD, Liu MY, Wang XL.
+Upconverting phosphor technology-based lateral flow assay for the rapid and
+sensitive detection of anti-Trichinella spiralis IgG antibodies in pig serum.
+Parasit Vectors. 2021 Sep 22;14(1):487. doi: 10.1186/s13071-021-04949-2. PMID:
+34551787; PMCID: PMC8456594.
+
+8: Fredericks J, Hill DE, Zarlenga DS, Fournet VM, Hawkins-Cooper DS, Urban JF
+Jr, Kramer M. *Inactivation of encysted muscle larvae of Trichinella spiralis in
+pigs using Mebendazole. Vet Parasitol. 2024 Apr;327:110140. doi:
+10.1016/j.vetpar.2024.110140. Epub 2024 Jan 26. PMID: 38330532.
+
+9: Xu D, Tang B, Yang Y, Cai X, Jia W, Luo X, Yan H, Zhang Z, Lin J, Liu M, Liu
+X. Vaccination with a DNase II recombinant protein against Trichinella spiralis
+infection in pigs. Vet Parasitol. 2021 Sep;297:109069. doi:
+10.1016/j.vetpar.2020.109069. Epub 2020 Mar 5. PMID: 32156436.
+
+10: Mohammed ES, Youseef AG, Mubarak AG, Mawas AS, Khalifa FA, Felefel W.
+Epidemiological perspective associated with principal risk factors of
+<i>Trichinella spiralis</i> infection in pigs and humans in Egypt. Vet World.
+2022 Jun;15(6):1430-1437. doi: 10.14202/vetworld.2022.1430-1437. Epub 2022 Jun
+11. PMID: 35993072; PMCID: PMC9375220.
+
+11: Liu Y, Tan J, Zhang N, Qu Z, Li W, Wu Y, Yin H, Liu G, Fu B. Trichinella
+spiralis excretory/secretory antigens ameliorate porcine epidemic diarrhea
+virus-induced mucosal damage in porcine intestinal oganoids by alleviating
+inflammation and promoting tight junction. Int J Parasitol. 2024 Dec
+25:S0020-7519(24)00228-5. doi: 10.1016/j.ijpara.2024.12.002. Epub ahead of
+print. PMID: 39725260.
+
+12: Wang N, Bai X, Tang B, Yang Y, Wang X, Zhu H, Luo X, Yan H, Jia H, Liu M,
+Liu X. Primary characterization of the immune response in pigs infected with
+Trichinella spiralis. Vet Res. 2020 Feb 21;51(1):17. doi:
+10.1186/s13567-020-0741-0. PMID: 32085808; PMCID: PMC7035712.
+
+13: Thompson PC, Bilska-Zajac E, Zarlenga DS, Liu M, Cencek T, Różycki M,
+Rosenthal BM. Divergence at mitochondrial and ribosomal loci indicates the split
+between Asian and European populations of Trichinella spiralis occurred prior to
+swine domestication. Infect Genet Evol. 2021 Mar;88:104705. doi:
+10.1016/j.meegid.2021.104705. Epub 2021 Jan 6. PMID: 33418148.
+
+14: Supcharoengoon U, Reamtong O, Dekumyoy P, Watthanakulpanich D, Limpanont Y,
+Zhiyue L, Chaimon S, Martviset P, Adisakwattana P. Evaluation of indirect-ELISA
+using eluted antigens from Trichinella spiralis muscle larvae for diagnosis of
+swine trichinellosis. Acta Trop. 2022 Nov;235:106644. doi:
+10.1016/j.actatropica.2022.106644. Epub 2022 Aug 6. PMID: 35944581.
+
+15: Wang X, Li A, Wang R, Hou T, Chen H, Wang J, Liu M, Li C, Ding J. Lateral
+flow immunoassay strips based on europium(III) chelate microparticle for the
+rapid and sensitive detection of <i>Trichinella spirali</i>s infection in whole
+blood samples of pigs. Front Cell Infect Microbiol. 2022 Aug 9;12:955974. doi:
+10.3389/fcimb.2022.955974. PMID: 36017365; PMCID: PMC9395740.
+
+16: Marti HP, Murrell KD. Trichinella spiralis: antifecundity and antinewborn
+larvae immunity in swine. Exp Parasitol. 1986 Dec;62(3):370-5. doi:
+10.1016/0014-4894(86)90044-5. PMID: 3780929.
+
+17: Gajadhar AA, Bisaillon JR, Appleyard GD. Status of Trichinella spiralis in
+domestic swine and wild boar in Canada. Can J Vet Res. 1997 Oct;61(4):256-9.
+PMID: 9342448; PMCID: PMC1189418.
+
+18: Garbarino C, Interisano M, Chiatante A, Marucci G, Merli E, Arrigoni N,
+Cammi G, Ricchi M, Tonanzi D, Tamba M, La Rosa G, Pozio E. Trichinella spiralis
+a new alien parasite in Italy and the increased risk of infection for domestic
+and wild swine. Vet Parasitol. 2017 Nov 15;246:1-4. doi:
+10.1016/j.vetpar.2017.08.021. Epub 2017 Sep 1. PMID: 28969769.
+
+19: Arriaga C, Muñiz E, Morilla A, Ortega-Pierres G. Trichinella spiralis:
+recognition of muscle larva antigens during experimental infection of swine and
+its potential use in diagnosis. Exp Parasitol. 1989 Nov;69(4):363-72. doi:
+10.1016/0014-4894(89)90086-6. PMID: 2478386.
+
+20: Wang X, Tang B, Zhao Y, Ding J, Wang N, Liu Y, Dong Z, Sun X, Xu Q, Liu M,
+Liu X. Development of a rapid and sensitive immunochromatographic strip based on
+EuNPs-ES fluorescent probe for the detection of early Trichinella spiralis-
+specific IgG antibody in pigs. Vet Res. 2021 Jun 11;52(1):85. doi:
+10.1186/s13567-021-00951-9. PMID: 34116710; PMCID: PMC8196438.
+
+21: Gondek M, Herosimczyk A, Knysz P, Ożgo M, Lepczyński A, Szkucik K.
+Comparative Proteomic Analysis of Serum from Pigs Experimentally Infected with
+<i>Trichinella spiralis</i>, <i>Trichinella britovi,</i> and <i>Trichinella
+pseudospiralis</i>. Pathogens. 2020 Jan 11;9(1):55. doi:
+10.3390/pathogens9010055. PMID: 31940868; PMCID: PMC7168678.
+
+22: van der Giessen J, Fonville M, Bouwknegt M, Langelaar M, Vollema A.
+Seroprevalence of Trichinella spiralis and Toxoplasma gondii in pigs from
+different housing systems in The Netherlands. Vet Parasitol. 2007 Sep
+30;148(3-4):371-4. doi: 10.1016/j.vetpar.2007.06.009. Epub 2007 Jul 23. PMID:
+17646053.
+
+23: Xu D, Bai X, Xu J, Wang X, Dong Z, Shi W, Xu F, Li Y, Liu M, Liu X. The
+immune protection induced by a serine protease from the Trichinella spiralis
+adult against Trichinella spiralis infection in pigs. PLoS Negl Trop Dis. 2021
+May 10;15(5):e0009408. doi: 10.1371/journal.pntd.0009408. PMID: 33970910; PMCID:
+PMC8136858.
+
+24: Bokken GC, van Eerden E, Opsteegh M, Augustijn M, Graat EA, Franssen FF,
+Görlich K, Buschtöns S, Tenter AM, van der Giessen JW, Bergwerff AA, van Knapen
+F. Specific serum antibody responses following a Toxoplasma gondii and
+Trichinella spiralis co-infection in swine. Vet Parasitol. 2012 Mar
+23;184(2-4):126-32. doi: 10.1016/j.vetpar.2011.08.028. Epub 2011 Aug 25. PMID:
+21917380.
+
+25: Franssen F, Johne A, van der Giessen J, Nöckler K, Mayer-Scholl A. Test
+sensitivity of a commercial serine protease digestion kit for the detection of
+Trichinella spiralis and Trichinella pseudospiralis larvae in pig muscle. Food
+Microbiol. 2019 Apr;78:99-103. doi: 10.1016/j.fm.2018.10.012. Epub 2018 Oct 22.
+PMID: 30497613.
+
+26: Madden KB, Moeller RF Jr, Douglass LW, Goldman T, Lunney JK. Trichinella
+spiralis: genetic basis and kinetics of the anti-encysted muscle larval response
+in miniature swine. Exp Parasitol. 1993 Aug;77(1):23-35. doi:
+10.1006/expr.1993.1057. PMID: 8344404.
+
+27: Ribicich M, Gamble HR, Rosa A, Sommerfelt I, Marquez A, Mira G, Cardillo N,
+Cattaneo ML, Falzoni E, Franco A. Clinical, haematological, biochemical and
+economic impacts of Trichinella spiralis infection in pigs. Vet Parasitol. 2007
+Jul 20;147(3-4):265-70. doi: 10.1016/j.vetpar.2007.04.017. Epub 2007 May 31.
+PMID: 17543458.
+
+28: Kotula AW, Murrell KD, Acosta-Stein L, Lamb L. Distribution of Trichinella
+spiralis larvae in selected muscles and organs of experimentally infected swine.
+J Anim Sci. 1984 Jan;58(1):94-8. doi: 10.2527/jas1984.58194x. PMID: 6698907.
+
+29: Gondek M, Knysz P, Pomorska-Mól M, Ziomek M, Bień-Kalinowska J. Acute phase
+protein pattern and antibody response in pigs experimentally infected with a
+moderate dose of Trichinella spiralis, T. britovi, and T. pseudospiralis. Vet
+Parasitol. 2020 Dec;288:109277. doi: 10.1016/j.vetpar.2020.109277. Epub 2020 Oct
+22. PMID: 33130498.
+
+30: Gondek M, Knysz P, Pyz-Łukasik R, Łukomska A, Kuriga A, Pomorska-Mól M.
+Distribution of <i>Trichinella spiralis, Trichinella britovi</i>, and
+<i>Trichinella pseudospiralis</i> in the Diaphragms and <i>T. spiralis</i> and
+<i>T. britovi</i> in the Tongues of Experimentally Infected Pigs. Front Vet Sci.
+2021 Jun 22;8:696284. doi: 10.3389/fvets.2021.696284. PMID: 34239917; PMCID:
+PMC8258146.
+
+31: Picherot M, Oswald IP, Cote M, Noeckler K, Le Guerhier F, Boireau P, Vallée
+I. Swine infection with Trichinella spiralis: Comparative analysis of the
+mucosal intestinal and systemic immune responses. Vet Parasitol. 2007 Jan
+31;143(2):122-30. doi: 10.1016/j.vetpar.2006.08.003. Epub 2006 Sep 7. PMID:
+16962244.
+
+32: Lobanov VA, Konecsni KA, Purves RW, Scandrett WB. Performance of indirect
+enzyme-linked immunosorbent assay using Trichinella spiralis-derived Serpin as
+antigen for the detection of exposure to Trichinella spp. in swine. Vet
+Parasitol. 2022 Sep;309:109744. doi: 10.1016/j.vetpar.2022.109744. Epub 2022 Jun
+10. PMID: 35777187.
+
+33: Cairns GC. The occurrence of Trichinella spiralis in New Zealand pigs, rats
+and cats. N Z Vet J. 1966 Jul;14(7):84-8. doi: 10.1080/00480169.1966.33640.
+PMID: 5223668.
+
+34: Dubey JP, Gamble HR, Rodrigues AO, Thulliez P. Prevalence of antibodies to
+Toxoplasma gondii and Trichinella spiralis in 509 pigs from 31 farms in Oahu,
+Hawaii. Vet Parasitol. 1992 Jun;43(1-2):57-63. doi:
+10.1016/0304-4017(92)90048-e. PMID: 1496803.
+
+35: Davies PR, Morrow WE, Deen J, Gamble HR, Patton S. Seroprevalence of
+Toxoplasma gondii and Trichinella spiralis in finishing swine raised in
+different production systems in North Carolina, USA. Prev Vet Med. 1998 Jul
+17;36(1):67-76. doi: 10.1016/s0167-5877(98)00072-5. PMID: 9677628.
+
+36: Tingting L, Wenhui L, Nianzhang Z, Zigang Q, Ohiolei JA, Li L, Hongbin Y,
+Wanzhong J, Baoquan F. Primary characterization of the immune responses in
+Tibetan pigs infected with Chinese Tibet isolate of Trichinella spiralis. BMC
+Vet Res. 2021 Feb 28;17(1):94. doi: 10.1186/s12917-021-02806-z. PMID: 33639942;
+PMCID: PMC7916296.
+
+37: Ivey MH. Immediate hypersensitivity and serological responses in guinea pigs
+infected with Toxocara canis or Trichinella spiralis. Am J Trop Med Hyg. 1965
+Nov;14(6):1044-51. doi: 10.4269/ajtmh.1965.14.1044. PMID: 4953925.
+
+38: Gómez-De-Anda F, Dorantes-Álvarez L, Gallardo-Velázquez T, Osorio-Revilla G,
+Calderón-Domínguez G, Martínez Labat P, de-la-Rosa-Arana JL. Determination of
+Trichinella spiralis in pig muscles using Mid-Fourier Transform Infrared
+Spectroscopy (MID-FTIR) with Attenuated Total Reflectance (ATR) and Soft
+Independent Modeling of Class Analogy (SIMCA). Meat Sci. 2012 Jul;91(3):240-6.
+doi: 10.1016/j.meatsci.2012.01.019. Epub 2012 Feb 1. PMID: 22364689.
+
+39: Gerencer M, Marinculić A, Rapić D, Franković M, Valpotić I.
+Immunosuppression of in vivo and in vitro lymphocyte responses in swine induced
+by Trichinella spiralis or excretory-secretory antigens of the parasite. Vet
+Parasitol. 1992 Oct;44(3-4):263-73. doi: 10.1016/0304-4017(92)90121-o. PMID:
+1466133.
+
+40: Dzik JM, Zieliński Z, Gołos B, Wałajtys-Rode E. Trichinella spiralis
+infection affects p47(phox) protein expression in guinea-pig alveolar
+macrophages. Exp Parasitol. 2006 Mar;112(3):158-63. doi:
+10.1016/j.exppara.2005.11.001. Epub 2005 Dec 13. PMID: 16356496.
+
+41: Slonka GF, Nellis DW, Sinclair SP, Walls K. Prevalence of Trichinella
+spiralis in the mongoose, human, and swine populations of the Virgin Islands. J
+Parasitol. 1976 Apr;62(2):221. PMID: 1263030.
+
+42: Bien J, Cabaj W, Moskwa B. Proteomic analysis of potential immunoreactive
+proteins from muscle larvae and adult worms of Trichinella spiralis in
+experimentally infected pigs. Folia Parasitol (Praha). 2015 Jan 1;62:2015.022.
+doi: 10.14411/fp.2015.022. PMID: 25960566.
+
+43: Marinculic A, Gamble HR, Urban JF, Rapic D, Zivicnjak T, Smith HJ, Murrell
+KD. Immunity in swine inoculated with larvae or extracts of a pig isolate and a
+sylvatic isolate of Trichinella spiralis. Am J Vet Res. 1991 May;52(5):754-8.
+PMID: 1854102.
+
+44: Serrano FJ, Pérez-Martin JE, Carrón A, Navarrete I. Comparison of IgM, IgG1
+and IgG2 responses to Trichinella spiralis and Trichinella britovi in swine.
+Parasite. 2001 Jun;8(2 Suppl):S133-5. doi: 10.1051/parasite/200108s2133. PMID:
+11484336.
+
+45: Kotula AW, Rothenberg PJ, Burge JR, Solomon MB. Distribution of Trichinella
+spiralis in the Diaphragm of Experimentally Infected Swine. J Food Prot. 1988
+Sep;51(9):691-695. doi: 10.4315/0362-028X-51.9.691. PMID: 30991557.
+
+46: Pozio E, Merialdi G, Licata E, Della Casa G, Fabiani M, Amati M, Cherchi S,
+Ramini M, Faeti V, Interisano M, Ludovisi A, Rugna G, Marucci G, Tonanzi D,
+Gómez-Morales MA. Differences in larval survival and IgG response patterns in
+long-lasting infections by Trichinella spiralis, Trichinella britovi and
+Trichinella pseudospiralis in pigs. Parasit Vectors. 2020 Oct 16;13(1):520. doi:
+10.1186/s13071-020-04394-7. PMID: 33066824; PMCID: PMC7566126.
+
+47: Smith HJ. Infectivity of Canadian isolates of Trichinella spiralis nativa
+for swine, rats and carnivores. Can J Comp Med. 1985 Jan;49(1):88-90. PMID:
+3986683; PMCID: PMC1236123.
+
+48: Lunney JK, Murrell KD. Immunogenetic analysis of Trichinella spiralis
+infections in swine. Vet Parasitol. 1988 Sep;29(2-3):179-93. doi:
+10.1016/0304-4017(88)90125-2. PMID: 2974214.
+
+49: Marti HP, Murrell KD, Gamble HR. Trichinella spiralis: immunization of pigs
+with newborn larval antigens. Exp Parasitol. 1987 Feb;63(1):68-73. doi:
+10.1016/0014-4894(87)90079-8. PMID: 3803533.
+
+50: Gondek M, Bień J, Nowakowski Z. Use of ELISA and Western blot for
+serological detection of antibodies to E-S antigens of Trichinella spiralis
+muscle larvae in sera of swine experimentally infected with Trichinella
+spiralis. Vet Immunol Immunopathol. 2018 Sep;203:13-20. doi:
+10.1016/j.vetimm.2018.07.010. Epub 2018 Jul 29. PMID: 30243368.
+
+51: Theodoropoulos G, Hicks SJ, Corfield AP, Miller BG, Kapel CM, Trivizaki M,
+Balaskas C, Petrakos G, Carrington SD. Trichinella spiralis: enteric mucin-
+related response to experimental infection in conventional and SPF pigs. Exp
+Parasitol. 2005 Feb;109(2):63-71. doi: 10.1016/j.exppara.2004.11.006. Epub 2005
+Jan 7. PMID: 15687012.
+
+52: Hill DE, Pierce V, Darwin Murrell K, Ratliffe N, Rupp B, Fournet VM,
+Zarlenga DS, Rosenthal BM, Ray Gamble H, Kelly K, Dulin M. Cessation of
+Trichinella spiralis transmission among scavenging mammals after the removal of
+infected pigs from a poorly managed farm: implications for trichinae
+transmission in the US. Zoonoses Public Health. 2010 Dec;57(7-8):e116-23. doi:
+10.1111/j.1863-2378.2009.01296.x. PMID: 19968844.
+
+53: Zarlenga DS, Boyd P, Lichtenfels JR, Hill D, Ray Gamble H. Identification
+and characterisation of a cDNA sequence encoding a glutamic acid-rich protein
+specifically transcribed in Trichinella spiralis newborn larvae and recognised
+by infected swine serum. Int J Parasitol. 2002 Oct;32(11):1361-70. doi:
+10.1016/s0020-7519(02)00127-3. PMID: 12350371.
+
+54: KIMSEY LS, ADAMS SL. Trichinella spiralis in the diaphragms of humans and
+swine. Public Health Rep (1896). 1955 Oct;70(10):1001-9. PMID: 13266956; PMCID:
+PMC2024662.
+
+55: Shin SS, Elvinger F, Prestwood AK, Cole JR Jr. Exposure of swine to
+Trichinella spiralis antigen as determined by consecutive ELISAs and western
+blot. J Parasitol. 1997 Jun;83(3):430-3. PMID: 9194822.
+
+56: Bjorland J, Brown D, Gamble HR, McAuley JB. Trichinella spiralis infection
+in pigs in the Bolivian Altiplano. Vet Parasitol. 1993 May;47(3-4):349-54. doi:
+10.1016/0304-4017(93)90036-m. PMID: 8333140.
+
+57: Rosenthal BM, LaRosa G, Zarlenga D, Dunams D, Chunyu Y, Mingyuan L, Pozio E.
+Human dispersal of Trichinella spiralis in domesticated pigs. Infect Genet Evol.
+2008 Dec;8(6):799-805. doi: 10.1016/j.meegid.2008.07.008. Epub 2008 Jul 30.
+PMID: 18718558.
+
+58: Gnjatovic M, Gruden-Movsesijan A, Miladinovic-Tasic N, Ilic N, Vasilev S,
+Cvetkovic J, Sofronic-Milosavljevic L. A competitive enzyme-linked immunosorbent
+assay for rapid detection of antibodies against Trichinella spiralis and T.
+britovi - one test for humans and swine. J Helminthol. 2019 Jan;93(1):33-41.
+doi: 10.1017/S0022149X17001092. Epub 2017 Nov 23. PMID: 29168448.
+
+59: Madden KB, Murrell KD, Lunney JK. Trichinella spiralis: major
+histocompatibility complex-associated elimination of encysted muscle larvae in
+swine. Exp Parasitol. 1990 May;70(4):443-51. doi: 10.1016/0014-4894(90)90129-z.
+PMID: 2323396.
+
+60: Smith HJ. Vaccination of rats and pigs against Trichinella spiralis spiralis
+using the subspecies, T. spiralis nativa. Can J Vet Res. 1987 Jul;51(3):370-2.
+PMID: 3651892; PMCID: PMC1255340.
+
+61: Zimmermann WJ. Reproductive potential and muscle distribution of Trichinella
+spiralis in swine. J Am Vet Med Assoc. 1970 Mar 15;156(6):770-4. PMID: 5445385.
+
+62: Dzik JM, Gołos B, Jagielska E, Kapała A, Wałajtys-Rode E. Early response of
+guinea-pig lungs to Trichinella spiralis infection. Parasite Immunol. 2002
+Jul;24(7):369-79. doi: 10.1046/j.1365-3024.2002.00474.x. PMID: 12164823.
+
+63: Haralabidis ST, Frydas SI, Himonas CA. Latex agglutination test for
+detecting Trichinella spiralis infections in pigs using muscle extract. Vet
+Parasitol. 1989 Dec;34(3):191-201. doi: 10.1016/0304-4017(89)90050-2. PMID:
+2617824.
+
+64: Korínková K, Kovarcík K, Pavlícková Z, Svoboda M, Koudela B. Serological
+detection of Trichinella spiralis in swine by ELISA (enzyme-linked immunosorbent
+assay) using an excretory-secretory (E/S) antigen. Parasitol Res. 2008
+May;102(6):1317-20. doi: 10.1007/s00436-008-0911-x. Epub 2008 Feb 17. PMID:
+18278585.
+
+65: NELSON GS, MUKUNDI J. A STRAIN OF TRICHINELLA SPIRALIS FROM KENYA OF LOW
+INFECTIVITY TO RATS AND DOMESTIC PIGS. J Helminthol. 1963;37:329-38. doi:
+10.1017/s0022149x00019921. PMID: 14053279.
+
+66: Wee SH, Lee CG, Joo HD, Kang YB. Enzyme-linked immunosorbent assay for
+detection of Trichinella spiralis antibodies and the surveillance of selected
+pig breeding farms in the Republic of Korea. Korean J Parasitol. 2001
+Sep;39(3):261-4. doi: 10.3347/kjp.2001.39.3.261. PMID: 11590917; PMCID:
+PMC2721076.
+
+67: Bokken GC, Bergwerff AA, van Knapen F. A novel bead-based assay to detect
+specific antibody responses against Toxoplasma gondii and Trichinella spiralis
+simultaneously in sera of experimentally infected swine. BMC Vet Res. 2012 Mar
+28;8:36. doi: 10.1186/1746-6148-8-36. PMID: 22453053; PMCID: PMC3348074.
+
+68: Riva E, Fiel C, Bernat G, Muchiut S, Steffan P. Studies on vertical
+transmission of Trichinella spiralis in experimentally infected guinea pigs
+(Cavia porcellus). Parasitol Res. 2017 Aug;116(8):2271-2276. doi:
+10.1007/s00436-017-5533-8. Epub 2017 Jun 19. PMID: 28631164.
+
+69: Kapel CM, Webster P, Lind P, Pozio E, Henriksen SA, Murrell KD, Nansen P.
+Trichinella spiralis, T. britovi, and T. nativa: infectivity, larval
+distribution in muscle, and antibody response after experimental infection of
+pigs. Parasitol Res. 1998;84(4):264-71. doi: 10.1007/s004360050393. PMID:
+9569089.
+
+70: Marinculić A, Fajdiga M, Duraković E. The efficacy of flubendazole against
+Trichinella spiralis in swine. Parasite. 2001 Jun;8(2 Suppl):S191-4. doi:
+10.1051/parasite/200108s2191. PMID: 11484353.
+
+71: Frieling T, Palmer JM, Cooke HJ, Wood JD. Neuroimmune communication in the
+submucous plexus of guinea pig colon after infection with Trichinella spiralis.
+Gastroenterology. 1994 Dec;107(6):1602-9. doi: 10.1016/0016-5085(94)90798-6.
+PMID: 7525397.
+
+72: Murrell KD, Despommier DD. Immunization of swine against Trichinella
+spiralis. Vet Parasitol. 1984 Sep;15(3-4):263-70. doi:
+10.1016/0304-4017(84)90078-5. PMID: 6541840.
+
+73: Murrell KD. Trichinella spiralis: acquired immunity in swine. Exp Parasitol.
+1985 Jun;59(3):347-54. doi: 10.1016/0014-4894(85)90090-6. PMID: 3996525.
+
+74: Ronéus O, Christensson D. Presence of Trichinella spiralis in free-living
+red foxes (Vulpes vulpes) in Sweden related to trichinella infection in swine
+and man. Acta Vet Scand. 1979;20(4):583-94. doi: 10.1186/BF03546586. PMID:
+546215; PMCID: PMC8322902.
+
+75: Brown DF, Méndez Prado GA, Quiroga JL, Stagg DA, Méndez Cadima GJ, Sánchez
+Méndez LH, Méndez Cuellar R. Trichinella spiralis infection in pigs in eastern
+Bolivia. Trop Anim Health Prod. 1996 May;28(2):137-42. PMID: 8809974.
+
+76: Smith HJ, Snowdon KE. Detection of Trichinella spiralis nativa antibodies in
+porcine sera by ELISA using T. spiralis spiralis excretory-secretory antigen.
+Can J Vet Res. 1987 Jul;51(3):413-4. PMID: 3651901; PMCID: PMC1255350.
+
+77: Lind P, Eriksen L, Henriksen SA, Homan WL, van Knapen F, Nansen P, Stahl
+Skov P. Diagnostic tests for Trichinella spiralis infection in pigs. A
+comparative study of ELISA for specific antibody and histamine release from
+blood cells in experimental infections. Vet Parasitol. 1991 Aug;39(3-4):241-52.
+doi: 10.1016/0304-4017(91)90041-s. PMID: 1720267.
+
+78: Ooi HK, Kamiya M, Ohbayashi M, Nakazawa M. Infectivity in rodents and cold
+resistance of Trichinella spiralis isolated from pig and polar bear, and T.
+pseudospiralis. Jpn J Vet Res. 1986 Apr;34(2):105-10. PMID: 3723918.
+
+79: Ruitenberg EJ, Steerenberg PA, Brosi BJ, Buys J. ELISA (enzyme-linked
+immunosorbent assay) as preventive and repressive control method for the
+detection of Trichinella spiralis infections in slaughter pigs. Wiad Parazytol.
+1975;21(4-5):747-51. PMID: 1189447.
+
+80: Harley JP. Size of trichinella spiralis (nematoda) muscle cysts in the rat,
+mouse and guinea-pig. Experientia. 1972 Apr 15;28(4):486-7. doi:
+10.1007/BF02008359. PMID: 5036588.
+
+81: Gamble HR, Murrell KD, Marti HP. Inoculation of pigs against Trichinella
+spiralis, using larval excretory-secretory antigens. Am J Vet Res. 1986
+Nov;47(11):2396-9. PMID: 3789502.
+
+82: Clinard EH. Identification and distribution of swine serum immunoglobins
+that react with Trichinella spiralis antigens and may interfere with the enzyme-
+labeled antibody test for trichinosis. Am J Vet Res. 1979 Nov;40(11):1558-63.
+PMID: 160765.
+
+83: Castro GA, Olson LJ, Baker RD. Glucose malabsorption and intestinal
+histopathology in Trichinella spiralis-infected guinea pigs. J Parasitol. 1967
+Jun;53(3):595-612. PMID: 6026850.
+
+84: Nuamtanong S, Dekumyoy P, Adisakwattana P. Evaluation of recombinant serine
+protease inhibitor from Trichinella spiralis for immunodiagnosis of swine
+trichinosis. Southeast Asian J Trop Med Public Health. 2012 Sep;43(5):1094-104.
+PMID: 23431815.
+
+85: Castro GA, Olson LJ. Relationship between body weight and food and water
+intake in Trichinella spiralis-infected guinea pigs. J Parasitol. 1967
+Jun;53(3):589-94. PMID: 6026849.
+
+86: Kozar Z, Wieczorek Z, Kotz J, Kozar M. Delayed hypersensitivity and humoral
+antibodies in guinea pigs sensitized with Trichinella spiralis antigens. Arch
+Immunol Ther Exp (Warsz). 1971;19(4):491-514. PMID: 4255329.
+
+87: ZAPART W. The comparative study on serological properties of antigens
+derving from the larvae of Trichinella spiralis isolated from muscles of rats,
+rabbits and pigs. Wiad Parazytol. 1962;8:645-50. PMID: 14003240.
+
+88: Nasinyama GW, Gordon JC, Bech-Nielsen S, Barriga OO. IgG response in guinea
+pigs to Trichinella spiralis infection. Vet Parasitol. 1991 Aug;39(3-4):301-11.
+doi: 10.1016/0304-4017(91)90047-y. PMID: 1957490.
+
+89: Arriaga C, Yépez-Mulia L, Morilla A, Ortega-Pierres G. Detection of
+circulating Trichinella spiralis muscle larva antigens in serum samples of
+experimentally and naturally infected swine. Vet Parasitol. 1995
+Jul;58(4):319-26. doi: 10.1016/0304-4017(94)00775-8. PMID: 8533271.
+
+90: Ruitenberg EJ, Steerenberg PA, Brosi BJ, Buys J. Serodiagnosis of
+Trichinella spiralis infections in pigs by enzyme-linked immunosorbent assays.
+Bull World Health Organ. 1974;51(1):108-9. PMID: 4549037; PMCID: PMC2366242.
+
+91: Bien J, Cabaj W, Moskwa B. Recognition of antigens of three different stages
+of the Trichinella spiralis by antibodies from pigs infected with T. spiralis.
+Exp Parasitol. 2013 Jun;134(2):129-37. doi: 10.1016/j.exppara.2013.02.007. Epub
+2013 Mar 6. PMID: 23474204.
+
+92: Liu P, Wu XP, Bai X, Wang XL, Yu L, Rosenthal B, Blaga R, Lacour S, Vallee
+I, Boireau P, Gherman C, Oltean M, Zhou XN, Wang F, Zhao Y, Liu MY. Screening of
+early antigen genes of adult-stage Trichinella spiralis using pig serum from
+different stages of early infection. Vet Parasitol. 2013 May 20;194(2-4):222-5.
+doi: 10.1016/j.vetpar.2013.02.001. Epub 2013 Feb 9. PMID: 23485437.
+
+93: HILL CH. Distribution of larvae of Trichinella spiralis in the organs of
+experimentally infected swine. J Parasitol. 1957 Oct;43(5):574-7. PMID:
+13476310.
+
+94: Berends BR, Smeets JF, Harbers AH, van Knapen F, Snijders JM. Investigations
+with enzyme-linked immunosorbent assays for Trichinella spiralis and Toxoplasma
+gondii in the Dutch 'Integrated Quality Control for finishing pigs' research
+project. Vet Q. 1991 Oct;13(4):190-8. doi: 10.1080/01652176.1991.9694308. PMID:
+1776233.
+
+95: Smith HJ, Snowdon KE. Comparative assessment of a double antibody enzyme
+immunoassay test kit and a triple antibody enzyme immunoassay for the diagnosis
+of Trichinella spiralis spiralis and Trichinella spiralis nativa infections in
+swine. Can J Vet Res. 1989 Oct;53(4):497-9. PMID: 2686832; PMCID: PMC1255584.
+
+96: Martin RJ, Schnurrenberger PR, Andersen FL, Hsu CK. Prevalence of
+Trichinella spiralis in wild animals on two Illinois swine farms. J Parasitol.
+1968 Feb;54(1):108-11. PMID: 5689166.
+
+97: Ruitenberg EJ, Steerenberg PA, Brosi BJ, Buys J. Reliability of the enzyme-
+linked immunosorbent assay (ELISA) for the serodiagnosis of Trichinella spiralis
+infections in conventionally raised pigs. J Immunol Methods. 1976;10(1):67-83.
+doi: 10.1016/0022-1759(76)90008-9. PMID: 1254975.
+
+98: Dzik JM, Zieliński Z, Cieśla J, Wałajtys-Rode E. Trichinella spiralis
+infection enhances protein kinase C phosphorylation in guinea pig alveolar
+macrophages. Parasite Immunol. 2010 Mar;32(3):209-20. doi:
+10.1111/j.1365-3024.2009.01180.x. PMID: 20398184.
+
+99: OLSEN BS, VILLELLA JB, GOULD SE. CONTRIBUTION OF TRICHINELLA SPIRALIS IN
+MUSCLES OF EXPERIMENTALLY INFECTED SWINE. J Parasitol. 1964 Aug;50:489-95. PMID:
+14206467.
+
+100: van Knapen F, Franchimont JH, Ruitenberg EJ, André P, Baldelli B, Gibson
+TE, Gottal C, Henriksen SA, Köhler G, Ronéus O, Skovgaard N, Soulé C, Strickland
+KL, Taylor SM. Comparison of four methods for early detection of experimental
+Trichinella spiralis infections in pigs. Vet Parasitol. 1981 Dec;9(2):117-23.
+doi: 10.1016/0304-4017(81)90030-3. PMID: 7046204.
+
+101: Grétillat S, Vassiliadès G. Présence de Trichinella spiralis (Owen, 1835)
+chez les carnivores et suidés sauvages de la région du delta du fleuve Sénégal
+[Presence of Trichinella spiralis (Owen, 1835) in wild carnivora and swine of
+the region of the Senegal river basin]. C R Acad Hebd Seances Acad Sci D. 1967
+Mar 6;264(10):1297-300. French. PMID: 4962170.
+
+102: BECK JW, ANFINSON TA Jr. SOME HOST RESPONSES OF MINATURE PIGS TO INFECTION
+WITH TRICHINELLA SPIRALIS. J Parasitol. 1965 Feb;51:60-2. PMID: 14259483.
+
+103: Kohler G, Ruitenberg EJ. Comparison of three methods for the detection of
+Trichinella spiralis infections in pigs by five European laboratories. Bull
+World Health Organ. 1974;50(5):413-9. PMID: 4616776; PMCID: PMC2481133.
+
+104: Pavlov P, Sherkov S, Nashkov D, Bratanov V. Studies on the immunologic
+host-parasite relationships. II. Comparative electrophoretic and
+immunoelectrophoretic studies on experimental Trichinella spiralis infection in
+swine and sheep. Z Immunitatsforsch Exp Klin Immunol. 1971 Jun;141(5):398-405.
+PMID: 4103612.
+
+105: deVos T, Klassen GR, Dick TA. Sequence analysis of a 1.6kb repetitive
+element from a porcine isolate of Trichinella spiralis. Nucleic Acids Res. 1988
+Apr 11;16(7):3114. doi: 10.1093/nar/16.7.3114. PMID: 3368326; PMCID: PMC336467.
+
+106: Grétillat S, Vassiliades G. Réceptivités comparées du chat et du porc
+domestiques à la souche ouest-africaine de Trichinella spiralis (Owen, 1835)
+[Comparative receptivity of the domestic cat and pig to the West African strain
+of Trichinella spiralis (Owen, 1835) ]. C R Acad Hebd Seances Acad Sci D. 1968
+Mar 11;266(11):1139-41. French. PMID: 4968273.
+
+107: Lin TM, Olson LJ. Pathophysiology of reinfection with Trichinella spiralis
+in guinea pigs during the intestinal phase. J Parasitol. 1970 Jun;56(3):529-39.
+PMID: 5421090.
+
+108: Hill CH. Light infections produced in swine dosed with 5 to 100 capsulated
+larvae of Trichinella spiralis. J Parasitol. 1968 Dec;54(6):1235-6. PMID:
+5757697.
+
+109: Russell DA, Castro GA. Immune rejection of Trichinella spiralis infective
+larvae in the guinea pig. J Parasitol. 1984 Aug;70(4):593-5. PMID: 6502363.
+
+110: Alizadeh H, Castro GA, Weems WA. Intrinsic jejunal propulsion in the guinea
+pig during parasitism with Trichinella spiralis. Gastroenterology. 1987
+Oct;93(4):784-90. doi: 10.1016/0016-5085(87)90441-0. PMID: 3623022.
+
+111: Jung D, Teifke JP, Karger A, Michael K, Venz S, Wittmann W, Kindermann K,
+Nöckler K, Mundt E. Evaluation of baculovirus-derived recombinant 53-kDa protein
+of Trichinella spiralis for detection of Trichinella-specific antibodies in
+domestic pigs by ELISA. Parasitol Res. 2007 Feb;100(3):429-37. doi:
+10.1007/s00436-006-0296-7. Epub 2006 Oct 3. PMID: 17016726.
+
+112: Clinard EH. Evaluation of soluble-antigen fluorescent antibody test for
+antibodies to Trichinella spiralis in Experimentallly infected swine. Am J Vet
+Res. 1975 May;36(5):615-8. PMID: 1094864.
+
+113: Murrell KD, Stringfellow F, Dame JB, Leiby DA, Duffy C, Schad GA.
+Trichinella spiralis in an agricultural ecosystem. II. Evidence for natural
+transmission of Trichinella spiralis spiralis from domestic swine to wildlife. J
+Parasitol. 1987 Feb;73(1):103-9. PMID: 3572642.
+
+114: Xu ZM, Hou XJ, Cao ZY. [Survey of Trichinella spiralis infection in pigs in
+Xiangfan city in 1993-2003]. Zhongguo Ji Sheng Chong Xue Yu Ji Sheng Chong Bing
+Za Zhi. 2004 Dec;22(6):377. Chinese. PMID: 15830871.
+
+115: Kim CW. Delayed hypersensitivity to Trichinella spiralis antigens in
+irradiated guinea pigs. J Parasitol. 1966 Aug;52(4):722-6. PMID: 5969114.
+
+116: Gutiérrez-Q M, Medina-G R. Reactividad de sueros de cerdo ante un antígeno
+de Trichinella spiralis con dos pruebas serológicas [Reactivity of pig serum
+against an antigen of Trichinella spiralis in 2 serologic tests]. Rev Latinoam
+Microbiol. 1978 Oct-Dec;20(4):251-6. Spanish. PMID: 292104.
+
+117: Hodgin EC. Inhibition of passive systemic anaphylaxis in guinea pigs by
+Trichinella spiralis infection. Vet Immunol Immunopathol. 1986 Jan;11(1):83-90.
+doi: 10.1016/0165-2427(86)90090-5. PMID: 3952981.
+
+118: Cypess R, Larsh JE Jr, Pegram C. Macrophage inhibition produced by guinea
+pig after sensitization with a larval antigen of Trichinella spiralis. J
+Parasitol. 1971 Feb;57(1):103-6. PMID: 4994802.
+
+119: Kozar Z, Piotrowski R. Peritoneal macrophage inhibition test in guinea pigs
+infected with Trichinella spiralis. Wiad Parazytol. 1971;17(5):609-15. PMID:
+5161160.
+
+120: KARPIAK SE, KOZAR Z. CHANGES IN THE METABOLISM OF THE SKELETAL MUSCLES OF
+GUINEA PIGS CAUSED BY THE INVASION OF TRICHINELLA SPIRALIS. I. INFLUENCE OF THE
+INVASION ON THE CARBOHYDRATE METABOLISM OF MUSCLES. Wiad Parazytol.
+1963;9:435-46. PMID: 14121821.
+
+121: KOZAR Z, KARPIAK S, KOZAR M. WP YW INWAZJI TRICHINELLA SPIRALIS NA
+PRZEMIANE T USZCZOW A I AKTYWNO'S'C ENZYM'OW CYKLU KREBSA W MI E'SNIACH
+SZKIELETOWYCH 'SWINEK MORSKICH [THE EFFECT OF TRICHINELLA SPIRALIS INFECTION ON
+FAT METABOLISM AND ENZYME ACTIVITY OF THE KREBS CYCLE IN SKELETAL MUSCLES OF
+GUINEA PIGS]. Wiad Parazytol. 1964;10:282-3. Polish. PMID: 14346845.
+
+122: Ruitenberg EJ, Steerenberg PA, Brosi BJ, Buys J. Reliability of the enzyme-
+linked immunosorbent assay (ELISA) for the serodiagnosis of Trichinella spiralis
+infections in conventionally raised pigs. Tijdschr Diergeneeskd. 1976 Jan
+15;101(2):57-70. PMID: 766300.
+
+123: Himonas CA. Report on Trichinella spiralis status in Greece. 1)
+Epidemiologic data relating to trichinellosis in man, swine, other domestic and
+wild animals. Wiad Parazytol. 1979;25(5):596-7. PMID: 543137.
+
+124: Britov VA. Dinamika patomorfologicheskikh reaktsiĭ v myshtsakh svineĭ pri
+zarazhenii ikh dal'nevostochnymi prirodnymi lichinkami trikhinell [Dynamics of
+the pathomorphologic reaction in the muscle of swine infected with Far-East
+natural Trichinella spiralis strain]. Wiad Parazytol. 1968;14(4):449-53.
+Russian. PMID: 5751506.
+
+125: Dzik JM, Zieliński Z, Gołos B, Jagielska E, Wranicz M, Wałajtys-Rode E.
+Effect of cyclosporin A on immunological response in lungs of guinea pigs
+infected with Trichinella spiralis. Acta Biochim Pol. 2002;49(1):233-47. PMID:
+12136946.
+
+126: van Knapen F, Framstad K, Ruitenberg EJ. Reliability of ELISA (enzyme-
+linked immunosorbent assay) as control method for the detection of Trichinella
+spiralis infections in naturally infected slaughter pigs. J Parasitol. 1976
+Apr;62(2):332-3. PMID: 1263051.
+
+127: Goven AJ, DeBuysscher EV. Intestinal phospholipase B activity in swine
+inoculated with Trichinella spiralis. Am J Vet Res. 1979 Oct;40(10):1469-71.
+PMID: 525866.
+
+128: Gretillat S, Vassiliades G. Remarques concernant l'infestation
+expérimentale du cobaye par la souche ouest-africaine de Trichinella spiralis
+[Remarks concerning experimental infestation of guinea pig with the West African
+strain of Trichinella spiralis]. C R Acad Hebd Seances Acad Sci D. 1969 Mar
+17;268(11):1511-4. French. PMID: 4976774.
+
+129: Ivanoska D, Cuperlović K, Lunney JK. Peripheral blood mononuclear cell
+subsets during Trichinella spiralis infection in pigs. Res Vet Sci. 1990
+Jul;49(1):92-7. PMID: 1974364.
+
+130: Van Knapen F, Framstad K, Ruitenberg EJ. De detectie van Trichinella
+spiralis infecties bij natuurlijk geïnfecteerde slachtvarkens met behulp van de
+enzyme-linked immunosorbent assay (ELISA) [Detection of Trichinella spiralis
+infection in spontaneously infected pigs intended for slaughter using the
+enzyme-linked immunosorbent assay (ELISA) (author's transl)]. Tijdschr
+Diergeneeskd. 1976 Sep 1;101(17):952-6. Dutch. PMID: 822533.
+
+131: Nazli B, Inal T. Untersuchungen über das Vorkommen von Trichinella spiralis
+bei Haus- und Wildschweinen sowie aus diesen hergestellten Produkten in der
+Türkei [The occurrence of Trichinella spiralis in domestic and wild pigs and in
+prepared pork products in Turkey]. Berl Munch Tierarztl Wochenschr. 1987 Jun
+1;100(6):187-90. German. PMID: 3619876.
+
+132: Smith HJ, Kay ED. Role of Rats in the Transmission of Trichinella spiralis
+spiralis to Swine. Can Vet J. 1987 Sep;28(9):604. PMID: 17422870; PMCID:
+PMC1680555.
+
+133: Bień J. Wpływ procedury otrzymywania antygenów ekskrecyjno- sekrecyjnych
+Trichinella spiralis na wynik testu ELISA u zarazonych świiń [The influence of
+the procedure of excretory-secretory L1 trichinella spiralis antigen preparation
+on the efficiency of an ELISA test in pigs]. Wiad Parazytol. 2006;52(3):219-30.
+Polish. PMID: 17432246.
+
+134: Stoianov DP, Nenov SD. Nekotorye gistokhimicheskie izmeneniia v tkaniakh
+morskikh svinok, invazirovannykh [Some histochemical changes in tissues of
+guinea-pigs infested with Trichinella spiralis]. Med Parazitol (Mosk). 1965 Jul-
+Aug;34(4):392-6. Russian. PMID: 5895831.
+
+135: Zander B, Hörchner F. Serumtiterverlauf bei Trichinella-spiralis-
+infizierten Meerschweinchen nach Behandlung mit Mebendazol [Behavior of the
+serum titer after treatment with mebendazole in guinea-pigs infected with
+trichinella spiralis (author's transl)]. MMW Munch Med Wochenschr. 1977 Aug
+5;119(31):1015-8. German. PMID: 408642.
+
+136: Ruitenberg EJ, van Amstel JA, Brosi BJ, Steerenberg PA. Mechanisering van
+de enzyme-linked immunosorbent assay (ELISA) ten behoeve van de infecties bij
+mestvarkens [Mechanizing the enzyme-linked immunosorbent assay (ELISA) in
+repressive testing for Trichinella spiralis infections in fattening pigs
+(author's transl)]. Tijdschr Diergeneeskd. 1977 Sep 1;102(17):1021-3. Dutch.
+PMID: 331555.

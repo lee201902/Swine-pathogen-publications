@@ -1,0 +1,1167 @@
+1: Katakam KK, Thamsborg SM, Dalsgaard A, Kyvsgaard NC, Mejer H. Environmental
+contamination and transmission of Ascaris suum in Danish organic pig farms.
+Parasit Vectors. 2016 Feb 9;9:80. doi: 10.1186/s13071-016-1349-0. PMID:
+26860206; PMCID: PMC4748593.
+
+2: Bacelar PAA, Santos JPD, Calegar DA, Silva DAE, Leal DN, Evangelista BBC,
+Reis ERCD, Mallet JRDS, Carvalho-Costa FA, Jaeger LH, Monteiro KJL. A molecular
+and morphological study of Ascaris suum in a human-pig contact scenario in
+northeastern Brazil. Rev Bras Parasitol Vet. 2023 Oct 13;32(3):e005623. doi:
+10.1590/S1984-29612023057. PMID: 37851714; PMCID: PMC10706455.
+
+3: Hamid B, Ebner F, Bechtold L, Kundik A, Rausch S, Hartmann S. <i>Ascaris
+suum</i> excretory/secretory products differentially modulate porcine dendritic
+cell subsets. Front Immunol. 2022 Nov 10;13:1012717. doi:
+10.3389/fimmu.2022.1012717. PMID: 36439124; PMCID: PMC9691337.
+
+4: Gómez-Mendieta LA, Bastida-Almaraz FJ, Salas-Ramírez M, Jasso-Villazul CE,
+Fuentes-Cervantes G, Gómez-De-Anda FR, Zepeda-Velázquez AP, Ponce-Noguez JB, de-
+la-Rosa-Arana JL. Serology survey of Ascaris suum and Trichinella spiralis in
+rural pigs in Southwestern Mexico. Vet Med Sci. 2024 Jul;10(4):e1474. doi:
+10.1002/vms3.1474. PMID: 38767566; PMCID: PMC11104424.
+
+5: Springer A, Wagner L, Koehler S, Klinger S, Breves G, Brüggemann DA, Strube
+C. Modulation of the porcine intestinal microbiota in the course of Ascaris suum
+infection. Parasit Vectors. 2022 Nov 17;15(1):433. doi:
+10.1186/s13071-022-05535-w. PMID: 36397169; PMCID: PMC9673396.
+
+6: Vismarra A, Lenti A, Genchi M, Kramer L, Geldhof P. Seroprevalence of Ascaris
+suum compared to milk spot prevalence at slaughter in Italian fattening pigs.
+Vet Parasitol Reg Stud Reports. 2023 Jan;37:100828. doi:
+10.1016/j.vprsr.2022.100828. Epub 2022 Dec 30. PMID: 36623900.
+
+7: Koehler S, Springer A, Issel N, Klinger S, Strube C, Breves G. Changes in
+porcine nutrient transport physiology in response to Ascaris suum infection.
+Parasit Vectors. 2021 Oct 14;14(1):533. doi: 10.1186/s13071-021-05029-1. PMID:
+34649607; PMCID: PMC8515719.
+
+8: Vlaminck J, Levecke B, Vercruysse J, Geldhof P. Advances in the diagnosis of
+Ascaris suum infections in pigs and their possible applications in humans.
+Parasitology. 2014 Dec;141(14):1904-11. doi: 10.1017/S0031182014000328. Epub
+2014 Apr 28. PMID: 24775944.
+
+9: Katakam KK, Thamsborg SM, Kyvsgaard NC, Dalsgaard A, Mejer H. Development and
+survival of <i>Ascaris suum</i> eggs in deep litter of pigs. Parasitology. 2014
+Oct;141(12):1646-1656. doi: 10.1017/S0031182014000912. PMID: 25017881.
+
+10: Midttun HLE, Acevedo N, Skallerup P, Almeida S, Skovgaard K, Andresen L,
+Skov S, Caraballo L, van Die I, Jørgensen CB, Fredholm M, Thamsborg SM, Nejsum
+P, Williams AR. Ascaris Suum Infection Downregulates Inflammatory Pathways in
+the Pig Intestine In Vivo and in Human Dendritic Cells In Vitro. J Infect Dis.
+2018 Jan 4;217(2):310-319. doi: 10.1093/infdis/jix585. PMID: 29136163.
+
+11: Mejer H, Roepstorff A. Ascaris suum infections in pigs born and raised on
+contaminated paddocks. Parasitology. 2006 Sep;133(Pt 3):305-12. doi:
+10.1017/S0031182006000394. Epub 2006 Jun 2. PMID: 16740179.
+
+12: Tassis P, Symeonidou I, Gelasakis AI, Kargaridis M, Aretis G, Arsenopoulos
+KV, Tzika E, Papadopoulos E. Serological Assessment of <i>Ascaris suum</i>
+Exposure in Greek Pig Farms and Associated Risk Factors Including <i>Lawsonia
+intracellularis</i>. Pathogens. 2022 Aug 23;11(9):959. doi:
+10.3390/pathogens11090959. PMID: 36145391; PMCID: PMC9503870.
+
+13: Martínez-Pérez JM, Vandekerckhove E, Vlaminck J, Geldhof P, Martínez-
+Valladares M. Serological detection of Ascaris suum at fattening pig farms is
+linked with performance and management indices. Vet Parasitol. 2017 Dec
+15;248:33-38. doi: 10.1016/j.vetpar.2017.10.009. Epub 2017 Nov 6. PMID:
+29173538.
+
+14: Lassen B, Geldhof P, Hälli O, Vlaminck J, Oliviero C, Orro T, Heinonen M.
+Anti-Ascaris suum IgG antibodies in fattening pigs with different respiratory
+conditions. Vet Parasitol. 2019 Jan;265:85-90. doi:
+10.1016/j.vetpar.2018.12.005. Epub 2018 Dec 13. PMID: 30638525.
+
+15: Andersen-Civil AIS, Myhill LJ, Büdeyri Gökgöz N, Engström MT, Mejer H, Zhu
+L, Zeller WE, Salminen JP, Krych L, Lauridsen C, Nielsen DS, Thamsborg SM,
+Williams AR. Dietary proanthocyanidins promote localized antioxidant responses
+in porcine pulmonary and gastrointestinal tissues during Ascaris suum-induced
+type 2 inflammation. FASEB J. 2022 Apr;36(4):e22256. doi:
+10.1096/fj.202101603RR. PMID: 35333423.
+
+16: Vandekerckhove E, Vlaminck J, Sacristán RDP, Geldhof P. Effect of strategic
+deworming on Ascaris suum exposure and technical performance parameters in
+fattening pigs. Vet Parasitol. 2019 Apr;268:67-72. doi:
+10.1016/j.vetpar.2019.03.006. Epub 2019 Mar 23. PMID: 30981308.
+
+17: González-Miguel J, Morchón R, Gussoni S, Bossetti E, Hormaeche M, Kramer LH,
+Simón F. Immunoproteomic approach for identification of Ascaris suum proteins
+recognized by pigs with porcine ascariasis. Vet Parasitol. 2014 Jul
+14;203(3-4):343-8. doi: 10.1016/j.vetpar.2014.03.031. Epub 2014 Apr 4. PMID:
+24813788.
+
+18: Helwigh AB, Christensen CM, Roepstorff A, Nansen P. Concurrent Ascaris suum
+and Oesophagostomum dentatum infections in pigs. Vet Parasitol. 1999 Apr
+12;82(3):221-34. doi: 10.1016/s0304-4017(99)00007-2. PMID: 10348102.
+
+19: Roepstorff A. Natural Ascaris suum infections in swine diagnosed by
+coprological and serological (ELISA) methods. Parasitol Res. 1998
+Jul;84(7):537-43. doi: 10.1007/s004360050444. PMID: 9694368.
+
+20: Urban JF Jr, Romanowski RD. Ascaris suum: protective immunity in pigs
+immunized with products from eggs and larvae. Exp Parasitol. 1985
+Oct;60(2):245-54. doi: 10.1016/0014-4894(85)90028-1. PMID: 4029352.
+
+21: Delsart M, Répérant JM, Benoit C, Boudin E, Da-Costa JF, Dorenlor V, Eono F,
+Eveno E, Kerphérique S, Poulain G, Souquière M, Thomas-Hénaff M, Pol F, Dufour
+B, Rose N, Fablet C. Bayesian estimation of the sensitivity and specificity of
+coprological and serological diagnostic tests for the detection of Ascaris suum
+infection on pig farms. Int J Parasitol. 2024 Aug;54(10):523-533. doi:
+10.1016/j.ijpara.2024.04.010. Epub 2024 Apr 25. PMID: 38677398.
+
+22: Wang Y, Liu F, Urban JF Jr, Paerewijck O, Geldhof P, Li RW. Ascaris suum
+infection was associated with a worm-independent reduction in microbial
+diversity and altered metabolic potential in the porcine gut microbiome. Int J
+Parasitol. 2019 Mar;49(3-4):247-256. doi: 10.1016/j.ijpara.2018.10.007. Epub
+2019 Feb 8. PMID: 30738924.
+
+23: Jungersen G, Eriksen L, Roepstorff A, Lind P, Meeusen EN, Rasmussen T,
+Nansen P. Experimental Ascaris suum infection in the pig: protective memory
+response after three immunizations and effect of intestinal adult worm
+population. Parasite Immunol. 1999 Dec;21(12):619-30. doi:
+10.1046/j.1365-3024.1999.00261.x. PMID: 10583864.
+
+24: Vlaminck J, Düsseldorf S, Heres L, Geldhof P. Serological examination of
+fattening pigs reveals associations between Ascaris suum, lung pathogens and
+technical performance parameters. Vet Parasitol. 2015 Jun 15;210(3-4):151-8.
+doi: 10.1016/j.vetpar.2015.04.012. Epub 2015 Apr 24. PMID: 25952722.
+
+25: Frontera E, Alcaide M, Domínguez-Alpízar JL, Boes J, Reina D, Navarrete I.
+Evidence of interaction between Ascaris suum and Metastrongylus apri in
+experimentally infected pigs. Vet Parasitol. 2005 Feb 28;127(3-4):295-301. doi:
+10.1016/j.vetpar.2004.11.001. Epub 2004 Dec 15. PMID: 15710530.
+
+26: Oser L, Midha A, Schlosser-Brandenburg J, Rausch S, Mugo RM, Kundik A,
+Elizalde-Velázquez LE, Adjah J, Musimbi ZD, Klopfleisch R, Helm CS, von Samson-
+Himmelstjerna G, Hartmann S, Ebner F. <i>Ascaris suum</i> infection in juvenile
+pigs elicits a local Th2 response in a setting of ongoing Th1 expansion. Front
+Immunol. 2024 May 10;15:1396446. doi: 10.3389/fimmu.2024.1396446. PMID:
+38799456; PMCID: PMC11116563.
+
+27: Taus K, Schmoll F, El-Khatib Z, Auer H, Holzmann H, Aberle S, Pekard-
+Amenitsch S, Monschein S, Sattler T, Steinparzer R, Allerberger F, Schmid D.
+Occupational swine exposure and Hepatitis E virus, Leptospira, Ascaris suum
+seropositivity and MRSA colonization in Austrian veterinarians, 2017-2018-A
+cross-sectional study. Zoonoses Public Health. 2019 Nov;66(7):842-851. doi:
+10.1111/zph.12633. Epub 2019 Aug 16. PMID: 31419070; PMCID: PMC6851874.
+
+28: Joachim A, Winkler C, Ruczizka U, Ladinig A, Koch M, Tichy A, Schwarz L.
+Comparison of different detection methods for Ascaris suum infection on Austrian
+swine farms. Porcine Health Manag. 2021 Oct 19;7(1):57. doi:
+10.1186/s40813-021-00236-9. PMID: 34666834; PMCID: PMC8524899.
+
+29: Southern LL, Stewart TB, Bodak-Koszalka E, Leon DL, Hoyt PG, Bessette ME.
+Effect of fenbendazole and pyrantel tartrate on the induction of protective
+immunity in pigs naturally or experimentally infected with Ascaris suum. J Anim
+Sci. 1989 Mar;67(3):628-34. doi: 10.2527/jas1989.673628x. PMID: 2722696.
+
+30: Zanga J, Chimonyo M, Kanengoni A, Dzama K, Mukaratirwa S. A comparison of
+the susceptibility of growing mukota and large white pigs to infection with
+Ascaris suum. Vet Res Commun. 2003 Dec;27(8):653-60. doi:
+10.1023/a:1027320428646. PMID: 14672454.
+
+31: Boes J, Medley GF, Eriksen L, Roepstorff A, Nansen P. Distribution of
+Ascaris suum in experimentally and naturally infected pigs and comparison with
+Ascaris lumbricoides infections in humans. Parasitology. 1998 Dec;117 ( Pt
+6):589-96. doi: 10.1017/s0031182098003382. PMID: 9881384.
+
+32: Caballero-Hernández AI, Castrejón-Pineda F, Martínez-Gamba R, Angeles-Campos
+S, Pérez-Rojas M, Buntinx SE. Survival and viability of Ascaris suum and
+Oesophagostomum dentatum in ensiled swine faeces. Bioresour Technol. 2004
+Sep;94(2):137-42. doi: 10.1016/j.biortech.2003.12.008. PMID: 15158505.
+
+33: Sadaow L, Sanpool O, Phosuk I, Rodpai R, Thanchomnang T, Wijit A, Anamnart
+W, Laymanivong S, Aung WPP, Janwan P, Maleewong W, Intapan PM. Molecular
+identification of Ascaris lumbricoides and Ascaris suum recovered from humans
+and pigs in Thailand, Lao PDR, and Myanmar. Parasitol Res. 2018
+Aug;117(8):2427-2436. doi: 10.1007/s00436-018-5931-6. Epub 2018 Jun 2. PMID:
+29860571.
+
+34: Boes J, Kanora A, Havn KT, Christiansen S, Vestergaard-Nielsen K, Jacobs J,
+Alban L. Effect of Ascaris suum infection on performance of fattening pigs. Vet
+Parasitol. 2010 Sep 20;172(3-4):269-76. doi: 10.1016/j.vetpar.2010.05.007. Epub
+2010 May 16. PMID: 20541323.
+
+35: Steenhard NR, Jungersen G, Kokotovic B, Beshah E, Dawson HD, Urban JF Jr,
+Roepstorff A, Thamsborg SM. Ascaris suum infection negatively affects the
+response to a Mycoplasma hyopneumoniae vaccination and subsequent challenge
+infection in pigs. Vaccine. 2009 Aug 13;27(37):5161-9. doi:
+10.1016/j.vaccine.2009.05.075. Epub 2009 Jun 12. PMID: 19524617.
+
+36: Frontera E, Serrano F, Reina D, Alcaide M, Sánchez-López J, Navarrete I.
+Serological responses to Ascaris suum adult worm antigens in Iberian finisher
+pigs. J Helminthol. 2003 Jun;77(2):167-72. doi: 10.1079/JOH2002163. PMID:
+12756071.
+
+37: Lochnit G, Dennis RD, Müntefehr H, Nispel S, Geyer R. Immunohistochemical
+localization and differentiation of phosphocholine-containing antigens of the
+porcine, parasitic nematode, Ascaris suum. Parasitology. 2001 Mar;122(Pt
+3):359-70. doi: 10.1017/s0031182001007326. PMID: 11289072.
+
+38: Liu GH, Wu CY, Song HQ, Wei SJ, Xu MJ, Lin RQ, Zhao GH, Huang SY, Zhu XQ.
+Comparative analyses of the complete mitochondrial genomes of Ascaris
+lumbricoides and Ascaris suum from humans and pigs. Gene. 2012 Jan
+15;492(1):110-6. doi: 10.1016/j.gene.2011.10.043. Epub 2011 Oct 30. PMID:
+22075400.
+
+39: Urban JF Jr, Alizadeh H, Romanowski RD. Ascaris suum: development of
+intestinal immunity to infective second-stage larvae in swine. Exp Parasitol.
+1988 Jun;66(1):66-77. doi: 10.1016/0014-4894(88)90051-3. PMID: 3366215.
+
+40: Polley LR, Mostert PE. Ascaris suum in Saskatchewan pigs: an abattoir survey
+of prevalence and intensity of infection. Can Vet J. 1980 Nov;21(11):307-9.
+PMID: 7459794; PMCID: PMC1789823.
+
+41: Ceballos L, Canton C, Cadenazzi G, Virkel G, Dominguez P, Moreno L, Lanusse
+C, Alvarez L. Oxfendazole kinetics in pigs: In vivo assessment of its pattern of
+accumulation in Ascaris suum. Exp Parasitol. 2019 Apr;199:52-58. doi:
+10.1016/j.exppara.2019.02.017. Epub 2019 Mar 1. PMID: 30831078.
+
+42: Bawm S, Htun LL, Chel HM, Khaing Y, Hmoon MM, Thein SS, Win SY, Soe NC, Thaw
+YN, Hayashi N, Win MM, Nonaka N, Katakura K, Nakao R. A survey of
+gastrointestinal helminth infestation in smallholder backyard pigs and the first
+molecular identification of the two zoonotic helminths Ascaris suum and
+Trichuris suis in Myanmar. BMC Vet Res. 2024 Apr 6;20(1):139. doi:
+10.1186/s12917-024-03998-w. PMID: 38582856; PMCID: PMC10998307.
+
+43: Boes J, Eriksen L, Nansen P. Embryonation and infectivity of Ascaris suum
+eggs isolated from worms expelled by pigs treated with albendazole , pyrantel
+pamoate, ivermectin or piperazine dihydrochloride. Vet Parasitol. 1998 Feb
+28;75(2-3):181-90. doi: 10.1016/s0304-4017(97)00197-0. PMID: 9637219.
+
+44: Nejsum P, Thamsborg SM, Petersen HH, Kringel H, Fredholm M, Roepstorff A.
+Population dynamics of Ascaris suum in trickle-infected pigs. J Parasitol. 2009
+Oct;95(5):1048-53. doi: 10.1645/GE-1987.1. Epub 2009 Aug 12. PMID: 19673589.
+
+45: Solano-Aguilar G, Shea-Donohue T, Madden KB, Quinoñes A, Beshah E, Lakshman
+S, Xie Y, Dawson H, Urban JF. Bifidobacterium animalis subspecies lactis
+modulates the local immune response and glucose uptake in the small intestine of
+juvenile pigs infected with the parasitic nematode Ascaris suum. Gut Microbes.
+2018;9(5):422-436. doi: 10.1080/19490976.2018.1460014. Epub 2018 Jul 19. PMID:
+30024817; PMCID: PMC6219643.
+
+46: Hale OM, Stewart TB, Marti OG. Influence of an experimental infection of
+Ascaris suum on performance of pigs. J Anim Sci. 1985 Jan;60(1):220-5. doi:
+10.2527/jas1985.601220x. PMID: 3972742.
+
+47: Williams AR, Krych L, Fauzan Ahmad H, Nejsum P, Skovgaard K, Nielsen DS,
+Thamsborg SM. A polyphenol-enriched diet and Ascaris suum infection modulate
+mucosal immune responses and gut microbiota composition in pigs. PLoS One. 2017
+Oct 13;12(10):e0186546. doi: 10.1371/journal.pone.0186546. PMID: 29028844;
+PMCID: PMC5640243.
+
+48: Roepstorff A, Murrell KD. Transmission dynamics of helminth parasites of
+pigs on continuous pasture: Ascaris suum and Trichuris suis. Int J Parasitol.
+1997 May;27(5):563-72. doi: 10.1016/s0020-7519(97)00022-2. PMID: 9193950.
+
+49: Fausto MC, Oliveira Ide C, Fausto GC, Carvalho LM, Valente FL, Campos AK,
+Araújo JV. Ascaris suum in pigs of the Zona da Mata, Minas Gerais State, Brazil.
+Rev Bras Parasitol Vet. 2015 Jul-Sep;24(3):375-8. doi:
+10.1590/S1984-29612015047. Epub 2015 Aug 14. PMID: 26291146.
+
+50: Li K, Luo H, Zhang H, Mehmood K, Shahzad M, Zhang L, Li J. Analysis of the
+internal transcribed spacer region of Ascaris suum and Ascaris lumbricoides
+derived from free range Tibetan pigs. Mitochondrial DNA A DNA Mapp Seq Anal.
+2018 May;29(4):624-628. doi: 10.1080/24701394.2017.1331348. Epub 2017 May 21.
+PMID: 28531364.
+
+51: Nejsum P, Roepstorff A, Anderson TJ, Jørgensen C, Fredholm M, Thamsborg SM.
+The dynamics of genetically marked Ascaris suum infections in pigs.
+Parasitology. 2009 Feb;136(2):193-201. doi: 10.1017/S0031182008005349. Epub 2008
+Dec 18. PMID: 19091154.
+
+52: Stephenson LS, Pond WG, Nesheim MC, Krook LP, Crompton DW. Ascaris suum:
+nutrient absorption, growth, and intestinal pathology in young pigs
+experimentally infected with 15-day-old larvae. Exp Parasitol. 1980
+Feb;49(1):15-25. doi: 10.1016/0014-4894(80)90051-x. PMID: 7350001.
+
+53: Lichtensteiger CA, DiPietro JA, Paul AJ, Neumann EJ, Thompson L. Persistent
+activity of doramectin and ivermectin against Ascaris suum in experimentally
+infected pigs. Vet Parasitol. 1999 Apr 12;82(3):235-41. doi:
+10.1016/s0304-4017(99)00018-7. PMID: 10348103.
+
+54: Lassen B, Oliviero C, Orro T, Jukola E, Laurila T, Haimi-Hakala M, Heinonen
+M. Effect of fenbendazole in water on pigs infected with Ascaris suum in
+finishing pigs under field conditions. Vet Parasitol. 2017 Apr 15;237:1-7. doi:
+10.1016/j.vetpar.2017.03.005. Epub 2017 Mar 6. PMID: 28285891.
+
+55: Nejsum P, Thamsborg SM, Jørgensen C, Fredholm M, Roepstorff A. A novel
+technique for identification of Ascaris suum cohorts in pigs. Vet Parasitol.
+2008 Jun 14;154(1-2):171-4. doi: 10.1016/j.vetpar.2008.02.018. Epub 2008 Mar 4.
+PMID: 18387743.
+
+56: Rhodes MB, Keralis MB, Staudinger LA, Baker PK. Immunity of swine to Ascaris
+suum. Vet Parasitol. 1986 Nov;22(1-2):87-94. doi: 10.1016/0304-4017(86)90010-5.
+PMID: 3788028.
+
+57: Miquel N, Roepstorff A, Bailey M, Eriksen L. Host immune reactions and worm
+kinetics during the expulsion of Ascaris suum in pigs. Parasite Immunol. 2005
+Mar;27(3):79-88. doi: 10.1111/j.1365-3024.2005.00752.x. PMID: 15882234.
+
+58: Marbella CO, Gaafar SM. Production and distribution of immunoglobulin-
+bearing cells in the intestine of young pigs infected with Ascaris suum. Vet
+Parasitol. 1989 Nov;34(1-2):63-70. doi: 10.1016/0304-4017(89)90165-9. PMID:
+2531490.
+
+59: Lunney JK, Urban JF Jr, Johnson LA. Protective immunity to Ascaris suum:
+analysis of swine peripheral blood cell subsets using monoclonal antibodies and
+flow cytometry. Vet Parasitol. 1986 Mar;20(1-3):117-31. doi:
+10.1016/0304-4017(86)90096-8. PMID: 2939618.
+
+60: van Krimpen MM, Binnendijk GP, Borgsteede FH, Gaasenbeek CP. Anthelmintic
+effects of phytogenic feed additives in Ascaris suum inoculated pigs. Vet
+Parasitol. 2010 Mar 25;168(3-4):269-77. doi: 10.1016/j.vetpar.2009.11.004. Epub
+2009 Nov 13. PMID: 19954891.
+
+61: Skallerup P, Thamsborg SM, Jørgensen CB, Enemark HL, Yoshida A, Göring HH,
+Fredholm M, Nejsum P. Functional study of a genetic marker allele associated
+with resistance to Ascaris suum in pigs. Parasitology. 2014 May;141(6):777-87.
+doi: 10.1017/S0031182013002175. PMID: 24709292.
+
+62: Uston PI, Urban JF Jr, Ashraf M, Lee CM, Ampy FR. L3L4ES antigen and
+secretagogues induce histamine release from porcine peripheral blood basophils
+after Ascaris suum infection. Parasitol Res. 2007 Feb;100(3):603-11. doi:
+10.1007/s00436-006-0362-1. Epub 2006 Nov 10. PMID: 17096138.
+
+63: Yang S, Bottoms GD, Gaafar SM. Tumor necrosis factor-like cytotoxicity and
+anorexia in Ascaris suum infected pigs. Vet Parasitol. 1990 May;36(1-2):37-44.
+doi: 10.1016/0304-4017(90)90092-p. PMID: 2382388.
+
+64: Urban JF Jr, Tromba FG. Development of immune responsiveness to Ascaris suum
+antigens in pigs vaccinated with ultraviolet-attenuated eggs. Vet Immunol
+Immunopathol. 1982 Jul;3(4):399-409. doi: 10.1016/0165-2427(82)90022-8. PMID:
+6889778.
+
+65: Jungersen G, Eriksen L, Nansen P, Fagerholm HP. Sex-manipulated Ascaris suum
+infections in pigs: implications for reproduction. Parasitology. 1997 Oct;115 (
+Pt 4):439-42. doi: 10.1017/s003118209700142x. PMID: 9364571.
+
+66: Petkevicius S, Nansen P, Stephenson L. The effect of fasting on Ascaris suum
+and Oesophagostomum spp. in growing pigs. Int J Parasitol. 1997 Apr;27(4):431-7.
+doi: 10.1016/s0020-7519(96)00190-7. PMID: 9184936.
+
+67: Diosdado A, Simón F, Morchón R, González-Miguel J. Host-Parasite
+Relationships in Porcine Ascariosis: Anticoagulant Potential of the Third Larval
+Stage of <i>Ascaris suum</i> as a Possible Survival Mechanism. Animals (Basel).
+2021 Mar 13;11(3):804. doi: 10.3390/ani11030804. PMID: 33805634; PMCID:
+PMC8002170.
+
+68: Helwigh AB, Bøgh HO. Recovery and distribution of Ascaris suum superimposed
+on a Schistosoma japonicum infection in pigs. Southeast Asian J Trop Med Public
+Health. 1998 Dec;29(4):723-8. PMID: 10772553.
+
+69: Barta O, Stewart TB, Shaffer LM, Huang LJ, Simmons LA. Ascaris suum
+infection in pigs sensitizes lymphocytes but suppresses their responsiveness to
+phytomitogens. Vet Parasitol. 1986 May;21(1):25-36. doi:
+10.1016/0304-4017(86)90140-8. PMID: 3727343.
+
+70: Frontera E, Roepstorff A, Gázquez A, Reina D, Serrano FJ, Navarrete I.
+Immunohistochemical distribution of antigens in liver of infected and immunized
+pigs with Ascaris suum. Vet Parasitol. 2003 Jan 20;111(1):9-18. doi:
+10.1016/s0304-4017(02)00347-3. PMID: 12523975.
+
+71: Oksanen A, Eriksen L, Roepstorff A, Ilsøe B, Nansen P, Lind P. Embryonation
+and infectivity of Ascaris suum eggs. A comparison of eggs collected from worm
+uteri with eggs isolated from pig faeces. Acta Vet Scand. 1990;31(4):393-8. doi:
+10.1186/BF03547520. PMID: 2099616; PMCID: PMC8133112.
+
+72: Boes J, Nansen P, Stephenson LS. False-positive Ascaris suum egg counts in
+pigs. Int J Parasitol. 1997 Jul;27(7):833-8. doi: 10.1016/s0020-7519(97)00054-4.
+PMID: 9279587.
+
+73: Roepstorff A, Murrell KD, Boes J, Petkevicius S. Ecological influences on
+transmission rates of Ascaris suum to pigs on pastures. Vet Parasitol. 2001 Nov
+5;101(2):143-53. doi: 10.1016/s0304-4017(01)00506-4. PMID: 11587843.
+
+74: Kraglund HO, Grønvold J, Roepstorff A, Rawat H. Interactions between the
+nematode parasite of pigs, Ascaris suum, and the earthworm Aporrectodea longa.
+Acta Vet Scand. 1998;39(4):453-60. doi: 10.1186/BF03547771. PMID: 9926459;
+PMCID: PMC8050663.
+
+75: Wagner B, Polley L. Ascaris suum: seasonal egg development rates in a
+Saskatchewan pig barn. Vet Parasitol. 1999 Aug 16;85(1):71-8. doi:
+10.1016/s0304-4017(99)00102-8. PMID: 10447194.
+
+76: Boes J, Slotved HC, Murrell KD, Eriksen L, Roepstorff A, Nansen P, Agergaard
+N. Alternative migration routes of Ascaris suum in the pig. J Parasitol. 2002
+Feb;88(1):180-3. doi: 10.1645/0022-3395(2002)088[0180:AMROAS]2.0.CO;2. PMID:
+12053960.
+
+77: Serrano FJ, Reina D, Frontera E, Roepstorff A, Navarrete. Resistance against
+migrating ascaris suum larvae in pigs immunized with infective eggs or adult
+worm antigens. Parasitology. 2001 Jun;122(Pt 6):699-707. doi:
+10.1017/s0031182001007806. PMID: 11444623.
+
+78: Pedersen S, Saeed I, Friis H, Michaelsen KF. Effect of iron deficiency on
+Trichuris suis and Ascaris suum infections in pigs. Parasitology. 2001
+May;122(Pt 5):589-98. doi: 10.1017/s0031182001007582. PMID: 11393833.
+
+79: Petkevicius S, Bjørn H, Roepstorff A, Nansen P, Bach Knudsen KE, Barnes EH,
+Jensen K. The effect of two types of diet on populations of Ascaris suum and
+Oesophagostomum dentatum in experimentally infected pigs. Parasitology. 1995
+Sep;111 ( Pt 3):395-401. doi: 10.1017/s0031182000081956. Erratum in:
+Parasitology 1995 Dec;111(Pt 5):656. PMID: 7567107.
+
+80: Saeed I, Roepstorff A, Rasmussen T, Høg M, Jungersen G. Optimization of the
+agar-gel method for isolation of migrating Ascaris suum larvae from the liver
+and lungs of pigs. Acta Vet Scand. 2001;42(2):279-86. doi:
+10.1186/1751-0147-42-279. PMID: 11503373; PMCID: PMC2202310.
+
+81: Vlaminck J, Nejsum P, Vangroenweghe F, Thamsborg SM, Vercruysse J, Geldhof
+P. Evaluation of a serodiagnostic test using Ascaris suum haemoglobin for the
+detection of roundworm infections in pig populations. Vet Parasitol. 2012 Oct
+26;189(2-4):267-73. doi: 10.1016/j.vetpar.2012.04.024. Epub 2012 Apr 23. PMID:
+22560331.
+
+82: Helwigh AB, Nansen P. Establishment of Ascaris suum in the pig: development
+of immunity following a single primary infection. Acta Vet Scand.
+1999;40(2):121-32. doi: 10.1186/BF03547029. PMID: 10605128; PMCID: PMC8043156.
+
+83: Menzies FD, Goodall EA, Taylor SM. The epidemiology of Ascaris suum
+infections in pigs in Northern Ireland, 1969-1991. Br Vet J. 1994 Mar-
+Apr;150(2):165-72. doi: 10.1016/S0007-1935(05)80224-6. PMID: 8025848.
+
+84: Vlaminck J, Martinez-Valladares M, Dewilde S, Moens L, Tilleman K, Deforce
+D, Urban J, Claerebout E, Vercruysse J, Geldhof P. Immunizing pigs with Ascaris
+suum haemoglobin increases the inflammatory response in the liver but fails to
+induce a protective immunity. Parasite Immunol. 2011 Apr;33(4):250-4. doi:
+10.1111/j.1365-3024.2010.01274.x. PMID: 21204852.
+
+85: Dawson H, Solano-Aguilar G, Beal M, Beshah E, Vangimalla V, Jones E, Botero
+S, Urban JF Jr. Localized Th1-, Th2-, T regulatory cell-, and inflammation-
+associated hepatic and pulmonary immune responses in Ascaris suum-infected swine
+are increased by retinoic acid. Infect Immun. 2009 Jun;77(6):2576-87. doi:
+10.1128/IAI.00827-07. Epub 2009 Mar 30. PMID: 19332534; PMCID: PMC2687331.
+
+86: Stewart TB, Southern LL, Gibson RB, Simmons LA. Immunization of pigs against
+Ascaris suum by sequential experimental infections terminated with fenbendazole
+during larval migration. Vet Parasitol. 1985 Apr;17(4):319-26. doi:
+10.1016/0304-4017(85)90023-8. PMID: 4002602.
+
+87: Roepstorff A, Eriksen L, Slotved HC, Nansen P. Experimental Ascaris suum
+infection in the pig: worm population kinetics following single inoculations
+with three doses of infective eggs. Parasitology. 1997 Oct;115 ( Pt 4):443-52.
+doi: 10.1017/s0031182097001480. PMID: 9364572.
+
+88: Sures B, Jürges G, Taraschewski H. Relative concentrations of heavy metals
+in the parasites Ascaris suum (Nematoda) and Fasciola hepatica (Digenea) and
+their respective porcine and bovine definitive hosts. Int J Parasitol. 1998
+Aug;28(8):1173-8. doi: 10.1016/s0020-7519(98)00105-2. PMID: 9762561.
+
+89: Steenhard NR, Kringel H, Roepstorff A, Thamsborg SM, Jungersen G. Parasite-
+specific IL-4 responses in Ascaris suum and Trichuris suis-infected pigs
+evaluated by ELISPOT. Parasite Immunol. 2007 Oct;29(10):535-8. doi:
+10.1111/j.1365-3024.2007.00975.x. PMID: 17883456.
+
+90: Zarlenga DS, Dawson H, Kringel H, Solano-Aguilar G, Urban JF Jr. Molecular
+cloning of the swine IL-4 receptor alpha and IL-13 receptor 1-chains: effects of
+experimental Toxoplasma gondii, Ascaris suum and Trichuris suis infections on
+tissue mRNA levels. Vet Immunol Immunopathol. 2004 Oct;101(3-4):223-34. doi:
+10.1016/j.vetimm.2004.05.003. Erratum in: Vet Immunol Immunopathol. 2007 Jan
+15;115(1-2):194. PMID: 15350752.
+
+91: Frontera E, Carrón A, Serrano FJ, Roepstorff A, Reina D, Navarrete I.
+Specific systemic IgG1, IgG2 and IgM responses in pigs immunized with infective
+eggs or selected antigens of Ascaris suum. Parasitology. 2003 Sep;127(Pt
+3):291-8. doi: 10.1017/s003118200300355x. PMID: 12964832.
+
+92: Skallerup P, Nejsum P, Cirera S, Skovgaard K, Pipper CB, Fredholm M,
+Jørgensen CB, Thamsborg SM. Transcriptional immune response in mesenteric lymph
+nodes in pigs with different levels of resistance to Ascaris suum. Acta
+Parasitol. 2017 Mar 1;62(1):141-153. doi: 10.1515/ap-2017-0017. PMID: 28030356.
+
+93: Borgsteede FH, Gaasenbeek CP, Nicoll S, Domangue RJ, Abbott EM. A comparison
+of the efficacy of two ivermectin formulations against larval and adult Ascaris
+suum and Oesophagostomum dentatum in experimentally infected pigs. Vet
+Parasitol. 2007 May 31;146(3-4):288-93. doi: 10.1016/j.vetpar.2007.02.027. Epub
+2007 Apr 6. PMID: 17418952.
+
+94: Stromberg BE, Soulsby EJ. Ascaris suum: immunization with soluble antigens
+in the guinea pig. Int J Parasitol. 1977 Aug;7(4):287-91. doi:
+10.1016/0020-7519(77)90037-6. PMID: 924714.
+
+95: Egerton JR, DiNetta J, Neu DC, Walthier RJ, Campbell WC. The efficacy of
+cambendazole against Ascaris suum and Strongyloides ransomi in swine. Res Vet
+Sci. 1970 Nov;11(6):590-2. PMID: 5498577.
+
+96: Petkevicius S, Knudsen KE, Nansen P, Roepstorff A, Skjøth F, Jensen K. The
+impact of diets varying in carbohydrates resistant to endogenous enzymes and
+lignin on populations of Ascaris suum and Oesophagostomum dentatum in pigs.
+Parasitology. 1997 Jun;114 ( Pt 6):555-68. PMID: 9172427.
+
+97: Kaplan RM, Storey BE, Vidyashankar AN, Bissinger BW, Mitchell SM, Howell SB,
+Mason ME, Lee MD, Pedroso AA, Akashe A, Skrypec DJ. Antiparasitic efficacy of a
+novel plant-based functional food using an Ascaris suum model in pigs. Acta
+Trop. 2014 Nov;139:15-22. doi: 10.1016/j.actatropica.2014.06.008. Epub 2014 Jun
+27. PMID: 24979686.
+
+98: Tsuji N, Kasuga-Aoki H, Isobe T, Arakawa T, Matsumoto Y. Cloning and
+characterisation of a highly immunoreactive 37 kDa antigen with multi-
+immunoglobulin domains from the swine roundworm Ascaris suum. Int J Parasitol.
+2002 Dec 19;32(14):1739-46. doi: 10.1016/s0020-7519(02)00179-0. PMID: 12464420.
+
+99: Zimmerman DR, Spear ML, Switzer WP. Effect of Mycoplasma hyopneumoniae
+infections, pyrantel treatment and protein nutrition on performance of pigs
+exposed to soil containing Ascaris suum ova. J Anim Sci. 1973 May;36(5):894-7.
+doi: 10.2527/jas1973.365894x. PMID: 4703718.
+
+100: Pérez J, García PM, Mozos E, Bautista MJ, Carrasco L. Immunohistochemical
+characterization of hepatic lesions associated with migrating larvae of Ascaris
+suum in pigs. J Comp Pathol. 2001 Feb-Apr;124(2-3):200-6. doi:
+10.1053/jcpa.2000.0455. PMID: 11222018.
+
+101: TAFFS LF, VOLLER A. FLUORESCENT ANTIBODY STAINING OF ASCARIS SUUM LARVAE IN
+THE LIVER AND LUNG OF AN INFECTED GUINEA-PIG BY MEANS OF THE FREEZE-SUBSTITUTION
+TECHNIQUE. Ann Trop Med Parasitol. 1964 Dec;58:414-9. doi:
+10.1080/00034983.1964.11686263. PMID: 14249020.
+
+102: Jungersen G, Eriksen L, Nielsen CG, Roepstorff A, Nansen P. Experimental
+transfer of Ascaris suum from donor pigs to helminth naive pigs. J Parasitol.
+1996 Oct;82(5):752-6. PMID: 8885884.
+
+103: Pereckiene A, Kaziūnaite V, Vysniauskas A, Petkevicius S, Malakauskas A,
+Sarkūnas M, Taylor MA. A comparison of modifications of the McMaster method for
+the enumeration of Ascaris suum eggs in pig faecal samples. Vet Parasitol. 2007
+Oct 21;149(1-2):111-6. doi: 10.1016/j.vetpar.2007.04.014. Epub 2007 Aug 20.
+PMID: 17703889.
+
+104: Eriksen L, Bøgh HO, Loftager M, Lind P. Comparative studies of experimental
+oral inoculation of pigs with Ascaris suum eggs or third stage larvae. J Vet Med
+B Infect Dis Vet Public Health. 2004 May;51(4):185-90. doi:
+10.1111/j.1439-0450.2004.00752.x. PMID: 15228554.
+
+105: Pedersen S, Saeed I, Michaelsen KF, Friis H, Murrell KD. Impact of protein
+energy malnutrition on Trichuris suis infection in pigs concomitantly infected
+with Ascaris suum. Parasitology. 2002 May;124(Pt 5):561-8. doi:
+10.1017/s0031182002001592. PMID: 12049419.
+
+106: Southern LL, Stewart TB. Performance and tissue copper concentrations of
+control and Ascaris suum-infected pigs fed excess dietary copper. J Parasitol.
+1984 Oct;70(5):668-70. PMID: 6512632.
+
+107: Khoury PB, Stromberg BE, Soulsby EJ. Immune mechanisms to Ascaris suum in
+inbred guinea-pigs. I. Passive transfer of immunity by cells or serum.
+Immunology. 1977 Apr;32(4):405-11. PMID: 608676; PMCID: PMC1445497.
+
+108: Tsuji N, Miyoshi T, Islam MK, Isobe T, Yoshihara S, Arakawa T, Matsumoto Y,
+Yokomizo Y. Recombinant Ascaris 16-Kilodalton protein-induced protection against
+Ascaris suum larval migration after intranasal vaccination in pigs. J Infect
+Dis. 2004 Nov 15;190(10):1812-20. doi: 10.1086/425074. Epub 2004 Sep 30. PMID:
+15499538.
+
+109: Nejsum P, Frydenberg J, Roepstorff A, Parker ED Jr. Population structure in
+Ascaris suum (Nematoda) among domestic swine in Denmark as measured by whole
+genome DNA fingerprinting. Hereditas. 2005 Feb;142(2005):7-14. doi:
+10.1111/j.1601-5223.2005.01864.x. PMID: 16970605.
+
+110: Eriksen L, Andersen S, Nielsen K, Pedersen A, Nielsen J. Experimental
+Ascaris suum infection in pigs. Serological response, eosinophilia in peripheral
+blood, occurrence of white spots in the liver and worm recovery from the
+intestine. Nord Vet Med. 1980 Jun;32(6):233-42. PMID: 7433010.
+
+111: Douvres FW, Tromba FG, Malakatis GM. Morphogenesis and migration of Ascaris
+suum larvae developing to fourth stage in swine. J Parasitol. 1969
+Aug;55(4):689-712. PMID: 5822639.
+
+112: Wardlaw AC, Forsyth LM, Crompton DW. Bactericidal activity in the pig
+roundworm Ascaris suum. J Appl Bacteriol. 1994 Jan;76(1):36-41. doi:
+10.1111/j.1365-2672.1994.tb04412.x. PMID: 8144403.
+
+113: Friedl CH, Lochnit G, Zähringer U, Bahr U, Geyer R. Structural elucidation
+of zwitterionic carbohydrates derived from glycosphingolipids of the porcine
+parasitic nematode Ascaris suum. Biochem J. 2003 Jan 1;369(Pt 1):89-102. doi:
+10.1042/BJ20021074. PMID: 12234251; PMCID: PMC1223059.
+
+114: Hill DE, Fetterer RH, Romanowski RD, Urban JF Jr. The effect of
+immunization of pigs with Ascaris suum cuticle components on the development of
+resistance to parenteral migration during a challenge infection. Vet Immunol
+Immunopathol. 1994 Aug;42(2):161-9. doi: 10.1016/0165-2427(94)90005-1. PMID:
+7975188.
+
+115: Satrija F, Nansen P, Bjørn H, Murtini S, He S. Effect of papaya latex
+against Ascaris suum in naturally infected pigs. J Helminthol. 1994
+Dec;68(4):343-6. doi: 10.1017/s0022149x00001619. PMID: 7706684.
+
+116: UNDERDAHL NR. The affect of Ascaris suum migration on the severity of swine
+influenza. J Am Vet Med Assoc. 1958 Oct 1;133(7):380-3. PMID: 13575318.
+
+117: ANDREWS MF, McILWAIN PK, EVELETH DF. Serum transaminase and aldolase during
+migration of larval Ascaris suum in swine. Am J Vet Res. 1961 Nov;22:1026-9.
+PMID: 13861497.
+
+118: Tsuji N, Kasuga-Aoki H, Isobe T, Yoshihara S. Cloning and characterisation
+of a peroxiredoxin from the swine roundworm Ascaris suum. Int J Parasitol. 2000
+Feb;30(2):125-8. doi: 10.1016/s0020-7519(99)00180-0. PMID: 10704594.
+
+119: Bindseil E. Observations on the relationship between Ascaris suum burdens
+in pigs and faecal egg counts. Acta Pathol Microbiol Scand B Microbiol Immunol.
+1974 Dec;82(6):879-84. doi: 10.1111/j.1699-0463.1974.tb02386.x. PMID: 4533224.
+
+120: Stewart TB, Rowell TJ. Susceptibility of fourth-stage Ascaris suum larvae
+to fenbendazole and to host response in the pig. Am J Vet Res. 1986
+Aug;47(8):1671-3. PMID: 3752674.
+
+121: Lochnit G, Nispel S, Dennis RD, Geyer R. Structural analysis and
+immunohistochemical localization of two acidic glycosphingolipids from the
+porcine, parasitic nematode, Ascaris suum. Glycobiology. 1998 Sep;8(9):891-9.
+doi: 10.1093/glycob/8.9.891. PMID: 9675222.
+
+122: Frontera E, Roepstorff A, Serrano FJ, Gázquez A, Reina D, Navarrete I.
+Presence of immunoglobulins and antigens in serum, lung and small intestine in
+Ascaris suum infected and immunised pigs. Vet Parasitol. 2004 Jan
+5;119(1):59-71. doi: 10.1016/j.vetpar.2003.09.022. PMID: 15036577.
+
+123: Steffan P, Olaechea F, Roepstorff A, Bjorn H, Nansen P. Efficacy of
+piperazine dihydrochloride against Ascaris suum and Oesophagostomum species in
+naturally infected pigs. Vet Rec. 1988 Jul 30;123(5):128-30. doi:
+10.1136/vr.123.5.128. PMID: 3046112.
+
+124: Ashraf M, Urban JF Jr, Lee TD, Lee CM. Characterization of isolated porcine
+intestinal mucosal mast cells following infection with Ascaris suum. Vet
+Parasitol. 1988 Sep;29(2-3):143-58. doi: 10.1016/0304-4017(88)90122-7. PMID:
+2462304.
+
+125: Dutto M, Petrosillo N. Hybrid ascaris suum/lumbricoides (ascarididae)
+infestation in a pig farmer: a rare case of zoonotic ascariasis. Cent Eur J
+Public Health. 2013 Dec;21(4):224-6. doi: 10.21101/cejph.a3798. PMID: 24592729.
+
+126: Kano S, Makiya K. [Relationship between the prevalence of hepatic milk
+spots in pig and the egg density of Ascaris suum in Kitakyushu Municipal Meat
+Inspection and Control Center]. J UOEH. 2001 Sep 1;23(3):255-62. Japanese. doi:
+10.7888/juoeh.23.255. PMID: 11570049.
+
+127: Richharia VS, Jeska EL, Greve JH. Delayed hypersensitivity responses of
+swine to Ascaris suum infection. J Parasitol. 1975 Dec;61(6):1113-5. PMID:
+1195073.
+
+128: Marretta J, Casey FB. Effect of Ascaris suum and other adjuvants on the
+potentiation of the IgE response in guinea-pigs. Immunology. 1979
+Jul;37(3):609-13. PMID: 500118; PMCID: PMC1457741.
+
+129: Martin J, Crompton DW, Carrera E, Nesheim MC. Mucosal surface lesions in
+young protein-deficient pigs infected with Ascaris suum (Nematoda).
+Parasitology. 1984 Apr;88 ( Pt 2):333-40. PMID: 6718059.
+
+130: Tromba FG. Immunization of pigs against experimental Ascaris suum infection
+by feeding ultraviolet-attenuated eggs. J Parasitol. 1978 Aug;64(4):651-6. PMID:
+682067.
+
+131: TAFFS LF. The in vitro action of immune pig serum on second and third-stage
+Ascaris suum larvae. Parasitology. 1961 Nov;51:327-34. doi:
+10.1017/s0031182000070578. PMID: 13918917.
+
+132: Ferguson DL, Mebus CA, Twiehaus MJ. Recovery of porcine liver from damage
+caused by migrating x-irradiated and nonirradiated larvae of Ascaris suum. Am J
+Vet Res. 1968 Feb;29(2):233-43. PMID: 5689284.
+
+133: UNDERDAHL NR, KELLEY GW. The enhancement of virus pneumonia of pigs by the
+migration of Ascaris suum larvae. J Am Vet Med Assoc. 1957 Feb 15;130(4):173-6.
+PMID: 13416082.
+
+134: Yang S, Gaafar SM, Bottoms GD. Effects of multiple dose infections with
+Ascaris suum on blood gastrointestinal hormone levels in pigs. Vet Parasitol.
+1990 Aug;37(1):31-44. doi: 10.1016/0304-4017(90)90023-5. PMID: 2238428.
+
+135: Khoury PB, Soulsby EJ. Ascaris suum: immune response in the guinea pig. I.
+Lymphoid cell responses during primary infections. Exp Parasitol. 1977
+Feb;41(1):141-59. doi: 10.1016/0014-4894(77)90140-0. PMID: 320026.
+
+136: Roepstorff A, Nilsson O, O'Callaghan CJ, Oksanen A, Gjerde B, Richter SH,
+Ortenberg EO, Christensson D, Nansen P, Eriksen L, Medley GF. Intestinal
+parasites in swine in the Nordic countries: multilevel modelling of Ascaris suum
+infections in relation to production factors. Parasitology. 1999 Nov;119 ( Pt
+5):521-34. doi: 10.1017/s0031182099004941. PMID: 10599084.
+
+137: Skallerup P, Nejsum P, Jørgensen CB, Göring HH, Karlskov-Mortensen P,
+Archibald AL, Fredholm M, Thamsborg SM. Detection of a quantitative trait locus
+associated with resistance to Ascaris suum infection in pigs. Int J Parasitol.
+2012 Apr;42(4):383-91. doi: 10.1016/j.ijpara.2012.02.010. PMID: 22619754.
+
+138: KELLEY GW, OLSEN LS, HOERLEIN AB. The influence of diet on the development
+of Ascaris suum in the small intestines of pigs. Am J Vet Res. 1958
+Apr;19(71):401-4. PMID: 13533764.
+
+139: Maung M. Ascaris lumbricoides Linné, 1758 and Ascaris suum Goeze, 1782:
+morphological differences between specimens obtained from man and pig. Southeast
+Asian J Trop Med Public Health. 1973 Mar;4(1):41-5. PMID: 4718127.
+
+140: Petersen JF, Chernaia MM, Rao-Naik C, Zalatoris JL, Dunn BM, James MN.
+X-ray crystallographic studies of the complex between porcine pepsin and the
+aspartic proteinase inhibitor PI-3 from the nematode Ascaris suum. Adv Exp Med
+Biol. 1998;436:391-5. doi: 10.1007/978-1-4615-5373-1_55. PMID: 9561247.
+
+141: Kasuga-Aoki H, Tsuji N, Suzuki K, Matsumoto Y, Arakawa T, Isobe T.
+Molecular characterization of a glyceraldehyde-3-phosphate dehydrogenase from
+the swine roundworm Ascaris suum. Mol Biochem Parasitol. 2002 Jan;119(1):135-9.
+doi: 10.1016/s0166-6851(01)00401-7. PMID: 11755196.
+
+142: Jeska EL, Williams JF, Cox DF. Ascaris suum: larval returns in rabbits,
+guinea pigs and mice after low-dose exposure to eggs. Exp Parasitol. 1969
+Oct;26(2):187-92. doi: 10.1016/0014-4894(69)90111-8. PMID: 5401454.
+
+143: Eriksen L, Nansen P, Roepstorff A, Lind P, Nilsson O. Response to repeated
+inoculations with Ascaris suum eggs in pigs during the fattening period. I.
+Studies on worm population kinetics. Parasitol Res. 1992;78(3):241-6. doi:
+10.1007/BF00931733. PMID: 1534170.
+
+144: KELLEY GW, MARSH CL. Lack of larvacidal action of Ronnel and Bayer 21/199
+against migrating Ascaris suum in baby pigs. Am J Vet Res. 1960 Jan;21:109-10.
+PMID: 14405259.
+
+145: Stewart TB, Bidner TD, Southern LL, Simmons LA. Efficacy of fenbendazole
+against migrating Ascaris suum larvae in pigs. Am J Vet Res. 1984
+May;45(5):984-6. PMID: 6732034.
+
+146: TAFFS LF. IMMUNOLOGICAL STUDIES ON EXPERIMENTAL INFECTION OF PIGS WITH
+ASCARIS SUUM GOEZE, 1782. III. THE ANTIBODY RESPONSE AND ACQUIRED IMMUNITY. J
+Helminthol. 1964;38:129-50. doi: 10.1017/s0022149x0003368x. PMID: 14125098.
+
+147: Borosková Z, Soltys J, Benková M. Effect of mercury on the immune response
+and mean intensity of Ascaris suum infection in guinea pigs. J Helminthol. 1995
+Sep;69(3):187-94. doi: 10.1017/s0022149x00014139. PMID: 8522763.
+
+148: Pöltl G, Kerner D, Paschinger K, Wilson IB. N-glycans of the porcine
+nematode parasite Ascaris suum are modified with phosphorylcholine and core
+fucose residues. FEBS J. 2007 Feb;274(3):714-26. doi:
+10.1111/j.1742-4658.2006.05615.x. Epub 2006 Dec 20. PMID: 17181538; PMCID:
+PMC2850173.
+
+149: Wong HS, Embil JA, Ozere RL. Ascaris suum and Toxocara canis: egg extract
+antigens in guinea pigs and the macrophage migration inhibition test. Exp
+Parasitol. 1976 Dec;40(3):421-6. doi: 10.1016/0014-4894(76)90109-0. PMID:
+987922.
+
+150: Jungersen G, Eriksen L, Nansen P, Lind P, Rasmussen T, Meeusen EN. Regional
+immune responses with stage-specific antigen recognition profiles develop in
+lymph nodes of pigs following Ascaris suum larval migration. Parasite Immunol.
+2001 Apr;23(4):185-94. doi: 10.1046/j.1365-3024.2001.00373.x. PMID: 11298295.
+
+151: Calabokis M, Perez J, Bubis J, Suárez-Mata Z. Minor participation of cAMP
+on the protein kinase phosphorylation of mitochondrial and cytosolic fractions
+from Ascaris suum: a comparative study with porcine heart muscle. Comp Biochem
+Physiol B Biochem Mol Biol. 2002 Nov;133(3):405-16. doi:
+10.1016/s1532-0456(02)00181-3. PMID: 12431408.
+
+152: Connan RM. Ascariasis: the development of eggs of Ascaris suum under the
+conditions prevailing in a pig house. Vet Rec. 1977 May 14;100(20):421-2. doi:
+10.1136/vr.100.20.421. PMID: 878244.
+
+153: Sylvin H, Dahlbäck M, Van Der Ploeg I, Alving K. The tryptase inhibitor
+APC-366 reduces the acute airway response to allergen in pigs sensitized to
+Ascaris suum. Clin Exp Allergy. 2002 Jun;32(6):967-71. doi:
+10.1046/j.1365-2222.2002.01239.x. PMID: 12047446.
+
+154: Naidoo D, Archer CE. THE EFFECTS OF TECHNICAL STEPS USED IN EXISTING
+SANITATION HELMINTH TEST METHODS ON ASCARIS SUUM EGG RECOVERY FROM PIG FECES. J
+Parasitol. 2024 Dec 1;110(6):717-724. doi: 10.1645/22-59. PMID: 39701160.
+
+155: O'Grady RT, Harpur RP. Growth and form of the fourth-stage larvae and early
+adults of Ascaris suum Goeze, 1782 (Nematoda: Ascaridoidea) developing in pigs.
+J Helminthol. 1985 Jun;59(2):137-41. doi: 10.1017/s0022149x00025712. PMID:
+4031452.
+
+156: Yoshihara S, Nakagawa M, Suda H, Ikeda K, Hanashiro K. White spots of the
+liver in pigs experimentally infected with Ascaris suum. Natl Inst Anim Health Q
+(Tokyo). 1983 Winter;23(4):127-37. PMID: 6680775.
+
+157: Hannigan LL, Donahue MJ, Masaracchia RA. Comparative purification and
+characterization of invertebrate muscle glycogen synthase from the porcine
+parasite Ascaris suum. J Biol Chem. 1985 Dec 25;260(30):16099-105. PMID:
+3934170.
+
+158: Häni H, Indermühle NA. Esophagogastric ulcers in swine infected with
+Ascaris suum. Vet Pathol. 1979 Sep;16(5):617-8. doi: 10.1177/030098587901600517.
+PMID: 473495.
+
+159: Rhodes MB, McCullough RA, Mebus CA, Klucas CA. Ascaris suum: specific
+antibodies in isolated intestinal loop washings from immunized swine. Exp
+Parasitol. 1978 Aug;45(2):255-62. doi: 10.1016/0014-4894(78)90067-x. PMID:
+354957.
+
+160: SCHWARTZ B. Experimental infection of pigs with Ascaris suum. Am J Vet Res.
+1959 Jan;20:7-13. PMID: 14443967.
+
+161: Sanchez-Vazquez MJ, Smith RP, Kang S, Lewis F, Nielen M, Gunn GJ, Edwards
+SA. Identification of factors influencing the occurrence of milk spot livers in
+slaughtered pigs: A novel approach to understanding Ascaris suum epidemiology in
+British farmed pigs. Vet Parasitol. 2010 Oct 29;173(3-4):271-9. doi:
+10.1016/j.vetpar.2010.06.029. Epub 2010 Jul 1. PMID: 20667659.
+
+162: Yang S, Gaafar SM, Bottoms GD. Serum levels of gastrin, insulin and
+glucagon as possible factors of anorexia in pigs infected once with Ascaris
+suum. Vet Parasitol. 1990 Jul;36(3-4):211-9. doi: 10.1016/0304-4017(90)90033-8.
+PMID: 2205042.
+
+163: Taffs LF. Immunological studies on experimental infection of pigs with
+Ascaris suum Goeze, 1782. VI. The histopathology of the liver and lung. J
+Helminthol. 1968;42(1):157-72. doi: 10.1017/s0022149x00027309. PMID: 5659046.
+
+164: TAFFS LF. Immunological studies on experimental infection of pigs with
+Ascaris suum Goeze, 1782. I. An introduction with a review of the literature and
+the demonstration of complement-fixing antibodies in the serum. J Helminthol.
+1961;35:319-44. doi: 10.1017/s0022149x00004715. PMID: 14039611.
+
+165: Collins RJ, Ivey MH. Specificity and sensitivity of skin test reactions to
+extracts of Toxocara canis and Ascaris suum II. Homologous 48-hour passive
+cutaneous anaphylaxis tests with sera from infected guinea pigs. Am J Trop Med
+Hyg. 1975 May;24(3):460-4. doi: 10.4269/ajtmh.1975.24.460. PMID: 50748.
+
+166: Slotved HC, Roepstorff A, Barnes EH, Eriksen L, Nansen P. Comparison of two
+methods for recovering migrating Ascaris suum larvae from the liver and lungs of
+pigs. J Parasitol. 1996 Aug;82(4):612-5. PMID: 8691369.
+
+167: Arakawa A, Conway DP. Hemagglutination tests for antibodies to Ascaris suum
+in pigs treated with pyrantel hydrochloride. Am J Vet Res. 1969
+Sep;30(9):1613-9. PMID: 5817013.
+
+168: Stankiewicz M, Jonas W, Froe DL. Patent infections of Ascaris suum in pigs:
+effect of previous exposure to multiple, high doses of eggs and various
+treatment regimes. Int J Parasitol. 1992 Aug;22(5):597-601. doi:
+10.1016/0020-7519(92)90007-8. PMID: 1399243.
+
+169: Rhodes MB, McCullough RA, Mebus CA, Klucas CA, Ferguson DL, Twiehaus MJ.
+Ascaris suum: hatching of embryonated eggs in swine. Exp Parasitol. 1977
+Aug;42(2):356-62. doi: 10.1016/0014-4894(77)90093-5. PMID: 560316.
+
+170: Leigh-Browne G, Harpur RP. Repeated precise infection with adult Ascaris
+suum by per fistulam implantation in miniature swine. J Parasitol. 1974
+Apr;60(2):298-301. PMID: 4821118.
+
+171: Gaafar SM, Dugas S, Symensma R. Resistance of pigs recovered from
+transmissible gastroenteritis against infection with Ascaris suum. Am J Vet Res.
+1973 Jun;34(6):793-5. PMID: 4707563.
+
+172: Zimmerman DR, Speer VC, Zimmermann W, Switzer WP. Effect of pyrantel salts
+on Ascaris suum infection in growing pigs. J Anim Sci. 1971 May;32(5):874-8.
+doi: 10.2527/jas1971.325874x. PMID: 5106332.
+
+173: Martinsson K, Nilsson O. The effect of continuous in-feed medication with
+thiophanate on Ascaris suum and Oesophagostomum spp. egg output in young pigs.
+Nord Vet Med. 1985 Mar-Apr;37(2):80-9. PMID: 4000918.
+
+174: Drummond JG, Curtis SE, Simon J, Norton HW. Effects of atmospheric ammonia
+on young pigs experimentally infected with Ascaris suum. Am J Vet Res. 1981
+Jun;42(6):969-74. PMID: 7283247.
+
+175: Jungersen G, Fagerholm HP, Nansen P, Eriksen L. Development of patent
+Ascaris suum infections in pigs following intravenous administration of larvae
+hatched in vitro. Parasitology. 1999 Nov;119 ( Pt 5):503-8. doi:
+10.1017/s0031182099004928. PMID: 10599082.
+
+176: Conway DP, Arakawa A. Prophylactic efficacy of pyrantel against Ascaris
+suum in swine. Cornell Vet. 1969 Oct;59(4):605-10. PMID: 5389259.
+
+177: Bindseil E. Preliminary studies on the immunity to Ascaris suum in pigs.
+Acta Vet Scand. 1971;12(1):128-30. PMID: 4102499.
+
+178: Bakalarska A, Frymus T, Schollenberger A. Lack of homocytotropic antibody
+potentiation by Ascaris suum infection in pigs. Zentralbl Veterinarmed B. 1978
+Mar;25(2):152-6. doi: 10.1111/j.1439-0450.1978.tb00734.x. PMID: 654701.
+
+179: Qureshi SR, Olander HJ, Gaafar SM. Esophagogastric ulcers associated with
+Ascaris suum infestation in swine. Vet Pathol. 1978 May;15(3):353-7. doi:
+10.1177/030098587801500310. PMID: 685083.
+
+180: Khoury PB, Soulsby EJ. Ascaris suum: lymphoid cell responses during
+secondary infections in the guinea pig. Exp Parasitol. 1977 Apr;41(2):432-45.
+doi: 10.1016/0014-4894(77)90116-3. PMID: 321239.
+
+181: Lind P, Eriksen L, Nansen P, Nilsson O, Roepstorff A. Response to repeated
+inoculations with Ascaris suum eggs in pigs during the fattening period. II.
+Specific IgA, IgG, and IgM antibodies determined by enzyme-linked immunosorbent
+assay. Parasitol Res. 1993;79(3):240-4. doi: 10.1007/BF00931899. PMID: 8493248.
+
+182: Feder H, Dey-Hazra A, Enigk K. Verhalten der Plasmaenzyme, der
+Blutelektrolyte und des Mineralstoffgehaltes der Leber während der Leberpassage
+der Larven von Ascaris suum beim Schwein [Changes in plasma enzymes, blood
+electrolytes, and mineral concentrations associated with the migration of larvae
+of Ascaris suum in the liver of the pig]. Z Tropenmed Parasitol. 1972
+Mar;23(1):17-24. German. PMID: 5065733.
+
+183: Juris P, Plachý P, Dubinský P, Venglovský J, Tóth F. Vplyv aeróbnej
+stabilizácie tekutých exkrementov osípaných v laboratórnych podmienkach na
+vitalitu zárodkov Salmonella typhimurium a Ascaris suum [The effect of
+experimental aerobic stabilization of swine slurry on survival of Salmonella
+typhimurium and Ascaris suum]. Vet Med (Praha). 1993;38(9):553-8. Slovak. PMID:
+8236636.
+
+184: Chroustová E, Raszyk J, Herzig I, Toulová M, Dvorák M, Urbanová J. Einfluss
+der Wanderung von Ascaris suum-Larven auf die Blutmesswerte beim Schwein
+[Influence of the migration of Ascaris suum larvae on blood parameters in the
+pig]. Angew Parasitol. 1986 Mar;27(1):15-22. German. PMID: 3717687.
+
+185: Grelck H, Hörchner F, Unterholzner J. Zur serologischen Differenzierung von
+Ascaris suum- und Toxocara canis-Infektionen beim Schwein [Serological
+differentiation of Ascaris suum and Toxocara canis infections in pigs (author's
+transl)]. Z Parasitenkd. 1981;65(3):277-82. German. doi: 10.1007/BF00926721.
+PMID: 7032103.
+
+186: Bindseil E. On the development of interstitial hepatitis ("milk spots") in
+pigs following infection with Ascaris suum. Nord Vet Med. 1973 Apr;24(4):191-5.
+PMID: 4728775.
+
+187: Collins RF, Ivey MH. Specificity and sensitivity of skin test reactions to
+extracts of Toxocara canis and Ascaris suum. I. Skin tests done on infected
+guinea pigs. Am J Trop Med Hyg. 1975 May;24(3):455-9. doi:
+10.4269/ajtmh.1975.24.455. PMID: 1155689.
+
+188: Yoshihara S, Oya T, Furuya T, Goto N. Use of body fluid of adult female
+Ascaris suum as an antigen in the enzyme-linked immunosorbent assay (ELISA) for
+diagnosis of swine ascariosis. J Helminthol. 1993 Dec;67(4):279-86. doi:
+10.1017/s0022149x00013274. PMID: 8132972.
+
+189: Slotved HC, Eriksen L, Murrell KD, Nansen P. Early Ascaris suum migration
+in mice as a model for pigs. J Parasitol. 1998 Feb;84(1):16-8. PMID: 9488331.
+
+190: Yoshihara S, Nakagawa M, Suda H. Detection of complement fixation antibody
+against Ascaris suum antigen in pigs with white spots in the liver. Nihon
+Juigaku Zasshi. 1987 Jun;49(3):559-61. doi: 10.1292/jvms1939.49.559. PMID:
+3613356.
+
+191: TAFFS LF. IMMUNOLOGICAL STUDIES ON EXPERIMENTAL INFECTION OF PIGS WITH
+ASCARIS SUUM GOEZE, 1782. V. THE ANTIBODY RESPONSE TO THE ORAL ADMINISTRATION OF
+THIRD- AND FOURTH-STAGE LARVAE. J Helminthol. 1964;38:159-70. doi:
+10.1017/s0022149x00033708. PMID: 14125100.
+
+192: Stromberg BE. IgE and IgG1 antibody production by a soluble product of
+Ascaris suum in the guinea-pig. Immunology. 1979 Nov;38(3):489-95. PMID: 521052;
+PMCID: PMC1457834.
+
+193: BRODY G, WUEST EC. Larvicidal activity of dithiazanine iodide administered
+in feed to pigs with artificial infections of Ascaris suum. Am J Vet Res. 1963
+May;24:460-6. PMID: 14015696.
+
+194: Gaafar SM, Keittevuti B. Experimental induction of esophagogastric ulcers
+with inoculations of Ascaris suum eggs in swine. Gastroenterology. 1972
+Sep;63(3):423-6. PMID: 4672292.
+
+195: Slotved HC, Barnes EH, Eriksen L, Roepstorff A, Nansen P, Bjørn H. Use of
+an agar-gel technique for large scale application to recover Ascaris suum larvae
+from intestinal contents of pigs. Acta Vet Scand. 1997;38(3):207-12. doi:
+10.1186/BF03548483. PMID: 9444774; PMCID: PMC8057050.
+
+196: KELLEY GW, NAYAK DP. ACQUIRED IMMUNITY TO MIGRATING LARVAE OF ASCARIS SUUM
+INDUCED IN PIGS BY REPEATED ORAL INOCULATIONS IN INFECTIVE EGGS. J Parasitol.
+1964 Aug;50:499-503. PMID: 14206469.
+
+197: Stephenson LS, Georgi JR, Cleveland DJ. Infection of weanling pigs with
+known numbers of Ascaris suum fourth stage larvae. Cornell Vet. 1977
+Jan;67(1):92-102. PMID: 832477.
+
+198: TAFFS LF. IMMUNOLOGICAL STUDIES ON EXPERIMENTAL INFECTION OF PIGS WITH
+ASCARIS SUUM GOEZE, 1782. IV. THE PRIMARY ANTIBODY RESPONSE. J Helminthol.
+1964;38:151-8. doi: 10.1017/s0022149x00033691. PMID: 14125099.
+
+199: Zółtowska K. Badania in vitro wpływu leków przeciwrobaczych na aktywność
+enzymów trawiennych w wyciagach z jelita Ascaris suum i trzustki wieprzowej [In
+vitro study of anthelmintic influence on activities of digestive enzymes in
+extracts from the gut of Ascaris suum and pig's pancreas]. Wiad Parazytol.
+1993;39(4):391-7. Polish. PMID: 8128727.
+
+200: Stankiewicz M, Jeska EL. Evaluation of pyrantel-tartrate abbreviated
+Ascaris suum infections for the development of resistance in young pigs against
+migrating larvae. Int J Parasitol. 1990 Feb;20(1):77-81. doi:
+10.1016/0020-7519(90)90176-n. PMID: 2312230.
+
+201: Białas B, Deryło A, Labudzińska B. Histopathological changes in organs of
+the miniature pigs GTT infected with invasive larvae of Ascaris suum Goeze,
+1782. Folia Biol (Krakow). 1987;35(3-4):201-6. PMID: 3436470.
+
+202: Stankiewicz M, Jeska EL, Froe DL. Acquired resistance to migrating larvae
+of Ascaris suum in young pigs by repeated drug-abbreviated infections. J
+Parasitol. 1990 Jun;76(3):383-8. PMID: 2352069.
+
+203: Eriksen L. Experimentally induced resistance to Ascaris suum in pigs. Nord
+Vet Med. 1982 Jun;34(6):177-87. PMID: 6890668.
+
+204: Rhodes MB, Keralis MB, Staudinger LA. Immune responses of swine to oral
+inoculation with embryonated eggs of Ascaris suum. Am J Vet Res. 1982
+Sep;43(9):1604-7. PMID: 6216835.
+
+205: TAFFS LF. The passive transfer of immunity in guinea-pigs infected with the
+nematode Ascaris suum Goeze, 1782. J Helminthol. 1961;35:315-8. doi:
+10.1017/s0022149x00004703. PMID: 13918918.
+
+206: Fagerholm HP, Nansen P, Roepstorff A, Frandsen F, Eriksen L. Growth and
+structural features of the adult stage of Ascaris suum (Nematoda, Ascaridoidea)
+from experimentally infected domestic pigs. J Parasitol. 1998 Apr;84(2):269-77.
+PMID: 9576498.
+
+207: Zółtowska K, Dziekońska-Rynko J, Jabłonowski Z. Aktywność trypsyny i alfa-
+amylazy w trzustce świnek morskich. I. Wpływ wielkości dawki zarazeniowej i
+czasu trwania inwazji Ascaris suum Goeze, 1782 [Trypsin and alpha-amylase
+activity in the pancreas of guinea pigs. I. The influence of infective dose and
+duration of infection by Ascaris suum Goeze, 1782]. Wiad Parazytol.
+1989;35(6):565-70. Polish. PMID: 2633503.
+
+208: Barriga OO, Ingalls WL. Potentiation of an IgE-like response to Bordetella
+bronchiseptica in pigs following Ascaris suum infection. Vet Parasitol. 1984
+Nov;16(3-4):343-5. doi: 10.1016/0304-4017(84)90052-9. PMID: 6440350.
+
+209: Lochnit G, Dennis RD, Ulmer AJ, Geyer R. Structural elucidation and
+monokine-inducing activity of two biologically active zwitterionic
+glycosphingolipids derived from the porcine parasitic nematode Ascaris suum. J
+Biol Chem. 1998 Jan 2;273(1):466-74. doi: 10.1074/jbc.273.1.466. PMID: 9417105.
+
+210: Rhodes MB, Staudinger LA, Hart RA. Indirect solid-phase
+microradioimmunoassay for detection of Ascaris suum antibodies in swine sera. Am
+J Vet Res. 1981 May;42(5):868-70. PMID: 7258808.
+
+211: Dobson C, Morseth DJ, Soulsby JL. Immunoglobulin E-type antibodies induced
+by Ascaris suum infections in guinea pigs. J Immunol. 1971 Jan;106(1):128-33.
+PMID: 5543704.
+
+212: Ohtsuka I, Hada N, Ohtaka H, Sugita M, Takeda T. Synthetic studies on
+glycosphingolipids from protostomia phyla: synthesis of amphoteric glycolipid
+analogues from the porcine nematode, Ascaris suum. Chem Pharm Bull (Tokyo). 2002
+May;50(5):600-4. doi: 10.1248/cpb.50.600. PMID: 12036012.
+
+213: Donnelly JJ, Rockey JH, Soulsby EJ. Intraocular IgE antibody induced in
+guinea pigs with Ascaris suum larvae. Invest Ophthalmol Vis Sci. 1977
+Oct;16(10):976-81. PMID: 908652.
+
+214: TAFFS LF. IMMUNOLOGICAL STUDIES ON EXPERIMENTAL INFECTION OF PIGS WITH
+ASCARIS SUUM GOEZE, 1782. II. THE USE OF THE CONGLUTINATING COMPLEMENT
+ABSORPTION TEST FOR THE DEMONSTRATION OF ASCARIS ANTIBODY. J Helminthol.
+1963;37:369-80. doi: 10.1017/s0022149x00019970. PMID: 14054391.
+
+215: Kasug-Aoki H, Tsuji N, Suzuki K, Arakawa T, Matsumoto Y, Isobe T.
+Identification of larval-stage antigens of ascaris suum recognized with immune
+sera from pigs. J Vet Med Sci. 2001 Jun;63(6):683-5. doi: 10.1292/jvms.63.683.
+PMID: 11459018.
+
+216: Soares MF, Mota I. Effect of purified components of Ascaris suum extracts
+on IgE antibody response in guinea pigs. Braz J Med Biol Res.
+1992;25(11):1137-40. PMID: 1342594.
+
+217: Rhodes MB, Staudinger LA. Antigens in perienteric fluid of Ascaris suum as
+detected through antibodies in pigs orally inoculated with fully embryonated
+eggs. Vet Parasitol. 1983 May;12(2):179-86. doi: 10.1016/0304-4017(83)90006-7.
+PMID: 6684353.
+
+218: Islam KM, Miyoshi T, Isobe T, Kasuga-Aoki H, Arakawa T, Matsumoto Y,
+Yokomizo Y, Tsuji N, Tsuji N. Temperature and metal ions-dependent activity of
+the family I inorganic pyrophosphatase from the swine roundworm Ascaris suum. J
+Vet Med Sci. 2004 Feb;66(2):221-3. doi: 10.1292/jvms.66.221. PMID: 15031556.
+
+219: Watson BI, Hammerberg B. Identification of a collectin-like protein in pig
+serum that binds a component in perienteric fluid from Ascaris suum. Comp
+Immunol Microbiol Infect Dis. 2000 Mar;23(2):113-24. doi:
+10.1016/s0147-9571(99)00067-3. PMID: 10670700.
+
+220: Jarnicka-Stanios H, Stepień-Rukasz H, Stanios W, Raczyńska D. Wpływ larw
+Ascaris suum Goeze na aktywność fosfataz w jelicie świnek morskich [Effect of
+larvae of Ascaris suum Goeze on phosphatase activity of the guinea pig
+intestine]. Wiad Parazytol. 1984;30(3):277-81. Polish. PMID: 6095540.
+
+221: SALMENKOVA EA. [Properties of free amino acids in cavitary fluids of
+ascarides in swine (Ascaris suum Goeze, 1782) and their change in cultivation of
+the ascarides in conditions of protein deficiency]. Med Parazitol (Mosk). 1962
+Nov-Dec;31:664-8. Russian. PMID: 13991135.
+
+222: Forstner MJ. Untersuchungen über Serumeiweissverschiebungen und
+Antikörperbildung im Kaninchen nach Verabreichung von Antigenen des
+Schweinespulwurms (Ascaris suum) [Studies on the serum protein changes and
+antibody formation in the rabbit following administration of antigens of the pig
+ascarid (Ascaris suum)]. Zentralbl Veterinarmed B. 1969 Jul;16(5):448-53.
+German. PMID: 5808634.
+
+223: Andersen S. Ascarideinfektionens indflydelse på vaekstintensiteten hos gris
+[The influence of Ascaris suum infection upon growth rates in pigs (author's
+tranls)]. Nord Vet Med. 1976 Jun;28(6):322-30. Danish. PMID: 940739.
+
+224: Rukasz H. Badania histopatologiczne i cytochemiczne nerki świnek morskich
+zarazonych larwami Ascaris suum Goeze, 1782 [Histopathologic and cytochemical
+studies of the kidneys of guinea pigs infected with larvae of Ascaris suum
+Goeze, 1782]. Wiad Parazytol. 1989;35(1):19-24. Polish. PMID: 2470207.
+
+225: Evans P, van Leengoed L. Field studies with in-feed medication of pigs in
+the Netherlands using the anthelmintic thiophanate with particular reference to
+efficacy against Ascaris suum. Vet Q. 1984 Jan;6(1):27-30. doi:
+10.1080/01652176.1984.9693903. PMID: 6375107.
+
+226: Zółtowska K, Piechocki D, Zygadlewicz E. Aktywność trypsyny i alfa-amylazy
+w trzustce świnek morskich. II. Wpływ zarazenia per os i dojelitowo inwazyjnymi
+jajami ascaris suum [Trypsin and alpha-amylase activities in the pancreas of
+guinea pigs. II. Effect of per os and intra-intestinal infection with invasive
+ova of Ascaris suum]. Wiad Parazytol. 1990;36(1-3):3-8. Polish. PMID: 2256335.
+
+227: Fedianina LV, Astaf'ev BA. Patomorfologicheskie izmeneniia v organakh
+morskikh svinok, mnogokratno zarazhennykh iaĭtsami Ascaris suum Goeze, 1782
+[Pathomorphological changes in the organs of guinea pigs repeatedly infected
+with eggs of Ascaris suum Goeze, 1782]. Med Parazitol (Mosk). 1974 Mar-
+Apr;43(2):203-8. Russian. PMID: 4477889.
+
+228: BENEDIKTOV II. [Proteins in the cavitary fluid of ascarides in swine
+(Ascaris suum Goeze, 1758) in conditions of maintaining the parasites on a
+protein-free diet]. Med Parazitol (Mosk). 1962 Nov-Dec;31:660-4. Russian. PMID:
+13967392.
+
+229: Zółtowska K. Aktywność trypsyny i alfa-amylazy w trzustce świnek morskich.
+IV. Porównanie wpływu podawania mieszaniny lotnych kwasów organicznych,
+inwazyjnych jaj Ascaris suum i ich homogenatów [Trypsin and alpha-amylase
+activity in the pancreas of guinea pigs. IV. Comparison of the effects of
+administration of the mixtures of volatile organic acids, invasive ova of
+Ascaris suum and their homogenates]. Wiad Parazytol. 1991;37(2):241-6. Polish.
+PMID: 1822040.
+
+230: Buchwalder R, Matthes HF, Hiepe T. Untersuchungen zum serologischen
+Nachweis von experimentellen Spulwurminfektionen - Ascaris suum, Toxocara canis
+- beim Schwein mit Hilfe des Indirekten Immunofluoreszenz-Antikörpertests
+[Serological demonstration of experimental round worm infections-Ascaris suum,
+Toxocara canis--in swine by means of the indirect immunofluorescence antibody
+test]. Angew Parasitol. 1981 Nov;22(4):193-9. German. PMID: 7039425.
+
+231: Casarosa L, Macchioni G, Favati V, Marconcini A. Indagini sull'infestione
+microascaridica sperimentale da Ascaris suum in cavie sottoposte ad
+x-irradiazione totale corporea DL 50-30 [Research on experimental microascarid
+infestation by Ascaris suum in guinea pigs subjected to total body x-irradiation
+of 50-30 DL]. Arch Vet Ital. 1967 Dec 31;18(6):455-70. Italian. PMID: 5617373.
+
+232: Zółtowska K. Aktywność trypsyny i alfa-amylazy w trzustce świnek morskich.
+III. Wpływ homogenatów z inwazyjnych jaj ascaris suum oraz mieszaniny kwasów
+organicznych C2-C6 na aktywność enzymów w wyciagach z trzustki [Trypsin and
+alpha-amylase activities in the pancreas of guinea pigs. III. Effect of
+homogenates of invasive ova of Ascaris suum and organic acids C2-C6 on the
+activity of enzymes in pancreatic extracts]. Wiad Parazytol. 1990;36(1-3):9-14.
+Polish. PMID: 2256339.
+
+233: Biaduń W, Rukasz H. Histochemiczna ocena sterydogenezy w nadnerczach świnek
+morskich zarazonych larwami Ascaris suum L [Histochemical evaluation of
+steroidogenesis in the adrenal glands of guinea pigs infected with Ascaris suum
+L. larvae]. Wiad Parazytol. 1986;32(1):53-8. Polish. PMID: 3458342.
+
+234: Zółtowska K. Uwalnianie alfa-amylazy przez komórki pecherzykowe izolowane z
+trzustek świnek morskich zarazonych inwazyjnymi jajami Ascaris suum [Alpha-
+amylase release by pancreatic acini isolated from guinea pigs infected with
+invasive eggs of Ascaris suum]. Wiad Parazytol. 1993;39(3):233-9. Polish. PMID:
+8122421.
+
+235: Benková M, Borosková Z. Provnanie citilivosti reakcie nepriamej pasívnej
+hemagluntinácie a latexfixaccného testu pri dókaze migracnej fázy
+experimentálnej askaridózy [Ascaris suum] osípaných [Comparison of the
+sensitivity of the passive, indirect hemagglutination reaction and the latex
+fixation test in the demonstration of the migratory phase of experimental
+ascariasis (Ascaris suum) in swine]. Vet Med (Praha). 1978 Jun;23(6):355-60.
+Slovak. PMID: 97840.
+
+236: Stromberg BE. Potentiation of the reaginic (IgE) antibody response to
+ovalbumin in the guinea pig with a soluble metabolic product from Ascaris suum.
+J Immunol. 1980 Aug;125(2):833-6. PMID: 7391579.
+
+237: O'Grady RT. Changes in the somatic musculature of the 4th-stage larvae of
+Ascaris suum Goeze, 1782 (Nematoda: Ascaridoidea) developing in swine.
+Parasitology. 1984 Feb;88 ( Pt 1):141-51. doi: 10.1017/s003118200005441x. PMID:
+6709390.
+
+238: Borosková Z, Benková M. Efektívnost antigénov z rôznych vývinových stádií
+Ascaris suum pri dôkaze migracnej fázy experimentálnej askaridózy u osípaných
+[Effectiveness of antigens from various developmental stages of Ascaris suum in
+the deomonstration of the migratory phase of experimental ascariasis in pigs].
+Vet Med (Praha). 1978 May;23(5):283-7. Slovak. PMID: 96575.
+
+239: TARCZYNSKI S. Studia inwazjologiczne nad glistnica świń. I. Warunki
+sprzyjajace wylegowi larw inwazyjnych Ascaris suum Goeze, 1782 w środowisku
+zewnetrznym; doniesienie wstepne [Studies on Ascaris invasions in pigs. I.
+Conditions favorable for incubation of Ascaris suum Goeze, 1782 in the external
+environment; preliminary communication]. Wiad Parazytol. 1958;4(5-6):573-4;
+English transl 574-5. Polish. PMID: 13604198.

@@ -1,0 +1,70 @@
+1: Enemark HL, Ahrens P, Bille-Hansen V, Heegaard PM, Vigre H, Thamsborg SM,
+Lind P. Cryptosporidium parvum: infectivity and pathogenicity of the 'porcine'
+genotype. Parasitology. 2003 May;126(Pt 5):407-16. doi:
+10.1017/s0031182003003032. PMID: 12793644.
+
+2: Resnhaleksmana E, Wijayanti MA, Artama WT. A POTENTIAL ZOONOTIC PARASITE:
+<i>CRYPTOSPORIDIUM PARVUM</i> TRANSMISSION IN RATS, PIGS AND HUMANS IN WEST
+LOMBOK, INDONESIA. Afr J Infect Dis. 2021 Mar 18;15(2):44-51. doi:
+10.21010/ajid.v15i2.8. PMID: 33889802; PMCID: PMC8052970.
+
+3: Pereira SJ, Ramirez NE, Xiao L, Ward LA. Pathogenesis of human and bovine
+Cryptosporidium parvum in gnotobiotic pigs. J Infect Dis. 2002 Sep
+1;186(5):715-8. doi: 10.1086/342296. Epub 2002 Aug 5. PMID: 12195362.
+
+4: Jenkins MB, Liotta JL, Bowman DD. Inactivation kinetics of Cryptosporidium
+parvum oocysts in a swine waste lagoon and spray field. J Parasitol. 2013
+Apr;99(2):337-42. doi: 10.1645/GE-3193.1. Epub 2012 Sep 27. PMID: 23016982.
+
+5: Núñez A, McNeilly F, Perea A, Sánchez-Cordón PJ, Huerta B, Allan G, Carrasco
+L. Coinfection by Cryptosporidium parvum and porcine circovirus type 2 in weaned
+pigs. J Vet Med B Infect Dis Vet Public Health. 2003 Jun;50(5):255-8. doi:
+10.1046/j.1439-0450.2003.00664.x. PMID: 12864903.
+
+6: Mirhashemi ME, Noubary F, Chapman-Bonofiglio S, Tzipori S, Huggins GS, Widmer
+G. Transcriptome analysis of pig intestinal cell monolayers infected with
+Cryptosporidium parvum asexual stages. Parasit Vectors. 2018 Mar 12;11(1):176.
+doi: 10.1186/s13071-018-2754-3. PMID: 29530089; PMCID: PMC5848449.
+
+7: Villacorta I, Ares-Mazas E, Lorenzo MJ. Cryptosporidium parvum in cattle,
+sheep and pigs in Galicia (N.W. Spain). Vet Parasitol. 1991 Mar;38(2-3):249-52.
+doi: 10.1016/0304-4017(91)90134-h. PMID: 1858293.
+
+8: Atwill ER, Sweitzer RA, Pereira MG, Gardner IA, Van Vuren D, Boyce WM.
+Prevalence of and associated risk factors for shedding Cryptosporidium parvum
+oocysts and Giardia cysts within feral pig populations in California. Appl
+Environ Microbiol. 1997 Oct;63(10):3946-9. doi:
+10.1128/aem.63.10.3946-3949.1997. PMID: 9327560; PMCID: PMC168707.
+
+9: Guselle NJ, Appelbee AJ, Olson ME. Biology of Cryptosporidium parvum in pigs:
+from weaning to market. Vet Parasitol. 2003 Apr 2;113(1):7-18. doi:
+10.1016/s0304-4017(03)00039-6. PMID: 12651214.
+
+10: Quílez J, Ares-Mazás E, Sánchez-Acedo C, del Cacho E, Clavel A, Causapé AC.
+Comparison of oocyst shedding and the serum immune response to Cryptosporidium
+parvum in cattle and pigs. Parasitol Res. 1996;82(6):529-34. doi:
+10.1007/s004360050157. PMID: 8832734.
+
+11: Chrisp CE, Suckow MA, Fayer R, Arrowood MJ, Healey MC, Sterling CR.
+Comparison of the host ranges and antigenicity of Cryptosporidium parvum and
+Cryptosporidium wrairi from guinea pigs. J Protozool. 1992 May-Jun;39(3):406-9.
+doi: 10.1111/j.1550-7408.1992.tb01471.x. PMID: 1386385.
+
+12: Tilley M, Upton SJ, Chrisp CE. A comparative study on the biology of
+Cryptosporidium sp. from guinea pigs and Cryptosporidium parvum (Apicomplexa).
+Can J Microbiol. 1991 Dec;37(12):949-952. doi: 10.1139/m91-163. PMID: 1806211.
+
+13: Gookin JL, Stauffer SH, Stone MR. Induction of arginase II by intestinal
+epithelium promotes the uptake of L-arginine from the lumen of Cryptosporidium
+parvum-infected porcine ileum. J Pediatr Gastroenterol Nutr. 2008
+Oct;47(4):417-27. doi: 10.1097/MPG.0b013e31816f6c02. PMID: 18852633; PMCID:
+PMC3685577.
+
+14: Yu JR, Seo M. Infection status of pigs with Cryptosporidium parvum. Korean J
+Parasitol. 2004 Mar;42(1):45-7. doi: 10.3347/kjp.2004.42.1.45. PMID: 15060340;
+PMCID: PMC2717339.
+
+15: Hoskins D, Chrisp CE, Suckow MA, Fayer R. Effect of hyperimmune bovine
+colostrum raised against Cryptosporidium parvum on infection of guinea pigs by
+Cryptosporidium wrairi. J Protozool. 1991 Nov-Dec;38(6):185S-186S. PMID:
+1818160.

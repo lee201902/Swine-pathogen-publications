@@ -1,0 +1,134 @@
+1: Ilboudo K, Boulangé A, Hounyèmè RE, Gimonneau G, Kaboré J, Belem AGM,
+Desquesnes M, Lejon V, Koffi M, Jamonneau V, Thévenon S. Performance of
+diagnostic tests for Trypanosoma brucei brucei in experimentally infected pigs.
+PLoS Negl Trop Dis. 2023 Nov 9;17(11):e0011730. doi:
+10.1371/journal.pntd.0011730. PMID: 37943881; PMCID: PMC10662723.
+
+2: Atata JA, Enam SJ, Ogbuagu NE, Balogun EO, Adamu S, Esievo KAN. Upregulation
+of sialyltransferases ST3Gal1 and ST6Gal1 promotes stabilization of erythrocyte
+mass and recovery of anemia in Trypanosoma brucei brucei-infected pigs. Res Vet
+Sci. 2022 Jul;145:102-108. doi: 10.1016/j.rvsc.2022.02.012. Epub 2022 Feb 8.
+PMID: 35180660; PMCID: PMC9148701.
+
+3: Ilboudo K, Hounyeme RE, Kabore J, Boulangé A, Gimonneau G, Salou E, Belem
+AGM, Lejon V, Compaoré CFA, Bucheton B, Koffi M, Solano P, Berthier D, Thevenon
+S, Jamonneau V. Experimental evidence that immune trypanolysis using the LiTat
+1.3 and LiTat 1.5 variant antigen types is not specific to Trypanosoma brucei
+gambiense in pigs. Parasite. 2022;29:61. doi: 10.1051/parasite/2022063. Epub
+2022 Dec 21. PMID: 36562442; PMCID: PMC9879134.
+
+4: Traoré BM, Koffi M, N'Djetchi MK, Kaba D, Kaboré J, Ilboudo H, Ahouty BA,
+Koné M, Coulibaly B, Konan T, Segard A, Kouakou L, De Meeûs T, Ravel S, Solano
+P, Bart JM, Jamonneau V. Free-ranging pigs identified as a multi-reservoir of
+Trypanosoma brucei and Trypanosoma congolense in the Vavoua area, a historical
+sleeping sickness focus of Côte d'Ivoire. PLoS Negl Trop Dis. 2021 Dec
+22;15(12):e0010036. doi: 10.1371/journal.pntd.0010036. PMID: 34937054; PMCID:
+PMC8735613.
+
+5: Vourchakbé J, Tiofack ZAA, Kante TS, Mpoame M, Simo G. Molecular
+identification of Trypanosoma brucei gambiense in naturally infected pigs, dogs
+and small ruminants confirms domestic animals as potential reservoirs for
+sleeping sickness in Chad. Parasite. 2020;27:63. doi: 10.1051/parasite/2020061.
+Epub 2020 Nov 18. PMID: 33206595; PMCID: PMC7673351.
+
+6: Cunningham LJ, Lingley JK, Tirados I, Esterhuizen J, Opiyo M, Mangwiro CTN,
+Lehane MJ, Torr SJ. Evidence of the absence of human African trypanosomiasis in
+two northern districts of Uganda: Analyses of cattle, pigs and tsetse flies for
+the presence of Trypanosoma brucei gambiense. PLoS Negl Trop Dis. 2020 Apr
+7;14(4):e0007737. doi: 10.1371/journal.pntd.0007737. PMID: 32255793; PMCID:
+PMC7164673.
+
+7: N'Djetchi MK, Ilboudo H, Koffi M, Kaboré J, Kaboré JW, Kaba D, Courtin F,
+Coulibaly B, Fauret P, Kouakou L, Ravel S, Deborggraeve S, Solano P, De Meeûs T,
+Bucheton B, Jamonneau V. The study of trypanosome species circulating in
+domestic animals in two human African trypanosomiasis foci of Côte d'Ivoire
+identifies pigs and cattle as potential reservoirs of Trypanosoma brucei
+gambiense. PLoS Negl Trop Dis. 2017 Oct 18;11(10):e0005993. doi:
+10.1371/journal.pntd.0005993. PMID: 29045405; PMCID: PMC5662240.
+
+8: Fagbemi BO, Otesile EB, Makinde MO, Akinboade OA. The relationship between
+dietary energy levels and the severity of Trypanosoma brucei infection in
+growing pigs. Vet Parasitol. 1990 Feb;35(1-2):29-42. doi:
+10.1016/0304-4017(90)90114-q. PMID: 2343530.
+
+9: Gibson W, Mehlitz D, Lanham SM, Godfrey DG. The identification of Trypanosoma
+brucei gambiense in Liberian pigs and dogs by isoenzymes and by resistance to
+human plasma. Tropenmed Parasitol. 1978 Sep;29(3):335-45. PMID: 726046.
+
+10: Simo G, Asonganyi T, Nkinin SW, Njiokou F, Herder S. High prevalence of
+Trypanosoma brucei gambiense group 1 in pigs from the Fontem sleeping sickness
+focus in Cameroon. Vet Parasitol. 2006 Jun 30;139(1-3):57-66. doi:
+10.1016/j.vetpar.2006.02.026. Epub 2006 Mar 29. PMID: 16567049.
+
+11: Otesile EB, Akpavie SO, Fagbemi BO, Ogunremi AO. Pathogenicity of
+Trypanosoma brucei brucei in experimentally infected pigs. Rev Elev Med Vet Pays
+Trop. 1991;44(3):279-82. PMID: 1824136.
+
+12: Nkinin SW, Njiokou F, Penchenier L, Grébaut P, Simo G, Herder S.
+Characterization of Trypanosoma brucei s.l. subspecies by isoenzymes in domestic
+pigs from the Fontem sleeping sickness focus of Cameroon. Acta Trop. 2002
+Mar;81(3):225-32. doi: 10.1016/s0001-706x(01)00213-3. PMID: 11835899.
+
+13: Okuna NM, Mayende JS, Guloba A. Trypanosoma brucei infection in domestic
+pigs in a sleeping sickness epidemic area of Uganda. Short communication. Acta
+Trop. 1986 Jun;43(2):183-4. PMID: 2874715.
+
+14: Otesile EB, Fagbemi BO, Makinde MO, Akinboade OA. The response of pigs
+experimentally infected with Trypanosoma brucei to isometamidium chloride
+therapy and the relation to nutrition. Vet Q. 1992;14(3):88-91. doi:
+10.1080/01652176.1992.9694339. PMID: 1413445.
+
+15: Otesile EB. Survival and infectivity of Trypanosoma brucei in refrigerated
+pig blood. Vet Parasitol. 1990 Jul;36(3-4):333-6. doi:
+10.1016/0304-4017(90)90045-d. PMID: 2399653.
+
+16: Büngener W, Mehlitz D. Histopathological findings in mini-pigs infected with
+different strains of Trypanosoma brucei. Tropenmed Parasitol. 1984
+Jun;35(2):109-14. PMID: 6464185.
+
+17: Penchenier L, Alhadji D, Bahébégué S, Simo G, Laveissière C, Cuny G.
+Spontaneous cure of domestic pigs experimentally infected by Trypanosoma brucei
+gambiense. Implications for the control of sleeping sickness. Vet Parasitol.
+2005 Oct 10;133(1):7-11. doi: 10.1016/j.vetpar.2005.04.034. PMID: 16076528.
+
+18: Agu WE, Bajeh ZT. Studies on experimental infection of pigs with Trypanosoma
+brucei. Acta Trop. 1987 Sep;44(3):371-2. PMID: 2892375.
+
+19: Onah DN, Uzoukwu M. Porcine cerebral Trypanosoma brucei brucei
+trypanosomiasis. Trop Anim Health Prod. 1991 Feb;23(1):39-44. doi:
+10.1007/BF02361268. Erratum in: Trop Anim Health Prod 1991 May;23(2):132. PMID:
+2038769.
+
+20: Scott CM. Mixed populations of trypanosoma brucei in a naturally infected
+pig. Tropenmed Parasitol. 1981 Dec;32(4):221-2. PMID: 7345685.
+
+21: BIGOTTI A, CORSO P, FRUGONI G, MALGARINI F. [Experimental trypansomiasis in
+the guinea pig induced by Trypanosoma brucei: anatomo-pathological picture].
+Arch Ital Sci Med Trop Parassitol. 1962 Oct;43:511-32. Italian. PMID: 13968222.
+
+22: Soltys MA, Thompson SM, Woo PT. Experimental transmission of Trypanosoma
+brucei and Trypanosoma congolense in rats and guinea pigs through skin and
+intact mucous membranes. Ann Trop Med Parasitol. 1973 Dec;67(4):399-402. doi:
+10.1080/00034983.1973.11686906. PMID: 4787712.
+
+23: CORSO P, DE DOMINICIS A, CANTARANO G. [The thyroid uptake of I-131 in
+experimental trypanosomiasis of the guinea pig caused by Trypanosoma brucei].
+Arch Ital Sci Med Trop Parassitol. 1962 Jul;43:349-56. Italian. PMID: 14023185.
+
+24: MELE G, CORSO P, STADERINI G. RILIEVI ELETTROCARDIOGRAFICI NELLA
+TRIPANOSOMIASI SPERIMENTALE DELLA CAVIA DA T. BRUCEI [ELECTROCARDIOGRAPHIC
+FINDINGS IN EXPERIMENTAL TRYPANOSOMIASIS IN THE GUINEA PIG INDUCED WITH
+TRYPANOSOMA BRUCEI]. Arch Ital Sci Med Trop Parassitol. 1963 Oct;44:487-517.
+Italian. PMID: 14111553.
+
+25: Ilardi I, Mazzacurati G. Applicazione dell'immuno fluorescenza nello studio
+della tripanosomiasi sperimentale da Trypanosoma brucei nella cavia. Note
+preliminare [Application of immunofluorescence in the study of experimental
+trypanosomiasis due to Trypanosoma brucei in the guinea pig. Preliminary note].
+Arch Ital Sci Med Trop Parassitol. 1965 Nov-Dec;46(11):445-52. Italian. PMID:
+5323730.
+
+26: Longstaffe JA, Terry RJ. Phytohaemagglutinin reactivity in circulating
+peripheral blood lymphocytes during a Trypanosoma brucei infection: sequential
+studies in individual guinea-pigs. Parasite Immunol. 1982 May;4(3):187-96. doi:
+10.1111/j.1365-3024.1982.tb00430.x. PMID: 6980394.

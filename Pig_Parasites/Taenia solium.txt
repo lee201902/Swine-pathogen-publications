@@ -1,0 +1,1076 @@
+1: Kabululu ML, Johansen MV, Lightowlers M, Trevisan C, Braae UC, Ngowi HA.
+Aggregation of <i>Taenia solium</i> cysticerci in pigs: Implications for
+transmission and control. Parasite Epidemiol Control. 2023 May 23;22:e00307.
+doi: 10.1016/j.parepi.2023.e00307. PMID: 37261135; PMCID: PMC10227459.
+
+2: Addo HO, Majekodunmi AO, Sampane-Donkor E, Ofosu-Appiah LH, Opare D, Owusu-
+Okyere G, Amegah KE, Bimi L. Seroprevalence of <i>Taenia solium</i> and
+<i>Trichinella spiralis</i> among Humans and Pigs in Ghana. Biomed Res Int. 2021
+Oct 8;2021:1031965. doi: 10.1155/2021/1031965. PMID: 34660777; PMCID:
+PMC8519675.
+
+3: Assana E, Awah-Ndukum J, Djonmaïla JD, Zoli AP. Prevalence of porcine Taenia
+solium and Taenia hydatigena cysticercosis in Cameroon. Prev Vet Med. 2019 Aug
+1;169:104690. doi: 10.1016/j.prevetmed.2019.104690. Epub 2019 May 16. PMID:
+31311631.
+
+4: Afonso SM, Vaz Y, Neves L, Pondja A, Dias G, Willingham AL, Vilhena M, Duarte
+PC, Jost CC, Noormahomed EV. Human and porcine Taenia solium infections in
+Mozambique: identifying research priorities. Anim Health Res Rev. 2011
+Jun;12(1):123-9. doi: 10.1017/S1466252311000077. PMID: 21676344; PMCID:
+PMC6384509.
+
+5: Ngwili N, Thomas L, Githigia S, Muloi D, Marshall K, Wahome R, Roesel K. Co-
+infection of pigs with Taenia solium cysticercosis and gastrointestinal
+parasites in Eastern and Western Uganda. Parasitol Res. 2022 Jan;121(1):177-189.
+doi: 10.1007/s00436-021-07380-9. Epub 2021 Nov 24. PMID: 34816302; PMCID:
+PMC8610610.
+
+6: Adesokan HK, Adeoye FA. Porcine cysticercosis in slaughtered pigs and factors
+related to <i>Taenia solium</i> transmission amongst abattoir workers in Ibadan,
+Nigeria. Pan Afr Med J. 2019 Mar 26;32:145. doi:
+10.11604/pamj.2019.32.145.10695. PMID: 31308860; PMCID: PMC6610151.
+
+7: Mkupasi EM, Sikasunge CS, Ngowi HA, Johansen MV. Efficacy and safety of
+anthelmintics tested against Taenia solium cysticercosis in pigs. PLoS Negl Trop
+Dis. 2013 Jul 25;7(7):e2200. doi: 10.1371/journal.pntd.0002200. PMID: 23936558;
+PMCID: PMC3723597.
+
+8: Mendlovic F, Fleury A, Flisser A. Zoonotic Taenia infections with focus on
+cysticercosis due to Taenia solium in swine and humans. Res Vet Sci. 2021
+Jan;134:69-77. doi: 10.1016/j.rvsc.2020.11.015. Epub 2020 Nov 22. PMID:
+33321377.
+
+9: Kabululu ML, Ngowi HA, Mlangwa JED, Mkupasi EM, Braae UC, Trevisan C, Colston
+A, Cordel C, Johansen MV. Endemicity of Taenia solium cysticercosis in pigs from
+Mbeya Rural and Mbozi districts, Tanzania. BMC Vet Res. 2020 Sep 3;16(1):325.
+doi: 10.1186/s12917-020-02543-9. PMID: 32883326; PMCID: PMC7470673.
+
+10: Waema MW, Misinzo G, Kagira JM, Agola EL, Ngowi HA. DNA-Detection Based
+Diagnostics for <i>Taenia solium</i> Cysticercosis in Porcine. J Parasitol Res.
+2020 Jan 7;2020:5706981. doi: 10.1155/2020/5706981. PMID: 32395335; PMCID:
+PMC7199576.
+
+11: Daungsupawong H, Wiwanitkit V. Prevalence of Taenia solium (Cysticercus
+Cellulosae) in pigs and humans cysticercosis cases: comment. Vet Res Commun.
+2024 Jun;48(3):1971. doi: 10.1007/s11259-024-10359-3. Epub 2024 Apr 1. PMID:
+38558369.
+
+12: Singh SP, Singh BB, Kalambhe DG, Pathak D, Aulakh RS, Dhand NK. Prevalence
+and distribution of Taenia solium cysticercosis in naturally infected pigs in
+Punjab, India. PLoS Negl Trop Dis. 2018 Nov 15;12(11):e0006960. doi:
+10.1371/journal.pntd.0006960. PMID: 30439944; PMCID: PMC6264866.
+
+13: Trevisan C, Montillo M, Prandi A, Mkupasi EM, Ngowi HA, Johansen MV. Hair
+cortisol and dehydroepiandrosterone concentrations in naturally Taenia solium
+infected pigs in Tanzania. Gen Comp Endocrinol. 2017 May 15;246:23-28. doi:
+10.1016/j.ygcen.2017.03.007. Epub 2017 Mar 16. PMID: 28322765; PMCID:
+PMC5396532.
+
+14: Arroyo G, Toribio L, Vargas-Calla A, Calcina JF, Bernal E, Chile N, Zambrano
+M, Gomez-Puerta LA, Chacaltana J, Marzal M, Bustos JA, Verastegui MR, Gilman RH,
+O'Neal SE, Gonzalez AE, Garcia HH; Cysticercosis Working Group in Peru. Porcine
+model of neurocysticercosis by intracarotid injection of Taenia solium
+oncospheres: Dose assessment, infection outcomes and serological responses. PLoS
+Negl Trop Dis. 2022 Jun 2;16(6):e0010449. doi: 10.1371/journal.pntd.0010449.
+PMID: 35653367; PMCID: PMC9162370.
+
+15: Morales J, Martínez JJ, Villalobos N, Hernández M, Ramírez R, Salgado-
+Estrada B, Jiménez H, Figueroa A, Sánchez LM, Lazcano E, Fleury A, Aluja A,
+Sciutto E. Persistent Taenia solium Cysticercosis In the State of Morelos,
+Mexico: Human and Porcine Seroprevalence. J Parasitol. 2018 Oct;104(5):465-472.
+doi: 10.1645/18-23. Epub 2018 Jul 18. PMID: 30019985.
+
+16: Pray IW, Ayvar V, Gamboa R, Muro C, Moyano LM, Benavides V, Flecker RH,
+Garcia HH, O'Neal SE. Spatial relationship between Taenia solium tapeworm
+carriers and necropsy cyst burden in pigs. PLoS Negl Trop Dis. 2017 Apr
+13;11(4):e0005536. doi: 10.1371/journal.pntd.0005536. PMID: 28406898; PMCID:
+PMC5404875.
+
+17: Ng-Nguyen D, Traub RJ, Nguyen VT, Breen K, Stevenson MA. Spatial
+distribution of Taenia solium exposure in humans and pigs in the Central
+Highlands of Vietnam. PLoS Negl Trop Dis. 2018 Sep 20;12(9):e0006810. doi:
+10.1371/journal.pntd.0006810. PMID: 30235251; PMCID: PMC6168177.
+
+18: Braae UC, Devleesschauwer B, Sithole F, Wang Z, Willingham AL. Mapping
+occurrence of Taenia solium taeniosis/cysticercosis and areas at risk of porcine
+cysticercosis in Central America and the Caribbean basin. Parasit Vectors. 2017
+Sep 18;10(1):424. doi: 10.1186/s13071-017-2362-7. PMID: 28923090; PMCID:
+PMC5604492.
+
+19: Arango-Londoño MM, López-Osorio S, Rojas-Bermudéz F, Chaparro-Gutiérrez JJ.
+The Frequency of Porcine Cysticercosis and Factors Associated with <i>Taenia
+solium</i> Infection in the Municipality of Tuchín-Córdoba, Colombia. Pathogens.
+2024 Apr 11;13(4):311. doi: 10.3390/pathogens13040311. PMID: 38668266; PMCID:
+PMC11054264.
+
+20: Jayashi CM, Arroyo G, Lightowlers MW, García HH, Rodríguez S, Gonzalez AE.
+Seroprevalence and risk factors for Taenia solium cysticercosis in rural pigs of
+northern Peru. PLoS Negl Trop Dis. 2012;6(7):e1733. doi:
+10.1371/journal.pntd.0001733. Epub 2012 Jul 17. PMID: 22816002; PMCID:
+PMC3398967.
+
+21: Donadeu M, Fahrion AS, Olliaro PL, Abela-Ridder B. Target product profiles
+for the diagnosis of Taenia solium taeniasis, neurocysticercosis and porcine
+cysticercosis. PLoS Negl Trop Dis. 2017 Sep 11;11(9):e0005875. doi:
+10.1371/journal.pntd.0005875. PMID: 28892472; PMCID: PMC5608417.
+
+22: Porphyre V, Betson M, Rabezanahary H, Mboussou Y, Zafindraibe NJ,
+Rasamoelina-Andriamanivo H, Costard S, Pfeiffer DU, Michault A. Taenia solium
+porcine cysticercosis in Madagascar: Comparison of immuno-diagnostic techniques
+and estimation of the prevalence in pork carcasses traded in Antananarivo city.
+Vet Parasitol. 2016 Mar 30;219:77-83. doi: 10.1016/j.vetpar.2015.08.027. Epub
+2015 Aug 28. PMID: 26342625.
+
+23: Trevisan C, Mkupasi EM, Ngowi HA, Forkman B, Johansen MV. Severe seizures in
+pigs naturally infected with Taenia solium in Tanzania. Vet Parasitol. 2016 Apr
+15;220:67-71. doi: 10.1016/j.vetpar.2016.02.025. Epub 2016 Mar 3. PMID:
+26995723; PMCID: PMC4819911.
+
+24: Alroy KA, Arroyo G, Gilman RH, Gonzales-Gustavson E, Gallegos L, Gavidia CM,
+Verastegui M, Rodriguez S, Lopez T, Gomez-Puerta LA, Alroy J, Garcia HH,
+Gonzalez AE, For The Cysticercosis Working Group In Peru. Carotid <i>Taenia
+solium</i> Oncosphere Infection: A Novel Porcine Neurocysticercosis Model. Am J
+Trop Med Hyg. 2018 Aug;99(2):380-387. doi: 10.4269/ajtmh.17-0912. Epub 2018 Jun
+7. PMID: 29893202; PMCID: PMC6090325.
+
+25: Sikasunge CS, Phiri IK, Phiri AM, Siziya S, Dorny P, Willingham AL 3rd.
+Prevalence of Taenia solium porcine cysticercosis in the Eastern, Southern and
+Western provinces of Zambia. Vet J. 2008 May;176(2):240-4. doi:
+10.1016/j.tvjl.2007.02.030. Epub 2007 Apr 30. PMID: 17468023.
+
+26: Braae UC, Hung NM, Satrija F, Khieu V, Zhou XN, Willingham AL. Porcine
+cysticercosis (Taenia solium and Taenia asiatica): mapping occurrence and areas
+potentially at risk in East and Southeast Asia. Parasit Vectors. 2018 Nov
+29;11(1):613. doi: 10.1186/s13071-018-3203-z. PMID: 30497522; PMCID: PMC6267083.
+
+27: Lightowlers MW. Eradication of Taenia solium cysticercosis: a role for
+vaccination of pigs. Int J Parasitol. 2010 Aug 15;40(10):1183-92. doi:
+10.1016/j.ijpara.2010.05.001. Epub 2010 May 12. PMID: 20470777.
+
+28: Ostoa-Saloma P, Esquivel-Velázquez M, Larralde C. Immunological variation in
+Taenia solium porcine cysticercosis: measurement on the variation of the
+antibody immune response of naturally infected pigs against antigens extracted
+from their own cysticerci and from those of different pigs. Vet Parasitol. 2013
+Oct 18;197(1-2):130-40. doi: 10.1016/j.vetpar.2013.07.010. Epub 2013 Jul 19.
+PMID: 23953147.
+
+29: Ponce R, León-Janampa N, Gilman RH, Liendo R, Roncal E, Luis S, Quiñones-
+Garcia S, Silverstein Z, García HH, Gonzales A, Sheen P, Zimic M, Pajuelo MJ;
+Cysticercosis Working Group in Peru. A novel enolase from Taenia solium
+metacestodes and its evaluation as an immunodiagnostic antigen for porcine
+cysticercosis. Exp Parasitol. 2018 Aug;191:44-54. doi:
+10.1016/j.exppara.2018.06.001. Epub 2018 Jun 7. PMID: 29885292.
+
+30: Lightowlers MW, Donadeu M, Elaiyaraja M, Maithal K, Kumar KA, Gauci CG,
+Firestone SM, Sarasola P, Rowan TG. Anamnestic responses in pigs to the Taenia
+solium TSOL18 vaccine and implications for control strategies. Parasitology.
+2016 Apr;143(4):416-20. doi: 10.1017/S0031182016000202. Epub 2016 Feb 19. PMID:
+26892239.
+
+31: Fleury A, Trejo A, Cisneros H, García-Navarrete R, Villalobos N, Hernández
+M, Villeda Hernández J, Hernández B, Rosas G, Bobes RJ, de Aluja AS, Sciutto E,
+Fragoso G. Taenia solium: Development of an Experimental Model of Porcine
+Neurocysticercosis. PLoS Negl Trop Dis. 2015 Aug 7;9(8):e0003980. doi:
+10.1371/journal.pntd.0003980. PMID: 26252878; PMCID: PMC4529300.
+
+32: Guo YJ, Sun SH, Zhang Y, Chen ZH, Wang KY, Huang L, Zhang S, Zhang HY, Wang
+QM, Wu D, Zhu WJ. Protection of pigs against Taenia solium cysticercosis using
+recombinant antigen or in combination with DNA vaccine. Vaccine. 2004 Sep
+28;22(29-30):3841-7. doi: 10.1016/j.vaccine.2004.07.012. PMID: 15364430.
+
+33: Ng-Nguyen D, Noh J, Breen K, Stevenson MA, Handali S, Traub RJ. The
+epidemiology of porcine Taenia solium cysticercosis in communities of the
+Central Highlands in Vietnam. Parasit Vectors. 2018 Jun 22;11(1):360. doi:
+10.1186/s13071-018-2945-y. PMID: 29929529; PMCID: PMC6014001.
+
+34: Dixon MA, Winskill P, Harrison WE, Whittaker C, Schmidt V, Sarti E, Bawm S,
+Dione MM, Thomas LF, Walker M, Basáñez MG. Force-of-infection of Taenia solium
+porcine cysticercosis: a modelling analysis to assess global incidence and
+prevalence trends. Sci Rep. 2020 Oct 19;10(1):17637. doi:
+10.1038/s41598-020-74007-x. PMID: 33077748; PMCID: PMC7572398.
+
+35: Lightowlers MW. Eradication of Taenia solium cysticercosis: a role for
+vaccination of pigs. Int J Parasitol. 1999 Jun;29(6):811-7. doi:
+10.1016/s0020-7519(99)00051-x. PMID: 10480718.
+
+36: Mkupasi EM, Ngowi HA, Sikasunge CS, Leifsson PS, Johansen MV. Distribution
+and histopathological changes induced by cysts of Taenia solium in the brain of
+pigs from Tanzania. J Helminthol. 2015 Sep;89(5):559-64. doi:
+10.1017/S0022149X14000418. Epub 2014 May 27. PMID: 24865274.
+
+37: Kabululu ML, N Ogunro B, Ngowi HA. Spatial and Temporal Changes in <i>Taenia
+solium</i> Cysticercosis Seroprevalence among Pigs in the Southern Highlands of
+Tanzania. Vet Med Int. 2024 Mar 6;2024:7261324. doi: 10.1155/2024/7261324. PMID:
+38481486; PMCID: PMC10937080.
+
+38: Tassou WA, Attindéhou S, Gbati OB, Adjassin JS, Salifou S. Nexus between
+prevalence of Taenia solium (Cysticercus cellulosae) in pigs and retrospective
+study of humans cysticercosis cases in Benin hospitals. Vet Res Commun. 2024
+Apr;48(2):1083-1096. doi: 10.1007/s11259-023-10281-0. Epub 2023 Dec 18. PMID:
+38105360.
+
+39: Lescano AG, Pray IW, Gonzalez AE, Gilman RH, Tsang VCW, Gamboa R, Guezala
+MC, Aybar V, Rodriguez S, Moulton LH, Leontsini E, Gonzalvez G, O'Neal SE,
+Garcia HH, For The Cysticercosis Working Group In Peru. Clustering of Necropsy-
+Confirmed Porcine Cysticercosis Surrounding <i>Taenia solium</i> Tapeworm
+Carriers in Peru. Am J Trop Med Hyg. 2019 Feb;100(2):314-322. doi:
+10.4269/ajtmh.18-0296. PMID: 30560769; PMCID: PMC6367604.
+
+40: Kabululu ML, Ngowi HA, Mlangwa JED, Mkupasi EM, Braae UC, Colston A, Cordel
+C, Poole EJ, Stuke K, Johansen MV. TSOL18 vaccine and oxfendazole for control of
+Taenia solium cysticercosis in pigs: A field trial in endemic areas of Tanzania.
+PLoS Negl Trop Dis. 2020 Oct 14;14(10):e0008785. doi:
+10.1371/journal.pntd.0008785. PMID: 33052939; PMCID: PMC7588121.
+
+41: Molinari JL, Rodríguez D, Tato P, Soto R, Arechavaleta F, Solano S. Field
+trial for reducing porcine Taenia solium cysticercosis in Mexico by systematic
+vaccination of pigs. Vet Parasitol. 1997 Apr;69(1-2):55-63. doi:
+10.1016/s0304-4017(96)01102-8. PMID: 9187030.
+
+42: Sikasunge CS, Johansen MV, Willingham AL 3rd, Leifsson PS, Phiri IK. Taenia
+solium porcine cysticercosis: viability of cysticerci and persistency of
+antibodies and cysticercal antigens after treatment with oxfendazole. Vet
+Parasitol. 2008 Nov 25;158(1-2):57-66. doi: 10.1016/j.vetpar.2008.08.014. Epub
+2008 Aug 31. PMID: 18834668.
+
+43: Gomez-Puerta LA, Garcia HH, Gonzalez AE; Cysticercosis Working Group in
+Peru. Experimental porcine cysticercosis using infected beetles with Taenia
+solium eggs. Acta Trop. 2018 Jul;183:92-94. doi:
+10.1016/j.actatropica.2018.04.003. Epub 2018 Apr 4. PMID: 29626435; PMCID:
+PMC5935534.
+
+44: Thys S, Mwape KE, Lefèvre P, Dorny P, Phiri AM, Marcotty T, Phiri IK,
+Gabriël S. Why pigs are free-roaming: Communities' perceptions, knowledge and
+practices regarding pig management and taeniosis/cysticercosis in a Taenia
+solium endemic rural area in Eastern Zambia. Vet Parasitol. 2016 Jul
+30;225:33-42. doi: 10.1016/j.vetpar.2016.05.029. Epub 2016 May 24. PMID:
+27369573.
+
+45: Singh AK, Prasad KN, Prasad A, Tripathi M, Gupta RK, Husain N. Immune
+responses to viable and degenerative metacestodes of Taenia solium in naturally
+infected swine. Int J Parasitol. 2013 Dec;43(14):1101-7. doi:
+10.1016/j.ijpara.2013.07.009. Epub 2013 Oct 31. PMID: 24184156.
+
+46: Poudel I, Sah K, Subedi S, Kumar Singh D, Kushwaha P, Colston A, Gauci CG,
+Donadeu M, Lightowlers MW. Implementation of a practical and effective pilot
+intervention against transmission of Taenia solium by pigs in the Banke district
+of Nepal. PLoS Negl Trop Dis. 2019 Feb 25;13(2):e0006838. doi:
+10.1371/journal.pntd.0006838. PMID: 30802248; PMCID: PMC6405169.
+
+47: Chembensofu M, Mwape KE, Van Damme I, Hobbs E, Phiri IK, Masuku M, Zulu G,
+Colston A, Willingham AL, Devleesschauwer B, Van Hul A, Chota A, Speybroeck N,
+Berkvens D, Dorny P, Gabriël S. Re-visiting the detection of porcine
+cysticercosis based on full carcass dissections of naturally Taenia solium
+infected pigs. Parasit Vectors. 2017 Nov 16;10(1):572. doi:
+10.1186/s13071-017-2520-y. PMID: 29145875; PMCID: PMC5693468.
+
+48: Braae UC, Magnussen P, Harrison W, Ndawi B, Lekule F, Johansen MV. Effect of
+National Schistosomiasis Control Programme on <i>Taenia solium</i> taeniosis and
+porcine cysticercosis in rural communities of Tanzania. Parasite Epidemiol
+Control. 2016 Sep;1(3):245-251. doi: 10.1016/j.parepi.2016.08.004. PMID:
+27695711; PMCID: PMC5034013.
+
+49: Garcia HH, Gilman RH, Gonzalez AE, Pacheco R, Verastegui M, Tsang VC. Human
+and porcine Taenia solium infection in a village in the highlands of Cusco,
+Peru. The Cysticercosis Working Group in Peru. Acta Trop. 1999 May
+25;73(1):31-6. doi: 10.1016/s0001-706x(99)00011-x. PMID: 10379814.
+
+50: Thomas LF, Harrison LJ, Toye P, de Glanville WA, Cook EA, Wamae CN, Fèvre
+EM. Prevalence of Taenia solium cysticercosis in pigs entering the food chain in
+western Kenya. Trop Anim Health Prod. 2016 Jan;48(1):233-8. doi:
+10.1007/s11250-015-0949-6. Epub 2015 Nov 18. PMID: 26581436; PMCID: PMC4710655.
+
+51: Navarrete-Perea J, Moguel B, Mendoza-Hernández G, Fragoso G, Sciutto E,
+Bobes RJ, Laclette JP. Identification and quantification of host proteins in the
+vesicular fluid of porcine Taenia solium cysticerci. Exp Parasitol. 2014
+Aug;143:11-7. doi: 10.1016/j.exppara.2014.04.011. Epub 2014 Apr 24. PMID:
+24768954.
+
+52: Gavidia CM, Verastegui MR, Garcia HH, Lopez-Urbina T, Tsang VC, Pan W,
+Gilman RH, Gonzalez AE; Cysticercosis Working Group in Peru. Relationship
+between serum antibodies and Taenia solium larvae burden in pigs raised in field
+conditions. PLoS Negl Trop Dis. 2013 May 2;7(5):e2192. doi:
+10.1371/journal.pntd.0002192. PMID: 23658848; PMCID: PMC3642188.
+
+53: Martinez-Ocaña J, Romero-Valdovinos M, de Kaminsky RG, Maravilla P, Flisser
+A. Immunolocalization of TSOL18 and TSOL45-1A, the successful protective
+peptides against porcine cysticercosis, in Taenia solium oncospheres. Parasit
+Vectors. 2011 Jan 6;4:3. doi: 10.1186/1756-3305-4-3. PMID: 21211050; PMCID:
+PMC3024966.
+
+54: Manjunathachar HV, Saravanan BC, Joshi C, Mohmad A, Aravind M, Jacob SS,
+Sankar M. Development of point-of-care immunodiagnostic test for Taenia solium
+cysticercosis in pigs. Res Vet Sci. 2025 Jan;182:105466. doi:
+10.1016/j.rvsc.2024.105466. Epub 2024 Nov 20. PMID: 39579608.
+
+55: Gauci CG, Ayebazibwe C, Nsadha Z, Rutebarika C, Poudel I, Sah K, Singh DK,
+Stent A, Colston A, Donadeu M, Lightowlers MW. Accurate diagnosis of lesions
+suspected of being caused by Taenia solium in body organs of pigs with naturally
+acquired porcine cysticercosis. PLoS Negl Trop Dis. 2019 Jun 25;13(6):e0007408.
+doi: 10.1371/journal.pntd.0007408. PMID: 31237878; PMCID: PMC6592510.
+
+56: Christensen NM, Trevisan C, Leifsson PS, Johansen MV. The association
+between seizures and deposition of collagen in the brain in porcine Taenia
+solium neurocysticercosis. Vet Parasitol. 2016 Sep 15;228:180-182. doi:
+10.1016/j.vetpar.2016.09.008. Epub 2016 Sep 11. PMID: 27692323; PMCID:
+PMC5061549.
+
+57: Vázquez-Flores S, Ballesteros-Rodea G, Flisser A, Schantz PM. Hygiene and
+restraint of pigs is associated with absence of Taenia solium cysticercosis in a
+rural community of Mexico. Salud Publica Mex. 2001 Nov-Dec;43(6):574-6. doi:
+10.1590/s0036-36342001000600009. PMID: 11816233.
+
+58: Navarrete-Perea J, Toledano-Magaña Y, De la Torre P, Sciutto E, Bobes RJ,
+Soberón X, Laclette JP. Role of porcine serum haptoglobin in the host-parasite
+relationship of Taenia solium cysticercosis. Mol Biochem Parasitol. 2016
+Jun;207(2):61-7. doi: 10.1016/j.molbiopara.2016.05.010. Epub 2016 May 24. PMID:
+27234210.
+
+59: Sciutto E, Fragoso G, Manoutcharian K, Gevorkian G, Rosas-Salgado G,
+Hernández-Gonzalez M, Herrera-Estrella L, Cabrera-Ponce J, López-Casillas F,
+González-Bonilla C, Santiago-Machuca A, Ruíz-Pérez F, Sánchez J, Goldbaum F,
+Aluja A, Larralde C. New approaches to improve a peptide vaccine against porcine
+Taenia solium cysticercosis. Arch Med Res. 2002 Jul-Aug;33(4):371-8. doi:
+10.1016/s0188-4409(02)00376-4. PMID: 12234527.
+
+60: Edia-Asuke AU, Inabo HI, Umoh VJ, Whong CM, Asuke S, Edeh RE. Assessment of
+sanitary conditions of unregistered pig slaughter slabs and post mortem
+examination of pigs for Taenia solium metacestodes in Kaduna metropolis,
+Nigeria. Infect Dis Poverty. 2014 Dec 3;3(1):45. doi: 10.1186/2049-9957-3-45.
+PMID: 25671123; PMCID: PMC4322547.
+
+61: Chaisiri K, Kusolsuk T, Homsuwan N, Sanguankiat S, Dekumyoy P, Peunpipoom G,
+Khiriphattharaphon S, Sako Y, Yanagida T, Okamoto M, Ito A. Co-occurrence of
+swine cysticercosis due to <i>Taenia solium</i> and <i>Taenia hydatigena</i> in
+ethnic minority villages at the Thai-Myanmar border. J Helminthol. 2019
+Nov;93(6):681-689. doi: 10.1017/S0022149X18000731. Epub 2018 Aug 28. PMID:
+30149813.
+
+62: Flisser A, Gonzalez D, Shkurovich M, Madrazo I, Correa D, Rodriguez-Carbajal
+J, Cohen S, Rodriguez-del-Rosal E, Collado M, Fernandez B, et al. Praziquantel
+treatment of porcine brain and muscle Taenia solium cysticercosis. 1.
+Radiological, physiological and histopathological studies. Parasitol Res.
+1990;76(3):263-9. doi: 10.1007/BF00930823. PMID: 2315286.
+
+63: Arroyo G, Toribio L, Garrido S, Chile N, Lopez-Urbina T, Gomez-Puerta LA,
+Muro M, Gilman RH, Castillo Y, Dorny P, O'Neal SE, Gonzalez AE, Garcia HH;
+Cysticercosis Working Group in Peru (CWGP). Concordance between two monoclonal
+antibody-based antigen detection enzyme-linked immunosorbent assays for
+measuring cysticercal antigen levels in sera from pigs experimentally infected
+with Taenia solium and Taenia hydatigena. Parasit Vectors. 2024 Apr 2;17(1):172.
+doi: 10.1186/s13071-024-06197-6. PMID: 38566124; PMCID: PMC10988810.
+
+64: Assana E, Awah-Ndukum J, Djonmaïla JD, Djiatche HD, Awé C, Manchang TK, Zoli
+AP. A comparison of Taenia solium and Taenia hydatigena infection in pigs using
+serological diagnosis and post-mortem inspection methods in Benoué division,
+North Cameroon. Vet Parasitol Reg Stud Reports. 2019 Aug;17:100306. doi:
+10.1016/j.vprsr.2019.100306. Epub 2019 May 28. PMID: 31303222.
+
+65: Ferrer E, Martínez-Escribano JA, Barderas ME, González LM, Cortéz MM, Dávila
+I, Harrison LJ, Parkhouse RM, Gárate T. Peptide epitopes of the Taenia solium
+antigen Ts8B2 are immunodominant in human and porcine cysticercosis. Mol Biochem
+Parasitol. 2009 Dec;168(2):168-71. doi: 10.1016/j.molbiopara.2009.08.003. Epub
+2009 Aug 25. PMID: 19712705.
+
+66: Hinojosa-Juarez AC, Sandoval-Balanzario M, McManus DP, Monroy-Ostria A.
+Genetic similarity between cysticerci of Taenia solium isolated from human brain
+and from pigs. Infect Genet Evol. 2008 Sep;8(5):653-6. doi:
+10.1016/j.meegid.2008.06.004. Epub 2008 Jul 3. PMID: 18644469.
+
+67: Navarrete-Perea J, Isasa M, Paulo JA, Corral-Corral R, Flores-Bautista J,
+Hernández-Téllez B, Bobes RJ, Fragoso G, Sciutto E, Soberón X, Gygi SP, Laclette
+JP. Quantitative multiplexed proteomics of Taenia solium cysts obtained from the
+skeletal muscle and central nervous system of pigs. PLoS Negl Trop Dis. 2017 Sep
+25;11(9):e0005962. doi: 10.1371/journal.pntd.0005962. PMID: 28945737; PMCID:
+PMC5634658.
+
+68: Sciutto E, Fragoso G, Fleury A, Laclette JP, Sotelo J, Aluja A, Vargas L,
+Larralde C. Taenia solium disease in humans and pigs: an ancient parasitosis
+disease rooted in developing countries and emerging as a major health problem of
+global dimensions. Microbes Infect. 2000 Dec;2(15):1875-90. doi:
+10.1016/s1286-4579(00)01336-8. PMID: 11165932.
+
+69: Esquivel-Velázquez M, Larralde C, Morales J, Ostoa-Saloma P. Protein and
+antigen diversity in the vesicular fluid of Taenia solium cysticerci dissected
+from naturally infected pigs. Int J Biol Sci. 2011;7(9):1287-97. doi:
+10.7150/ijbs.7.1287. Epub 2011 Oct 25. PMID: 22110381; PMCID: PMC3221365.
+
+70: Morales J, Velasco T, Tovar V, Fragoso G, Fleury A, Beltrán C, Villalobos N,
+Aluja A, Rodarte LF, Sciutto E, Larralde C. Castration and pregnancy of rural
+pigs significantly increase the prevalence of naturally acquired Taenia solium
+cysticercosis. Vet Parasitol. 2002 Aug 30;108(1):41-8. doi:
+10.1016/s0304-4017(02)00168-1. PMID: 12191898.
+
+71: Pajuelo MJ, Eguiluz M, Roncal E, Quiñones-García S, Clipman SJ, Calcina J,
+Gavidia CM, Sheen P, Garcia HH, Gilman RH, Gonzalez AE, Zimic M; Cysticercosis
+Working Group in Peru. Genetic variability of Taenia solium cysticerci recovered
+from experimentally infected pigs and from naturally infected pigs using
+microsatellite markers. PLoS Negl Trop Dis. 2017 Dec 28;11(12):e0006087. doi:
+10.1371/journal.pntd.0006087. PMID: 29284011; PMCID: PMC5746202.
+
+72: Bustos JA, Ninaquispe BE, Rodriguez S, Castillo Y, Yang SY, Gilman RH, Dorny
+P, Gabriël S, García HH, Gonzalez AE, For The Cysticercosis Working Group In
+Peru. Performance of a Sandwich Antigen-Detection ELISA for the Diagnosis of
+Porcine <i>Taenia solium</i> Cysticercosis. Am J Trop Med Hyg. 2019
+Mar;100(3):604-608. doi: 10.4269/ajtmh.18-0697. PMID: 30652670; PMCID:
+PMC6402926.
+
+73: Sciutto E, Fragoso G, Hernández M, Rosas G, Martínez JJ, Fleury A, Cervantes
+J, Aluja A, Larralde C. Development of the S3Pvac vaccine against porcine Taenia
+solium cysticercosis: a historical review. J Parasitol. 2013 Aug;99(4):686-92.
+doi: 10.1645/GE-3102.1. Epub 2013 Feb 27. PMID: 23445359.
+
+74: Flisser A, Gonzalez D, Plancarte A, Ostrosky P, Montero R, Stephano A,
+Correa D. Praziquantel treatment of brain and muscle porcine Taenia solium
+cysticercosis. 2. Immunological and cytogenetic studies. Parasitol Res.
+1990;76(7):640-2. doi: 10.1007/BF00932580. PMID: 2217129.
+
+75: Van Damme I, Pray I, Mwape KE, Trevisan C, Coudenys F, Mubanga C, Mwelwa C,
+Vaernewyck V, Dorny P, O'Neal SE, Gabriël S. Movements of free-range pigs in
+rural communities in Zambia: an explorative study towards future ring
+interventions for the control of Taenia solium. Parasit Vectors. 2022 Apr
+27;15(1):150. doi: 10.1186/s13071-022-05264-0. PMID: 35477431; PMCID:
+PMC9044682.
+
+76: Gauci CG, Jayashi CM, Gonzalez AE, Lackenby J, Lightowlers MW. Protection of
+pigs against Taenia solium cysticercosis by immunization with novel recombinant
+antigens. Vaccine. 2012 Jun 6;30(26):3824-8. doi: 10.1016/j.vaccine.2012.04.019.
+Epub 2012 Apr 19. PMID: 22521850; PMCID: PMC3383989.
+
+77: Devleesschauwer B, Aryal A, Tharmalingam J, Joshi DD, Rijal S, Speybroeck N,
+Gabriël S, Victor B, Dorny P. Complexities in using sentinel pigs to study
+Taenia solium transmission dynamics under field conditions. Vet Parasitol. 2013
+Mar 31;193(1-3):172-8. doi: 10.1016/j.vetpar.2012.12.010. Epub 2012 Dec 23.
+PMID: 23298565.
+
+78: Mkupasi EM, Ngowi HA, Sikasunge CS, Leifsson PS, Johansen MV. Efficacy of
+ivermectin and oxfendazole against Taenia solium cysticercosis and other
+parasitoses in naturally infected pigs. Acta Trop. 2013 Oct;128(1):48-53. doi:
+10.1016/j.actatropica.2013.06.010. Epub 2013 Jun 24. PMID: 23806569.
+
+79: Bobes RJ, Fragoso G, Reyes-Montes Mdel R, Duarte-Escalante E, Vega R, de
+Aluja AS, Zúñiga G, Morales J, Larralde C, Sciutto E. Genetic diversity of
+Taenia solium cysticerci from naturally infected pigs of central Mexico. Vet
+Parasitol. 2010 Feb 26;168(1-2):130-5. doi: 10.1016/j.vetpar.2009.11.001. Epub
+2009 Nov 10. PMID: 19963321.
+
+80: de Aluja AS, Villalobos AN, Plancarte A, Rodarte LF, Hernandez M, Zamora C,
+Sciutto E. Taenia solium cysticercosis: immunity in pigs induced by primary
+infection. Vet Parasitol. 1999 Feb 25;81(2):129-35. doi:
+10.1016/s0304-4017(98)00234-9. PMID: 10030755.
+
+81: Agudelo Florez P, Palacio LG. Prevalencia de anticuerpos para Taenia solium
+en humanos y cerdos en una zona endémica colombiana [Prevalence of Taenia solium
+antibodies in humans and in pigs in an endemic area of Colombia]. Rev Neurol.
+2003 Apr 16-30;36(8):706-9. Spanish. PMID: 12717645.
+
+82: Plancarte A, Flisser A, Gauci CG, Lightowlers MW. Vaccination against Taenia
+solium cysticercosis in pigs using native and recombinant oncosphere antigens.
+Int J Parasitol. 1999 Apr;29(4):643-7. doi: 10.1016/s0020-7519(99)00021-1. PMID:
+10428641.
+
+83: Navarrete-Perea J, Moguel B, Bobes RJ, Villalobos N, Carrero JC, Sciutto E,
+Soberón X, Laclette JP. Protein profiles of Taenia solium cysts obtained from
+skeletal muscles and the central nervous system of pigs: Search for tissue-
+specific proteins. Exp Parasitol. 2017 Jan;172:23-29. doi:
+10.1016/j.exppara.2016.11.006. Epub 2016 Nov 29. PMID: 27913109.
+
+84: Megha GK, Aulakh RS, Singh BB. Effect of oxfendazole to control <i>Taenia
+solium</i> cysticercosis in pigs in Punjab state of India. J Parasit Dis. 2020
+Sep;44(3):553-558. doi: 10.1007/s12639-020-01228-2. Epub 2020 May 4. PMID:
+32801507; PMCID: PMC7410941.
+
+85: Verastegui M, Gilman RH, Gonzales A, Garcia HH, Gavidia C, Falcon N, Bernal
+T, Arana Y, Tsang VC; Cysticercosis Working Group In Peru. Taenia solium
+oncosphere antigens induce immunity in pigs against experimental cysticercosis.
+Vet Parasitol. 2002 Aug 30;108(1):49-62. doi: 10.1016/s0304-4017(02)00182-6.
+PMID: 12191899.
+
+86: de Aluja AS, Villalobos AN, Plancarte A, Rodarte LF, Hernández M, Sciutto E.
+Experimental Taenia solium cysticercosis in pigs: characteristics of the
+infection and antibody response. Vet Parasitol. 1996 Jan;61(1-2):49-59. doi:
+10.1016/0304-4017(95)00817-9. Erratum in: Vet Parasitol 1996 Sep 2;64(3):259.
+PMID: 8750683.
+
+87: Torres A, Plancarte A, Villalobos AN, de Aluja AS, Navarro R, Flisser A.
+Praziquantel treatment of porcine brain and muscle Taenia solium cysticercosis.
+3. Effect of 1-day treatment. Parasitol Res. 1992;78(2):161-4. doi:
+10.1007/BF00931659. PMID: 1557328.
+
+88: Meester M, Swart A, Deng H, van Roon A, Trevisan C, Dorny P, Gabriël S,
+Vieira-Pinto M, Johansen MV, van der Giessen J. A quantitative risk assessment
+for human Taenia solium exposure from home slaughtered pigs in European
+countries. Parasit Vectors. 2019 Feb 12;12(1):82. doi:
+10.1186/s13071-019-3320-3. PMID: 30755275; PMCID: PMC6371533.
+
+89: Maravilla P, Gonzalez-Guzman R, Zuñiga G, Peniche A, Dominguez-Alpizar JL,
+Reyes-Montes R, Flisser A. Genetic polymorphism in Taenia solium cysticerci
+recovered from experimental infections in pigs. Infect Genet Evol. 2008
+Mar;8(2):213-6. doi: 10.1016/j.meegid.2007.11.006. Epub 2007 Nov 29. PMID:
+18243817.
+
+90: Kabululu ML, Johansen MV, Mlangwa JED, Mkupasi EM, Braae UC, Trevisan C,
+Colston A, Cordel C, Lightowlers MW, Ngowi HA. Performance of Ag-ELISA in the
+diagnosis of Taenia solium cysticercosis in naturally infected pigs in Tanzania.
+Parasit Vectors. 2020 Oct 27;13(1):534. doi: 10.1186/s13071-020-04416-4. PMID:
+33109255; PMCID: PMC7590492.
+
+91: Dorny P, Dermauw V, Van Hul A, Trevisan C, Gabriël S. Serological diagnosis
+of Taenia solium in pigs: No measurable circulating antigens and antibody
+response following exposure to Taenia saginata oncospheres. Vet Parasitol. 2017
+Oct 15;245:39-41. doi: 10.1016/j.vetpar.2017.08.008. Epub 2017 Aug 18. PMID:
+28969835.
+
+92: Sciutto E, Rosas G, Hernández M, Morales J, Cruz-Revilla C, Toledo A,
+Manoutcharian K, Gevorkian G, Blancas A, Acero G, Hernández B, Cervantes J,
+Bobes RJ, Goldbaum FA, Huerta M, Diaz-Orea A, Fleury A, de Aluja AS, Cabrera-
+Ponce JL, Herrera-Estrella L, Fragoso G, Larralde C. Improvement of the
+synthetic tri-peptide vaccine (S3Pvac) against porcine Taenia solium
+cysticercosis in search of a more effective, inexpensive and manageable vaccine.
+Vaccine. 2007 Feb 9;25(8):1368-78. doi: 10.1016/j.vaccine.2006.10.018. Epub 2006
+Oct 23. PMID: 17188784.
+
+93: Morales J, Martínez JJ, Rosetti M, Fleury A, Maza V, Hernandez M, Villalobos
+N, Fragoso G, de Aluja AS, Larralde C, Sciutto E. Spatial distribution of Taenia
+solium porcine cysticercosis within a rural area of Mexico. PLoS Negl Trop Dis.
+2008;2(9):e284. doi: 10.1371/journal.pntd.0000284. Epub 2008 Sep 3. PMID:
+18846230; PMCID: PMC2565694.
+
+94: García HH, Gilman RH, Gonzalez AE, Verastegui M, Rodriguez S, Gavidia C,
+Tsang VC, Falcon N, Lescano AG, Moulton LH, Bernal T, Tovar M; Cysticercosis
+Working Group in Perú. Hyperendemic human and porcine Taenia solium infection in
+Perú. Am J Trop Med Hyg. 2003 Mar;68(3):268-75. PMID: 12685628.
+
+95: Handali S, Gonzalez AE, Hancock K, Garcia HH, Roberts JM, Gilman RH, Tsang
+VC. Porcine antibody responses to taenia solium antigens rGp50 and sTs18var1. Am
+J Trop Med Hyg. 2004 Sep;71(3):322-6. PMID: 15381814.
+
+96: Pinto PS, Vaz AJ, Germano PM, Nakamura PM. ELISA test for the diagnosis of
+cysticercosis in pigs using antigens of Taenia solium and Taenia crassiceps
+cysticerci. Rev Inst Med Trop Sao Paulo. 2000 Mar-Apr;42(2):71-9. doi:
+10.1590/s0036-46652000000200003. PMID: 10810321.
+
+97: Sciutto E, Aluja A, Fragoso G, Rodarte LF, Hernández M, Villalobos MN,
+Padilla A, Keilbach N, Baca M, Govezensky T, et al. Immunization of pigs against
+Taenia solium cysticercosis: factors related to effective protection. Vet
+Parasitol. 1995 Nov;60(1-2):53-67. doi: 10.1016/0304-4017(94)00781-7. PMID:
+8644459.
+
+98: Okello WO, Okello AL, Inthavong P, Tiemann T, Phengsivalouk A,
+Devleesschauwer B, Shaw A, Allen J. Improved methods to capture the total
+societal benefits of zoonotic disease control: Demonstrating the cost-
+effectiveness of an integrated control programme for Taenia solium, soil
+transmitted helminths and classical swine fever in northern Lao PDR. PLoS Negl
+Trop Dis. 2018 Sep 19;12(9):e0006782. doi: 10.1371/journal.pntd.0006782. PMID:
+30231029; PMCID: PMC6185856.
+
+99: de Aluja AS, Martinez M JJ, Villalobos AN. Taenia solium cysticercosis in
+young pigs: age at first infection and histological characteristics. Vet
+Parasitol. 1998 Mar 31;76(1-2):71-9. doi: 10.1016/s0304-4017(97)00059-9. PMID:
+9653992.
+
+100: D'Souza PE, Hafeez M. Detection of Taenia solium cysticercosis in pigs by
+ELISA with an excretory-secretory antigen. Vet Res Commun. 1999 Aug;23(5):293-8.
+doi: 10.1023/a:1006366920111. PMID: 10493116.
+
+101: Aguilar-Díaz H, Nava-Castro KE, Escobedo G, Domínguez-Ramírez L, García-
+Varela M, Del Río-Araiza VH, Palacios-Arreola MI, Morales-Montor J. A novel
+progesterone receptor membrane component (PGRMC) in the human and swine parasite
+Taenia solium: implications to the host-parasite relationship. Parasit Vectors.
+2018 Mar 9;11(1):161. doi: 10.1186/s13071-018-2703-1. PMID: 29523160; PMCID:
+PMC5845172.
+
+102: Santamaría E, Plancarte A, de Aluja AS. The experimental infection of pigs
+with different numbers of Taenia solium eggs: immune response and efficiency of
+establishment. J Parasitol. 2002 Feb;88(1):69-73. doi:
+10.1645/0022-3395(2002)088[0069:TEIOPW]2.0.CO;2. PMID: 12053982.
+
+103: Mkupasi EM, Ngowi HA, Sikasunge CS, Leifsson PS, Johansen MV. Distribution
+and histopathological changes induced by cysts of Taenia solium in the brain of
+pigs from Tanzania. J Helminthol. 2014 Jun 6:1-6. doi:
+10.1017/S0022149X1400042X. Epub ahead of print. PMID: 24905052.
+
+104: Pathak KM, Allan JC, Ersfeld K, Craig PS. A western blot and ELISA assay
+for the diagnosis of Taenia solium infection in pigs. Vet Parasitol. 1994
+Jun;53(3-4):209-17. doi: 10.1016/0304-4017(94)90184-8. PMID: 7975116.
+
+105: Bandi V, Ngowi B, Mpolya E, Kilale AM, Vianney JM. Prevalence of <i>Taenia
+solium</i> cysticercosis in domestic pigs following albendazole deworming
+intervention in rural communities of Mbulu district, Tanzania. Food Waterborne
+Parasitol. 2024 Jul 2;36:e00234. doi: 10.1016/j.fawpar.2024.e00234. PMID:
+39109170; PMCID: PMC11299552.
+
+106: León-Janampa N, Liendo R, Gilman RH, Padilla C, García HH, Gonzales A,
+Sheen P, Pajuelo MJ, Zimic M; Cysticercosis Working Group in Perú.
+Characterization of a novel cathepsin L-like protease from Taenia solium
+metacestodes for the immunodiagnosis of porcine cysticercosis. Vet Parasitol.
+2019 Mar;267:9-16. doi: 10.1016/j.vetpar.2019.01.004. Epub 2019 Jan 29. PMID:
+30878092; PMCID: PMC7010362.
+
+107: Nunes CM, Biondi GF, Heinemann MB, Richtzenhain LJ. Comparative evaluation
+of an indirect ELISA test for diagnosis of swine cysticercosis employing antigen
+from Taenia solium and Taenia crassiceps metacestodes. Vet Parasitol. 2000 Nov
+10;93(2):135-40. doi: 10.1016/s0304-4017(00)00355-1. PMID: 11035231.
+
+108: Prasad KN, Chawla S, Jain D, Pandey CM, Pal L, Pradhan S, Gupta RK. Human
+and porcine Taenia solium infection in rural north India. Trans R Soc Trop Med
+Hyg. 2002 Sep-Oct;96(5):515-6. doi: 10.1016/s0035-9203(02)90423-2. PMID:
+12474478.
+
+109: Herbert IV, Oberg C. Serological studies on pigs experimentally infected
+with Taenia solium or Taenia hydatigena. J Comp Pathol. 1975 Oct;85(4):487-98.
+doi: 10.1016/0021-9975(75)90116-4. PMID: 810502.
+
+110: Allan JC, Velasquez-Tohom M, Fletes C, Torres-Alvarez R, Lopez-Virula G,
+Yurrita P, Soto de Alfaro H, Rivera A, Garcia-Noval J. Mass chemotherapy for
+intestinal Taenia solium infection: effect on prevalence in humans and pigs.
+Trans R Soc Trop Med Hyg. 1997 Sep-Oct;91(5):595-8. doi:
+10.1016/s0035-9203(97)90042-0. PMID: 9463679.
+
+111: Mkupasi EM, Sikasunge CS, Ngowi HA, Leifsson PS, Johansen MV. Detection of
+cysteine protease in Taenia solium-induced brain granulomas in naturally
+infected pigs. Vet Parasitol. 2013 Oct 18;197(1-2):360-3. doi:
+10.1016/j.vetpar.2013.05.004. Epub 2013 May 14. PMID: 23726797.
+
+112: Sikasunge CS, Johansen MV, Phiri IK, Willingham AL 3rd, Leifsson PS. The
+immune response in Taenia solium neurocysticercosis in pigs is associated with
+astrogliosis, axonal degeneration and altered blood-brain barrier permeability.
+Vet Parasitol. 2009 Mar 23;160(3-4):242-50. doi: 10.1016/j.vetpar.2008.11.015.
+Epub 2008 Nov 25. PMID: 19117683.
+
+113: Rodrìguez ML, Rodriguez S, Gonzalez AE, Verastegui M, Bernal T, Jimenez JA,
+Garcia HH. Can Taenia solium latent post-oncospheral stages be found in muscle
+tissue of cysticercosis-infected pigs (Sus scrofa)? J Parasitol. 2006
+Feb;92(1):199-201. doi: 10.1645/GE-571R1.1. PMID: 16629340.
+
+114: Singh SK, Singh AK, Prasad KN, Singh A, Singh A, Rai RP, Tripathi M, Gupta
+RK, Husain N. Expression of adhesion molecules, chemokines and matrix metallo-
+proteinases (MMPs) in viable and degenerating stage of Taenia solium metacestode
+in swine neurocysticercosis. Vet Parasitol. 2015 Nov 30;214(1-2):59-66. doi:
+10.1016/j.vetpar.2015.09.017. Epub 2015 Sep 24. PMID: 26412140.
+
+115: Guo YJ, Wu D, Wang KY, Sun SH. Adjuvant effects of bacillus Calmette-Guerin
+DNA or CpG-oligonucleotide in the immune response to Taenia solium cysticercosis
+vaccine in porcine. Scand J Immunol. 2007 Dec;66(6):619-27. doi:
+10.1111/j.1365-3083.2007.02013.x. PMID: 18021362.
+
+116: Jayashi CM, Gonzalez AE, Castillo Neyra R, Kyngdon CT, Gauci CG,
+Lightowlers MW. Characterisation of antibody responses in pigs induced by
+recombinant oncosphere antigens from Taenia solium. Vaccine. 2012 Dec
+14;30(52):7475-80. doi: 10.1016/j.vaccine.2012.10.057. Epub 2012 Oct 29. PMID:
+23116696.
+
+117: Pray IW, Muro C, Gamboa R, Vilchez P, Wakeland W, Pan W, Lambert WE, Garcia
+HH, O'Neal SE; Cysticercosis Working Group in Peru. Seasonal patterns in risk
+factors for Taenia solium transmission: a GPS tracking study of pigs and open
+human defecation in northern Peru. Parasit Vectors. 2019 Jul 16;12(1):352. doi:
+10.1186/s13071-019-3614-5. PMID: 31311596; PMCID: PMC6636017.
+
+118: Manoutcharian K, Díaz-Orea A, Gevorkian G, Fragoso G, Acero G, González E,
+De Aluja A, Villalobos N, Gómez-Conde E, Sciutto E. Recombinant bacteriophage-
+based multiepitope vaccine against Taenia solium pig cysticercosis. Vet Immunol
+Immunopathol. 2004 May;99(1-2):11-24. doi: 10.1016/j.vetimm.2003.12.009. PMID:
+15113650.
+
+119: Verastegui M, Gilman RH, Garcia HH, Gonzalez AE, Arana Y, Jeri C, Tuero I,
+Gavidia CM, Levine M, Tsang VC; Cysticercosis Working Group in Peru. Prevalence
+of antibodies to unique Taenia solium oncosphere antigens in taeniasis and human
+and porcine cysticercosis. Am J Trop Med Hyg. 2003 Oct;69(4):438-44. PMID:
+14640505.
+
+120: Kaur M, Joshi K, Ganguly NK, Mahajan RC, Malla N. Evaluation of the
+efficacy of albendazole against the larvae of Taenia solium in experimentally
+infected pigs, and kinetics of the immune response. Int J Parasitol. 1995
+Dec;25(12):1443-50. doi: 10.1016/0020-7519(95)00057-7. PMID: 8719956.
+
+121: Sikasunge CS, Phiri IK, Johansen MV, Willingham AL 3rd, Leifsson PS. Host-
+cell apoptosis in Taenia solium-induced brain granulomas in naturally infected
+pigs. Parasitology. 2008 Sep;135(10):1237-42. doi: 10.1017/S0031182008004678.
+Epub 2008 Jul 14. PMID: 18620623.
+
+122: Rodríguez-Contreras D, de lT, Velasco J, Shoemaker CB, Laclette JP. The
+taenia solium glucose transporters TGTP1 and TGTP2 are not immunologically
+recognized by cysticercotic humans and swine. Parasitol Res. 2002
+Mar;88(3):280-2. doi: 10.1007/s00436-001-0528-9. PMID: 11954917.
+
+123: Cangalaya C, Zimic M, Marzal M, González AE, Guerra-Giraldez C, Mahanty S,
+Nash TE, García HH; Cysticercosis Working Group in Peru. Inflammation Caused by
+Praziquantel Treatment Depends on the Location of the Taenia solium Cysticercus
+in Porcine Neurocysticercosis. PLoS Negl Trop Dis. 2015 Dec 11;9(12):e0004207.
+doi: 10.1371/journal.pntd.0004207. PMID: 26658257; PMCID: PMC4689503.
+
+124: Ito A, Plancarte A, Nakao M, Nakaya K, Ikejima T, Piao ZX, Kanazawa T,
+Margono SS. ELISA and immunoblot using purified glycoproteins for serodiagnosis
+of cysticercosis in pigs naturally infected with Taenia solium. J Helminthol.
+1999 Dec;73(4):363-5. doi: 10.1017/s0022149x9900061x. PMID: 10654408.
+
+125: Boa ME, Kassuku AA, Willingham AL 3rd, Keyyu JD, Phiri IK, Nansen P.
+Distribution and density of cysticerci of Taenia solium by muscle groups and
+organs in naturally infected local finished pigs in Tanzania. Vet Parasitol.
+2002 Jun 3;106(2):155-64. doi: 10.1016/s0304-4017(02)00037-7. PMID: 12031817.
+
+126: Prasad KN, Chawla S, Prasad A, Tripathi M, Husain N, Gupta RK. Clinical
+signs for identification of neurocysticercosis in swine naturally infected with
+Taenia solium. Parasitol Int. 2006 Jun;55(2):151-4. doi:
+10.1016/j.parint.2006.01.002. Epub 2006 Mar 3. PMID: 16516537.
+
+127: Vargas-Calla A, Gomez-Puerta LA, Calcina J, Gonzales-Viera O, Gavidia C,
+Lopez-Urbina MT, Garcia HH, Gonzalez AE. Evaluation of activity of
+triclabendazole against Taenia solium metacestode in naturally infected pigs.
+Asian Pac J Trop Med. 2016 Jan;9(1):23-6. doi: 10.1016/j.apjtm.2015.12.005. Epub
+2015 Dec 19. PMID: 26851781; PMCID: PMC6984010.
+
+128: Iburg TM, Karlsson M, Spång F, Sikasunge CS, Johansen MV. The effect of
+oxfendazole treatment on muscle pathology in pigs infected with Taenia solium
+cysticercosis. Vet Parasitol. 2012 Dec 21;190(3-4):442-6. doi:
+10.1016/j.vetpar.2012.07.007. Epub 2012 Jul 17. PMID: 22883970.
+
+129: Braae UC, Magnussen P, Lekule F, Harrison W, Johansen MV. Temporal
+fluctuations in the sero-prevalence of Taenia solium cysticercosis in pigs in
+Mbeya Region, Tanzania. Parasit Vectors. 2014 Dec 4;7:574. doi:
+10.1186/s13071-014-0574-7. PMID: 25471610; PMCID: PMC4266939.
+
+130: Zimic M, Pajuelo M, Gilman RH, Gutiérrez AH, Rueda LD, Flores M, Chile N,
+Verástegui M, Gonzalez A, García HH, Sheen P; Cysticercosis Working Group in
+Peru. The highly antigenic 53/25 kDa Taenia solium protein fraction with
+cathepsin-L like activity is present in the oncosphere/cysticercus and induces
+non-protective IgG antibodies in pigs. Vet Immunol Immunopathol. 2012 Jan
+15;145(1-2):171-8. doi: 10.1016/j.vetimm.2011.11.002. Epub 2011 Nov 11. PMID:
+22119017; PMCID: PMC3273550.
+
+131: Sciutto E, Martínez JJ, Huerta M, Avila R, Fragoso G, Villalobos N, de
+Aluja A, Larralde C. Familial clustering of Taenia solium cysticercosis in the
+rural pigs of Mexico: hints of genetic determinants in innate and acquired
+resistance to infection. Vet Parasitol. 2003 Oct 20;116(3):223-9. doi:
+10.1016/j.vetpar.2003.07.003. PMID: 14559165.
+
+132: Gweba M, Faleke OO, Junaidu A, Fabiyi JP, Fajinmi AO. Some risk factors for
+Taenia solium cysticercosis in semi-intensively raised pigs in Zuru, Nigeria.
+Vet Ital. 2010 Jan-Mar;46(1):57-67. PMID: 20391368.
+
+133: Guerra-Giraldez C, Marzal M, Cangalaya C, Balboa D, Orrego MÁ, Paredes A,
+Gonzales-Gustavson E, Arroyo G, García HH, González AE, Mahanty S, Nash TE;
+cysticercosis working group in Peru. Disruption of the blood-brain barrier in
+pigs naturally infected with Taenia solium, untreated and after anthelmintic
+treatment. Exp Parasitol. 2013 Aug;134(4):443-6. doi:
+10.1016/j.exppara.2013.05.005. Epub 2013 May 15. PMID: 23684909; PMCID:
+PMC4095782.
+
+134: Cheng RW, Ko RC. Cross-reactions between crude antigens of larval Taenia
+solium (Cysticercus cellulosae) and other helminths of pigs. Vet Parasitol. 1991
+Jul;39(1-2):161-70. doi: 10.1016/0304-4017(91)90071-3. PMID: 1910221.
+
+135: Sciutto E, Martínez JJ, Villalobos NM, Hernández M, José MV, Beltrán C,
+Rodarte F, Flores I, Bobadilla JR, Fragoso G, Parkhouse ME, Harrison LJ, de
+Aluja AS. Limitations of current diagnostic procedures for the diagnosis of
+Taenia solium cysticercosis in rural pigs. Vet Parasitol. 1998 Nov
+27;79(4):299-313. doi: 10.1016/s0304-4017(98)00180-0. PMID: 9831953.
+
+136: Pinto PS, Vaz AJ, Germano PM, Nakamura PM. Performance of the ELISA test
+for swine cysticercosis using antigens of Taenia solium and Taenia crassiceps
+cysticerci. Vet Parasitol. 2000 Feb 29;88(1-2):127-30. doi:
+10.1016/s0304-4017(99)00201-0. PMID: 10681029.
+
+137: Gonzalez AE, Verastegui M, Noh JC, Gavidia C, Falcon N, Bernal T, Garcia
+HH, Tsang VC, Gilman RH, Wilkins PP. Persistence of passively transferred
+antibodies in porcine Taenia solium cysticercosis. Cysticercosis Working Group
+in Peru. Vet Parasitol. 1999 Sep 30;86(2):113-8. doi:
+10.1016/s0304-4017(99)00106-5. PMID: 10496695.
+
+138: Sato MO, Yamasaki H, Sako Y, Nakao M, Nakaya K, Plancarte A, Kassuku AA,
+Dorny P, Geerts S, Benitez-Ortiz W, Hashiguchi Y, Ito A. Evaluation of tongue
+inspection and serology for diagnosis of Taenia solium cysticercosis in swine:
+usefulness of ELISA using purified glycoproteins and recombinant antigen. Vet
+Parasitol. 2003 Feb 27;111(4):309-22. doi: 10.1016/s0304-4017(02)00383-7. PMID:
+12559710.
+
+139: Okello AL, Thomas L, Inthavong P, Ash A, Khamlome B, Keokamphet C, Newberry
+K, Gauci CG, Gabriël S, Dorny P, Thompson RA, Lightowlers MW, Allen J. Reprint
+of "Assessing the impact of a joint human-porcine intervention package for
+Taenia solium control: Results of a pilot study from northern Lao PDR". Acta
+Trop. 2017 Jan;165:261-267. doi: 10.1016/j.actatropica.2016.11.010. Epub 2016
+Nov 23. PMID: 27887694.
+
+140: Díaz MA, Villalobos N, de Aluja A, Rosas G, Goméz-Conde E, Hernández P,
+Larralde C, Sciutto E, Fragoso G. Th1 and Th2 indices of the immune response in
+pigs vaccinated against Taenia solium cysticercosis suggest various host immune
+strategies against the parasite. Vet Immunol Immunopathol. 2003 Jun
+20;93(3-4):81-90. doi: 10.1016/s0165-2427(03)00071-0. Erratum in: Vet Immunol
+Immunopathol. 2005 Feb 10;103(3-4):297. PMID: 12814694.
+
+141: Rojas Wastavino G, Tato Zaldívar P, Solano Galvez S, Herrera Montalvo L,
+Gutiérrez Quiroz M, Salazar Schettino PM. Estudio de la respuesta inmune humoral
+en cerdos infectados con huevos y posoncosferas de Taenia solium [Immune humoral
+response in pigs infected with eggs and posoncospheres of Taenia solium]. Bol
+Chil Parasitol. 1999 Jul-Dec;54(3-4):57-62. Spanish. PMID: 10883491.
+
+142: Sarti E, Schantz PM, Plancarte A, Wilson M, Gutierrez IO, Lopez AS, Roberts
+J, Flisser A. Prevalence and risk factors for Taenia solium taeniasis and
+cysticercosis in humans and pigs in a village in Morelos, Mexico. Am J Trop Med
+Hyg. 1992 Jun;46(6):677-85. doi: 10.4269/ajtmh.1992.46.677. PMID: 1621892.
+
+143: Morales J, Martínez JJ, Manoutcharian K, Hernández M, Fleury A, Gevorkian
+G, Acero G, Blancas A, Toledo A, Cervantes J, Maza V, Quet F, Bonnabau H, de
+Aluja AS, Fragoso G, Larralde C, Sciutto E. Inexpensive anti-cysticercosis
+vaccine: S3Pvac expressed in heat inactivated M13 filamentous phage proves
+effective against naturally acquired Taenia solium porcine cysticercosis.
+Vaccine. 2008 Jun 2;26(23):2899-905. doi: 10.1016/j.vaccine.2008.03.042. Epub
+2008 Apr 10. PMID: 18440675.
+
+144: Sato MO, Sako Y, Nakao M, Yamasaki H, Nakaya K, Ito A. Evaluation of
+purified Taenia solium glycoproteins and recombinant antigens in the serologic
+detection of human and swine cysticercosis. J Infect Dis. 2006 Dec
+15;194(12):1783-90. doi: 10.1086/509262. Epub 2006 Nov 6. PMID: 17109353.
+
+145: Okello AL, Thomas L, Inthavong P, Ash A, Khamlome B, Keokamphet C, Newberry
+K, Gauci CG, Gabriël S, Dorny P, Thompson RA, Lightowlers MW, Allen J. Assessing
+the impact of a joint human-porcine intervention package for Taenia solium
+control: Results of a pilot study from northern Lao PDR. Acta Trop. 2016
+Jul;159:185-91. doi: 10.1016/j.actatropica.2016.03.012. Epub 2016 Mar 15. PMID:
+26992295.
+
+146: Assana E, Kyngdon CT, Gauci CG, Geerts S, Dorny P, De Deken R, Anderson GA,
+Zoli AP, Lightowlers MW. Elimination of Taenia solium transmission to pigs in a
+field trial of the TSOL18 vaccine in Cameroon. Int J Parasitol. 2010
+Apr;40(5):515-9. doi: 10.1016/j.ijpara.2010.01.006. Epub 2010 Feb 4. PMID:
+20138046; PMCID: PMC2856920.
+
+147: Cortes I, Molinari JL, Solano S, Hernandez-Mendoza L, Ramirez A, Tato P.
+Taenia solium metacestode antigens which are protective for pigs induce Th1/Th2
+mixed responses in mice. Parasitol Res. 2003 Jul;90(4):273-9. doi:
+10.1007/s00436-003-0855-0. Epub 2003 Mar 26. PMID: 12884019.
+
+148: Bao ME, Bøgh HO, Kassuku AA, Nansen P. The prevalence of Taenia solium
+metacestodes in pigs in northern Tanzania. J Helminthol. 1995 Jun;69(2):113-7.
+doi: 10.1017/s0022149x00013997. Erratum in: J Helminthol 1995 Sep;69(3):270.
+PMID: 7636157.
+
+149: Sithole MI, Bekker JL, Tsotetsi-Khambule AM, Mukaratirwa S. Ineffectiveness
+of meat inspection in the detection of Taenia solium cysticerci in pigs
+slaughtered at two abattoirs in the Eastern Cape Province of South Africa. Vet
+Parasitol Reg Stud Reports. 2019 Aug;17:100299. doi:
+10.1016/j.vprsr.2019.100299. Epub 2019 Apr 24. PMID: 31303223.
+
+150: Krecek RC, Michael LM, Schantz PM, Ntanjana L, Smith MF, Dorny P, Harrison
+LJ, Grimm F, Praet N, Willingham AL 3rd. Prevalence of Taenia solium
+cysticercosis in swine from a community-based study in 21 villages of the
+Eastern Cape Province, South Africa. Vet Parasitol. 2008 Jun 14;154(1-2):38-47.
+doi: 10.1016/j.vetpar.2008.03.005. Epub 2008 Mar 14. Erratum in: Vet Parasitol.
+2011 Dec 29;183(1-2):198-200. PMID: 18440704.
+
+151: Assana E, Kanobana K, Tume CB, Zoli PA, Nguekam, Geerts S, Berkvens D,
+Dorny P. Isolation of a 14 kDa antigen from Taenia solium cyst fluid by HPLC and
+its evaluation in enzyme linked immunosorbent assay for diagnosis of porcine
+cysticercosis. Res Vet Sci. 2007 Jun;82(3):370-6. doi:
+10.1016/j.rvsc.2006.09.006. Epub 2006 Nov 13. PMID: 17101161.
+
+152: Sakai H, Barbosa HV Jr, Silva EM, Schlabitz FO, Noronha RP, Nonaka N,
+Franke CR, Ueno H. Short report: seroprevalence of Taenia solium cysticercosis
+in pigs in Bahia State, northeastern Brazil. Am J Trop Med Hyg. 2001 May-
+Jun;64(5-6):268-9. doi: 10.4269/ajtmh.2001.64.268. PMID: 11463114.
+
+153: Nguekam A, Zoli AP, Vondou L, Pouedet SM, Assana E, Dorny P, Brandt J,
+Losson B, Geerts S. Kinetics of circulating antigens in pigs experimentally
+infected with Taenia solium eggs. Vet Parasitol. 2003 Feb 27;111(4):323-32. doi:
+10.1016/s0304-4017(02)00391-6. PMID: 12559711.
+
+154: Widdowson MA, Cook AJ, Williams JJ, Argaes F, Rodriguez I, Dominguez JL,
+Rodriguez R. Investigation of risk factors for porcine Taenia solium
+cysticercosis: a multiple regression analysis of a cross-sectional study in the
+Yucatan Peninsula, Mexico. Trans R Soc Trop Med Hyg. 2000 Nov-Dec;94(6):620-4.
+doi: 10.1016/s0035-9203(00)90209-8. PMID: 11198643.
+
+155: Gemmell MA, Lawson JR. The ovine cysticercosis as models for research into
+the epidemiology and control of the human and porcine cysticercosis Taenia
+solium: I. Epidemiological considerations. Acta Leiden. 1989;57(2):165-72. PMID:
+2488995.
+
+156: Huerta M, de Aluja AS, Fragoso G, Toledo A, Villalobos N, Hernández M,
+Gevorkian G, Acero G, Díaz A, Alvarez I, Avila R, Beltrán C, Garcia G, Martinez
+JJ, Larralde C, Sciutto E. Synthetic peptide vaccine against Taenia solium pig
+cysticercosis: successful vaccination in a controlled field trial in rural
+Mexico. Vaccine. 2001 Oct 12;20(1-2):262-6. doi: 10.1016/s0264-410x(01)00249-3.
+PMID: 11567772.
+
+157: Verástegui M, González A, Gilman RH, Gavidia C, Falcón N, Bernal T, Garcia
+HH. Experimental infection model for Taenia solium cysticercosis in swine.
+Cysticercosis Working Group in Peru. Vet Parasitol. 2000 Dec 20;94(1-2):33-44.
+doi: 10.1016/s0304-4017(00)00369-1. PMID: 11078942.
+
+158: Garrido GS, de Aluja AS, Casas FC. Early stages of development of the
+Taenia solium metacestode in pigs. J Parasitol. 2007 Apr;93(2):238-41. doi:
+10.1645/GE-968R1.1. PMID: 17539403.
+
+159: Ko RC, Ng TF. Evaluation of excretory/secretory products of larval Taenia
+solium as diagnostic antigens for porcine and human cysticercosis. J Helminthol.
+1998 Jun;72(2):147-54. doi: 10.1017/s0022149x00016333. PMID: 9687596.
+
+160: Pérez-Torres A, Ustarroz M, Constantino F, Villalobos N, de AA. Taenia
+solium cysticercosis: lymphocytes in the inflammatory reaction in naturally
+infected pigs. Parasitol Res. 2002 Feb;88(2):150-2. doi:
+10.1007/s00436-001-0510-6. PMID: 11936504.
+
+161: Huerta M, Sciutto E, García G, Villalobos N, Hernández M, Fragoso G, Díaz
+J, Díaz A, Ramírez R, Luna S, García J, Aguilar E, Espinoza S, Castilla G,
+Bobadilla JR, Avila R, José MV, Larralde C, de Aluja AS. Vaccination against
+Taenia solium cysticercosis in underfed rustic pigs of México: roles of age,
+genetic background and antibody response. Vet Parasitol. 2000 Jun
+27;90(3):209-19. doi: 10.1016/s0304-4017(00)00233-8. PMID: 10842001.
+
+162: Subahar R, Hamid A, Purba W, Wandra T, Karma C, Sako Y, Margono SS, Craig
+PS, Ito A. Taenia solium infection in Irian Jaya (west Papua), Indonesia: a
+pilot serological survey of human and porcine cysticercosis in Jayawijaya
+district. Trans R Soc Trop Med Hyg. 2001 Jul-Aug;95(4):388-90. doi:
+10.1016/s0035-9203(01)90190-7. PMID: 11579880.
+
+163: Sakai H, Sone M, Castro DM, Nonaka N, Quan D, Canales M, Ljungstrom I,
+Sanchez AL. Seroprevalence of Taenia solium cysticercosis in pigs in a rural
+community of Honduras. Vet Parasitol. 1998 Aug 14;78(3):233-8. doi:
+10.1016/s0304-4017(98)00144-7. PMID: 9760065.
+
+164: Lawson JR, Gemmell MA. The ovine cysticercosis as models for research into
+the epidemiology and control of the human and porcine cysticercosis Taenia
+solium: II. The application of control. Acta Leiden. 1989;57(2):173-80. PMID:
+2518723.
+
+165: Marzal M, Guerra-Giraldez C, Paredes A, Cangalaya C, Rivera A, Gonzalez AE,
+Mahanty S, Garcia HH, Nash TE; Cysticercosis Working Group in Peru. Evans blue
+staining reveals vascular leakage associated with focal areas of host-parasite
+interaction in brains of pigs infected with Taenia solium. PLoS One. 2014 Jun
+10;9(6):e97321. doi: 10.1371/journal.pone.0097321. PMID: 24915533; PMCID:
+PMC4051593.
+
+166: Gonzalez AE, Gilman R, Garcia HH, McDonald J, Kacena K, Tsang VC, Pilcher
+JB, Suarez F, Gavidia C, Miranda E. Use of sentinel pigs to monitor
+environmental Taenia solium contamination. The Cysticercosis Working Group in
+Peru (CWG). Am J Trop Med Hyg. 1994 Dec;51(6):847-50. doi:
+10.4269/ajtmh.1994.51.847. PMID: 7810821.
+
+167: Fan PC, Chung WC, Lin CY, Wu CC. Vaccination trials against Taenia solium
+eggs in pigs injected with frozen oncospheres of T. solium or Taenia saginata
+asiatica. J Microbiol Immunol Infect. 2003 Jun;36(2):96-100. PMID: 12886959.
+
+168: Sato MO, Cavalcante TV, Sako Y, Nakao M, Yamasaki H, Yatsuda AP, Nakaya K,
+Ito A. Short report: Evidence and potential for transmission of human and swine
+Taenia solium cysticercosis in the Piracuruca region, Piauí, Brazil. Am J Trop
+Med Hyg. 2006 Nov;75(5):933-5. PMID: 17123990.
+
+169: Assana E, Gauci CG, Kyngdon CT, Zoli AP, Dorny P, Geerts S, Lightowlers MW.
+Antibody responses to the host-protective Taenia solium oncosphere protein
+TSOL18 in pigs are directed against conformational epitopes. Parasite Immunol.
+2010 Jun;32(6):399-405. doi: 10.1111/j.1365-3024.2009.01197.x. PMID: 20500670;
+PMCID: PMC2881308.
+
+170: Solano S, Cortés IM, Copitin NI, Tato P, Molinari JL. Lymphocyte apoptosis
+in the inflammatory reaction around Taenia solium metacestodes in porcine
+cysticercosis. Vet Parasitol. 2006 Aug 31;140(1-2):171-6. doi:
+10.1016/j.vetpar.2006.03.006. Epub 2006 Apr 18. PMID: 16621283.
+
+171: Lescano AG, Garcia HH, Gilman RH, Guezala MC, Tsang VC, Gavidia CM,
+Rodriguez S, Moulton LH, Green JA, Gonzalez AE; Cysticercosis Working Group in
+Peru. Swine cysticercosis hotspots surrounding Taenia solium tapeworm carriers.
+Am J Trop Med Hyg. 2007 Feb;76(2):376-83. PMID: 17297051.
+
+172: Grewal JS, Kaur S, Bhatti G, Ganguly NK, Mahajan RC, Malla N. Kinetics of
+humoral & cellular immune responses in experimental cysticercosis in pigs
+infected with Taenia solium. Indian J Med Res. 2000 Feb;111:43-9. PMID:
+10824466.
+
+173: Fan PC, Wan IC, Chung WC, Guo JX, Ma XY, Xu ZJ. Studies on abnormality of
+metacestodes and adult worms of Taenia solium and Taenia saginata asiatica in
+rodents and pigs. Southeast Asian J Trop Med Public Health. 2001;32 Suppl
+2:116-21. PMID: 12041572.
+
+174: Jiménez Rodríguez JA, Arteaga ID, Rojas Wastavino G, Salazar Schettino PM.
+Estudio cualitativo y cuantitativo de la presencia de posoncosferas de Taenia
+solium en el tejido muscular de cerdos con y sin cisticercosis [Qualitative and
+quantitative study of Taenia solium posoncospheres in the muscular tissue of
+pigs with and without cysticercosis]. Bol Chil Parasitol. 1995 Jul-
+Dec;50(3-4):51-7. Spanish. PMID: 8762667.
+
+175: Deckers N, Dorny P, Kanobana K, Vercruysse J, Gonzalez AE, Ward B, Ndao M.
+Use of ProteinChip technology for identifying biomarkers of parasitic diseases:
+the example of porcine cysticercosis (Taenia solium). Exp Parasitol. 2008
+Dec;120(4):320-9. doi: 10.1016/j.exppara.2008.08.013. Epub 2008 Sep 11. PMID:
+18823977.
+
+176: Pathak KM, Gaur SN. Immunization of pigs with culture antigens of Taenia
+solium. Vet Parasitol. 1990 Jan;34(4):353-6. doi: 10.1016/0304-4017(90)90081-l.
+PMID: 2316180.
+
+177: Correa D, Laclette JP, Rodriguez-del-Rosal E, Merchant M, Flisser A.
+Heterogeneity of Taenia solium cysticerci obtained from different naturally
+infected pigs. J Parasitol. 1987 Apr;73(2):443-5. PMID: 3585645.
+
+178: Gomes AB, Soares KA, Bueno EC, Espindola NM, Iha AH, Maia AA, Peralta RH,
+Vaz AJ. Comparative evaluation of different immunoassays for the detection of
+Taenia solium cysticercosis in swine with low parasite burden. Mem Inst Oswaldo
+Cruz. 2007 Sep;102(6):725-31. doi: 10.1590/s0074-02762007005000085. PMID:
+17924002.
+
+179: Luo XN, Zheng YD, Dou YX, Hou JL, Jing ZZ, Cai XP. [Combined expression of
+TSO45W-4BX from Taenia solium and porcine CD58 in Escherichia coli]. Zhongguo Ji
+Sheng Chong Xue Yu Ji Sheng Chong Bing Za Zhi. 2006 Aug;24(4):285-9. Chinese.
+PMID: 17094600.
+
+180: Fan PC, Ma YX, Kuo CH, Chung WC. Survival of Taenia solium cysticerci in
+carcasses of pigs kept at 4 C. J Parasitol. 1998 Feb;84(1):174-5. PMID: 9488360.
+
+181: Sciutto E, Morales J, Martínez JJ, Toledo A, Villalobos MN, Cruz-Revilla C,
+Meneses G, Hernández M, Díaz A, Rodarte LF, Acero G, Gevorkian G, Manoutcharian
+K, Paniagua J, Fragoso G, Fleury A, Larralde R, De Aluja AS, Larralde C. Further
+evaluation of the synthetic peptide vaccine S3Pvac against Taenia solium
+cysticercosis in pigs in an endemic town of Mexico. Parasitology. 2007
+Jan;134(Pt 1):129-33. doi: 10.1017/S0031182006001132. Epub 2006 Sep 4. PMID:
+16948875.
+
+182: Tsang VC, Pilcher JA, Zhou W, Boyer AE, Kamango-Sollo EI, Rhoads ML,
+Murrell KD, Schantz PM, Gilman RH. Efficacy of the immunoblot assay for
+cysticercosis in pigs and modulated expression of distinct IgM/IgG activities to
+Taenia solium antigens in experimental infections. Vet Immunol Immunopathol.
+1991 Aug;29(1-2):69-78. doi: 10.1016/0165-2427(91)90053-f. PMID: 1949584.
+
+183: Fang W, Xiao LL, Bao HE, Mu R. [Dynamic pathologic changes in pigs infected
+with Taenia solium]. Zhongguo Ji Sheng Chong Xue Yu Ji Sheng Chong Bing Za Zhi.
+2012 Feb 29;30(1):73-5. Chinese. PMID: 22913198.
+
+184: Solís CF, Vázquez-Talavera J, Laclette JP. Hacia el desarrollo de una
+vacuna en contra de la cisticercosis porcina basada en la paramiosina de Taenia
+solium [Toward development of a Taenia solium paramyosin-based vaccine against
+porcine cysticercosis]. Gac Med Mex. 2004 Mar-Apr;140(2):129-38. Spanish. PMID:
+15162945.
+
+185: de Aluja AS, Villalobos NM, Nava G, Toledo A, Martínez JJ, Plancarte A,
+Rodarte LF, Fragoso G, Sciutto E. Therapeutic capacity of the synthetic peptide-
+based vaccine against Taenia solium cysticercosis in pigs. Vaccine. 2005 Jul
+1;23(31):4062-9. doi: 10.1016/j.vaccine.2004.11.076. Epub 2005 Jan 26. PMID:
+15927324.
+
+186: Larralde C, Sotelo J, Montoya RM, Palencia G, Padilla A, Govezensky T, Diaz
+ML, Sciutto E. Immunodiagnosis of human cysticercosis in cerebrospinal fluid.
+Antigens from murine Taenia crassiceps cysticerci effectively substitute those
+from porcine Taenia solium. Arch Pathol Lab Med. 1990 Sep;114(9):926-8. PMID:
+2390007.
+
+187: Pathak KM, Gaur SN. Changes in serum enzyme activities in pigs naturally
+infected with the metacestodes of Taenia solium. Vet Res Commun. 1985
+Apr;9(2):143-6. doi: 10.1007/BF02215137. PMID: 4002613.
+
+188: Gazarian K, Rowlay M, Gazarian T, Vazquez Buchelli JE, Hernández Gonzáles
+M. Mimotope peptides selected from phage display combinatorial library by serum
+antibodies of pigs experimentally infected with Taenia solium as leads to
+developing diagnostic antigens for human neurocysticercosis. Peptides. 2012
+Dec;38(2):381-8. doi: 10.1016/j.peptides.2012.09.021. Epub 2012 Sep 26. PMID:
+23022592.
+
+189: Kumar D, Gaur SN. Comparative evaluation of various immunodiagnostic tests
+for the diagnosis of Taenia solium cysticercosis in pigs, using fractionated
+antigens. J Helminthol. 1989 Mar;63(1):13-7. doi: 10.1017/s0022149x00008658.
+PMID: 2498422.
+
+190: Michel-Harder C, Gubler C. Der Fall aus der Praxis (272)--Zerebrale
+Zystizerkose (Neurozystizerkose)--Infection mit Larven der Taenia solium,
+Schweinebandwurm [A case from practice (272)--cerebral cysticercosis
+(neurocysticercosis)--infection with larvae of Taenia solium, swine tapeworm].
+Schweiz Rundsch Med Prax. 1993 Jul 20;82(29-30):800-1. German. PMID: 8362130.

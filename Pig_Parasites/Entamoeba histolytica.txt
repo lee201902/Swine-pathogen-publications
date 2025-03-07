@@ -1,0 +1,164 @@
+1: Girard-Misguich F, Delgado-Ortega M, Berthon P, Rossignol C, Larcher T, Bruel
+T, Guibon R, Guillén N, Meurens F. Porcine colon explants in the study of innate
+immune response to Entamoeba histolytica. Vet Immunol Immunopathol. 2012 Feb
+15;145(3-4):611-7. doi: 10.1016/j.vetimm.2012.01.002. Epub 2012 Jan 12. PMID:
+22297149.
+
+2: He GZ, Feng Y, Deng SX. Evaluation of the intestinal microbial diversity in
+miniature pig after orally infected with Entamoeba histolytica. Parasitol Res.
+2012 Aug;111(2):939-41. doi: 10.1007/s00436-012-2841-x. PMID: 22314784.
+
+3: Kaur U, Khurana S, Saikia UN, Dubey ML. Immunogenicity and protective
+efficacy of heparan sulphate binding proteins of Entamoeba histolytica in a
+guinea pig model of intestinal amoebiasis. Exp Parasitol. 2013
+Nov;135(3):486-96. doi: 10.1016/j.exppara.2013.08.011. Epub 2013 Sep 2. PMID:
+24007700.
+
+4: Vinayak VK, Sawhney S, Jain P, Chakravarti RN. Protective effects of crude
+and chromatographic fractions of axenic Entamoeba histolytica in guinea-pigs.
+Trans R Soc Trop Med Hyg. 1980;74(4):483-7. doi: 10.1016/0035-9203(80)90063-2.
+PMID: 6255636.
+
+5: Saxena A, Vinayak VK. Low susceptibility of trophozoites of virulent
+Entamoeba histolytica to cellular and antibody-dependent cellular cytotoxicity
+by guinea-pig effector cells. Trans R Soc Trop Med Hyg. 1987;81(6):933-7. doi:
+10.1016/0035-9203(87)90358-0. PMID: 2902704.
+
+6: Meurens F, Girard-Misguich F, Melo S, Grave A, Salmon H, Guillén N. Broad
+early immune response of porcine epithelial jejunal IPI-2I cells to Entamoeba
+histolytica. Mol Immunol. 2009 Feb;46(5):927-36. doi:
+10.1016/j.molimm.2008.09.036. Epub 2008 Dec 24. PMID: 19110312.
+
+7: Bruel T, Guibon R, Melo S, Guillén N, Salmon H, Girard-Misguich F, Meurens F.
+Epithelial induction of porcine suppressor of cytokine signaling 2 (SOCS2) gene
+expression in response to Entamoeba histolytica. Dev Comp Immunol. 2010
+May;34(5):562-71. doi: 10.1016/j.dci.2009.12.017. Epub 2010 Jan 6. PMID:
+20045027.
+
+8: Ashraf M, Sreejith P, Yadav U, Komath SS. Catalysis by N-acetyl-D-
+glucosaminylphosphatidylinositol de-N-acetylase (PIG-L) from Entamoeba
+histolytica: new roles for conserved residues. J Biol Chem. 2013 Mar
+15;288(11):7590-7595. doi: 10.1074/jbc.M112.427245. Epub 2013 Jan 22. PMID:
+23341455; PMCID: PMC3597800.
+
+9: Vohra H, Bhatti HS, Ganguly NK, Mahajan RC. Virulence of pathogenic and non-
+pathogenic zymodemes of Entamoeba histolytica (Indian strains) in guinea-pigs.
+Trans R Soc Trop Med Hyg. 1989 Sep-Oct;83(5):648-50. doi:
+10.1016/0035-9203(89)90385-4. PMID: 2559510.
+
+10: Mora-Galindo J, Martínez-Palomo A, González-Robles A. Interacción entre
+Entamoeba histolytica y epitelio cecal del cobayo. Estudio cuantitativo
+[Interaction between Entamoeba histolytica and the cecal epithelium of the
+guinea pig. Quantitative study]. Arch Invest Med (Mex). 1982;13 Suppl 3:233-43.
+Spanish. PMID: 6295314.
+
+11: Jervis HR, Takeuchi A. Amebic dysentery. Animal model: experimental
+Entamoeba histolytica infection in the germfree guinea pig. Am J Pathol. 1979
+Jan;94(1):197-200. PMID: 216267; PMCID: PMC2042221.
+
+12: Takeuchi A, Phillips BP. Electron microscope studies of experimental
+Entamoeba histolytica infection in the guinea pig. II. Early cellular and
+vascular changes accompanying invasion of the lamina propria. Virchows Arch B
+Cell Pathol. 1976 Feb 11;20(1):1-13. doi: 10.1007/BF02890322. PMID: 816067.
+
+13: Mora Galindo J, Martinez-Palomo A, Chavez B. Interacción entre Entamoeba
+histolytica y el epitelio cecal del cobayo [Interaction between Entamoeba
+histolytica and the cecal epithelium in the guinea pig]. Arch Invest Med (Mex).
+1978;9 Suppl 1:261-74. Spanish. PMID: 211960.
+
+14: Phillips BP, Diamond LS, Bartgis IL, Stuppler SA. Results of intracecal
+inoculation of germfree and conventional guinea pigs and germfree rats with
+axenically cultivated Entamoeba histolytica. J Protozool. 1972 Aug;19(3):498-9.
+doi: 10.1111/j.1550-7408.1972.tb03512.x. PMID: 4342299.
+
+15: PHILLIPS BP, WOLFE PA, REES CW, GORDON HA, WRIGHT WH, REYNIERS JA. Studies
+on the ameba-bacteria relationship in amebiasis; comparative results of the
+intracecal inoculation of germfree, monocontaminated, and conventional guinea
+pigs with Entamoeba histolytica. Am J Trop Med Hyg. 1955 Jul;4(4):675-92. PMID:
+13238723.
+
+16: Giménez-Scherer JA, Arenas E, Díaz L, Rico G, Fernández J, Kretschmer R.
+Effect of the monocyte locomotion inhibitory factor (MLIF) produced by Entamoeba
+histolytica on the expression of cell adhesion molecules (CAMs) in the skin of
+guinea pigs. Arch Med Res. 2000 Jul-Aug;31(4 Suppl):S92-3. doi:
+10.1016/s0188-4409(00)00165-x. PMID: 11070238.
+
+17: Takeuchi A, Jervis HR, Phillips BP. Electron microscope studies of
+experimental Entamoeba histolytica infection in the guinea pig. III. Histolysis
+of the cecum. Virchows Arch B Cell Pathol. 1977 Sep 15;24(4):263-77. doi:
+10.1007/BF02889285. PMID: 412297.
+
+18: Lunde MN, Chaparas SD, Diamond LS. Skin test potency in guinea pigs of
+Entamoeba histolytica antigen (histolyticin) prepared from axenically cultivated
+amebas. Proc Soc Exp Biol Med. 1969 Feb;130(2):455-7. doi:
+10.3181/00379727-130-33578. PMID: 4303848.
+
+19: Sharma A, Haq AU, Siddiqui MU, Ahmad S. Immunization of guinea pigs against
+Entamoeba histolytica using glucan as an adjuvant. Int J Immunopharmacol.
+1984;6(5):483-91. doi: 10.1016/0192-0561(84)90087-0. PMID: 6094370.
+
+20: Takeuchi A, Phillips BP. Electron microscope studies of experimental
+Entamoeba histolytica infection in the guinea pig. I. Penetration of the
+intestinal epithelium by trophozoites. Am J Trop Med Hyg. 1975 Jan;24(1):34-48.
+doi: 10.4269/ajtmh.1975.24.34. PMID: 163062.
+
+21: Giménez Scherer JA, Rico G, Fernández-Diez J, Kretschmer RR. Inhibition of
+contact cutaneous delayed hypersensitivity reactions to DNBC in guinea pigs by
+the monocyte locomotion inhibitory factor (MLIF) produced by axenically grown
+Entamoeba histolytica. Arch Med Res. 1997;28 Spec No:237-8. PMID: 9033085.
+
+22: ATCHLEY FO, AUERNHEIMER AH, WASLEY MA. Electrophoretic studies of blood
+serum proteins in guinea pigs inoculated with Entamoeba histolytica. J
+Parasitol. 1961 Apr;47:297-301. PMID: 13684945.
+
+23: Anand BS, Vinayak VK, Bushnurmath SR, Bhagwat AG, Jain SK. Experimental
+amoebiasis in the guinea-pig: sequential histological abnormalities following
+intracaecal injection of Entamoeba histolytica. Trans R Soc Trop Med Hyg.
+1985;79(5):626-30. doi: 10.1016/0035-9203(85)90172-5. PMID: 4095744.
+
+24: KRUPP IM. Parasitologic surveys in Cali, Departamento del Valle, Colombia.
+IV. Experimental study in guinea pigs of the pathogenic capacity of Entamoeba
+histolytica from infected persons in ward Siloé, Cali. J Parasitol. 1959
+Aug;45(4, Part 1):449-55. PMID: 13673351.
+
+25: Kuźna-Grygiel W. Cytochemiczne badania aktywności enzymów w trofozoitach
+Entamoeba histolytica pochodzacych z jelita ślepego świnek morskich z inwazyjna
+i nieinwazyjna ameboza [Cytochemical study on the activity of enzymes in
+trophozoites of Entamoeba histolytica from the cecum of guinea pigs with
+invasive and non-invasive amebiasis]. Wiad Parazytol. 1996;42(4):407-14. Polish.
+PMID: 9103051.
+
+26: TAYLOR DJ, REES CW, REARDON LV, WRIGHT WH. [Studies of the virulence of
+monobacterial cultures of one strain of Entamoeba histolytica in the gulnea
+pig]. J Parasitol. 1959 Jun;45(3):269-73. Undetermined Language. PMID: 13665464.
+
+27: He GZ. WITHDRAWN: Use of a recombinant Entamoeba histolytica cysteine
+proteinase antigen to evaluation of the efficacy of immune protective responses
+in miniature pigs. Exp Parasitol. 2012 Apr 11. doi:
+10.1016/j.exppara.2012.04.001. Epub ahead of print. PMID: 22522180.
+
+28: Kuźna-Grygiel W. Histologiczne i histochemiczne badania jelita grubego i
+cienkiego świnek morskich zarazonych Entamoeba histolytica [Histological and
+histochemical investigations of large and small intestine in guinea pigs
+infected by entamoeba histolytica]. Wiad Parazytol. 1995;41(2):155-62. Polish.
+PMID: 7571633.
+
+29: Mora-Galindo J. Localización intracelular de vacuolas con actividad de
+fosfatasa ácida en trofozoitos de Entamoeba histolytica adheridos a epitelio
+cecal de cobayo [Intracellular location of vacuoles with acid phosphatase
+activity in trophozoites of Entamoeba histolytica adhered to guinea pig cecal
+epithelium]. Arch Invest Med (Mex). 1988 Apr-Jun;19(2):119-26. Spanish. PMID:
+2906533.
+
+30: DAS SR, SINGH BN. VIRULENCE OF STRAINS OF ENTAMOEBA HISTOLYTICA TO RATS &
+GUINEA-PIGS, & EFFECT OF CHOLESTEROL ON VIRULENCE. Indian J Exp Biol. 1965
+Apr;3:106-9. PMID: 14338050.
+
+31: Diamond LS, Tanimoto Weki M, Martínez-Palomo A. Production of cecal lesions
+in newborn guinea pigs with axenically cultivated Entamoeba histolytica. Arch
+Invest Med (Mex). 1978;9 Suppl 1:223-8. PMID: 211954.
+
+32: Goldman M, Cannon LT. Antigenic analysis of entamoeba histolytica by means
+of fluorescent antibody. V. Comparison of 15 strains of entamoeba with
+information on their pathogenicity to guinea pigs. Am J Trop Med Hyg. 1967
+May;16(3):245-54. doi: 10.4269/ajtmh.1967.16.245. PMID: 4164664.
